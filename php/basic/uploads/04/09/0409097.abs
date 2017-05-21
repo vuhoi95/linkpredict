@@ -1,0 +1,4 @@
+Paper: 0409097
+Title: Renormalized Polyakov Loops, Matrix Models and the Gross-Witten Point
+Authors: Adrian Dumitru and Jonathan T. Lenaghan
+Abstract: The values of renormalized Polyakov loops in the three lowest representations of SU(3) were measured numerically on the lattice. We find that in magnitude, condensates respect the large-N property of factorization. In several ways, the deconfining phase transition for N=3 appears to be like that in the N=infinity matrix model of Gross and Witten. Surprisingly, we find that the values of the renormalized triplet loop are described by an SU(3) matrix model, with an effective action dominated by the triplet loop. Future numerical simulations with a larger number of colors should be able to show whether or not the deconfining phase transition is close to the Gross-Witten point.

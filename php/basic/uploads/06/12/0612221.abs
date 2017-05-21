@@ -1,0 +1,4 @@
+Paper: 0612221
+Title: Reducible Gauge Algebra of BRST-Invariant Constraints
+Authors: I. A. Batalin and K. Bering
+Abstract: We show that it is possible to formulate the most general first-class gauge algebra of the operator formalism by only using BRST-invariant constraints. In particular, we extend a previous construction for irreducible gauge algebras to the reducible case. The gauge algebra induces two nilpotent, Grassmann-odd, mutually anticommuting BRST operators that bear structural similarities with BRST/anti-BRST theories but with shifted ghost number assignments. In both cases we show how the extended BRST algebra can be encoded into an operator master equation. A unitarizing Hamiltonian that respects the two BRST symmetries is constructed with the help of a gauge-fixing Boson. Abelian reducible theories are shown explicitly in full detail, while non-Abelian theories are worked out for the lowest reducibility stages and ghost momentum ranks.

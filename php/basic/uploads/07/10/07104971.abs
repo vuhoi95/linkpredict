@@ -1,0 +1,4 @@
+Paper: 07104971
+Title: Limits of Gaudin algebras, quantization of bending flows, Jucys--Murphy  elements and Gelfand--Tsetlin bases
+Authors: A. Chervov and G. Falqui and L. Rybnikov
+Abstract: Gaudin algebras form a family of maximal commutative subalgebras in the tensor product of $n$ copies of the universal enveloping algebra $U(\g)$ of a semisimple Lie algebra $\g$. This family is parameterized by collections of pairwise distinct complex numbers $z_1,...,z_n$. We obtain some new commutative subalgebras in $U(\g)^{\otimes n}$ as limit cases of Gaudin subalgebras. These commutative subalgebras turn to be related to the hamiltonians of bending flows and to the Gelfand--Tsetlin bases. We use this to prove the simplicity of spectrum in the Gaudin model for some new cases.

@@ -1,0 +1,4 @@
+Paper: 0112103
+Title: Constraint Reorganization Consistent with the Dirac Procedure
+Authors: D. M. Gitman and I. V. Tyutin
+Abstract: The way of finding all the constraints in the Hamiltonian formulation of singular (in particular, gauge) theories is called the Dirac procedure. The constraints are naturally classified according to the correspondig stages of this procedure. On the other hand, it is convenient to reorganize the constraints such that they are explicitly decomposed into the first-class and second-class constraints. We discuss the reorganization of the constraints into the first- and second-class constraints that is consistent with the Dirac procedure, i.e., that does not violate the decomposition of the constraints according to the stages of the Dirac procedure. The possibility of such a reorganization is important for the study of gauge symmetries in the Lagrangian and Hamiltonian formulations.

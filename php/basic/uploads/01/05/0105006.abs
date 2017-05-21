@@ -1,0 +1,4 @@
+Paper: 0105006
+Title: Chirality Correlation within Dirac Eigenvectors from Domain Wall  Fermions
+Authors: T. Blum and N. Christ and C. Cristian and C. Dawson and X. Liao and G. Liu and R. Mawhinney and L. Wu and Y. Zhestkov
+Abstract: In the dilute instanton gas model of the QCD vacuum, one expects a strong spatial correlation between chirality and the maxima of the Dirac eigenvectors with small eigenvalues. Following Horvath, {\it et al.} we examine this question using lattice gauge theory within the quenched approximation. We extend the work of those authors by using weaker coupling, $\beta=6.0$, larger lattices, $16^4$, and an improved fermion formulation, domain wall fermions. In contrast with this earlier work, we find a striking correlation between the magnitude of the chirality density, $|\psi^\dagger(x)\gamma^5\psi(x)|$, and the normal density, $\psi^\dagger(x)\psi(x)$, for the low-lying Dirac eigenvectors.

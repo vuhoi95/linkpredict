@@ -1,0 +1,4 @@
+Paper: 0703085
+Title: PT Symmetry on the Lattice: The Quantum Group Invariant XXZ Spin-Chain
+Authors: Christian Korff and Robert A. Weston
+Abstract: We investigate the PT-symmetry of the quantum group invariant XXZ chain. We show that the PT-operator commutes with the quantum group action and also discuss the transformation properties of the Bethe wavefunction. We exploit the fact that the Hamiltonian is an element of the Temperley-Lieb algebra in order to give an explicit and exact construction of an operator that ensures quasi-Hermiticity of the model. This construction relys on earlier ideas related to quantum group reduction. We then employ this result in connection with the quantum analogue of Schur-Weyl duality to introduce a dual pair of C-operators, both of which have closed algebraic expressions. These are novel, exact results connecting the research areas of integrable lattice systems and non-Hermitian Hamiltonians.

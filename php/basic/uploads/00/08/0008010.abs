@@ -1,0 +1,4 @@
+Paper: 0008010
+Title: Standard-model bundles
+Authors: Ron Donagi and Burt Ovrut and Tony Pantev and Dan Waldram
+Abstract: We describe a family of genus one fibered Calabi-Yau threefolds with fundamental group ${\mathbb Z}/2$. On each Calabi-Yau $Z$ in the family we exhibit a positive dimensional family of Mumford stable bundles whose symmetry group is the Standard Model group $SU(3)\times SU(2)\times U(1)$ and which have $c_{3} = 6$. We also show that for each bundle $V$ in our family, $c_{2}(Z) - c_{2}(V)$ is the class of an effective curve on $Z$. These conditions ensure that $Z$ and $V$ can be used for a phenomenologically relevant compactification of Heterotic M-theory.

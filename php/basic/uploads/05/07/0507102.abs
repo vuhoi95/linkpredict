@@ -1,0 +1,4 @@
+Paper: 0507102
+Title: Discretizing Gravity in Warped Spacetime
+Authors: Lisa Randall and Matthew D. Schwartz and Shiyamala Thambyahpillai
+Abstract: We investigate the discretized version of the compact Randall-Sundrum model. By studying the mass eigenstates of the lattice theory, we demonstrate that for warped space, unlike for flat space, the strong coupling scale does not depend on the IR scale and lattice size. However, strong coupling does prevent us from taking the continuum limit of the lattice theory. Nonetheless, the lattice theory works in the manifestly holographic regime and successfully reproduces the most significant features of the warped theory. It is even in some respects better than the KK theory, which must be carefully regulated to obtain the correct physical results. Because it is easier to construct lattice theories than to find exact solutions to GR, we expect lattice gravity to be a useful tool for exploring field theory in curved space.

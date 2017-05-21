@@ -1,0 +1,4 @@
+Paper: 0511043
+Title: Effective Equations of Motion for Quantum Systems
+Authors: Martin Bojowald and Aureliano Skirzewski
+Abstract: In many situations, one can approximate the behavior of a quantum system, i.e. a wave function subject to a partial differential equation, by effective classical equations which are ordinary differential equations. A general method and geometrical picture is developed and shown to agree with effective action results, commonly derived through path integration, for perturbations around a harmonic oscillator ground state. The same methods are used to describe dynamical coherent states, which in turn provide means to compute quantum corrections to the symplectic structure of an effective system.

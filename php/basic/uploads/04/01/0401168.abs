@@ -1,0 +1,4 @@
+Paper: 0401168
+Title: T-duality for torus bundles via noncommutative topology
+Authors: Varghese Mathai and Jonathan Rosenberg
+Abstract: It is known that the T-dual of a circle bundle with H-flux (given by a Neveu-Schwarz 3-form) is the T-dual circle bundle with dual H-flux. However, it is also known that torus bundles with H-flux do not necessarily have a T-dual which is a torus bundle. A big puzzle has been to explain these mysterious "missing T-duals.'' Here we show that this problem is resolved using noncommutative topology. It turns out that every principal 2-torus-bundle with H-flux does indeed have a T-dual, but in the missing cases (which we characterize), the T-dual is non-classical and is a bundle of noncommutative tori. The duality comes with an isomorphism of twisted K-theories, just as in the classical case. The isomorphism of twisted cohomology which one gets in the classical case is replaced by an isomorphism of twisted cyclic homology.

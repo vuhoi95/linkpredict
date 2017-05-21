@@ -1,0 +1,4 @@
+Paper: 0609227
+Title: E_7 and the tripartite entanglement of seven qubits
+Authors: M. J. Duff and S. Ferrara
+Abstract: In quantum information theory, it is well known that the tripartite entanglement of three qubits is described by the group [SL(2,C)]^3 and that the entanglement measure is given by Cayley's hyperdeterminant. This has provided an analogy with certain N=2 supersymmetric black holes in string theory, whose entropy is also given by the hyperdeterminant. In this paper, we extend the analogy to N=8. We propose that a particular tripartite entanglement of seven qubits, encoded in the Fano plane, is described by the exceptional group E_7(C) and that the entanglement measure is given by Cartan's quartic E_7 invariant.

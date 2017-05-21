@@ -1,0 +1,4 @@
+Paper: 07080803
+Title: On the all-order epsilon-expansion of generalized hypergeometric  functions with integer values of parameters
+Authors: M. Yu. Kalmykov and B. F. L. Ward and S. A. Yost
+Abstract: We continue our study of the construction of analytical coefficients of the epsilon-expansion of hypergeometric functions and their connection with Feynman diagrams. In this paper, we apply the approach of obtaining iteratated solutions to the differential equations associated with hypergeometric functions to prove the following result (Theorem 1): The epsilon-expansion of a generalized hypergeometric function with integer values of parameters is expressible in terms of generalized polylogarithms with coefficients that are ratios of polynomials. The method used in this proof provides an efficient algorithm for calculatiing of the higher-order coefficients of Laurent expansion.

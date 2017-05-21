@@ -1,0 +1,4 @@
+Paper: 0308033
+Title: Does the crossover from perturbative to nonperturbative physics in QCD  become a phase transition at infinite N ?
+Authors: J. Kiskis and R. Narayanan and H. Neuberger
+Abstract: We present numerical evidence that, in the planar limit, four dimensional Euclidean Yang-Mills theory undergoes a phase transition on a finite symmetrical four-torus when the length of the sides $l$ decreases to a critical value $l_c$. For $l>l_c$ continuum reduction holds so that at leading order in $N$, there are no finite size effects in Wilson and Polyakov loops. This produces the exciting possibility of solving numerically for the meson sector of planar QCD at a cost substantially smaller than that of quenched SU(3).

@@ -1,0 +1,4 @@
+Paper: 0507146
+Title: Current Correlators and AdS/CFT Geometry
+Authors: Edwin Barnes and Elie Gorbatov and Ken Intriligator and Jason Wright
+Abstract: We consider current-current correlators in 4d $\N =1$ SCFTs, and also 3d $\N =2$ SCFTs, in connection with AdS/CFT geometry. The superconformal $U(1)_R$ symmetry of the SCFT has the distinguishing property that, among all possibilities, it minimizes the coefficient, $\tau_{RR}$ of its two-point function. We show that the geometric Z-minimization condition of Martelli, Sparks, and Yau precisely implements $\tau_{RR}$ minimization. This gives a physical proof that Z-minimization in geometry indeed correctly determines the superconformal R-charges of the field theory dual. We further discuss and compare current two point functions in field theory and AdS/CFT and the geometry of Sasaki-Einstein manifolds. Our analysis gives new quantitative checks of the AdS/CFT correspondence.

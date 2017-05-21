@@ -1,0 +1,4 @@
+Paper: 0312190
+Title: Fuzzy Complex Quadrics and Spheres
+Authors: Brian P. Dolan and Denjoe O'Connor and Peter Presnajder
+Abstract: A matrix algebra is constructed which consists of the necessary degrees of freedom for a finite approximation to the algebra of functions on the family of orthogonal Grassmannians of real dimension 2N, known as complex quadrics. These matrix algebras contain the relevant degrees of freedom for describing truncations of harmonic expansions of functions on N-spheres. An Inonu-Wigner contraction of the quadric gives the co-tangent bundle to the commutative sphere in the continuum limit. It is shown how the degrees of freedom for the sphere can be projected out of a finite dimensional functional integral, using second-order Casimirs, giving a well-defined procedure for construction functional integrals over fuzzy spheres of any dimension.

@@ -1,0 +1,4 @@
+Paper: 0310039
+Title: Lie Symmetries of (1+1)-Dimensional Cubic Schrödinger Equation with  Potential
+Authors: Roman O. Popovych and Nataliya M. Ivanova and Homayoon Eshraghi
+Abstract: We perform the complete group classification in the class of cubic Schr\"odinger equations of the form $i\psi_t+\psi_{xx}+\psi^2\psi^*+V(t,x)\psi=0$ where $V$ is an arbitrary complex-valued potential depending on $t$ and $x$. We construct all possible inequivalent potentials for which these equations have non-trivial Lie symmetries using algebraic and compatibility methods simultaneously. Our classification essentially amends earlier works on the subject.

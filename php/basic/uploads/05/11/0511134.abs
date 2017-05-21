@@ -1,0 +1,4 @@
+Paper: 0511134
+Title: Q-operator and T-Q relation from the fusion hierarchy
+Authors: Wen-Li Yang and Rafael I. Nepomechie and Yao-Zhong Zhang
+Abstract: We propose that the Baxter $Q$-operator for the spin-1/2 XXZ quantum spin chain is given by the $j\to \infty$ limit of the transfer matrix with spin-$j$ (i.e., $(2j+1)$-dimensional) auxiliary space. Applying this observation to the open chain with general (nondiagonal) integrable boundary terms, we obtain from the fusion hierarchy the $T$-$Q$ relation for {\it generic} values (i.e. not roots of unity) of the bulk anisotropy parameter. We use this relation to determine the Bethe Ansatz solution of the eigenvalues of the fundamental transfer matrix. This approach is complementary to the one used recently to solve the same model for the roots of unity case.

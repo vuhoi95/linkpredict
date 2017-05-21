@@ -1,0 +1,4 @@
+Paper: 0306004
+Title: Low-lying meson spectrum of large $N_C$ strongly coupled lattice QCD
+Authors: G. Grignani and D. Marmottini and P. Sodano
+Abstract: We compute the low energy mass spectrum of lattice QCD in the large $N_C$ limit. Expanding around a gauge-invariant ground state, which spontaneously breaks the discrete chiral symmetry, we derive an improved strong-coupling expansion and evaluate, for any value of $N_C$, the masses of the low-lying states in the unflavored meson spectrum. We then take the 't Hooft limit by rescaling $g^2 N_C\to g^2$; the 't Hooft limit is smooth and no arbitrary parameters are needed. We find, already at the fourth order of the strong coupling perturbation theory, a very good agreement between the results of our lattice computation and the known continuum values.

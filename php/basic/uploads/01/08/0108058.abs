@@ -1,0 +1,4 @@
+Paper: 0108058
+Title: Cluster Percolation and First Order Phase Transitions in the Potts Model
+Authors: S. Fortunato and H. Satz
+Abstract: The q-state Potts model can be formulated in geometric terms, with Fortuin-Kasteleyn (FK) clusters as fundamental objects. If the phase transition of the model is second order, it can be equivalently described as a percolation transition of FK clusters. In this work, we study the percolation structure when the model undergoes a first order phase transition. In particular, we investigate numerically the percolation behaviour along the line of first order phase transitions of the 3d 3-state Potts model in an external field and find that the percolation strength exhibits a discontinuity along the entire line. The endpoint is also a percolation point for the FK clusters, but the corresponding critical exponents are neither in the Ising nor in the random percolation universality class.

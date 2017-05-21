@@ -1,0 +1,4 @@
+Paper: 0408041
+Title: Finite Size Scaling, Fisher Zeroes and N=4 Super Yang-Mills
+Authors: P. R. Crompton and W. Janke and Z. X. Xu and H. P. Ying
+Abstract: We investigate critical slowing down in the local updating continuous-time Quantum Monte Carlo method by relating the finite size scaling of Fisher Zeroes to the dynamically generated gap, through the scaling of their respective critical exponents. As we comment, the nonlinear sigma model representation derived through the hamiltonian of our lattice spin model can also be used to give a effective treatment of planar anomalous dimensions in N=4 SYM. We present scaling arguments from our FSS analysis to discuss quantum corrections and recent 2-loop results, and further comment on the prospects of extending this approach for calculating higher twist parton distributions.

@@ -1,0 +1,4 @@
+Paper: 0204051
+Title: An exact formula for general spectral correlation function of random  Hermitian matrices
+Authors: Yan V. Fyodorov and Eugene Strahov
+Abstract: We have found an exact formula expressing a general correlation function containing both products and ratios of characteristic polynomials of random Hermitian matrices. The answer is given in the form of a determinant. An essential difference from the previously studied correlation functions (of products only) is the appearance of non-polynomial functions along with the orthogonal polynomials. These non-polynomial functions are the Cauchy transforms of the orthogonal polynomials. The result is valid for any ensemble of beta=2 symmetry class and generalizes recent asymptotic formulae obtained for GUE and its chiral counterpart by different methods..

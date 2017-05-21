@@ -1,0 +1,4 @@
+Paper: 0401031
+Title: Amenability of the Gauge Group
+Authors: Alan Carey and Hendrik Grundling
+Abstract: Let G be one of the local gauge groups C(X,U(n)), C^\infty(X,U(n)), C(X,SU(n)) or C^\infty(X,SU(n)) where X is a compact Riemannian manifold. We observe that G has a nontrivial group topology, coarser than its natural topology, w.r.t. which it is amenable, viz the relative weak topology of C(X,M(n)). This topology seems more useful than other known amenable topologies for G. We construct a simple fermionic model containing an action of G, continuous w.r.t. this amenable topology.

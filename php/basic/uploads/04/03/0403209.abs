@@ -1,0 +1,4 @@
+Paper: 0403209
+Title: Gauging Cosets
+Authors: P. A. Grassi and P. van Nieuwenhuizen
+Abstract: We show how to gauge the set of raising and lowering generators of an arbitrary Lie algebra. We consider SU(N) as an example. The nilpotency of the BRST charge requires constraints on the ghosts associated to the raising and lowering generators. To remove these constraints we add further ghosts and we need a second BRST charge to obtain nontrivial cohomology. The second BRST operator yields a group theoretical explanation of the grading encountered in the covariant quantization of superstrings.

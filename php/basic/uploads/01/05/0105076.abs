@@ -1,0 +1,4 @@
+Paper: 0105076
+Title: Improved semiclassical density matrix: taming caustics
+Authors: C. A. A. de Carvalho and R. M. Cavalcanti and E. S. Fraga and S. E. Joras
+Abstract: We present a simple method to deal with caustics in the semiclassical approximation to the thermal density matrix of a particle moving on the line. For simplicity, only its diagonal elements are considered. The only ingredient we require is the knowledge of the extrema of the Euclidean action. The procedure makes use of complex trajectories, and is applied to the quartic double-well potential.

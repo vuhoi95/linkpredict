@@ -1,0 +1,4 @@
+Paper: 0512124
+Title: Toric Sasaki-Einstein manifolds and Heun equations
+Authors: Takeshi Oota and Yukinori Yasui
+Abstract: Symplectic potentials are presented for a wide class of five dimensional toric Sasaki-Einstein manifolds, including L^{a,b,c} which was recently constructed by Cvetic et al. The spectrum of the scalar Laplacian on L^{a,b,c} is also studied. The eigenvalue problem leads to two Heun's differential equations and the exponents at regular singularities are directly related to toric data. By combining knowledge of the explicit symplectic potential and the exponents, we show that the ground states, or equivalently holomorphic functions, have one-to-one correspondence with integral lattice points in the convex polyhedral cone. The scaling dimensions of the holomorphic functions are simply given by scalar products of the Reeb vector and the integral vectors, which are consistent with R-charges of BPS states in the dual quiver gauge theories.

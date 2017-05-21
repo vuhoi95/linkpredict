@@ -1,0 +1,4 @@
+Paper: 0510194
+Title: Double Scaling and Finite Size Corrections in sl(2) Spin Chain
+Authors: Nikolay Gromov and Vladimir Kazakov
+Abstract: We find explicit expressions for two first finite size corrections to the distribution of Bethe roots, the asymptotics of energy and high conserved charges in the sl(2) quantum Heisenberg spin chain of length J in the thermodynamical limit J->\infty for low energies E\sim 1/J. This limit was recently studied in the context of integrability in perturbative N=4 super-Yang-Mills theory. We applied the double scaling technique to Baxter equation, similarly to the one used for large random matrices near the edge of the eigenvalue distribution. The positions of Bethe roots are described near the edge by zeros of Airy function. Our method can be generalized to any order in 1/J. It should also work for other quantum integrable models.

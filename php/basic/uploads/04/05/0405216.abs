@@ -1,0 +1,4 @@
+Paper: 0405216
+Title: The heat kernel of the compactified D=11 supermembrane with non-trivial  winding
+Authors: Lyonell Boulton and Alvaro Restuccia
+Abstract: We study the quantization of the regularized hamiltonian, $H$, of the compactified D=11 supermembrane with non-trivial winding. By showing that $H$ is a relatively small perturbation of the bosonic hamiltonian, we construct a Dyson series for the heat kernel of $H$ and prove its convergence in the topology of the von Neumann-Schatten classes so that $e^{-Ht}$ is ensured to be of finite trace. The results provided have a natural interpretation in terms of the quantum mechanical model associated to regularizations of compactified supermembranes. In this direction, we discuss the validity of the Feynman path integral description of the heat kernel for D=11 supermembranes and obtain a matrix Feynman-Kac formula.

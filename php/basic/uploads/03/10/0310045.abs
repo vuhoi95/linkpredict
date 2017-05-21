@@ -1,0 +1,4 @@
+Paper: 0310045
+Title: Sklyanin algebras and Hilbert schemes of points
+Authors: T. A. Nevins and J. T. Stafford
+Abstract: We construct projective moduli spaces for torsion-free sheaves on noncommutative projective planes. These moduli spaces vary smoothly in the parameters describing the noncommutative plane and have good properties analogous to those of moduli spaces of sheaves over the usual (commutative) projective plane P^2. The generic noncommutative plane corresponds to the Sklyanin algebra S constructed from an automorphism sigma of infinite order on an elliptic curve E < P^2. In this case, the fine moduli space of line bundles over S with first Chern class zero and Euler characteristic (1-n) provides a symplectic variety that is a deformation of the Hilbert scheme of n points on P^2 - E.

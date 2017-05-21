@@ -1,0 +1,4 @@
+Paper: 0501031
+Title: Large N QCD on the lattice -- A review of recent results in the  fermionic sector
+Authors: R. Narayanan and H. Neuberger
+Abstract: It is possible to numerically solve QCD in the planar limit using standard numerical techniques on existing computer clusters. The basic ideas behind the computational strategy an recent numerical results in the fermionic sector of large N QCD are reviewed.

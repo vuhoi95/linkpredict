@@ -1,0 +1,4 @@
+Paper: 0304170
+Title: The Bethe ansatz as a matrix product ansatz
+Authors: F. C. Alcaraz and M. J. Lazo
+Abstract: The Bethe ansatz in its several formulations is the common tool for the exact solution of one dimensional quantum Hamiltonians. This ansatz asserts that the several eigenfunctions of the Hamiltonians are given in terms of a sum of permutations of plane waves. We present results that induce us to expect that, alternatively, the eigenfunctions of all the exact integrable quantum chains can also be expressed by a matrix product ansatz. In this ansatz the several components of the eigenfunctions are obtained through the algebraic properties of properly defined matrices. This ansatz allows an unified formulation of several exact integrable Hamiltonians. We show how to formulate this ansatz for a huge family of quantum chains like the anisotropic Heisenberg model, Fateev-Zamolodchikov model, Izergin-Korepin model, $t-J$ model, Hubbard model, etc.

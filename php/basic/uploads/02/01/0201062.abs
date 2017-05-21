@@ -1,0 +1,4 @@
+Paper: 0201062
+Title: Singular and non-singular eigenvectors for the Gaudin model
+Authors: Daniela Garajeu and Annamaria Kiss
+Abstract: We present a method to construct a basis of singular and non-singular common eigenvectors for Gaudin Hamiltonians in a tensor product module of the Lie algebra SL(2). The subset of singular vectors is completely described by analogy with covariant differential operators. The relation between singular eigenvectors and the Bethe Ansatz is discussed. In each weight subspace the set of singular eigenvectors is completed to a basis, by a family of non-singular eigenvectors. We discuss also the generalization of this method to the case of an arbitrary Lie algebra.

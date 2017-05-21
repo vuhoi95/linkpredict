@@ -1,0 +1,4 @@
+Paper: 0605023
+Title: 2PI effective action for gauge theories: Renormalization
+Authors: Urko Reinosa and Julien Serreau
+Abstract: We discuss the application of two-particle-irreducible (2PI) functional techniques to gauge theories, focusing on the issue of non-perturbative renormalization. In particular, we show how to renormalize the photon and fermion propagators of QED obtained from a systematic loop expansion of the 2PI effective action. At any finite order, this implies introducing new counterterms as compared to the usual ones in perturbation theory. We show that these new counterterms are consistent with the 2PI Ward identities and are systematically of higher order than the approximation order, which guarantees the convergence of the approximation scheme. Our analysis can be applied to any theory with linearly realized gauge symmetry. This is for instance the case of QCD quantized in the background field gauge.

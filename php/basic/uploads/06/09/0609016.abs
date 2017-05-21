@@ -1,0 +1,4 @@
+Paper: 0609016
+Title: Local mirror symmetry of curves: Yukawa couplings and genus 1
+Authors: Brian Forbes and Masao Jinzenji
+Abstract: We continue our study of equivariant local mirror symmetry of curves, i.e. mirror symmetry for X_k=O(k)+O(-2-k) over P^1 with torus action (lambda_1,lambda_2) on the bundle. For the antidiagonal action lambda_1=-lambda_2, we find closed formulas for the mirror map and a rational B model Yukawa coupling for all k. Moreover, we give a simple closed form for the B model genus 1 Gromov-Witten potential. For the diagonal action lambda_1=lambda_2, we argue that the mirror symmetry computation is equivalent to that of the projective bundle P(O+O(k)+O(-2-k)) over P^1. Finally, we outline the computation of equivariant Gromov-Witten invariants for A_n singularities and toric tree examples via mirror symmetry.

@@ -1,0 +1,4 @@
+Paper: 0107032
+Title: Group-theoretic Approach for Symbolic Tensor Manipulation: II. Dummy  Indices
+Authors: L. R. U. Manssur and R. Portugal
+Abstract: Computational Group Theory is applied to indexed objects (tensors, spinors, and so on) with dummy indices. There are two groups to consider: one describes the intrinsic symmetries of the object and the other describes the interchange of names of dummy indices. The problem of finding canonical forms for indexed objects with dummy indices reduces to finding double coset canonical representatives. Well known computational group algorithms are applied to index manipulation, which allow to address the simplification of expressions with hundreds of indices going further to what is needed in practical applications.

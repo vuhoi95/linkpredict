@@ -1,0 +1,4 @@
+Paper: 0611346
+Title: Counting BPS Operators in the Chiral Ring of N=2 Supersymmetric Gauge  Theories or N=2 Braine Surgery
+Authors: Amihay Hanany and Christian Romelsberger
+Abstract: This note is presenting the generating functions which count the BPS operators in the chiral ring of a N=2 quiver gauge theory that lives on N D3 branes probing an ALE singularity. The difficulty in this computation arises from the fact that this quiver gauge theory has a moduli space of vacua that splits into many branches -- the Higgs, the Coulomb and mixed branches. As a result there can be operators which explore those different branches and the counting gets complicated by having to deal with such operators while avoiding over or under counting. The solution to this problem turns out to be very elegant and is presented in this note. Some surprises with "surgery" of generating functions arises.

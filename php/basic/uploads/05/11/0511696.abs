@@ -1,0 +1,4 @@
+Paper: 0511696
+Title: Non Abelian Differentiable Gerbes
+Authors: Camille Laurent-Gengoux and Mathieu Stienon and Ping Xu
+Abstract: We study non-abelian differentiable gerbes over stacks using the theory of Lie groupoids. More precisely, we develop the theory of connections on Lie groupoid $G$-extensions, which we call "connections on gerbes", and study the induced connections on various associated bundles. We also prove analogues of the Bianchi identities. In particular, we develop a cohomology theory which measures the existence of connections and curvings for $G$-gerbes over stacks. We also introduce $G$-central extensions of groupoids, generalizing the standard groupoid $S^1$-central extensions. As an example, we apply our theory to study the differential geometry of $G$-gerbes over a manifold.

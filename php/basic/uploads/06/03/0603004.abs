@@ -1,0 +1,4 @@
+Paper: 0603004
+Title: Unquenched complex Dirac spectra at nonzero chemical potential:  two-colour QCD lattice data versus matrix model
+Authors: G. Akemann and E. Bittner
+Abstract: We compare analytic predictions of non-Hermitian chiral random matrix theory with the complex Dirac operator eigenvalue spectrum of two-colour lattice gauge theory with dynamical fermions at nonzero chemical potential. The Dirac eigenvalues come in complex conjugate pairs, making the action of this theory real, and positive for our choice of two staggered flavours. This enables us to use standard Monte-Carlo in testing the influence of chemical potential and quark mass on complex eigenvalues close to the origin. We find an excellent agreement between the analytic predictions and our data for two different volumes over a range of chemical potentials below the chiral phase transition. In particular we detect the effect of unquenching when going to very small quark masses.

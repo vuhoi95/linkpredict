@@ -1,0 +1,4 @@
+Paper: 0006165
+Title: AdS Box Graphs, Unitarity and Operator Product Expansions
+Authors: L. Hoffmann and L. Mesref and W. Ruehl
+Abstract: We develop a method of singularity analysis for conformal graphs which, in particular, is applicable to the holographic image of AdS supergravity theory. It can be used to determine the critical exponents for any such graph in a given channel. These exponents determine the towers of conformal blocks that are exchanged in this channel. We analyze the scalar AdS box graph and show that it has the same critical exponents as the corresponding CFT box graph. Thus pairs of external fields couple to the same exchanged conformal blocks in both theories. This is looked upon as a general structural argument supporting the Maldacena hypothesis.

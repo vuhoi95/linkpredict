@@ -1,0 +1,4 @@
+Paper: 0203013
+Title: The topological susceptibility of SU(3) gauge theory near T_c
+Authors: Christof Gattringer and Roland Hoffmann and Stefan Schaefer
+Abstract: We compute the topological susceptibility chi_t in SU(3) lattice gauge theory using fermionic methods based on the Atiyah-Singer index theorem. Near the phase transition we find a smooth crossover behavior for chi_t with values decreasing from (191(5) MeV)^4 to (100(5) MeV)^4 as we increase the temperature from 0.88 T_c to 1.31 T_c, showing that topological excitations exist far above T_c. Our study is the first large scale analysis of the topological susceptibility at high temperature based on the index theorem and the results agree well with field theoretical methods.

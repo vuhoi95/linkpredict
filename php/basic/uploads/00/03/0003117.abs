@@ -1,0 +1,4 @@
+Paper: 0003117
+Title: Evidence for a continuum limit in causal set dynamics
+Authors: D. P. Rideout and R. D. Sorkin
+Abstract: We find evidence for a continuum limit of a particular causal set dynamics which depends on only a single ``coupling constant'' $p$ and is easy to simulate on a computer. The model in question is a stochastic process that can also be interpreted as 1-dimensional directed percolation, or in terms of random graphs.

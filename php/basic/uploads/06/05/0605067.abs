@@ -1,0 +1,4 @@
+Paper: 0605067
+Title: Spectral asymmetry on the ball and asymptotics of the asymmetry kernel
+Authors: A. Kirchberg and K. Kirsten and E. M. Santangelo and A. Wipf
+Abstract: Let $\ui\di$ be the Dirac operator on a $D=2d$ dimensional ball $\mcB$ with radius $R$. We calculate the spectral asymmetry $\eta(0,\ui\di)$ for D=2 and D=4, when local chiral bag boundary conditions are imposed. With these boundary conditions, we also analyze the small-$t$ asymptotics of the heat trace $\Tr (F P e^{-t P^2})$ where $P$ is an operator of Dirac type and $F$ is an auxiliary smooth smearing function.

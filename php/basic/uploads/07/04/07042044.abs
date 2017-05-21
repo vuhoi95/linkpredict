@@ -1,0 +1,4 @@
+Paper: 07042044
+Title: Vertices from replica in a random matrix theory
+Authors: E. Brezin and S. Hikami
+Abstract: Kontsevitch's work on Airy matrix integrals has led to explicit results for the intersection numbers of the moduli space of curves. In a subsequent work Okounkov rederived these results from the edge behavior of a Gaussian matrix integral. In our work we consider the correlation functions of vertices in a Gaussian random matrix theory, with an external matrix source, in a scaling limit in which the powers of the matrices and their sizes go to infinity simultaneously in a specified scale. We show that the replica method applied to characteristic polynomials of the random matrices, together with a duality exchanging N and the number of points, allows one to recover Kontsevich's results on the intersection numbers, through a simple saddle-point analysis.

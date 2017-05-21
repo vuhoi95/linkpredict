@@ -1,0 +1,4 @@
+Paper: 0404085
+Title: Equivalence of twistor prescriptions for super Yang-Mills
+Authors: Sergei Gukov and Lubos Motl and Andrew Neitzke
+Abstract: There is evidence that one can compute tree level super Yang-Mills amplitudes using either connected or completely disconnected curves in twistor space. We argue that the two computations are equivalent, if the integration contours are chosen in a specific way, by showing that they can both be reduced to the same integral over a moduli space of singular curves. We also formulate a class of new ``intermediate'' prescriptions to calculate the same amplitudes.

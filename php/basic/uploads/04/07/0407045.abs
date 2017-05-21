@@ -1,0 +1,4 @@
+Paper: 0407045
+Title: NNLO coefficient functions of Higgs and Drell--Yan cross sections in  Mellin space
+Authors: J. Blümlein and V. Ravindran
+Abstract: We calculate the Mellin moments of next-to-next-to-leading order coefficient functions of the Drell-Yan and Higgs production cross sections. The results can be expressed in term of finite harmonic sums which are maximally threefold up to weight four. Various algebraic relations among these finite sums reduce the complexity of the results suitable for fast numerical evaluations. It is shown that only five non--trivial functions occur besides Euler's $\psi$--function in the representation of these Wilson coefficients.

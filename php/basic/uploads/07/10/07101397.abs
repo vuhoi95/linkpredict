@@ -1,0 +1,4 @@
+Paper: 07101397
+Title: From conformal embeddings to quantum symmetries: an exceptional SU(4)  example
+Authors: Robert Coquereaux and Gil Schieber
+Abstract: We briefly discuss several algebraic tools that are used to describe the quantum symmetries of Boundary Conformal Field Theories on a torus. The starting point is a fusion category, together with an action on another category described by a quantum graph. For known examples, the corresponding modular invariant partition function, which is sometimes associated with a conformal embedding, provides enough information to recover the whole structure. We illustrate these notions with the example of the conformal embedding of SU(4) at level 4 into Spin(15) at level 1, leading to the exceptional quantum graph E4(SU(4)).

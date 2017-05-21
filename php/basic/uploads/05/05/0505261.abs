@@ -1,0 +1,4 @@
+Paper: 0505261
+Title: Solving Bethe-Salpeter equation in Minkowski space
+Authors: V. A. Karmanov and J. Carbonell
+Abstract: We develop a new method of solving Bethe-Salpeter (BS) equation in Minkowski space. It is based on projecting the BS equation on the light-front (LF) plane and on the Nakanishi integral representation of the BS amplitude. This method is valid for any kernel given by the irreducible Feynman graphs. For massless ladder exchange, our approach reproduces analytically the Wick-Cutkosky equation. For massive ladder exchange, the numerical results coincide with the ones obtained by Wick rotation.

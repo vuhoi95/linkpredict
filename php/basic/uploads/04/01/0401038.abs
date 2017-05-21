@@ -1,0 +1,4 @@
+Paper: 0401038
+Title: Eigenvalue Density of Correlated Complex Random Wishart Matrices
+Authors: Steven H. Simon and Aris L. Moustakas
+Abstract: Using a character expansion method, we calculate exactly the eigenvalue density of random matrices of the form M^\dagger M where M is a complex matrix drawn from a normalized distribution P(M) ~ exp(-\Tr(A M B M^\dagger) with A and B positive definite (square) matrices of arbitrary dimensions. Such so-called ``correlated Wishart matrices'' occur in many fields ranging from information theory to multivariate analysis.

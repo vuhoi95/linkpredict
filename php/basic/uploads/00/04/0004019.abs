@@ -1,0 +1,4 @@
+Paper: 0004019
+Title: PT invariant Non-Hermitian Potentials with Real QES Eigenvalues
+Authors: Avinash Khare and Bhabani Prasad Mandal
+Abstract: We show that at least the quasi-exactly solvable eigenvalues of the Schr\"odinger equation with the potential $V(x) = -(\zeta \cosh 2x -iM)^2$ as well as the periodic potential $V(x) = (\zeta \cos 2\theta -iM)^2$ are real for the PT-invariant non-Hermitian potentials in case the parameter $M$ is any odd integer. We further show that the norm as well as the weight functions for the corresponding weak orthogonal polynomials are also real.

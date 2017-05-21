@@ -1,0 +1,4 @@
+Paper: 0104189
+Title: WZW-Poisson manifolds
+Authors: Ctirad Klimcik and Thomas Strobl
+Abstract: We observe that a term of the WZW-type can be added to the Lagrangian of the Poisson Sigma model in such a way that the algebra of the first class constraints remains closed. This leads to a natural generalization of the concept of Poisson geometry. The resulting "WZW-Poisson" manifold M is characterized by a bivector Pi and by a closed three-form H such that [Pi,Pi]_Schouten = < H, Pi^3 >.

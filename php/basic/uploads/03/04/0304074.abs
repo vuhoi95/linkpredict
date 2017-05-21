@@ -1,0 +1,4 @@
+Paper: 0304074
+Title: Quantum vs classical computation: a proposal opening a new perspective
+Authors: A. Bassi and G. C. Ghirardi
+Abstract: We develop a classical model of computation (the S model) which captures some important features of quantum computation, and which allows to design fast algorithms for solving specific problems. In particular, we show that Deutsch's problem can be trated within the S model of computation in the same way as within quantum computation; also Grover's search problem of an unsorted database finds a surprisingly fast solution. The correct understanding of these results put into a new perspective the relationship between quantum and classical computation.

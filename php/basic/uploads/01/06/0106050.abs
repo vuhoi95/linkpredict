@@ -1,0 +1,4 @@
+Paper: 0106050
+Title: Category theory for conformal boundary conditions
+Authors: J. Fuchs and C. Schweigert
+Abstract: We study properties of the category of modules of an algebra object A in a tensor category C. We show that the module category inherits various structures from C, provided that A is a Frobenius algebra with certain additional properties. As a by-product we obtain results about the Frobenius-Schur indicator in sovereign tensor categories. A braiding on C is not needed, nor is semisimplicity. We apply our results to the description of boundary conditions in two-dimensional conformal field theory and present illustrative examples. We show that when the module category is tensor, then it gives rise to a NIM-rep of the fusion rules, and discuss a possible relation with the representation theory of vertex operator algebras.

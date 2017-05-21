@@ -1,0 +1,4 @@
+Paper: 0208030
+Title: Non-compact QED_3 with N_f >=2
+Authors: S. J. Hands and J. B. Kogut and C. G. Strouthos
+Abstract: Non-compact three-dimensional QED is studied by computer simulations to understand its chiral symmetry breaking features for N_f>=2, on lattice volumes up to 50^3 and bare masses as low as ma=0.0000625. We compute the chiral condensate, scalar and pseudoscalar susceptibilities, and the masses of scalar and pseudoscalar mesons. Finite volume effects and discretisation artifacts are carefully monitored. Our results reveal no decisive signal for chiral symmetry breaking for any N_f>=2. For N_f=2 the dimensionless condensate can be bounded by beta^2<psibarpsi> <= 5x10^-5. We also present an exploratory study of the fractionally-charged Polyakov line.

@@ -1,0 +1,4 @@
+Paper: 0201140
+Title: Quantum Chinos Game: winning strategies through quantum fluctuations
+Authors: F. Guinea and M. A. Martin-Delgado
+Abstract: We apply several quantization schemes to simple versions of the Chinos game. Classically, for two players with one coin each, there is a symmetric stable strategy that allows each player to win half of the times on average. A partial quantization of the game (semiclassical) allows us to find a winning strategy for the second player, but it is unstable w.r.t. the classical strategy. However, in a fully quantum version of the game we find a winning strategy for the first player that is optimal: the symmetric classical situation is broken at the quantum level.

@@ -1,0 +1,4 @@
+Paper: 0204111
+Title: Principles of statistical mechanics of random networks
+Authors: S. N. Dorogovtsev and J. F. F. Mendes and A. N. Samukhin
+Abstract: We develop a statistical mechanics approach for random networks with uncorrelated vertices. We construct equilibrium statistical ensembles of such networks and obtain their partition functions and main characteristics. We find simple dynamical construction procedures that produce equilibrium uncorrelated random graphs with an arbitrary degree distribution. In particular, we show that in equilibrium uncorrelated networks, fat-tailed degree distributions may exist only starting from some critical average number of connections of a vertex, in a phase with a condensate of edges.

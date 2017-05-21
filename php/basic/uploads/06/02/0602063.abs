@@ -1,0 +1,4 @@
+Paper: 0602063
+Title: Topological Quantum Error Correction with Optimal Encoding Rate
+Authors: H. Bombin and M. A. Martin-Delgado
+Abstract: We prove the existence of topological quantum error correcting codes with encoding rates $k/n$ asymptotically approaching the maximum possible value. Explicit constructions of these topological codes are presented using surfaces of arbitrary genus. We find a class of regular toric codes that are optimal. For physical implementations, we present planar topological codes.

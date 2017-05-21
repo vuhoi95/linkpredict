@@ -1,0 +1,4 @@
+Paper: 0309253
+Title: Large N expansion for normal and complex matrix ensembles
+Authors: P. Wiegmann and A. Zabrodin
+Abstract: We present the first two leading terms of the 1/N (genus) expansion of the free energy for ensembles of normal and complex random matrices. The results are expressed through the support of eigenvalues (assumed to be a connected domain in the complex plane). In particular, the subleading (genus-1) term is given by the regularized determinant of the Laplace operator in the complementary domain with the Dirichlet boundary conditions. An explicit expression of the genus expansion through harmonic moments of the domain gives some new representations of the mathematical objects related to the Dirichlet boundary problem, conformal analysis and spectral geometry.

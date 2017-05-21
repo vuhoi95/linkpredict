@@ -1,0 +1,4 @@
+Paper: 0002402
+Title: Randomly dilute spin models: a six-loop field-theoretic study
+Authors: A. Pelissetto and E. Vicari
+Abstract: We consider the Ginzburg-Landau MN-model that describes M N-vector cubic models with O(M)-symmetric couplings. We compute the renormalization-group functions to six-loop order in d=3. We focus on the limit N -> 0 which describes the critical behaviour of an M-vector model in the presence of weak quenched disorder. We perform a detailed analysis of the perturbative series for the random Ising model (M=1). We obtain for the critical exponents: gamma = 1.330(17), nu = 0.678(10), eta = 0.030(3), alpha=-0.034(30), beta = 0.349(5), omega = 0.25(10). For M > 1 we show that the O(M) fixed point is stable, in agreement with general non-perturbative arguments, and that no random fixed point exists.

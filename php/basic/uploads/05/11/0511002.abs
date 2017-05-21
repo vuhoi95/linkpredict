@@ -1,0 +1,4 @@
+Paper: 0511002
+Title: The very unusual properties of the resolvent, heat kernel, and zeta  function for the operator $-d^2/dr^2 - 1/(4r^2)$
+Authors: Klaus Kirsten and Paul Loya and Jinsung Park
+Abstract: In this article we analyze the resolvent, the heat kernel and the spectral zeta function of the operator $-d^2/dr^2 - 1/(4r^2)$ over the finite interval. The structural properties of these spectral functions depend strongly on the chosen self-adjoint realization of the operator, a choice being made necessary because of the singular potential present. Only for the Friedrichs realization standard properties are reproduced, for all other realizations highly nonstandard properties are observed. In particular, for $k\in \N$ we find terms like $(\log t)^{-k}$ in the small-$t$ asymptotic expansion of the heat kernel. Furthermore, the zeta function has $s=0$ as a logarithmic branch point.

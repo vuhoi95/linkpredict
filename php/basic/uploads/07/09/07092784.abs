@@ -1,0 +1,4 @@
+Paper: 07092784
+Title: Putting a cap on causality violations in CDT
+Authors: J. Ambjorn and R. Loll and W. Westra and S. Zohren
+Abstract: The formalism of causal dynamical triangulations (CDT) provides us with a non-perturbatively defined model of quantum gravity, where the sum over histories includes only causal space-time histories. Path integrals of CDT and their continuum limits have been studied in two, three and four dimensions. Here we investigate a generalization of the two-dimensional CDT model, where the causality constraint is partially lifted by introducing weighted branching points, and demonstrate that the system can be solved analytically in the genus-zero sector.

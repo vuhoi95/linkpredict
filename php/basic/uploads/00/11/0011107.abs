@@ -1,0 +1,4 @@
+Paper: 0011107
+Title: Boundary Rings and N=2 Coset Models
+Authors: W. Lerche and J. Walcher
+Abstract: We investigate boundary states of N=2 coset models based on Grassmannians Gr(n,n+k), and find that the underlying intersection geometry is given by the fusion ring of U(n). This is isomorphic to the quantum cohomology ring of Gr(n,n+k+1), and thus can be encoded in a ``boundary'' superpotential whose critical points correspond to the boundary states. In this way the intersection properties can be represented in terms of a soliton graph that forms a generalized, Z_{n+k+1} symmetric McKay quiver. We investigate the spectrum of bound states and find that the rational boundary CFT produces only a small subset of the possible quiver representations.

@@ -1,0 +1,4 @@
+Paper: 0604189
+Title: Matrix Factorizations, Minimal Models and Massey Products
+Authors: Johanna Knapp and Harun Omer
+Abstract: We present a method to compute the full non-linear deformations of matrix factorizations for ADE minimal models. This method is based on the calculation of higher products in the cohomology, called Massey products. The algorithm yields a polynomial ring whose vanishing relations encode the obstructions of the deformations of the D-branes characterized by these matrix factorizations. This coincides with the critical locus of the effective superpotential which can be computed by integrating these relations. Our results for the effective superpotential are in agreement with those obtained from solving the A-infinity relations. We point out a relation to the superpotentials of Kazama-Suzuki models. We will illustrate our findings by various examples, putting emphasis on the E_6 minimal model.

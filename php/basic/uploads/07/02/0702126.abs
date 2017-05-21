@@ -1,0 +1,4 @@
+Paper: 0702126
+Title: Linearizing Generalized Kahler Geometry
+Authors: Ulf Lindstrom and Martin Rocek and Rikard von Unge and Maxim Zabzine
+Abstract: The geometry of the target space of an N=(2,2) supersymmetry sigma-model carries a generalized Kahler structure. There always exists a real function, the generalized Kahler potential K, that encodes all the relevant local differential geometry data: the metric, the B-field, etc. Generically this data is given by nonlinear functions of the second derivatives of K. We show that, at least locally, the nonlinearity on any generalized Kahler manifold can be explained as arising from a quotient of a space without this nonlinearity.

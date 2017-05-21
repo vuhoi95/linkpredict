@@ -1,0 +1,4 @@
+Paper: 07053193
+Title: Achronal averaged null energy condition
+Authors: Noah Graham and Ken D. Olum
+Abstract: The averaged null energy condition (ANEC) requires that the integral over a complete null geodesic of the stress-energy tensor projected onto the geodesic tangent vector is never negative. This condition is sufficient to prove many important theorems in general relativity, but it is violated by quantum fields in curved spacetime. However there is a weaker condition, which is free of known violations, requiring only that there is no self-consistent space-time in semiclassical gravity in which ANEC is violated on a complete, {\em achronal} null geodesic. We indicate why such a condition might be expected to hold and show that it is sufficient to rule out wormholes and closed timelike curves.

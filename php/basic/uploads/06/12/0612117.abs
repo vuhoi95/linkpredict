@@ -1,0 +1,4 @@
+Paper: 0612117
+Title: Mach's Holographic Principle
+Authors: Justin Khoury and Maulik Parikh
+Abstract: Mach's principle is the concept that inertial frames are determined by matter. We propose and implement a precise formulation of Mach's principle in which matter and geometry are in one-to-one correspondence. Einstein's equations are not modified and no selection principle is applied to their solutions; Mach's principle is realized wholly within Einstein's general theory of relativity. The key insight is the observation that, in addition to bulk matter, one can also add boundary matter. Specification of both boundary and bulk stress tensors uniquely specifies the geometry and thereby the inertial frames. Our framework is similar to that of the black hole membrane paradigm and, in asymptotically AdS space-times, is consistent with holographic duality.

@@ -1,0 +1,4 @@
+Paper: 07050673
+Title: Updating the Phase Diagram of the Gross-Neveu Model in 2+1 Dimensions
+Authors: Jean-Loic Kneur and Marcus Benghi Pinto and Rudnei O. Ramos and Ederson Staudt
+Abstract: The method of optimized perturbation theory (OPT) is used to study the phase diagram of the massless Gross-Neveu model in 2+1 dimensions. In the temperature and chemical potential plane, our results give strong support to the existence of a tricritical point and line of first order phase transition, previously only suspected to exist from extensive lattice Monte Carlo simulations. In addition of presenting these results we discuss how the OPT can be implemented in conjunction with the Landau expansion in order to determine all the relevant critical quantities.

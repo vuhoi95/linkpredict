@@ -1,0 +1,4 @@
+Paper: 0611207
+Title: String tension and string susceptibility in two-dimensional generalized  Weingarten model
+Authors: Masanori Hanada and Fukuichiro Kubo
+Abstract: We study the two-dimensional generalized Weingarten model reduced to a point, which interpolates reduced Weingarten model and the large-N gauge theory. We calculate the expectation value of the Wilson loop using Monte-Carlo method and determine the string tension and string susceptibility. The numerical result suggests that the string susceptibility approaches to -2 in a certain parametric region, which implies that the branched-polymer configurations are suppressed.

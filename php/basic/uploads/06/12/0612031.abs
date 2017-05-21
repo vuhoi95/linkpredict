@@ -1,0 +1,4 @@
+Paper: 0612031
+Title: Three dimensional four-fermion models - A Monte Carlo study
+Authors: Stavros Christofi and Costas Strouthos
+Abstract: We present results from numerical simulations of three different 3d four-fermion models that exhibit Z_2, U(1), and SU(2) x SU(2) chiral symmetries, respectively. We performed the simulations by using the hybrid Monte Carlo algorithm. We employed finite size scaling methods on lattices ranging from 8^3 to 40^3 to study the properties of the second order chiral phase transition in each model. The corresponding critical coupling defines an ultraviolet fixed point of the renormalization group. In our high precision simulations, we detected next-to-leading order corrections for various critical exponents and we found them to be in good agreement with existing analytical large-N_f calculations.

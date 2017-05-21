@@ -1,0 +1,4 @@
+Paper: 0402025
+Title: Classification of unit-vector fields in convex polyhedra with tangent  boundary conditions
+Authors: JM Robbins and M Zyskin
+Abstract: A unit-vector field n on a convex three-dimensional polyhedron P is tangent if, on the faces of P, n is tangent to the faces. A homotopy classification of tangent unit-vector fields continuous away from the vertices of P is given. The classification is determined by certain invariants, namely edge orientations (values of n on the edges of P), kink numbers (relative winding numbers of n between edges on the faces of P), and wrapping numbers (relative degrees of n on surfaces separating the vertices of P), which are subject to certain sum rules. Another invariant, the trapped area, is expressed in terms of these. One motivation for this study comes from liquid crystal physics; tangent unit-vector fields describe the orientation of liquid crystals in certain polyhedral cells.

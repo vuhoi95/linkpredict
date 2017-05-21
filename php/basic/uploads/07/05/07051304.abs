@@ -1,0 +1,4 @@
+Paper: 07051304
+Title: E(11) and the Embedding Tensor
+Authors: E. Bergshoeff and I. De Baetselier and T. Nutma
+Abstract: We show how, using different decompositions of E(11), one can calculate the representations under the duality group of the so--called "de-form" potentials. Evidence is presented that these potentials are in one-to-one correspondence to the embedding tensors that classify the gaugings of all maximal gauged supergravities. We supply the computer program underlying our calculations.

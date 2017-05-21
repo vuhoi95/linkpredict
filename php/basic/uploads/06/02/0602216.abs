@@ -1,0 +1,4 @@
+Paper: 0602216
+Title: "Background Field Integration-by-Parts" and the Connection Between  One-Loop and Two-Loop Heisenberg-Euler Effective Actions
+Authors: Gerald V. Dunne and Marek Krasnansky
+Abstract: We develop integration-by-parts rules for Feynman diagrams involving massive scalar propagators in a constant background electromagnetic field, and use these to show that there is a simple diagrammatic interpretation of mass renormalization in the two-loop scalar QED Heisenberg-Euler effective action for a general constant background field. This explains why the square of a one-loop term appears in the renormalized two-loop Heisenberg-Euler effective action. No integrals need be evaluated, and the explicit form of the background field propagators is not needed. This dramatically simplifies the computation of the renormalized two-loop effective action for scalar QED, and generalizes a previous result obtained for self-dual background fields.

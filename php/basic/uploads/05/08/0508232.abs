@@ -1,0 +1,4 @@
+Paper: 0508232
+Title: Bethe Ansatz for a Quantum Supercoset Sigma Model
+Authors: Nelia Mann and Joe Polchinski
+Abstract: We study an integrable conformal OSp(2m + 2|2m) supercoset model as an analog to the AdS_5 X S^5 superstring world-sheet theory. Using the known S-matrix for this system, we obtain integral equations for states of large particle density in an SU(2) sector, which are exact in the sigma model coupling constant. As a check, we derive as a limit the general classical Bethe equation of Kazakov, Marshakov, Minahan, and Zarembo. There are two distinct quantum expansions around the well-studied classical limit, the lambda^{-1/2} effects and the 1/J effects. Our approach captures the first type, but not the second.

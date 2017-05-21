@@ -1,0 +1,4 @@
+Paper: 0510105
+Title: Improved Taylor Expansion method in the Ising model
+Authors: T. Aoyama and T. Matsuo and Y. Shibusa
+Abstract: We apply an improved Taylor expansion method, which is a variational scheme to the Ising model in two dimensions. This method enables us to evaluate the free energy and magnetization in strong coupling regions from the weak coupling expansion, even in the case of a phase transition. We determine the approximate value of the transition point using this scheme. In the presence of an external magnetic field, we find both stable and metastable physical states.

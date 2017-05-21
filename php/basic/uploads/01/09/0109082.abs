@@ -1,0 +1,4 @@
+Paper: 0109082
+Title: A note on a canonical dynamical r-matrix
+Authors: B. G. Pusztai and L. Feher
+Abstract: It is well known that a classical dynamical $r$-matrix can be associated with every finite-dimensional self-dual Lie algebra $\G$ by the definition $R(\omega):= f(\mathrm{ad} \omega)$, where $\omega\in \G$ and $f$ is the holomorphic function given by $f(z)={1/2}\coth \frac{z}{2}-\frac{1}{z}$ for $z\in \C\setminus 2\pi i \Z^*$. We present a new, direct proof of the statement that this canonical $r$-matrix satisfies the modified classical dynamical Yang-Baxter equation on $\G$.

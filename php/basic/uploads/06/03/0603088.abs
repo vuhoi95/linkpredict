@@ -1,0 +1,4 @@
+Paper: 0603088
+Title: On Genus Two Riemann Surfaces Formed from Sewn Tori
+Authors: Geoffrey Mason and Michael P. Tuite
+Abstract: We describe the period matrix and other data on a higher genus Riemann surface in terms of data coming from lower genus surfaces via an explicit sewing procedure. We consider in detail the construction of a genus two Riemann surface by either sewing two punctured tori together or by sewing a twice-punctured torus to itself. In each case the genus two period matrix is explicitly described as a holomorphic map from a suitable domain (parameterized by genus one moduli and sewing parameters) to the Siegel upper half plane $\mathbb{H}_{2}$. Equivariance of these maps under certain subgroups of $Sp(4,\mathbb{Z)}$ is shown. The invertibility of both maps in a particular domain of $\mathbb{H}_{2}$ is also shown.

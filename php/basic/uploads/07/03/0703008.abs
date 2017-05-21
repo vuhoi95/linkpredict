@@ -1,0 +1,4 @@
+Paper: 0703008
+Title: Spectral functions at small energies and the electrical conductivity in  hot, quenched lattice QCD
+Authors: Gert Aarts and Chris Allton and Justin Foley and Simon Hands and Seyong Kim
+Abstract: In lattice QCD, the Maximum Entropy Method can be used to reconstruct spectral functions from euclidean correlators obtained in numerical simulations. We show that at finite temperature the most commonly used algorithm, employing Bryan's method, is inherently unstable at small energies and give a modification that avoids this. We demonstrate this approach using the vector current-current correlator obtained in quenched QCD at finite temperature. Our first results indicate a small electrical conductivity above the deconfinement transition.

@@ -1,0 +1,4 @@
+Paper: 0205567
+Title: Free fermion branches in some quantum spin models
+Authors: F. C. Alcaraz and Yu. G. Stroganov
+Abstract: Extensive numerical analysis of the eigenspectra of the $SU_q(N)$ invariant Perk-Schultz Hamiltonian shows some simple regularities for a significant part of the eigenspectrum. Inspired by those results we have found two set of solutions of the associated nested Bethe-ansatz equations. The first set is obtained at a special value of the anisotropy ($q = \exp(i2\pi (N-1)/N)$) and describes in particular the ground state and nearby excitations as a sum of free-fermion quasienergies. The second set of solutions provides the energies in the sectors whose number $n_i$ of particles of distinct species ($i =0, >..., N-1$) are less or equal to the unity except for one of the species. For this last set we obtain the eigenspectra of a free fermion model for arbitrary values of the anisotropy.

@@ -1,0 +1,4 @@
+Paper: 0311168
+Title: Worldline Approach To The Casimir Effect
+Authors: L. Moyaerts and K. Langfeld and H. Gies
+Abstract: We present a new method to compute quantum energies in presence of a background field. The method is based on the string-inspired worldline approach to quantum field theory and its numerical realization with Monte-Carlo techniques. Our procedure is applied to the study of the Casimir force between rigid bodies induced by a fluctuating real scalar field. We test our method with the classic parallel-plate configuration and study curvature effects quantitatively for the sphere-plate configuration. The numerical estimates are compared with the ``proximity force approximation''. Sizable curvature effects are found for a distance-to-curvature-radius ratio of a/R>0.02.

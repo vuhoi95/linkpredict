@@ -1,0 +1,4 @@
+Paper: 0511020
+Title: Wilsonian RG and Redundant Operators in Nonrelativistic Effective Field  Theory
+Authors: Koji Harada and Kenzo Inoue and Hirofumi Kubo
+Abstract: In a Wilsonian renormalization group (RG) analysis, redundant operators, which may be eliminated by using field redefinitions, emerge naturally. It is therefore important to include them. We consider a nonrelativisitic effective theory (the so-called ``pionless'' Nuclear Effective Field Theory) as a concrete example and show that the off-shell amplitudes cannot be renormalized if the redundant operators are not included. The relation between the theories with and without such redundant operators is established in the low-energy expansion. We perform a Wilsonian RG analysis for the \textit{off-shell} scattering amplitude in the theory with the redundant operator.

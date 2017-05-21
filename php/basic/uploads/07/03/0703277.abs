@@ -1,0 +1,4 @@
+Paper: 0703277
+Title: Strong Monogamy of Bipartite and Genuine Multipartite Entanglement: The  Gaussian Case
+Authors: Gerardo Adesso and Fabrizio Illuminati
+Abstract: We demonstrate the existence of general constraints on distributed quantum correlations, which impose a trade-off on bipartite and multipartite entanglement at once. For all N-mode Gaussian states under permutation invariance, we establish exactly a monogamy inequality, stronger than the traditional one, that by recursion defines a proper measure of genuine N-partite entanglement. Strong monogamy holds as well for subsystems of arbitrary size, and the emerging multipartite entanglement measure is found to be scale invariant. We unveil its operational connection with the optimal fidelity of continuous variable teleportation networks.

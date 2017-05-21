@@ -1,0 +1,4 @@
+Paper: 0110083
+Title: Nested Sums, Expansion of Transcendental Functions and Multi-Scale  Multi-Loop Integrals
+Authors: Sven Moch and Peter Uwer and Stefan Weinzierl
+Abstract: Expansion of higher transcendental functions in a small parameter are needed in many areas of science. For certain classes of functions this can be achieved by algebraic means. These algebraic tools are based on nested sums and can be formulated as algorithms suitable for an implementation on a computer. Examples, such as expansions of generalized hypergeometric functions or Appell functions are discussed. As a further application, we give the general solution of a two-loop integral, the so-called C-topology, in terms of multiple nested sums. In addition, we discuss some important properties of nested sums, in particular we show that they satisfy a Hopf algebra.

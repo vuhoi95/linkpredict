@@ -1,0 +1,4 @@
+Paper: 0403206
+Title: Discretising geometry and preserving topology I: A discrete exterior  calculus
+Authors: Vivien de Beauce and Siddhartha Sen
+Abstract: A discretisation scheme that preserves topological features of a physical problem is extended so that differential geometric structures can be approximated in a consistent way thus giving access to the study of physical systems which are not solely topological theories. Issues of convergence and a numerical implementation are discussed. The follow-up article covers the resulting discretisation scheme with metric data.

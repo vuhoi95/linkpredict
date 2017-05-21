@@ -1,0 +1,4 @@
+Paper: 0511092
+Title: Quantum energies with worldline numerics
+Authors: Holger Gies and Klaus Klingmuller
+Abstract: We present new results for Casimir forces between rigid bodies which impose Dirichlet boundary conditions on a fluctuating scalar field. As a universal computational tool, we employ worldline numerics which builds on a combination of the string-inspired worldline approach with Monte-Carlo techniques. Worldline numerics is not only particularly powerful for inhomogeneous background configurations such as involved Casimir geometries, it also provides for an intuitive picture of quantum-fluctuation-induced phenomena. Results for the Casimir geometries of a sphere above a plate and a new perpendicular-plates configuration are presented.

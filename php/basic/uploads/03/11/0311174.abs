@@ -1,0 +1,4 @@
+Paper: 0311174
+Title: On application of involutivity analysis of differential equations to  constrained dynamical systems
+Authors: Vladimir Gerdt and Arsen Khvedelidze and Dimitar Mladenov
+Abstract: A brief sketch of computer methods of involutivity analysis of differential equations is presented in context of its application to study degenerate Lagrangian systems. We exemplify the approach by a detailed consideration of a finite-dimensional model, the so-called light-cone SU(2) Yang-Mills mechanics. All algorithms are realized in computer algebra system Maple.

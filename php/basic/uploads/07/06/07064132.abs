@@ -1,0 +1,4 @@
+Paper: 07064132
+Title: Using the Renormalization Group Functions to Uniquely Determine the  Effective Potential in Massless Scalar Electrodynamics
+Authors: F. A. Chishtie and T. Hanif and D. G. C. McKeon
+Abstract: It has been demonstrated that the effective potential V(\phi) in a massless O(N) \lambda \phi^4_4 model is determined completely by the renormalization group functions provided the renormalization condition \frac{d^4V}{d \phi^4}|_{\phi=\mu}=\lambda is used. This is shown to also hold in massless scalar electrodynamics. By employing a variant of the method of characteristics, the sums contributing to the leading-log, next-to-leading-log etc. contributions to V(\phi) can be evaluated.

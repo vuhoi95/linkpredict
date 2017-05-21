@@ -1,0 +1,4 @@
+Paper: 0108251
+Title: Detecting magnetic CMB polarization on an incomplete sky
+Authors: Antony Lewis and Anthony Challinor and Neil Turok
+Abstract: The full sky cosmic microwave background polarization field can be decomposed into `electric' and `magnetic' components. Working in harmonic space we construct magnetic variables that can be measured from observations over only a portion of the sky. Our construction is exact for azimuthally symmetric patches, but should continue to perform well for arbitrary patches. For isotropic, uncorrelated noise the variables have a very simple diagonal noise correlation, and further analysis using them should be no harder than analysing the temperature field. We estimate the tensor mode amplitude that could be detected by the Planck satellite and discuss the sensitivity of future experiments in the presence of a contaminating weak lensing signal.

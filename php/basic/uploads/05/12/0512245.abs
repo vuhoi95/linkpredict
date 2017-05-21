@@ -1,0 +1,4 @@
+Paper: 0512245
+Title: Lie algebroids, Lie groupoids and TFT
+Authors: Francesco Bonechi and Maxim Zabzine
+Abstract: We construct the moduli spaces associated to the solutions of equations of motion (modulo gauge transformations) of the Poisson sigma model with target being an integrable Poisson manifold. The construction can be easily extended to a case of a generic integrable Lie algebroid. Indeed for any Lie algebroid one can associate a BF-like topological field theory which localizes on the space of algebroid morphisms, that can be seen as a generalization of flat connections to the groupoid case. We discuss the finite gauge transformations and discuss the corresponding moduli spaces. We consider the theories both without and with boundaries.

@@ -1,0 +1,4 @@
+Paper: 0406028
+Title: Geometric Dequantization
+Authors: A. A. Abrikosov Jr and E. Gozzi and D. Mauro
+Abstract: Dequantization is a set of rules which turn quantum mechanics (QM) into classical mechanics (CM). It is not the WKB limit of QM. In this paper we show that, by extending time to a 3-dimensional "supertime", we can dequantize the system in the sense of turning the Feynman path integral version of QM into the functional counterpart of the Koopman-von Neumann operatorial approach to CM. Somehow this procedure is the inverse of geometric quantization and we present it in three different polarizations: the Schroedinger, the momentum and the coherent states ones.

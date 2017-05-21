@@ -1,0 +1,4 @@
+Paper: 0508013
+Title: Recursive method to obtain the parametric representation of a generic  Feynman diagram
+Authors: Ivan Gonzalez and Ivan Schmidt
+Abstract: A recursive algebraic method which allows to obtain the Feynman or Schwinger parametric representation of a generic L-loops and (E+1) external lines diagram, in a scalar $\phi ^{3}\oplus \phi ^{4}$ theory, is presented. The representation is obtained starting from an Initial Parameters Matrix (IPM), which relates the scalar products between internal and external momenta, and which appears explicitly when this parametrization is applied to the momentum space representation of the graph. The final product is an algorithm that can be easily programmed, either in a computer programming language (C/C++, Fortran,...) or in a symbolic calculation package (Maple, Mathematica,...).

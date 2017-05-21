@@ -1,0 +1,4 @@
+Paper: 0106159
+Title: Quantum Chaos at Finite Temperature - a New Approach via the Quantum  Action
+Authors: L. A. Caron and H. Jirari and H. Kröger and X. Q. Luo and G. Melkonyan and K. J. M. Moriarty
+Abstract: We address the problem of quantum chaos: Is there a rigorous, physically meaningful definition of chaos in quantum physics? Can the tools of classical chaos theory, like Lyapunov exponents, Poincar\'e sections etc. be carried over to quantum systems? Can quantitative predictions be made? We show that the recently proposed quantum action is well suited to answer those questions. As an example we study chaotic behavior of the 2-D anharmonic oscillator and compare classical with quantum chaos. Moreover, we study quantum chaos as function of temperature (the classical system can be considered as the limit where temperature goes to infinity).

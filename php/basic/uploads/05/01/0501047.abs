@@ -1,0 +1,4 @@
+Paper: 0501047
+Title: NLIE for hole excited states in the sine-Gordon model with two  boundaries
+Authors: Changrim Ahn and Zoltan Bajnok and Rafael I. Nepomechie and Laszlo Palla and Gabor Takacs
+Abstract: We derive a nonlinear integral equation (NLIE) for some bulk excited states of the sine-Gordon model on a finite interval with general integrable boundary interactions, including boundary terms proportional to the first time derivative of the field. We use this NLIE to compute numerically the dimensions of these states as a function of scale, and check the UV and IR limits analytically. We also find further support for the ground-state NLIE by comparison with boundary conformal perturbation theory (BCPT), boundary truncated conformal space approach (BTCSA) and the boundary analogue of the Luscher formula.

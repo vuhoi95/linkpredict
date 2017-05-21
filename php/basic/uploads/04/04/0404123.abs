@@ -1,0 +1,4 @@
+Paper: 0404123
+Title: Improved results for N=(2,2) super Yang-Mills theory using  supersymmetric discrete light-cone quantization
+Authors: Motomichi Harada and John R. Hiller and Stephen Pinsky and Nathan Salwen
+Abstract: We consider the (1+1)-dimensional ${\cal N}=(2,2)$ super Yang--Mills theory which is obtained by dimensionally reducing ${\cal N}=1$ super Yang--Mills theory in four dimension to two dimensions. We do our calculations in the large-$N_c$ approximation using Supersymmetric Discrete Light Cone Quantization. The objective is to calculate quantities that might be investigated by researchers using other numerical methods. We present a precision study of the low-mass spectrum and the stress-energy correlator $<T^{++}(r) T^{++}(0)>$. We find that the mass gap of this theory closes as the numerical resolution goes to infinity and that the correlator in the intermediate $r$ region behaves like $r^{-4.75}$.

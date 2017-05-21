@@ -1,0 +1,4 @@
+Paper: 0701499
+Title: Group-like objects in Poisson geometry and algebra
+Authors: Christian Blohmann and Alan Weinstein
+Abstract: A group, defined as set with associative multiplication and inverse, is a natural structure describing the symmetry of a space. The concept of group generalizes to group objects internal to other categories than sets. But there are yet more general objects that can still be thought of as groups in many ways, such as quantum groups. We explain some of the generalizations of groups which arise in Poisson geometry and quantization: the germ of a topological group, Poisson Lie groups, rigid monoidal structures on symplectic realizations, groupoids, 2-groups, stacky Lie groups, and hopfish algebras.

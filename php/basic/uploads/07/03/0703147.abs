@@ -1,0 +1,4 @@
+Paper: 0703147
+Title: Supersymmetric Bethe Ansatz and Baxter Equations from Discrete Hirota  Dynamics
+Authors: Vladimir Kazakov and Alexander Sorin and Anton Zabrodin
+Abstract: We show that eigenvalues of the family of Baxter Q-operators for supersymmetric integrable spin chains constructed with the gl(K|M)-invariant $R$-matrix obey the Hirota bilinear difference equation. The nested Bethe ansatz for super spin chains, with any choice of simple root system, is then treated as a discrete dynamical system for zeros of polynomial solutions to the Hirota equation. Our basic tool is a chain of Backlund transformations for the Hirota equation connecting quantum transfer matrices. This approach also provides a systematic way to derive the complete set of generalized Baxter equations for super spin chains.

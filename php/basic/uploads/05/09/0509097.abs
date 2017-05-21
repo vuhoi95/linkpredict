@@ -1,0 +1,4 @@
+Paper: 0509097
+Title: Lattice simulations of Born-Infeld non-linear QED
+Authors: D. K. Sinclair and J. B. Kogut
+Abstract: Born-Infeld non-linear electrodynamics was introduced to render the self energy of a point particle finite. It has recently been revived as a field theory for branes and strings. We quantize this theory on a Euclidean space-time lattice, using Metropolis Monte-Carlo simulations to measure the properties of the quantum field theory. Luscher-Weisz methods are used to measure the electromagnetic fields from a static point charge. The D field from a point charge appears to be identical to that for the normal Maxwell Lagrangian. The E field is enhanced by quantum fluctuations, and shows short distance screening as it does in the classical theory.

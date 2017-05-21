@@ -1,0 +1,4 @@
+Paper: 0410013
+Title: Beyond the WKB approximation in PT-symmetric quantum mechanics
+Authors: Patrick Dorey and Adam Millican-Slater and Roberto Tateo
+Abstract: The mergings of energy levels associated with the breaking of PT symmetry in the model of Bender and Boettcher, and in its generalisation to incorporate a centrifugal term, are analysed in detail. Even though conventional WKB techniques fail, it is shown how the ODE/IM correspondence can be used to obtain a systematic approximation scheme which captures all previously-observed features. Nonperturbative effects turn out to play a crucial role, governing the behaviour of almost all levels once the symmetry-breaking transition has been passed. In addition, a novel treatment of the radial Schrodinger equation is used to recover the values of local and non-local conserved charges in the related integrable quantum field theories, without any need for resummation even when the angular momentum is nonzero.

@@ -1,0 +1,4 @@
+Paper: 0012199
+Title: Decoupling Braided Tensor Factors
+Authors: Gaetano Fiore and Harold Steinacker and Julius Wess
+Abstract: We briefly report on our result that the braided tensor product algebra of two module algebras $A_1,A_2$ of a quasitriangular Hopf algebra $H$ is equal to the ordinary tensor product algebra of $H_1$ with a subalgebra isomorphic to $A_2$ and commuting with $A_1$, provided there exists a realization of $H$ within $A_1$. As applications of the theorem we consider the braided tensor product algebras of two or more quantum group covariant quantum spaces or deformed Heisenberg algebras.

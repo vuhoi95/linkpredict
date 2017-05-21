@@ -1,0 +1,4 @@
+Paper: 07050007
+Title: An Interferometry-Free Protocol for Demonstrating Topological Order
+Authors: H. Bombin and M. A. Martin-Delgado
+Abstract: We propose a protocol to demonstrate the topological order of a spin-1/2 lattice model with four-body interactions. Unlike other proposals, it does not rely on the controlled movement of quasiparticles, thus eliminating the addressing, decoherence and dynamical phase problems related to them. Rather, the protocol profits from the degeneracy of the ground state. It involves the addition of Zeeman terms to the original Hamiltonian that are used to create holes and move them around in the system.

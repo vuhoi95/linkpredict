@@ -1,0 +1,4 @@
+Paper: 0612125
+Title: Topological String Theory on Compact Calabi-Yau: Modularity and Boundary  Conditions
+Authors: Min-xin Huang and Albrecht Klemm and Seth Quackenbush
+Abstract: The topological string partition function Z=exp(lambda^{2g-2} F_g) is calculated on a compact Calabi-Yau M. The F_g fulfill the holomorphic anomaly equations, which imply that Z transforms as a wave function on the symplectic space H^3(M,Z). This defines it everywhere in the moduli space of M along with preferred local coordinates. Modular properties of the sections F_g as well as local constraints from the 4d effective action allow us to fix Z to a large extend. Currently with a newly found gap condition at the conifold, regularity at the orbifold and the most naive bounds from Castelnuovos theory, we can provide the boundary data, which specify Z, e.g. up to genus 51 for the quintic.

@@ -1,0 +1,4 @@
+Paper: 0411044
+Title: Jack superpolynomials: physical and combinatorial definitions
+Authors: Patrick Desrosiers and Luc Lapointe and Pierre Mathieu
+Abstract: Jack superpolynomials are eigenfunctions of the supersymmetric extension of the quantum trigonometric Calogero-Moser-Sutherland. They are orthogonal with respect to the scalar product, dubbed physical, that is naturally induced by this quantum-mechanical problem. But Jack superpolynomials can also be defined more combinatorially, starting from the multiplicative bases of symmetric superpolynomials, enforcing orthogonality with respect to a one-parameter deformation of the combinatorial scalar product. Both constructions turns out to be equivalent. This provides strong support for the correctness of the various underlying constructions and for the pivotal role of Jack superpolynomials in the theory of symmetric superpolynomials.

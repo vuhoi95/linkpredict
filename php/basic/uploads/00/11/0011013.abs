@@ -1,0 +1,4 @@
+Paper: 0011013
+Title: Darboux-integrable equations with non-Abelian nonlinearities
+Authors: Nikolai V. Ustinov and Marek Czachor
+Abstract: We introduce a new class of nonlinear equations admitting a representation in terms of Darboux-covariant compatibility conditions. Their special cases are, in particular, (i) the "general" von Neumann equation $i\dot\rho=[H,f(\rho)]$, with $[f(\rho),\rho]=0$, (ii) its generalization involving certain functions $f(\rho)$ which are non-Abelian in the sense that $[f(\rho),\rho]\neq0$, and (iii) the Nahm equations.

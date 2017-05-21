@@ -1,0 +1,4 @@
+Paper: 0111039
+Title: Color-Flavor Transformation for the Special Unitary Group
+Authors: B. Schlittgen and T. Wettig
+Abstract: We extend Zirnbauer's color-flavor transformation in the fermionic sector to the case of the special unitary group. The transformation allows a certain integral over SU(N_c) color matrices to be transformed into an integral over flavor matrices which parameterize the coset space U(2N_f)/U(N_f)xU(N_f). Integrals of the type considered appear, for example, in the partition function of lattice gauge theory.

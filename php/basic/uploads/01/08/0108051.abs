@@ -1,0 +1,4 @@
+Paper: 0108051
+Title: Critical Q=1 Potts Model and Temperley-Lieb Stochastic Processes
+Authors: Paul A. Pearce and Vladimir Rittenberg and Jan de Gier
+Abstract: We consider the groundstate wave function and spectra of the $L$-site XXZ $U_q[s\ell(2)]$ invariant quantum spin chain with $q=\exp(\pi i/3)$. This chain is related to the critical Q=1 Potts model and exhibits $c=0$ conformal invariance. We show that the problem is related to Hamiltonians describing one-dimensional stochastic processes defined on a Temperley-Lieb algebra. The bra groundstate wave function is trivial and the ket groundstate wave function gives the probabilty distribution of the stationary state. The stochastic processes can be understood as interface RSOS growth models with nonlocal rates. Allowing defects which can hop on the interface one obtains stochastic models having the same stationary state and spectra (but not degeracies) as the XXZ chain.

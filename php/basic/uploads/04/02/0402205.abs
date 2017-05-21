@@ -1,0 +1,4 @@
+Paper: 0402205
+Title: Nonperturbative calculational method in quantum field theory
+Authors: V. Dzhunushaliev and D. Singleton and T. Nikulicheva
+Abstract: An approximate procedure for performing nonperturbative calculations in quantum field theories is presented. The focus will be quantum non-Abelian gauge theories with the goal of understanding some of the open questions of these theories such as the confinement phenomenon and glueballs. One aspect of this nonperturbative method is the breaking down of the non-Abelian gauge group into smaller pieces. For example $SU(2) \to U(1) + coset$ or $SU(3) \to SU(2) + coset$. The procedure also uses some aspects of an old method by Heisenberg to calculate the n-point Green's function of a strongly interacting, non-linear theory. Using these ideas we will give approximate calculations of the 2 and 4-points Green's function of the theories considered.

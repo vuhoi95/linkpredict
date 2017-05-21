@@ -1,0 +1,4 @@
+Paper: 0309164
+Title: Physical States at the Tachyonic Vacuum of Open String Field Theory
+Authors: Stefano Giusto and Camillo Imbimbo
+Abstract: We illustrate a method for computing the number of physical states of open string theory at the stable tachyonic vacuum in level truncation approximation. The method is based on the analysis of the gauge-fixed open string field theory quadratic action that includes Fadeev-Popov ghost string fields. Computations up to level 9 in the scalar sector are consistent with Sen's conjecture about the absence of physical open string states at the tachyonic vacuum. We also derive a long exact cohomology sequence that relates relative and absolute cohomologies of the BRS operator at the non-perturbative vacuum. We use this exact result in conjunction with our numerical findings to conclude that the higher ghost number non-perturbative BRS cohomologies are non-empty.

@@ -1,0 +1,4 @@
+Paper: 07043719
+Title: A holographic proof of the strong subadditivity of entanglement entropy
+Authors: Matthew Headrick and Tadashi Takayanagi
+Abstract: When a quantum system is divided into subsystems, their entanglement entropies are subject to an inequality known as "strong subadditivity". For a field theory this inequality can be stated as follows: given any two regions of space $A$ and $B$, $S(A) + S(B) \ge S(A \cup B) + S(A \cap B)$. Recently, a method has been found for computing entanglement entropies in any field theory for which there is a holographically dual gravity theory. In this note we give a simple geometrical proof of strong subadditivity employing this holographic prescription.

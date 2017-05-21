@@ -1,0 +1,4 @@
+Paper: 0209016
+Title: Spin network quantum simulator
+Authors: Annalisa Marzuoli and Mario Rasetti
+Abstract: We propose a general setting for a universal representation of the quantum structure on which quantum information stands, whose dynamical evolution (information manipulation) is based on angular momentum recoupling theory. Such scheme complies with the notion of 'quantum simulator' in the sense of Feynmann, and is shown to be related with the topological quantum field theory approach to quantum computation.

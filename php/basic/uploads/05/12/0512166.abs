@@ -1,0 +1,4 @@
+Paper: 0512166
+Title: Moduli spaces for Bondal quivers
+Authors: Aaron Bergman and Nicholas J. Proudfoot
+Abstract: Given a sufficiently nice collection of sheaves on an algebraic variety V, Bondal explained how to build a quiver Q along with an ideal of relations in the path algebra of Q such that the derived category of representations of Q subject to these relations is equivalent to the derived category of coherent sheaves on V. We consider the case in which these sheaves are all locally free and study the moduli spaces of semistable representations of our quiver with relations for various stability conditions. We show that V can often be recovered as a connected component of such a moduli space and we describe the line bundle induced by a GIT construction of the moduli space in terms of the input data. In certain special cases, we interpret our results in the language of topological string theory.

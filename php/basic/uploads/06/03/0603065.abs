@@ -1,0 +1,4 @@
+Paper: 0603065
+Title: Anomaly Cancellation and Conformality in Quiver Gauge Theories
+Authors: Edoardo Di Napoli and Paul H. Frampton
+Abstract: Abelian quiver gauge theories provide nonsupersymmetric candidates for the conformality approach to physics beyond the standard model. Written as ${\cal N}=0$, $U(N)^n$ gauge theories, however, they have mixed $U(1)_p U(1)_q^2$ and $U(1)_p SU(N)_q^2$ triangle anomalies. It is shown how to construct explicitly a compensatory term $\Delta{\cal L}_{comp}$ which restores gauge invariance of ${\cal L}_{eff} = {\cal L} + \Delta {\cal L}_{comp}$ under $U(N)^n$. It can lead to a negative contribution to the U(1) $\beta$-function and hence to one-loop conformality at high energy for all dimensionless couplings.

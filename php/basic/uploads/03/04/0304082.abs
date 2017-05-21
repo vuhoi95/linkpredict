@@ -1,0 +1,4 @@
+Paper: 0304082
+Title: Quantization via Star Products
+Authors: Takayuki Hori and Takao Koikawa
+Abstract: We study quantization via star products. We investigate a quantization scheme in which a quantum theory is described entirely in terms of the function space without reference to a Hilbert space, unlike the formulation employing the Wigner functions. The associative law plays an essential role in excluding the unwanted solutions to the stargen-value equation. This is demonstrated explicitly with the $D$-dimensional harmonic oscillator.

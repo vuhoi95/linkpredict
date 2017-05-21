@@ -1,0 +1,4 @@
+Paper: 0503014
+Title: Analytical Bethe Ansatz for open spin chains with soliton non preserving  boundary conditions
+Authors: D. Arnaudon and N. Crampe and A. Doikou and L. Frappat and E. Ragoucy
+Abstract: We present an ``algebraic treatment'' of the analytical Bethe ansatz for open spin chains with soliton non preserving (SNP) boundary conditions. For this purpose, we introduce abstract monodromy and transfer matrices which provide an algebraic framework for the analytical Bethe ansatz. It allows us to deal with a generic gl(N) open SNP spin chain possessing on each site an arbitrary representation. As a result, we obtain the Bethe equations in their full generality. The classification of finite dimensional irreducible representations for the twisted Yangians are directly linked to the calculation of the transfer matrix eigenvalues.

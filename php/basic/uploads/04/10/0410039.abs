@@ -1,0 +1,4 @@
+Paper: 0410039
+Title: First principle approach to correlation functions of spin-1/2 Heisenberg  chain : fourth-neighbor correlators
+Authors: H. E. Boos and M. Shiroishi and M. Takahashi
+Abstract: We show how correlation functions of the spin-1/2 Heisenberg chain without magnetic field in the anti-ferromagnetic ground state can be explicitly calculated using information contained in the quantum Knizhnik-Zamolodchikov equation [qKZ]. We find several fundamental relations which the inhomogeneous correlations should fulfill. On the other hand, it turns out that these relations can fix the form of the correlations uniquely. Actually, applying this idea, we have obtained all the correlation functions on five sites. Particularly by taking the homogeneous limit, we have got the analytic form of the fourth-neighbor pair correlator < S_j^z S_{j+4}^z >.

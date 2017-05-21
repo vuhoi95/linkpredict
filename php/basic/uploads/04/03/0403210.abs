@@ -1,0 +1,4 @@
+Paper: 0403210
+Title: Translation of Quantum Texts
+Authors: Randall Espinoza and Tom Imbo and Paul Lopata
+Abstract: In the companion to this paper, we described a generalization of the deterministic quantum cloning process, called enscription, which utilizes entanglement in order to achieve the "copying" of (certain) sets of distinct quantum states which are not orthogonal, called texts. Here we provide a further generalization, called translation, which allows us to completely determine all translatable texts, and which displays an intimate relationship to the mathematical theory of graphs.

@@ -1,0 +1,4 @@
+Paper: 0311273
+Title: Metastable states, transitions, basins and borders at finite  temperatures
+Authors: Sorin Tanase-Nicola and Jorge Kurchan
+Abstract: Langevin/Fokker-Planck processes can be immersed in a larger frame by adding fictitious fermion variables. The (super)symmetry of this larger structure has been used to derive Morse theory in an elegant way. The original physical diffusive motion is retained in the zero-fermion subspace. Here we study the subspaces with non-zero fermion number which yield deep information, as well as new computational strategies, for barriers, reaction paths, and unstable states -- even in non-zero temperature situations and when the barriers are of entropic or collective nature, as in the thermodynamic limit. The presentation is self-contained.

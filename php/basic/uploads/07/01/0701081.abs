@@ -1,0 +1,4 @@
+Paper: 0701081
+Title: Singleton Strings
+Authors: J. Engquist and P. Sundell and L. Tamassia
+Abstract: In this note, we briefly introduce singleton representations and discuss their relevance to the study of string and brane configurations in AdS space, their tensionless limit and the connection with higher-spin gauge theory. We then discuss the main properties of subcritical SO(D-1,2) WZW models featuring singletons and their composites as primary fields. After a suitable gauging, these models are good candidates for a fundamental, partonic description of tensionless branes in AdS. Their massless sector provides an affine Lie-algebraic setting for the study of higher-spin symmetries. Based on hep-th/0508124, hep-th/0701051 and work in progress.

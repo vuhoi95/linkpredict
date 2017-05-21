@@ -1,0 +1,4 @@
+Paper: 0201120
+Title: Equivalence between different classical treatments of the O(N) nonlinear  sigma model and their functional Schrodinger equations
+Authors: A. A. Deriglazov and W. Oliveira and G. Oliveira-Neto
+Abstract: In this work we derive the Hamiltonian formalism of the O(N) non-linear sigma model in its original version as a second-class constrained field theory and then as a first-class constrained field theory. We treat the model as a second-class constrained field theory by two different methods: the unconstrained and the Dirac second-class formalisms. We show that the Hamiltonians for all these versions of the model are equivalent. Then, for a particular factor-ordering choice, we write the functional Schrodinger equation for each derived Hamiltonian. We show that they are all identical which justifies our factor-ordering choice and opens the way for a future quantization of the model via the functional Schrodinger representation.

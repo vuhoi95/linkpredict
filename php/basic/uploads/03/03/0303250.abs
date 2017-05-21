@@ -1,0 +1,4 @@
+Paper: 0303250
+Title: Variational Derivation of Relativistic Fermion-Antifermion Wave  Equations in QED
+Authors: Andrei G. Terekidi and Jurij W. Darewych
+Abstract: We present a variational method for deriving relativistic two-fermion wave equations in a Hamiltonian formulation of QED. A reformulation of QED is performed, in which covariant Green functions are used to solve for the electromagnetic field in terms of the fermion fields. The resulting modified Hamiltonian contains the photon propagator directly. The reformulation permits one to use a simple Fock-space variational trial state to derive relativistic fermion-antifermion wave equations from the corresponding quantum field theory. We verify that the energy eigenvalues obtained from the wave equation agree with known results for positronium.

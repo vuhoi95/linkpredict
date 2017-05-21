@@ -1,0 +1,4 @@
+Paper: 0409240
+Title: Noncommutative theories and general coordinate transformations
+Authors: C. D. Fosco and G. Torroba
+Abstract: We study the class of noncommutative theories in $d$ dimensions whose spatial coordinates $(x_i)_{i=1}^d$ can be obtained by performing a smooth change of variables on $(y_i)_{i=1}^d$, the coordinates of a standard noncommutative theory, which satisfy the relation $[y_i, y_j] = i \theta_{ij}$, with a constant $\theta_{ij}$ tensor. The $x_i$ variables verify a commutation relation which is, in general, space-dependent. We study the main properties of this special kind of noncommutative theory and show explicitly that, in two dimensions, any theory with a space-dependent commutation relation can be mapped to another where that $\theta_{ij}$ is constant.

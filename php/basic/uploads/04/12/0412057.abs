@@ -1,0 +1,4 @@
+Paper: 0412057
+Title: Numerical and asymptotic analysis of the 't Hooft-Polyakov magnetic  monopole
+Authors: P. Forgács and N. Obadia and S. Reuillon
+Abstract: A high precision numerical analysis of the static, spherically symmetric SU(2) magnetic monopole equations is carried out. Using multi-shooting and multi-domain spectral methods, the mass of the monopole is obtained rather precisely as a function of $\beta=M_H/M_W$ for a large $\beta$-interval ($M_H$ and $M_W$ denote the mass of the Higgs and gauge field respectively). The numerical results necessitated the reexamination and subsequent correction of a previous asymptotic analysis of the monopole mass in the literature for $\beta\ll1$.

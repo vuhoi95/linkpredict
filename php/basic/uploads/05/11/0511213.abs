@@ -1,0 +1,4 @@
+Paper: 0511213
+Title: A Diffusion Model for SU(N) QCD Screening
+Authors: Giovanni Arcioni and Sebastian de Haro and Peng Gao
+Abstract: We consider a phenomenological model for the dynamics of Wilson loops in pure SU(N) QCD where the expectation value of the loop is the average over an interacting diffusion process on the group manifold SU(N). The interaction is provided by an arbitrary potential that generates the transition from the Casimir scaling regime into the screening phase of the four-dimensional gauge theory. The potential is required to respect the underlying center symmetry of the gauge theory, and this predicts screening of arbitrary SU(N) representations to the corresponding antisymmetric representations of the same N-ality. The stable strings before the onset of screening are therefore the k-strings. In the process we find a non-trivial but solvable modification of the QCD_2 matrix model that involves an arbitrary potential.

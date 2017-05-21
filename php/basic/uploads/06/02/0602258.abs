@@ -1,0 +1,4 @@
+Paper: 0602258
+Title: A Counterexample to King's Conjecture
+Authors: Lutz Hille and Markus Perling
+Abstract: King's conjecture states that on every smooth complete toric variety $X$ there exists a strongly exceptional collection which generates the bounded derived category of $X$ and which consists of line bundles. We give a counterexample to this conjecture. This example is just the Hirzebruch surface $\mathbb{F}_2$ iteratively blown up three times, and we show by explicit computation of cohomology vanishing that there exist no strongly exceptional sequences of length 7.

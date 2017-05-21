@@ -1,0 +1,4 @@
+Paper: 07103743
+Title: Current Algebra on the Torus
+Authors: Louise Dolan and Peter Goddard
+Abstract: We derive the N-point one-loop correlation functions for the currents of an arbitrary affine Kac-Moody algebra. The one-loop amplitudes, which are elliptic functions defined on the torus Riemann surface, are specified by group invariant tensors and certain constant tau-dependent functions. We compute the elliptic functions via a generating function, and explicitly construct the invariant tensor functions recursively in terms of Young tableaux. The lowest tensors are related to the character formula of the representation of the affine algebra. These general current algebra loop amplitudes provide a building block for open twistor string theory, among other applications.

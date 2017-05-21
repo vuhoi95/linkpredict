@@ -1,0 +1,4 @@
+Paper: 0602106
+Title: Double-Trace Deformations, Mixed Boundary Conditions and Functional  Determinants in AdS/CFT
+Authors: Thomas Hartman and Leonardo Rastelli
+Abstract: According to the AdS/CFT dictionary, perturbing the large N boundary theory by a relevant double-trace deformation of the form f O^2 corresponds in the bulk to imposing ``mixed'' boundary conditions for the field dual to O. In this note we address various aspects of this correspondence. The change c_{UV} - c_{IR} of the central charge between the UV ad IR fixed points is known from explicit calculations (hep-th/0210093, hep-th/0212138) to be exactly the same in the bulk and in the boundary theories. By comparing the appropriate bulk and boundary functional determinants, we give a simple ``kinematic'' explanation for this universal agreement. We also clarify the prescription for computing AdS/CFT correlators with Delta_- boundary conditions.

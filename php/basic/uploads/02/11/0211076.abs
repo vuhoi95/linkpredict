@@ -1,0 +1,4 @@
+Paper: 0211076
+Title: Multi-Hamiltonian structures for r-matrix systems
+Authors: J. Harnad and J. C. Hurtubise
+Abstract: For the rational, elliptic and trigonometric r-matrices, we exhibit the links between three "levels" of Poisson spaces: (a) Some finite-dimensional spaces of matrix-valued holomorphic functions on the complex line; (b) Spaces of spectral curves and sheaves supported on them; (c) Symmetric products of a surface. We have, at each level, a linear space of compatible Poisson structures, and the maps relating the levels are Poisson. This leads in a natural way to Nijenhuis coordinates for these spaces. At level (b), there are Hamiltonian systems on these spaces which are integrable for each Poisson structure in the family, and which are such that the Lagrangian leaves are the intersections of the symplective leaves over the Poisson structures in the family. Specific examples include many of the well-known integrable systems.

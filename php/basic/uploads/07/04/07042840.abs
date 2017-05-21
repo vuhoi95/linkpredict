@@ -1,0 +1,4 @@
+Paper: 07042840
+Title: Improved Schwinger-DeWitt techniques for higher-derivative perturbations  of operator determinants
+Authors: Damiano Anselmi and Anna Benini
+Abstract: We consider higher-derivative perturbations of quantum gravity and quantum field theories in curved space and investigate tools to calculate counterterms and short-distance expansions of Feynman diagrams. In the case of single higher-derivative insertions we derive a closed formula that relates the perturbed one-loop counterterms to the unperturbed Schwinger-DeWitt coefficients. In the more general case, we classify the contributions to the short-distance expansion and outline a number of simplification methods. Certain difficulties of the common differential technique in the presence of higher-derivative perturbations are avoided by a systematic use of the Campbell-Baker-Hausdorff formula, which in some cases reduces the computational effort considerably.

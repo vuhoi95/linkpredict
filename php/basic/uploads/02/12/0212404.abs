@@ -1,0 +1,4 @@
+Paper: 0212404
+Title: Thermalization of fermionic quantum fields
+Authors: J. Berges and Sz. Borsanyi and J. Serreau
+Abstract: We solve the nonequilibrium dynamics of a 3+1 dimensional theory with Dirac fermions coupled to scalars via a chirally invariant Yukawa interaction. The results are obtained from a systematic coupling expansion of the 2PI effective action to lowest non-trivial order, which includes scattering as well as memory and off-shell effects. The dynamics is solved numerically without further approximation, for different far-from-equilibrium initial conditions. The late-time behavior is demonstrated to be insensitive to the details of the initial conditions and to be uniquely determined by the initial energy density. Moreover, we show that at late time the system is very well characterized by a thermal ensemble. In particular, we are able to observe the emergence of Fermi--Dirac and Bose--Einstein distributions from the nonequilibrium dynamics.

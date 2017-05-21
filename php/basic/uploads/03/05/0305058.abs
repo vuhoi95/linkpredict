@@ -1,0 +1,4 @@
+Paper: 0305058
+Title: Howe Duality for an Induced Model of Lattice U(N) Yang-Mills Theory
+Authors: J. Budczies and M. R. Zirnbauer
+Abstract: We propose an approach that views U(N_c) Yang-Mills theory as the critical point of an induced gauge model on the lattice. Similar recent proposals based on the color-flavor transformation rely on taking the limit of an infinite number of infinitely heavy particles. In contrast, we couple a finite number N_b of auxiliary boson flavors to the gauge field and argue that Yang-Mills theory is induced when N_b exceeds N_c and the boson mass is lowered to a critical point. Using the notion of Howe duality we transform the induced gauge model to a dual formulation in terms of local gauge invariant variables. In the abelian case the Howe duality transform turns out to coincide with the standard one, taking weakly coupled U(1)_{d=4} to strongly coupled Z_{d=4} lattice gauge theory.

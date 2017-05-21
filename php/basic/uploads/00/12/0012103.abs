@@ -1,0 +1,4 @@
+Paper: 0012103
+Title: Instantons on the Quantum 4-Spheres S^4_q
+Authors: Ludwik Dabrowski and Giovanni Landi and Tetsuya Masuda
+Abstract: We introduce noncommutative algebras $A_q$ of quantum 4-spheres $S^4_q$, with $q\in\IR$, defined via a suspension of the quantum group $SU_q(2)$, and a quantum instanton bundle described by a selfadjoint idempotent $e\in \Mat_4(A_q)$, $e^2=e=e^*$. Contrary to what happens for the classical case or for the noncommutative instanton constructed in Connes-Landi, the first Chern-Connes class $ch_1(e)$ does not vanish thus signaling a dimension drop. The second Chern-Connes class $ch_2(e)$ does not vanish as well and the couple $(ch_1(e), ch_2(e))$ defines a cycle in the $(b,B)$ bicomplex of cyclic homology.

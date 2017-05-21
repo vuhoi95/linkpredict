@@ -1,0 +1,4 @@
+Paper: 0111146
+Title: The Majorization Arrow in Quantum Algorithm Design
+Authors: J. I. Latorre and M. A. Martin-Delgado
+Abstract: We apply majorization theory to study the quantum algorithms known so far and find that there is a majorization principle underlying the way they operate. Grover's algorithm is a neat instance of this principle where majorization works step by step until the optimal target state is found. Extensions of this situation are also found in algorithms based in quantum adiabatic evolution and the family of quantum phase-estimation algorithms, including Shor's algorithm. We state that in quantum algorithms the time arrow is a majorization arrow.

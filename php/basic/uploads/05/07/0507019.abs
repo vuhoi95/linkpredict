@@ -1,0 +1,4 @@
+Paper: 0507019
+Title: Two-dimensional N=(2,2) super Yang-Mills theory on the lattice via  dimensional reduction
+Authors: Hiroshi Suzuki and Yusuke Taniguchi
+Abstract: The N=(2,2) extended super Yang-Mills theory in 2 dimensions is formulated on the lattice as a dimensional reduction of a 4 dimensional lattice gauge theory. We use the plaquette action for a bosonic sector and the Wilson- or the overlap-Dirac operator for a fermion sector. The fermion determinant is real and, moreover, when the overlap-Dirac operator is used, semi-positive definite. The flat directions in the target theory become compact and present no subtlety for a numerical integration along these directions. Any exact supersymmetry does not exist in our lattice formulation; nevertheless we argue that one-loop calculable and finite mass counter terms ensure a supersymmetric continuum limit to all orders of perturbation theory.

@@ -1,0 +1,4 @@
+Paper: 0510075
+Title: On the Euler angles for SU(N)
+Authors: S. Bertini and S. L. Cacciatori and B. L. Cerchiai
+Abstract: In this paper we reconsider the problem of the Euler parametrization for the unitary groups. After constructing the generic group element in terms of generalized angles, we compute the invariant measure on SU(N) and then we determine the full range of the parameters, using both topological and geometrical methods. In particular, we show that the given parametrization realizes the group $SU(N+1)$ as a fibration of U(N) over the complex projective space $\mathbb{CP}^n$. This justifies the interpretation of the parameters as generalized Euler angles.

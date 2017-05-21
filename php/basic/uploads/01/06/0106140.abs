@@ -1,0 +1,4 @@
+Paper: 0106140
+Title: Examples of mirror partners arising from integrable systems
+Authors: Tamas Hausel and Michael Thaddeus
+Abstract: In this note we present pairs of hyperkaehler orbifolds which satisfy two different versions of mirror symmetry. On the one hand, we show that their Hodge numbers (or more precisely, stringy E-polynomials) are equal. On the other hand, we show that they satisfy the prescription of Strominger, Yau, and Zaslow (which in the present case goes back to Bershadsky, Johansen, Sadov and Vafa): that a Calabi-Yau and its mirror should fiber over the same real manifold, with special Lagrangian fibers which are tori dual to each other. Our examples arise as moduli spaces of local systems on a curve with structure group SL(n); the mirror is the corresponding space with structure group PGL(n). The special Lagrangian tori come from an algebraically completely integrable Hamiltonian system: the Hitchin system.

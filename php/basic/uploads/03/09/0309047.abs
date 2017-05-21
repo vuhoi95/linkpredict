@@ -1,0 +1,4 @@
+Paper: 0309047
+Title: A redefinition of Concurrence and its generalisation to bosonic  subsystems of N qubit systems
+Authors: D. D. Bhaktavatsala Rao and V. Ravishankar
+Abstract: We refine the notion of concurrence in this paper by a redefinition of the concept. The new definition is simpler, computationally straight forward, and allows the concurrence to be directly read off from the state. It has all the positive features of the definiton given by Wootters over and above which it can discriminate between different systems to which the Wootters prescription would assign the same value. Finally, the definiton leads to a natural extension of the notion to multiqubit concurrence, which we illustrate with examples from quantum error correction codes.

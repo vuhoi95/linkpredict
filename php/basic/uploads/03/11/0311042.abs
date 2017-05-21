@@ -1,0 +1,4 @@
+Paper: 0311042
+Title: Lattice Sigma Models with Exact Supersymmetry
+Authors: Simon Catterall and Sofiane Ghadab
+Abstract: We show how to construct lattice sigma models in one, two and four dimensions which exhibit an exact fermionic symmetry. These models are discretized and {\it twisted} versions of conventional supersymmetric sigma models with N=2 supersymmetry. The fermionic symmetry corresponds to a scalar BRST charge built from the original supercharges. The lattice theories possess local actions and in many cases admit a Wilson term to suppress doubles. In the two and four dimensional theorie s we show that these lattice theories are invariant under additional discrete symmetries. We argue that the presence of these exact symmetries ensures that no fine tuning is required to achieve N=2 supersymmetry in the continuum limit. As a concrete example we show preliminary numerical results from a simulation of the O(3) supersymmetric sigma model in two dimensions.

@@ -1,0 +1,4 @@
+Paper: 0601142
+Title: The condensate <tr(A_μ^{2})> in commutative and noncommutative  theories
+Authors: R. N. Baranov and D. V. Bykov and A. A. Slavnov
+Abstract: It is shown that gauge invariance of the operator \int dx tr(A_{\mu}^{2}-\frac{2}{g \xi} x^{\nu} \theta_{\mu\nu} A^{\mu}) in noncommutative gauge theory does not lead to gauge independence of its vacuum condensate. Generalized Ward identities are obtained for Green's functions involving operator \underset{\Omega \to \infty}{lim}\frac{1}{\Omega} \int\limits_{\Omega} dx tr(A_{\mu}^{2}) in noncommutative and commutative gauge theories.

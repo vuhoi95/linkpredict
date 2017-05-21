@@ -1,0 +1,4 @@
+Paper: 0503024
+Title: Multiple Schramm-Loewner Evolutions and Statistical Mechanics  Martingales
+Authors: Michel Bauer and Denis Bernard and Kalle Kytola
+Abstract: A statistical mechanics argument relating partition functions to martingales is used to get a condition under which random geometric processes can describe interfaces in 2d statistical mechanics at criticality. Requiring multiple SLEs to satisfy this condition leads to some natural processes, which we study in this note. We give examples of such multiple SLEs and discuss how a choice of conformal block is related to geometric configuration of the interfaces and what is the physical meaning of mixed conformal blocks. We illustrate the general ideas on concrete computations, with applications to percolation and the Ising model.

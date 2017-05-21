@@ -1,0 +1,4 @@
+Paper: 0410248
+Title: UV-finite scalar field theory with unitarity
+Authors: Pei-Ming Ho and Yi-Ya Tian
+Abstract: In this paper we show how to define the UV completion of a scalar field theory such that it is both UV-finite and perturbatively unitary. In the UV completed theory, the propagator is an infinite sum of ordinary propagators. To eliminate the UV divergences, we choose the coefficients and masses in the propagator to satisfy certain algebraic relations, and define the infinite sums involved in Feynman diagram calculation by analytic continuation. Unitarity can be proved relatively easily by Cutkosky's rules. The theory is equivalent to infinitely many particles with specific masses and interactions. We take the $\phi^4$ theory as an example and demonstrate our idea through explicit Feynman diagram computation.

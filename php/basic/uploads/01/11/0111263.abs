@@ -1,0 +1,4 @@
+Paper: 0111263
+Title: Entropy of Operator-valued Random Variables: A Variational Principle for  Large N Matrix Models
+Authors: L. Akant and G. S. Krishnaswami and S. G. Rajeev
+Abstract: We show that, in 't Hooft's large N limit, matrix models can be formulated as a classical theory whose equations of motion are the factorized Schwinger--Dyson equations. We discover an action principle for this classical theory. This action contains a universal term describing the entropy of the non-commutative probability distributions. We show that this entropy is a nontrivial 1-cocycle of the non-commutative analogue of the diffeomorphism group and derive an explicit formula for it. The action principle allows us to solve matrix models using novel variational approximation methods; in the simple cases where comparisons with other methods are possible, we get reasonable agreement.

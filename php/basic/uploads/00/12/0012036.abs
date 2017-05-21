@@ -1,0 +1,4 @@
+Paper: 0012036
+Title: Covariant geometric quantization of non-relativistic Hamiltonian  mechanics
+Authors: G. Giachetta and L. Mangiarotti and G. Sardanashvily
+Abstract: We provide geometric quantization of the vertical cotangent bundle V^*Q equipped with the canonical Poisson structure. This is a momentum phase space of non-relativistic mechanics with the configuration bundle Q -> R. The goal is the Schrodinger representation of V^*Q. We show that this quantization is equivalent to the fibrewise quantization of symplectic fibres of V^*Q -> R, that makes the quantum algebra of non-relativistic mechanics an instantwise algebra. Quantization of the classical evolution equation defines a connection on this instantwise algebra, which provides quantum evolution in non-relativistic mechanics as a parallel transport along time.

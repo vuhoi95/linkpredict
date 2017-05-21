@@ -1,0 +1,4 @@
+Paper: 0510256
+Title: Numerical simulation of non-extensive Boltzmann equation
+Authors: T. S. Biro and G. Purcsel
+Abstract: We present first results of the development of a test particle simulation for solving non-extensive extensions of the elastic two-particle Boltzmann equation. Stationary one-particle energy distributions with power-law tail are obtained.

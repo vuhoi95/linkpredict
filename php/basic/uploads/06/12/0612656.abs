@@ -1,0 +1,4 @@
+Paper: 0612656
+Title: Dynamic crossover in the global persistence at criticality
+Authors: Raja Paul and Andrea Gambassi and Gregory Schehr
+Abstract: We investigate the global persistence properties of critical systems relaxing from an initial state with non-vanishing value of the order parameter (e.g., the magnetization in the Ising model). The persistence probability of the global order parameter displays two consecutive regimes in which it decays algebraically in time with two distinct universal exponents. The associated crossover is controlled by the initial value m_0 of the order parameter and the typical time at which it occurs diverges as m_0 vanishes. Monte-Carlo simulations of the two-dimensional Ising model with Glauber dynamics display clearly this crossover. The measured exponent of the ultimate algebraic decay is in rather good agreement with our theoretical predictions for the Ising universality class.

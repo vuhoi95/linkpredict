@@ -1,0 +1,4 @@
+Paper: 0011002
+Title: Unitary Irreducible Representations of a Lie Algebra for Matrix Chain  Models
+Authors: H. P. Jakobsen and C. -W. H. Lee
+Abstract: There is a decomposition of a Lie algebra for open matrix chains akin to the triangular decomposition. We use this decomposition to construct unitary irreducible representations. All multiple meson states can be retrieved this way. Moreover, they are the only states with a finite number of non-zero quantum numbers with respect to a certain set of maximally commuting linearly independent quantum observables. Any other state is a tensor product of a multiple meson state and a state coming from a representation of a quotient algebra that extends and generalizes the Virasoro algebra. We expect the representation theory of this quotient algebra to describe physical systems at the thermodynamic limit.

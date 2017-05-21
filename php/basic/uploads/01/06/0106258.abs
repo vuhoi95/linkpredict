@@ -1,0 +1,4 @@
+Paper: 0106258
+Title: Gauge invariant regularisation via SU(N|N)
+Authors: Stefano Arnone and Yuri A. Kubyshin and Tim R. Morris and John F. Tighe
+Abstract: We construct a gauge invariant regularisation scheme for pure SU(N) Yang-Mills theory in fixed dimension four or less (for N = infinity in all dimensions), with a physical cutoff scale Lambda, by using covariant higher derivatives and spontaneously broken SU(N|N) supergauge invariance. Providing their powers are within certain ranges, the covariant higher derivatives cure the superficial divergence of all but a set of one-loop graphs. The finiteness of these latter graphs is ensured by properties of the supergroup and gauge invariance. In the limit Lambda tends to infinity, all the regulator fields decouple and unitarity is recovered in the renormalized pure SU(N) Yang-Mills theory. By demonstrating these properties, we prove that the regularisation works to all orders in perturbation theory.

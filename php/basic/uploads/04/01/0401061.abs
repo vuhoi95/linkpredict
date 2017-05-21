@@ -1,0 +1,4 @@
+Paper: 0401061
+Title: Closed and open conformal field theories and their anomalies
+Authors: Po Hu and Igor Kriz
+Abstract: In this paper, we give a general axiomatization of anomalies in closed and open conformal field theories. In particular, we generalize Segal's notion of modular functor to a setting where the ``set of labels'' is a 2-vector space. In the case of open conformal field theory, the ``set of $D$-branes'' is a 3-vector space. We also define a ``topological group completion'' of the symmetric bimonoidal category of finite-dimensional vector spaces, and propose it as a candidate for labelling conformal field theories whose modular functors are super-vector spaces.

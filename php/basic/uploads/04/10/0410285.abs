@@ -1,0 +1,4 @@
+Paper: 0410285
+Title: Neutrix Calculus and Finite Quantum Field Theory
+Authors: Y. Jack Ng and H. van Dam
+Abstract: In general, quantum field theories (QFT) require regularizations and infinite renormalizations due to ultraviolet divergences in their loop calculations. Furthermore, perturbation series in theories like QED are not convergent series, but are asymptotic series. We apply neutrix calculus, developed in connection with asymptotic series and divergent integrals, to QFT,obtaining finite renormalizations. While none of the physically measurable results in renormalizable QFT is changed, quantum gravity is rendered more manageable in the neutrix framework.

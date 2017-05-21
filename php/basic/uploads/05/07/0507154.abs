@@ -1,0 +1,4 @@
+Paper: 0507154
+Title: A Generalised Manifestly Gauge Invariant Exact Renormalisation Group for  SU(N) Yang-Mills
+Authors: Stefano Arnone and Tim R. Morris and Oliver J. Rosten
+Abstract: We take the manifestly gauge invariant exact renormalisation group previously used to compute the one-loop beta function in SU(N) Yang-Mills without gauge fixing, and generalise it so that it can be renormalised straightforwardly at any loop order. The diagrammatic computational method is developed to cope with general group theory structures, and new methods are introduced to increase its power, so that much more can be done simply by manipulating diagrams. The new methods allow the standard two-loop beta function coefficient for SU(N) Yang-Mills to be computed, for the first time without fixing the gauge or specifying the details of the regularisation scheme.

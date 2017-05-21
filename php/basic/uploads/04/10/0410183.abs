@@ -1,0 +1,4 @@
+Paper: 0410183
+Title: Current Algebras and Differential Geometry
+Authors: Anton Alekseev and Thomas Strobl
+Abstract: We show that symmetries and gauge symmetries of a large class of 2-dimensional sigma models are described by a new type of a current algebra. The currents are labeled by pairs of a vector field and a 1-form on the target space of the sigma model. We compute the current-current commutator and analyse the anomaly cancellation condition, which can be interpreted geometrically in terms of Dirac structures, previously studied in the mathematical literature. Generalized complex structures correspond to decompositions of the current algebra into pairs of anomaly free subalgebras. Sigma models that we can treat with our method include both physical and topological examples, with and without Wess-Zumino type terms.

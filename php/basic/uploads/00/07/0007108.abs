@@ -1,0 +1,4 @@
+Paper: 0007108
+Title: Elliptic Genera of Singular Varieties
+Authors: Lev Borisov and Anatoly Libgober
+Abstract: Orbifold elliptic genus and elliptic genus of singular varieties are introduced and relation between them is studied. Elliptic genus of singular varieties is given in terms of a resolution of singularities and extends the elliptic genus of Calabi-Yau hypersurfaces in Fano Gorenstein toric varieties introduced earlier. Orbifold elliptic genus is given in terms of the fixed point sets of the action. We show that the generating function for this orbifold elliptic genus $\sum Ell_{orb}(X^n,\Sigma_n)p^n$ for symmetric groups $\Sigma_n$ acting on $n$-fold products coincides with the one proposed by Dijkgraaf, Moore, Verlinde and Verlinde. Two notions of elliptic genera are conjectured to coincide.

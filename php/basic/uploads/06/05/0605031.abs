@@ -1,0 +1,4 @@
+Paper: 0605031
+Title: Fermion scattering by a Schwarzschild black hole
+Authors: Sam Dolan and Chris Doran and Anthony Lasenby
+Abstract: We study the scattering of massive spin-half waves by a Schwarzschild black hole using analytical and numerical methods. We begin by extending a recent perturbation theory calculation to next order to obtain Born series for the differential cross section and Mott polarization, valid at small couplings. We continue by deriving an approximation for glory scattering of massive spinor particles by considering classical timelike geodesics and spin precession. Next, we formulate the Dirac equation on a black hole background, and outline a simple numerical method for finding partial wave series solutions. Finally, we present our numerical calculations of absorption and scattering cross sections and polarization, and compare with theoretical expectations.

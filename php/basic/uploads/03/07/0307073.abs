@@ -1,0 +1,4 @@
+Paper: 0307073
+Title: Symplectic invariants, entropic measures and correlations of Gaussian  states
+Authors: Alessio Serafini and Fabrizio Illuminati and Silvio De Siena
+Abstract: We present a derivation of the Von Neumann entropy and mutual information of arbitrary two--mode Gaussian states, based on the explicit determination of the symplectic eigenvalues of a generic covariance matrix. The key role of the symplectic invariants in such a determination is pointed out. We show that the Von Neumann entropy depends on two symplectic invariants, while the purity (or the linear entropy) is determined by only one invariant, so that the two quantities provide two different hierarchies of mixed Gaussian states. A comparison between mutual information and entanglement of formation for symmetric states is considered, remarking the crucial role of the symplectic eigenvalues in qualifying and quantifying the correlations present in a generic state.

@@ -1,0 +1,4 @@
+Paper: 0309504
+Title: Non Perturbative Renormalization Group study of reaction-diffusion  processes and directed percolation
+Authors: Léonie Canet and Bertrand Delamotte and Olivier Deloubrière and Nicolas Wschebor
+Abstract: We investigate non-equilibrium critical phenomena using a nonperturbative renormalization group method. Reaction-diffusion processes are described by a scale dependent effective action which evolution is governed by very generic flow equations, that are derived. They allow to recover the critical exponents of directed percolation, and moreover to calculate the microscopic reaction rates which give rise to a phase transition in the case of branching and annihilating random walks with odd number of offsprings, even in three dimensions.

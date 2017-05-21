@@ -1,0 +1,4 @@
+Paper: 0401052
+Title: Highly Damped Quasinormal Modes of Kerr Black Holes: A Complete  Numerical Investigation
+Authors: Emanuele Berti and Vitor Cardoso and Shijun Yoshida
+Abstract: We compute for the first time very highly damped quasinormal modes of the (rotating) Kerr black hole. Our numerical technique is based on a decoupling of the radial and angular equations, performed using a large-frequency expansion for the angular separation constant_{s}A_{l m}. This allows us to go much further in overtone number than ever before. We find that the real part of the quasinormal frequencies approaches a non-zero constant value which does not depend on the spin s of the perturbing field and on the angular index l: \omega_R=m\varpi(a). We numerically compute \varpi(a). Leading-order corrections to the asymptotic frequency are likely to be of order 1/\omega_I. The imaginary part grows without bound, the spacing between consecutive modes being a monotonic function of a.

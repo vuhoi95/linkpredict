@@ -1,0 +1,4 @@
+Paper: 07073433
+Title: Integrable Lagrangians and modular forms
+Authors: E. V. Ferapontov and A. V. Odesskii
+Abstract: We investigate non-degenerate Lagrangians of the form $$ \int f(u_x, u_y, u_t) dx dy dt $$ such that the corresponding Euler-Lagrange equations $ (f_{u_x})_x+ (f_{u_y})_y+ (f_{u_t})_t=0 $ are integrable by the method of hydrodynamic reductions. We demonstrate that the integrability conditions, which constitute an involutive over-determined system of fourth order PDEs for the Lagrangian density f, are invariant under a 20-parameter group of Lie-point symmetries whose action on the moduli space of integrable Lagrangians has an open orbit. The density of the `master-Lagrangian' corresponding to this orbit is shown to be a modular form in three variables defined on a complex hyperbolic ball. We demonstrate how the knowledge of the symmetry group allows one to linearise the integrability conditions.

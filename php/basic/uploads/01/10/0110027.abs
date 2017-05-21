@@ -1,0 +1,4 @@
+Paper: 0110027
+Title: A Bound on Binding Energies and Mass Renormalization in Models of  Quantum Electrodynamics
+Authors: Elliott H. Lieb and Michael Loss
+Abstract: We study three well known models of matter coupled to the ultraviolet cutoff, quantized radiation field and to the Coulomb potential of arbitrarily many nuclei. Two are nonrelativistic: the first uses the kinetic energy (p+eA(x))^2 and the second uses the Pauli-Fierz energy (p+eA(x))^2 +e\sigma \cdot B(x). The third, no-pair model, is relativistic and replaces the kinetic energy with the Dirac operator D(A), but restricted to its positive spectral subspace, which is the ``electron subspace''. In each case we are able to give an upper bound to the {\it binding} energy -- as distinct from the less difficult ground state energy. This implies, for the first time we believe, an estimate, albeit a crude one, of the mass renormalization in these theories.

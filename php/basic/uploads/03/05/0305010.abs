@@ -1,0 +1,4 @@
+Paper: 0305010
+Title: Functional determinants by contour integration methods
+Authors: Klaus Kirsten and Alan McKane
+Abstract: We present a simple and accessible method which uses contour integration methods to derive formulae for functional determinants. To make the presentation as clear as possible, the general idea is first illustrated on the simplest case: a second order differential operator with Dirichlet boundary conditions. The method is applicable to more general situations, and we discuss the way in which the formalism has to be developed to cover these cases. In particular, we also show that simple and elegant formulae exist for the physically important case of determinants where zero modes exist, but have been excluded.

@@ -1,0 +1,4 @@
+Paper: 0703097
+Title: Radiation Beyond Four Space-Time Dimensions
+Authors: A. Mironov and A. Morozov
+Abstract: We present a list of formulas describing classical radiation of the rank s tensor field from an accelerated point-like source in flat space-time of arbitrary even dimension d. This allows straightforward evaluating the total intensity and radiated momentum for any $s$ and $d$ algorithmically, by hands or with the help of a computer (e.g. with an attached MAPLE program). Practical application of formulas is limited, because, for s>1, the energy-momentum tensor for the point-like source is not conserved. This usually means that one cannot neglect contributions to radiation from tensions of the forces that cause acceleration of the source.

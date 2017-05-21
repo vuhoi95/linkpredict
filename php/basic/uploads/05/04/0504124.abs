@@ -1,0 +1,4 @@
+Paper: 0504124
+Title: Bethe Ansatz derived from the functional relations of the open XXZ chain  for new special cases
+Authors: Rajan Murgan and Rafael I. Nepomechie
+Abstract: The transfer matrix of the general integrable open XXZ quantum spin chain obeys certain functional relations at roots of unity. By exploiting these functional relations, we determine the Bethe Ansatz solution for the transfer matrix eigenvalues for the special cases that all but one of the boundary parameters are zero, and the bulk anisotropy parameter is \eta = i\pi/3, i\pi/5 ,... In an Addendum, these results are extended to the cases that any two of the boundary parameters {\alpha_-, \alpha_+,\beta_-, \beta_+} are arbitrary and the remaining boundary parameters are either \eta or i \pi/2.

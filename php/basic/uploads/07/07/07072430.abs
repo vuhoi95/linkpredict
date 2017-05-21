@@ -1,0 +1,4 @@
+Paper: 07072430
+Title: A study of logarithmic corrections and universal amplitude ratios in the  two-dimensional 4-state Potts model
+Authors: Lev Shchur and Bertrand Berche and Paolo Butera
+Abstract: Monte Carlo (MC) and series expansion (SE) data for the energy, specific heat, magnetization and susceptibility of the two-dimensional 4-state Potts model in the vicinity of the critical point are analysed. The role of logarithmic corrections is discussed and an approach is proposed in order to account numerically for these corrections in the determination of critical amplitudes. Accurate estimates of universal amplitude ratios $A_+/A_-$, $\Gamma_+/\Gamma_-$, $\Gamma_T/\Gamma_-$ and $R_C^\pm$ are given, which arouse new questions with respect to previous works.

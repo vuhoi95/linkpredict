@@ -1,0 +1,4 @@
+Paper: 0010143
+Title: Fermions, Gauge Theories, and the Sinc Function Representation for  Feynman Diagrams
+Authors: Dmitri Petrov and Richard Easther and Gerald Guralnik and Stephen Hahn and Wei-Mun Wang
+Abstract: We extend our new approach for numeric evaluation of Feynman diagrams to integrals that include fermionic and vector propagators. In this initial discussion we begin by deriving the Sinc function representation for the propagators of spin-1/2 and spin-1 fields and exploring their properties. We show that the attributes of the spin-0 propagator which allowed us to derive the Sinc function representation for scalar field Feynman integrals are shared by fields with non-zero spin. We then investigate the application of the Sinc function representation to simple QED diagrams, including first order corrections to the propagators and the vertex.

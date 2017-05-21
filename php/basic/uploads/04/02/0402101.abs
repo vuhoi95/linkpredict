@@ -1,0 +1,4 @@
+Paper: 0402101
+Title: High-Precision Numerical Determination of Eigenvalues for a Double-Well  Potential Related to the Zinn-Justin Conjecture
+Authors: H. A. Alhendi and E. I. Lashin
+Abstract: A numerical method of high precision is used to calculate the energy eigenvalues and eigenfunctions for a symmetric double-well potential. The method is based on enclosing the system within two infinite walls with a large but finite separation and developing a power series solution for the Schr$\ddot{o}$dinger equation. The obtained numerical results are compared with those obtained on the basis of the Zinn-Justin conjecture and found to be in an excellent agreement.

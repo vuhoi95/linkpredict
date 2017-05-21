@@ -1,0 +1,4 @@
+Paper: 0410129
+Title: Chiral Anomalies via Classical and Quantum Functional Methods
+Authors: E. Gozzi and D. Mauro and A. Silvestri
+Abstract: In the quantum path integral formulation of a field theory model an anomaly arises when the functional measure is not invariant under a symmetry transformation of the Lagrangian. In this paper, generalizing previous work done on the point particle, we show that even at the classical level we can give a path integral formulation for any field theory model. Since classical mechanics cannot be affected by anomalies, the measure of the classical path integral of a field theory must be invariant under the symmetry. The classical path integral measure contains the fields of the quantum one plus some extra auxiliary ones. So, at the classical level, there must be a sort of "cancellation" of the quantum anomaly between the original fields and the auxiliary ones. In this paper we prove in detail how this occurs for the chiral anomaly.

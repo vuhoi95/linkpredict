@@ -1,0 +1,4 @@
+Paper: 0202129
+Title: Phase transitions in one dimension and less
+Authors: Paul Fendley and Oleg Tchernyshyov
+Abstract: Phase transitions can occur in one-dimensional classical statistical mechanics at non-zero temperature when the number of components N of the spin is infinite. We show how to solve such magnets in one dimension for any N, and how the phase transition develops at N = infinity. We discuss SU(N) and Sp(N) magnets, where the transition is second-order. In the new high-temperature phase, the correlation length is zero. We also show that for the SU(N) magnet on exactly three sites with periodic boundary conditions, the transition becomes first order.

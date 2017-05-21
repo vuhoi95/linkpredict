@@ -1,0 +1,4 @@
+Paper: 0406169
+Title: Random walks of partons in SU(N_c) and classical representations of  color charges in QCD at small x
+Authors: Sangyong Jeon and Raju Venugopalan
+Abstract: The effective action for wee partons in large nuclei includes a sum over static color sources distributed in a wide range of representations of the SU(N_c) color group. The problem can be formulated as a random walk of partons in the N_c-1 dimensional space spanned by the Casimirs of SU(N_c). For a large number of sources, k >> 1, we show explicitly that the most likely representation is a classical representation of order O(\sqrt{k}). The quantum sum over representations is well approximated by a path integral over classical sources with an exponential weight whose argument is the quadratic Casimir operator of the group. The contributions of the higher N_c-2 Casimir operators are suppressed by powers of k. Other applications of the techniques developed here are discussed briefly.

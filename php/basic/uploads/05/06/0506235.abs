@@ -1,0 +1,4 @@
+Paper: 0506235
+Title: Deformed Spectral Representation of the BFKL Kernel and the Bootstrap  for Gluon Reggeization
+Authors: J. bartels and L. N. Lipatov and M. Salvadore and G. P. Vacca
+Abstract: We investigate the space of functions in which the BFKL kernel acts. For the amplitudes which describe the scattering of colorless projectiles it is convenient to define, in transverse coordinates, the Moebius space in which the solutions to the BFKL equation vanish as the coordinates of the two reggeized gluons coincide. However, in order to fulfill the bootstrap relation for the BFKL kernel it is necessary to modify the space of functions. We define and investigate a new space of functions and show explicitly that the bootstrap relation is valid for the corresponding spectral form of the kernel. We calculate the generators of the resulting deformed representation of the sl(2,C) algebra.

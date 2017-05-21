@@ -1,0 +1,4 @@
+Paper: 0512586
+Title: Entanglement Entropy dynamics in Heisenberg chains
+Authors: G. De Chiara and S. Montangero and P. Calabrese and R. Fazio
+Abstract: By means of the time-dependent density matrix renormalization group algorithm we study the zero-temperature dynamics of the Von Neumann entropy of a block of spins in a Heisenberg chain after a sudden quench in the anisotropy parameter. In the absence of any disorder the block entropy increases linearly with time and then saturates. We analyze the velocity of propagation of the entanglement as a function of the initial and final anisotropies and compare, wherever possible, our results with those obtained by means of Conformal Field Theory. In the disordered case we find a slower (logarithmic) evolution which may signals the onset of entanglement localization.

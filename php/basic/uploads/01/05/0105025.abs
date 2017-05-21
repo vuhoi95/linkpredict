@@ -1,0 +1,4 @@
+Paper: 0105025
+Title: Abelian simply transitive affine groups of symplectic type
+Authors: Oliver Baues and Vicente Cortes
+Abstract: We construct a model space $C(\gsp(\bR^{2n}))$ for the variety of Abelian simply transitive groups of affine transformations of type ${\rm Sp}(\bR^{2n})$. The model is stratified and its principal stratum is a Zariski-open subbundle of a natural vector bundle over the Grassmannian of Lagrangian subspaces in $\bR^{2n}$. \noindent Next we show that every flat special K\"ahler manifold may be constructed locally from a holomorphic function whose third derivatives satisfy some algebraic constraint. In particular global models for flat special K\"ahler manifolds with constant cubic form correspond to a subvariety of $C(\gsp(\bR^{2n}))$.

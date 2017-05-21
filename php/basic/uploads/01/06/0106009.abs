@@ -1,0 +1,4 @@
+Paper: 0106009
+Title: Numerical Simulations of PT-Symmetric Quantum Field Theories
+Authors: Claude Bernard and Van M. Savage
+Abstract: Many non-Hermitian but PT-symmetric theories are known to have a real positive spectrum. Since the action is complex for there theories, Monte Carlo methods do not apply. In this paper the first field-theoretic method for numerical simulations of PT-symmetric Hamiltonians is presented. The method is the complex Langevin equation, which has been used previously to study complex Hamiltonians in statistical physics and in Minkowski space. We compute the equal-time one-point and two-point Green's functions in zero and one dimension, where comparisons to known results can be made. The method should also be applicable in four-dimensional space-time. Our approach may also give insight into how to formulate a probabilistic interpretation of PT-symmetric theories.

@@ -1,0 +1,4 @@
+Paper: 0502542
+Title: The bipartite Brill-Gordan locus and angular momentum
+Authors: Abdelmalek Abdesselam and Jaydeep Chipalkatti
+Abstract: This paper is a sequel to math.AG/0411110. Let P denote the projective space of degree d forms in n+1 variables. Let e denote an integer < d/2, and consider the subvariety X of forms which factor as L^{d-e} M^e for some linear forms L,M. In the language of our earlier paper, this is the Brill-Gordan locus associated to the partition (d-e,e). In this paper we calculate the Castelnuovo regularity of X precisely, and moreover show that X is r-normal for r at least 3. In the case of binary forms, we give a classical invariant-theoretic description of the defining equations of this locus in terms of covariants of d-ics. Modulo standard cohomological arguments, the proof crucially relies upon showing that certain 3j-symbols from the quantum theory of angular momentum are nonzero.

@@ -1,0 +1,4 @@
+Paper: 07104627
+Title: Functional renormalisation group approach to far-from-equilibrium  quantum field dynamics
+Authors: Thomas Gasenzer and Jan M. Pawlowski
+Abstract: Dynamic equations for quantum fields far from equilibrium are derived by use of functional renormalisation group techniques. The obtained equations are non-perturbative and lead substantially beyond mean-field and quantum Boltzmann type approximations. The approach is based on a regularised version of the generating functional for correlation functions where times greater than a chosen cutoff time are suppressed. As a central result, a time evolution equation for the non-equilibrium effective action is derived, and the time-evolution of the Green functions is computed within a vertex expansion. It is shown that this agrees with the dynamics derived from the 1/N-expansion of the two-particle irreducible effective action.

@@ -1,0 +1,4 @@
+Paper: 0306205
+Title: A Proposal for a Differential Calculus in Quantum Mechanics
+Authors: E. Gozzi and M. Reuter
+Abstract: In this paper, using the Weyl-Wigner-Moyal formalism for quantum mechanics, we develop a {\it quantum-deformed} exterior calculus on the phase-space of an arbitrary hamiltonian system. Introducing additional bosonic and fermionic coordinates we construct a super-manifold which is closely related to the tangent and cotangent bundle over phase-space. Scalar functions on the super-manifold become equivalent to differential forms on the standard phase-space. The algebra of these functions is equipped with a Moyal super-star product which deforms the pointwise product of the classical tensor calculus. We use the Moyal bracket algebra in order to derive a set of quantum-deformed rules for the exterior derivative, Lie derivative, contraction, and similar operations of the Cartan calculus.

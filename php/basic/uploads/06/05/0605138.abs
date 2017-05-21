@@ -1,0 +1,4 @@
+Paper: 0605138
+Title: Topological Quantum Distillation
+Authors: H. Bombin and M. A. Martin-Delgado
+Abstract: We construct a class of topological quantum codes to perform quantum entanglement distillation. These codes implement the whole Clifford group of unitary operations in a fully topological manner and without selective addressing of qubits. This allows us to extend their application also to quantum teleportation, dense coding and computation with magic states.

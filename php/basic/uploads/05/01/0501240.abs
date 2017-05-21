@@ -1,0 +1,4 @@
+Paper: 0501240
+Title: On-Shell Recurrence Relations for One-Loop QCD Amplitudes
+Authors: Zvi Bern and Lance J. Dixon and David A. Kosower
+Abstract: We present examples of on-shell recurrence relations for determining rational functions appearing in one-loop QCD amplitudes. In particular, we give relations for one-loop QCD amplitudes with all legs of positive helicity, or with one leg of negative helicity and the rest of positive helicity. Our recursion relations are similar to the tree-level ones described by Britto, Cachazo, Feng and Witten. A number of new features arise for loop amplitudes in non-supersymmetric theories like QCD, including boundary terms and double poles. We show how to eliminate the boundary terms, which would interfere with obtaining useful relations. Using the relations we give compact explicit expressions for the n-gluon amplitudes with one negative-helicity gluon, up through n=7.

@@ -1,0 +1,4 @@
+Paper: 07061647
+Title: Non-lattice simulation for supersymmetric gauge theories in one  dimension
+Authors: Masanori Hanada and Jun Nishimura and Shingo Takeuchi
+Abstract: Lattice simulation of supersymmetric gauge theories is not straightforward. In some cases the lack of manifest supersymmetry just necessitates cumbersome fine-tuning, but in the worse cases the chiral and/or Majorana nature of fermions makes it difficult to even formulate an appropriate lattice theory. We propose to circumvent all these problems inherent in the lattice approach by adopting a non-lattice approach in the case of one-dimensional supersymmetric gauge theories, which are important in the string/M theory context.

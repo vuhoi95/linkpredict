@@ -1,0 +1,4 @@
+Paper: 0207004
+Title: A Generalized Q-operator for U_q(\hat(sl_2)) Vertex Models
+Authors: Marco Rossi and Robert Weston
+Abstract: In this paper, we construct a Q-operator as a trace of a representation of the universal R-matrix of $U_q(\hat{sl}_2)$ over an infinite-dimensional auxiliary space. This auxiliary space is a four-parameter generalization of the q-oscillator representations used previously. We derive generalized T-Q relations in which 3 of these parameters shift. After a suitable restriction of parameters, we give an explicit expression for the Q-operator of the 6-vertex model and show the connection with Baxter's expression for the central block of his corresponding operator.

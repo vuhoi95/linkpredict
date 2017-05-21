@@ -1,0 +1,4 @@
+Paper: 0511619
+Title: Exact energy spectrum for models with equally spaced point potentials
+Authors: V. Caudrelier and N. Crampe
+Abstract: We describe a non-perturbative method for computing the energy band structures of one-dimensional models with general point potentials sitting at equally spaced sites. This is done thanks to a Bethe ansatz approach and the method is applicable even when periodicity is broken, that is when Bloch's theorem is not valid any more. We derive the general equation governing the energy spectrum and illustrate its use in various situations. In particular, we get exact results for boundary effects. We also study non-perturbatively the effects of impurities in such systems. Finally, we discuss the possibility of including interactions between the particles of these systems.

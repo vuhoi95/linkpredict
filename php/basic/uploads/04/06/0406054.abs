@@ -1,0 +1,4 @@
+Paper: 0406054
+Title: Haldane-Shastry spin chains of BC_N type
+Authors: A. Enciso and F. Finkel and A. Gonzalez-Lopez and M. A. Rodriguez
+Abstract: We introduce four types of SU(2M+1) spin chains which can be regarded as the BC_N versions of the celebrated Haldane-Shastry chain. These chains depend on two free parameters and, unlike the original Haldane-Shastry chain, their sites need not be equally spaced. We prove that all four chains are solvable by deriving an exact expression for their partition function using Polychronakos's "freezing trick". From this expression we deduce several properties of the spectrum, and advance a number of conjectures that hold for a wide range of values of the spin M and the number of particles. In particular, we conjecture that the level density is Gaussian, and provide a heuristic derivation of general formulas for the mean and the standard deviation of the energy.

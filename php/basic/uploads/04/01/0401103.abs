@@ -1,0 +1,4 @@
+Paper: 0401103
+Title: The Hagedorn Temperature and Partition Thermodynamics
+Authors: Philippe Blanchard and Santo Fortunato and Helmut Satz
+Abstract: We review the resonance gas formalism of hadron thermodynamics and recall that an exponential increase of the resonance spectrum leads to a limiting temperature of hadronic matter. We then show that the number p(n) of ordered partitions of an integer n grows exponentially with n and satisfies the integer counterpart of the statistical bootstrap equation. Considering the set of all partitions as a Gibbs ensemble provides a partition thermodynamics which is also governed by a limiting temperature, determined by the combinatorial structure of the problem. Further associating intrinsic quantum numbers to integers results in a phase diagram equivalent to that found in QCD for hadronic matter as function of temperature and baryochemical potential.

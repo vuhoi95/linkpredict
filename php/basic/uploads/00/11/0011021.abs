@@ -1,0 +1,4 @@
+Paper: 0011021
+Title: Duality and Decoherence Free Subspaces
+Authors: David D. Song and Richard J. Szabo
+Abstract: Quantum error avoiding codes are constructed by exploiting a geometric interpretation of the algebra of measurements of an open quantum system. The notion of a generalized Dirac operator is introduced and used to naturally construct families of decoherence free subspaces for the encoding of quantum information. The members of the family are connected to each other by the discrete Morita equivalences of the algebra of observables, which render possible several choices of noiseless code in which to perform quantum computation. The construction is applied to various examples of discrete and continuous quantum systems.

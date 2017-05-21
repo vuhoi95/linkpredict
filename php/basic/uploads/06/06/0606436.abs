@@ -1,0 +1,4 @@
+Paper: 0606436
+Title: Entanglement Entropy beyond the Free Case
+Authors: T. Barthel and S. Dusuel and J. Vidal
+Abstract: We present a perturbative method to compute the ground state entanglement entropy for interacting systems. We apply it to a collective model of mutually interacting spins in a magnetic field. At the quantum critical point, the entanglement entropy scales logarithmically with the subsystem size, the system size, and the anisotropy parameter. We determine the corresponding scaling prefactors and evaluate the leading finite-size correction to the entropy. Our analytical predictions are in perfect agreement with numerical results.

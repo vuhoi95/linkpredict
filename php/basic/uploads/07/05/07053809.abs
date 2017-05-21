@@ -1,0 +1,4 @@
+Paper: 07053809
+Title: The infrared behavior of Landau gauge Yang-Mills theory in d=2, 3 and 4  dimensions
+Authors: Markus Q. Huber and Reinhard Alkofer and Christian S. Fischer and Kai Schwenzer
+Abstract: We develop a general power counting scheme for the infrared limit of Landau gauge SU(N) Yang-Mills theory in arbitrary dimensions. Employing a skeleton expansion, we find that the infrared behavior is qualitatively independent of the spacetime dimension d. In the cases d=2, 3 and 4 even the quantitative results for the infrared exponents of the vertices differ only slightly. Therefore, corresponding lattice simulations provide interesting qualitative information for the physical case. We furthermore find that the loop integrals depend only weakly on the numerical values of the IR exponents.

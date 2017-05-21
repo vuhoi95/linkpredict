@@ -1,0 +1,4 @@
+Paper: 0002239
+Title: Fermion propagator in a nontrivial background field
+Authors: Michael Joyce and Kimmo Kainulainen and Tomislav Prokopec
+Abstract: We study the fermion propagator in a spatially varying classical background field, and show that, contrary to common wisdom, it may get nontrivial gradient corrections already at the first order in derivative expansion. This occurs whenever the fermion self-energy acquires a spatially (or temporally) varying pseudoscalar term, a simple example of which is given by a complex mass term m(x)= m_R + i gamma_5 m_I. Such effective mass terms arise for example in extensions of the Standard Model during the electroweak transition, and they are crucial in providing the CP-violation necessary for electroweak baryogenesis.

@@ -1,0 +1,4 @@
+Paper: 0407171
+Title: The renormalization group improved effective potential in massless  models
+Authors: F. T. Brandt and F. A. Chishtie and D. G. C. McKeon
+Abstract: The effective potential $V$ is considered in massless $\lambda\phi^4_4$ theory. The expansion of $V$ in powers of the coupling $\lambda$ and of the logarithm of the background field $\phi$ is reorganized in two ways; first as a series in $\lambda$ alone, then as a series in $\ln\phi$ alone. By applying the renormalization group (RG) equation to $V$, these expansions can be summed. Using the condition $V^\prime(v) = 0$ (where $v$ is the vacuum expectation value of $\phi$) in conjunction with the expansion of $V$ in powers of $\ln\phi$ fixes $V$ provided $v\neq 0$. In this case, the dependence of $V$ on $\phi$ drops out and $V$ is not analytic in $\lambda$. Massless scalar electrodynamics is considered using the same approach.

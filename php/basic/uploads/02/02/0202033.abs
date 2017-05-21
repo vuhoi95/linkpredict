@@ -1,0 +1,4 @@
+Paper: 0202033
+Title: Adler-Kostant-Symes systems as Lagrangian gauge theories
+Authors: L. Feher and A. Gabor
+Abstract: It is well known that the integrable Hamiltonian systems defined by the Adler-Kostant-Symes construction correspond via Hamiltonian reduction to systems on cotangent bundles of Lie groups. Generalizing previous results on Toda systems, here a Lagrangian version of the reduction procedure is exhibited for those cases for which the underlying Lie algebra admits an invariant scalar product. This is achieved by constructing a Lagrangian with gauge symmetry in such a way that, by means of the Dirac algorithm, this Lagrangian reproduces the Adler-Kostant-Symes system whose Hamiltonian is the quadratic form associated with the scalar product on the Lie algebra.

@@ -1,0 +1,4 @@
+Paper: 0201047
+Title: Unstable manifolds and Schroedinger dynamics of Ginzburg-Landau vortices
+Authors: O. Lange and B. J. Schroers
+Abstract: The time evolution of several interacting Ginzburg-Landau vortices according to an equation of Schroedinger type is approximated by motion on a finite-dimensional manifold. That manifold is defined as an unstable manifold of an auxiliary dynamical system, namely the gradient flow of the Ginzburg-Landau energy functional. For two vortices the relevant unstable manifold is constructed numerically and the induced dynamics is computed. The resulting model provides a complete picture of the vortex motion for arbitrary vortex separation, including well-separated and nearly coincident vortices.

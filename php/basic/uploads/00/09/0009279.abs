@@ -1,0 +1,4 @@
+Paper: 0009279
+Title: Bethe's equation is incomplete for the XXZ model at roots of unity
+Authors: Klaus Fabricius and Barry M. McCoy
+Abstract: We demonstrate for the six vertex and XXZ model parameterized by $\Delta=-(q+q^{-1})/2\neq \pm 1$ that when q^{2N}=1 for integer $N\geq 2$ the Bethe's ansatz equations determine only the eigenvectors which are the highest weights of the infinite dimensional sl_2 loop algebra symmetry group of the model. Therefore in this case the Bethe's ansatz equations are incomplete and further conditions need to be imposed in order to completely specify the wave function. We discuss how the evaluation parameters of the finite dimensional representations of the sl_2 loop algebra can be used to complete this specification.

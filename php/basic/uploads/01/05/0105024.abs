@@ -1,0 +1,4 @@
+Paper: 0105024
+Title: Fast and Slow Blowup in the S^2 Sigma Model and (4+1)-Dimensional  Yang-Mills Model
+Authors: Jean Marie Linhart and Lorenzo A. Sadun
+Abstract: We study singularity formation in spherically symmetric solutions of the charge-one and charge-two sector of the (2+1)-dimensional S^2 sigma-model and the (4+1)-dimensional Yang-Mills model, near the adiabatic limit. These equations are non-integrable, and so studies are performed numerically on rotationally symmetric solutions using an iterative finite differencing scheme that is numerically stable. We evaluate the accuracy of predictions made with the geodesic approximation. We find that the geodesic approximation is extremely accurate for the charge-two sigma-model and the Yang-Mills model, both of which exhibit fast blowup. The charge-one sigma-model exhibits slow blowup. There the geodesic approximation must be modified by applying an infrared cutoff that depends on initial conditions.

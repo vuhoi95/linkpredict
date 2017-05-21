@@ -1,0 +1,4 @@
+Paper: 0106083
+Title: Differential Geometry of Gerbes
+Authors: Lawrence Breen and William Messing
+Abstract: We define in a global manner the notion of a connective structure for a gerbe on a space X. When the gerbe is endowed with trivializing data with respect to an open cover of X, we describe this connective structure in two separate ways, which extend from abelian to general gerbes the corresponding descriptions due to J.- L. Brylinski and N. Hitchin. We give a global definition of the 3-curvature of this connective structure as a 3-form on X with values in the Lie stack of the gauge stack of the gerbe. We also study this notion locally in terms of more traditional Lie algebra-valued 3-forms. The Bianchi identity, which the curvature of a connection on a principal bundle satisfies, is replaced here by a more elaborate equation.

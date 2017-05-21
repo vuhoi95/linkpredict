@@ -1,0 +1,4 @@
+Paper: 0012501
+Title: Completing Bethe's equations at roots of unity
+Authors: Klaus Fabricius and Barry M. McCoy
+Abstract: In a previous paper we demonstrated that Bethe's equations are not sufficient to specify the eigenvectors of the XXZ model at roots of unity for states where the Hamiltonian has degenerate eigenvalues. We here find the equations which will complete the specification of the eigenvectors in these degenerate cases and present evidence that the $sl_2$ loop algebra symmetry is sufficiently powerful to determine that the highest weight of each irreducible representation is given by Bethe's ansatz.

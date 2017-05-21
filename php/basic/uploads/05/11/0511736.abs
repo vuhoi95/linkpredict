@@ -1,0 +1,4 @@
+Paper: 0511736
+Title: Statistical descriptions of nonlinear systems at the onset of chaos
+Authors: Massmimo Coraddu and Marcello Lissia and Roberto Tonelli
+Abstract: Ensemble of initial conditions for nonlinear maps can be described in terms of entropy. This ensemble entropy shows an asymptotic linear growth with rate K. The rate K matches the logarithm of the corresponding asymptotic sensitivity to initial conditions \lambda. The statistical formalism and the equality K=\lambda can be extended to weakly chaotic systems by suitable and corresponding generalizations of the logarithm and of the entropy. Using the logistic map as a test case we consider a wide class of deformed statistical description which includes Tsallis, Abe and Kaniadakis proposals. The physical criterion of finite-entropy growth K strongly restricts the suitable entropies. We study how large is the region in parameter space where the generalized description is useful.

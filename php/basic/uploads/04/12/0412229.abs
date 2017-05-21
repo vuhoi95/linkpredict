@@ -1,0 +1,4 @@
+Paper: 0412229
+Title: Vacuum polarization in $d+{1/2}$ dimensions
+Authors: C. D. Fosco and A. P. C. Malbouisson and I. Roditi
+Abstract: We study the main properties of the one-loop vacuum polarization function ($\Pi_{\alpha \beta}$) for spinor $QED$ in `$d + {1/2}$ dimensions', i.e., with fields defined on ${\mathcal M} \subset {\mathbb R}^{d+1}$ such that ${\mathcal M} = \{(x_0,...,x_d) | x_{d}\geq 0 \}$, with bag-like boundary conditions on the boundary $\partial{\mathcal M} = \{(x_0,...,x_d) | x_{d}= 0 \}$. We obtain an exact expression for the induced current due to an external constant electric field normal to the boundary. We show that, for the particular case of 2+1 dimensions, there is a transverse component for the induced current, which is localized on a region close to $\partial{\mathcal M}$. This current is a parity breaking effect purely due to the boundary.

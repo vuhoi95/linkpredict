@@ -1,0 +1,4 @@
+Paper: 0509175
+Title: Topological Quantum Computing with Only One Mobile Quasiparticle
+Authors: S. H. Simon and N. E. Bonesteel and M. H. Freedman and N. Petrovic and L. Hormozi
+Abstract: In a topological quantum computer, universal quantum computation is performed by dragging quasiparticle excitations of certain two dimensional systems around each other to form braids of their world lines in 2+1 dimensional space-time. In this paper we show that any such quantum computation that can be done by braiding $n$ identical quasiparticles can also be done by moving a single quasiparticle around n-1 other identical quasiparticles whose positions remain fixed.

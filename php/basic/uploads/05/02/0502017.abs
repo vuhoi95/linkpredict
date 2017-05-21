@@ -1,0 +1,4 @@
+Paper: 0502017
+Title: SO_0(1,d+1) Racah coefficients: Type I representations
+Authors: Kirill Krasnov and Jorma Louko
+Abstract: We use AdS/CFT inspired methods to study the Racah coefficients for type I representations of the Lorentz group SO_0(1,d+1) with d>1. For such representations (a multiple of) the Racah coefficient can be represented as an integral of a product of 6 bulk-to-bulk propagators over 4 copies of the hyperbolic space H_{d+1}. To compute the integrals we represent the bulk-to-bulk propagators in terms of bulk-to-boundary ones. The bulk integrals can be computed explicitly, and the boundary integrations are carried out by introducing Feynman parameters. The final result is an integral representation of the Racah coefficient given by 4 Barnes-Mellin type integrals.

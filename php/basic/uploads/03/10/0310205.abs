@@ -1,0 +1,4 @@
+Paper: 0310205
+Title: Coupled-cluster renormalization group
+Authors: Amir H. Rezaeian and Niels R. Walet
+Abstract: The coupled cluster method (CCM) is one of the most successful and universally applicable techniques in quantum many-body theory. The intrinsic nonlinear and non-perturbative nature of the method is considered to be one of its advantages. We present here a combination of CCM with the Wilsonian renormalization group which leads to a powerful framework for construction of effective Hamiltonian field theories. As a toy example we obtain the two-loop renormalized $\phi^{4}$ theory.

@@ -1,0 +1,4 @@
+Paper: 07063605
+Title: Form factors in finite volume II:disconnected terms and finite  temperature correlators
+Authors: B. Pozsgay and G. Takacs
+Abstract: Continuing the investigation started in a previous work, we consider form factors of integrable quantum field theories in finite volume, extending our investigation to matrix elements with disconnected pieces. Numerical verification of our results is provided by truncated conformal space approach. Such matrix elements are important in computing finite temperature correlation functions, and we give a new method for generating a low temperature expansion, which we test for the one-point function up to third order.

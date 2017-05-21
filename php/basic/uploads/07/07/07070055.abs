@@ -1,0 +1,4 @@
+Paper: 07070055
+Title: The interface free energy: Comparison of accurate Monte Carlo results  for the 3D Ising model with effective interface models
+Authors: Michele Caselle and Martin Hasenbusch and Marco Panero
+Abstract: We provide accurate Monte Carlo results for the free energy of interfaces with periodic boundary conditions in the 3D Ising model. We study a large range of inverse temperatures, allowing to control corrections to scaling. In addition to square interfaces, we study rectangular interfaces for a large range of aspect ratios u=L_1/L_2. Our numerical results are compared with predictions of effective interface models. This comparison verifies clearly the effective Nambu-Goto model up to two-loop order. Our data also allow us to obtain the estimates T_c sigma^-1/2=1.235(2), m_0++ sigma^-1/2=3.037(16) and R_+=f_+^2 sigma_0 =0.387(2), which are more precise than previous ones.

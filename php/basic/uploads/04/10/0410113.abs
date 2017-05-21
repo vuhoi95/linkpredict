@@ -1,0 +1,4 @@
+Paper: 0410113
+Title: New Developments in the Eight Vertex Model II. Chains of odd length
+Authors: Klaus Fabricius and Barry M. McCoy
+Abstract: We study the transfer matrix of the 8 vertex model with an odd number of lattice sites $N.$ For systems at the root of unity points $\eta=mK/L$ with $m$ odd the transfer matrix is known to satisfy the famous ``$TQ$'' equation where ${\bf Q}(v)$ is a specifically known matrix. We demonstrate that the location of the zeroes of this ${\bf Q}(v)$ matrix is qualitatively different from the case of even $N$ and in particular they satisfy a previously unknown equation which is more general than what is often called ``Bethe's equation.'' For the case of even $m$ where no ${\bf Q}(v)$ matrix is known we demonstrate that there are many states which are not obtained from the formalism of the SOS model but which do satisfy the $TQ$ equation. The ground state for the particular case of $\eta=2K/3$ and $N$ odd is investigated in detail.

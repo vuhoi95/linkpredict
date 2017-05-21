@@ -1,0 +1,4 @@
+Paper: 0209020
+Title: Higher-genus su(N) fusion multiplicities as polytope volumes
+Authors: G. Flynn and J. Rasmussen and M. Tahic and M. A. Walton
+Abstract: We show how higher-genus su(N) fusion multiplicities may be computed as the discretized volumes of certain polytopes. The method is illustrated by explicit analyses of some su(3) and su(4) fusions, but applies to all higher-point and higher-genus su(N) fusions. It is based on an extension of the realm of Berenstein-Zelevinsky triangles by including so-called gluing and loop-gluing diagrams. The identification of the loop-gluing diagrams is our main new result, since they enable us to characterize higher-genus fusions in terms of polytopes. Also, the genus-2 0-point su(3) fusion multiplicity is found to be a simple binomial coefficient in the affine level.

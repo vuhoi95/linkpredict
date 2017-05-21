@@ -1,0 +1,4 @@
+Paper: 0403034
+Title: Dynamical Origin of Quantum Probabilities
+Authors: Antony Valentini and Hans Westman
+Abstract: We study the origin of the Born probability rule rho = |psi|^2 in the de Broglie-Bohm pilot-wave formulation of quantum theory. It is argued that quantum probabilities arise dynamically, and have a status similar to thermal probabilities in ordinary statistical mechanics. This is illustrated by numerical simulations for a two-dimensional system. We show that a simple initial ensemble with a non-standard distribution rho not= |psi|^2 of particle positions evolves towards the quantum distribution to high accuracy. The relaxation process rho --> |psi|^2 is quantified in terms of a coarse-grained H-function (equal to minus the relative entropy of rho with respect to |psi|^2), which is found to decrease approximately exponentially over time, with a time constant that accords with a simple theoretical estimate.

@@ -1,0 +1,4 @@
+Paper: 0308037
+Title: Five-loop epsilon expansion for O(n)xO(m) spin models
+Authors: Pasquale Calabrese and Pietro Parruccini
+Abstract: We compute the Renormalization Group functions of a Landau-Ginzburg-Wilson Hamiltonian with O(n)x O(m) symmetry up to five-loop in Minimal Subtraction scheme. The line n^+(m,d), which limits the region of second-order phase transition, is reconstructed in the framework of the epsilon=4-d expansion for generic values of $m$ up to O(epsilon^5). For the physically interesting case of noncollinear but planar orderings (m=2) we obtain n^+(2,3)=6.1(6) by exploiting different resummation procedures. We substantiate this results re-analyzing six-loop fixed dimension series with pseudo-epsilon expansion, obtaining n^+(2,3)=6.22(12). We also provide predictions for the critical exponents characterizing the second-order phase transition occurring for n>n^+.

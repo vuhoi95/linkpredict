@@ -1,0 +1,4 @@
+Paper: 0508155
+Title: Matrix Representation of Renormalization in Perturbative Quantum Field  Theory
+Authors: K. Ebrahimi-Fard and L. Guo
+Abstract: We formulate the Hopf algebraic approach of Connes and Kreimer to renormalization in perturbative quantum field theory using triangular matrix representation. We give a Rota-Baxter anti-homomorphism from general regularized functionals on the Feynman graph Hopf algebra to triangular matrices with entries in a Rota-Baxter algebra. For characters mapping to the group of unipotent triangular matrices we derive the algebraic Birkhoff decomposition for matrices using Spitzer's identity. This simple matrix factorization is applied to characterize and calculate perturbative renormalization.

@@ -1,0 +1,4 @@
+Paper: 07041645
+Title: Non-Relativistic Propagators via Schwinger's Method
+Authors: A. Aragao and H. Boschi-Filho and C. Farina and F. A. Barone
+Abstract: In order to popularize the so called Schwinger's method we reconsider the Feynman propagator of two non-relativistic systems: a charged particle in a uniform magnetic field and a charged harmonic oscillator in a uniform magnetic field. Instead of solving the Heisenberg equations for the position and the canonical momentum operators, ${\bf R}$ and ${\bf P}$, we apply this method by solving the Heisenberg equations for the gauge invariant operators ${\bf R}$ and $\mathversion{bold}${\pi}$ = {\bf P}-e{\bf A}$, the latter being the mechanical momentum operator. In our procedure we avoid fixing the gauge from the beginning and the result thus obtained shows explicitly the gauge dependence of the Feynman propagator.

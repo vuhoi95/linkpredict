@@ -1,0 +1,4 @@
+Paper: 0507262
+Title: Fundamental gravitational limitations to quantum computing
+Authors: Rodolfo Gambini and Rafael A. Porto and Jorge Pullin
+Abstract: Lloyd has considered the ultimate limitations physics places on quantum computers. He concludes in particular that for an ``ultimate laptop'' (a computer of one liter of volume and one kilogram of mass) the maximum number of operations per second is bounded by $10^{51}$. The limit is derived considering ordinary quantum mechanics. Here we consider additional limits that are placed by quantum gravity ideas, namely the use of a relational notion of time and fundamental gravitational limits that exist on time measurements. We then particularize for the case of an ultimate laptop and show that the maximum number of operations is further constrained to $10^{47}$ per second.

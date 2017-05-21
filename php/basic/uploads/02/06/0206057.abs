@@ -1,0 +1,4 @@
+Paper: 0206057
+Title: Mixed toric residues and Calabi-Yau complete intersections
+Authors: Victor V. Batyrev and Evgeny N. Materov
+Abstract: Using Cayley trick, we define the notions of mixed toric residues and mixed Hessians associated with $r$ Laurent polynomials $f_1,...,f_r$.We conjecture that the values of mixed toric residues on the mixed Hessians are determined by mixed volumes of the Newton polytopes of $f_1,...,f_r$. Using mixed toric residues, we generalize our Toric Residue Mirror Conjecture to the case of Calabi-Yau complete intersections in Gorenstein toric Fano varieties obtained from nef-partitions of reflexive polytopes.

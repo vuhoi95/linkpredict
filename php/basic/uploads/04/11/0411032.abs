@@ -1,0 +1,4 @@
+Paper: 0411032
+Title: Quantifying ground state entanglement of the BCS model
+Authors: Clare Dunning and Jon Links and Huan-Qiang Zhou
+Abstract: The concept of local concurrence is used to quantify the entanglement between a single qubit and the remainder of a multi-qubit system. For the ground state of the BCS model in the thermodynamic limit the set of local concurrences completely describe the entanglement. As a measure for the entanglement of the full system we investigate the Average Local Concurrence (ALC). We find that the ALC satisfies a simple relation with the order parameter. We then show that for finite systems with fixed particle number, a relation between the ALC and the condensation energy exposes a threshold coupling. Below the threshold, entanglement measures besides the ALC are significant.

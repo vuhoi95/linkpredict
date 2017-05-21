@@ -1,0 +1,4 @@
+Paper: 0206054
+Title: Quantum fields and quantum groups
+Authors: Christian Brouder and Robert Oeckl
+Abstract: Quantum fields are shown to provide an example of infinite-dimensional quantum groups. A dictionary is established between quantum field and quantum group concepts: the expectation value over the vacuum is the counit, Wick's theorem is the definition of a twisted product, operator and time-ordered products are examples of twisted products. Through this dictionary, coquasitriangular structures are introduced in quantum field theory. These structures are the origin of Wick's theorem and quasifree states. Renormalization becomes the replacement of a coquasitriangular structure by a 2-coboundary. Quantum groups provide a second quantization without commutators which can second-quantize noncommutative algebras.

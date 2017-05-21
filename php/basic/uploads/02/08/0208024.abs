@@ -1,0 +1,4 @@
+Paper: 0208024
+Title: Complementarity, measurement and information in interference experiments
+Authors: G. Bimonte and R. Musto
+Abstract: Different criteria (Shannon's entropy, Bayes' average cost, Durr's normalized rms spread) have been introduced to measure the "which-way" information present in interference experiments where, due to non-orthogonality of the detector states, the path determination is incomplete. For each of these criteria, we determine the optimal measurement to be carried on the detectors, in order to read out the maximum which-way information. We show that, while in two-beam experiments, the optimal measurement is always provided by an observable involving the detector only, in multibeam experiments, with equally populated beams and two-state detectors, this is the case only for the Durr criterion, as the other two require the introduction of an ancillary quantum system, as part of the read-out apparatus.

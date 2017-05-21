@@ -1,0 +1,4 @@
+Paper: 0703084
+Title: Bootstrap in Supersymmetric Liouville Field Theory. I. NS Sector
+Authors: A. Belavin and V. Belavin and A. Neveu and Al. Zamolodchikov
+Abstract: A four point function of basic Neveu-Schwarz exponential fields is constructed in the N = 1 supersymmetric Liouville field theory. Although the basic NS structure constants were known previously, we present a new derivation, based on a singular vector decoupling in the NS sector. This allows to stay completely inside the NS sector of the space of states, without referencing to the Ramond fields. The four-point construction involves also the NS blocks, for which we suggest a new recursion representation, the so-called elliptic one. The bootstrap conditions for this four point correlation function are verified numerically for different values of the parameters.

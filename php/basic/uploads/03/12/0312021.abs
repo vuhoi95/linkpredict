@@ -1,0 +1,4 @@
+Paper: 0312021
+Title: Construction of some special subsequences within a Farey sequence
+Authors: B. Basu-Mallick and Tanaya Bhattacharyya and Diptiman Sen
+Abstract: Recently it has been found that some special subsequences within a Farey sequence play a crucial role in determining the ranges of coupling constant for which quantum soliton states can exist for an integrable derivative nonlinear Schrodinger model. In this article, we find a novel mapping which connects two such subsequences belonging to Farey sequences of different orders. By using this mapping, we construct an algorithm to generate all of these special subsequences within a Farey sequence. We also derive the continued fraction expansions for all the elements belonging to a subsequence and observe a close connection amongst the corresponding expansion coefficients.

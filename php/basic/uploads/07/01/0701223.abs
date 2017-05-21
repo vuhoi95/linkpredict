@@ -1,0 +1,4 @@
+Paper: 0701223
+Title: The fusion algebra of bimodule categories
+Authors: Jurgen Fuchs and Ingo Runkel and Christoph Schweigert
+Abstract: We establish an algebra-isomorphism between the complexified Grothendieck ring F of certain bimodule categories over a modular tensor category and the endomorphism algebra of appropriate morphism spaces of those bimodule categories. This provides a purely categorical proof of a conjecture by Ostrik concerning the structure of F. As a by-product we obtain a concrete expression for the structure constants of the Grothendieck ring of the bimodule category in terms of endomorphisms of the tensor unit of the underlying modular tensor category.

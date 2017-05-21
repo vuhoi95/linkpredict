@@ -1,0 +1,4 @@
+Paper: 0012129
+Title: Systematics of one-loop Yang-Mills diagrams from bosonic string  amplitudes
+Authors: Alberto Frizzo and Lorenzo Magnea and Rodolfo Russo
+Abstract: We present a general algorithm to compute off-shell, one-loop multigluon Green functions using bosonic string amplitudes. We identify and parametrize the regions in the space of moduli of one-loop Riemann surfaces that contribute to the field theory limit of string amplitudes. Each of these regions can be precisely associated with a Feynman-like scalar graph with cubic and quartic vertices, whose lines represent the joint propagation of ghosts and gluons. We give a procedure to compute the contribution of each graph to a gluon Green function, for arbitrarily polarized off-shell gluons, reducible and irreducible diagrams, planar and non-planar topologies. Explicit examples are given for up to six gluons.

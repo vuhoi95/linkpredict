@@ -1,0 +1,4 @@
+Paper: 07082455
+Title: Shape invariance and the exactness of quantum Hamilton-Jacobi formalism
+Authors: Charles Cherqui and Yevgeny Binder and Asim Gangopadhyaya
+Abstract: Quantum Hamilton-Jacobi Theory and supersymmetric quantum mechanics (SUSYQM) are two parallel methods to determine the spectra of a quantum mechanical systems without solving the Schr\"odinger equation. It was recently shown that the shape invariance, which is an integrability condition in SUSYQM formalism, can be utilized to develop an iterative algorithm to determine the quantum momentum functions. In this paper, we show that shape invariance also suffices to determine the eigenvalues in Quantum Hamilton-Jacobi Theory.

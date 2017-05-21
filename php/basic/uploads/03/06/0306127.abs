@@ -1,0 +1,4 @@
+Paper: 0306127
+Title: Comments on the Gauge Fixed BRST Cohomology and the Quantum Noether  Method
+Authors: Glenn Barnich and Tobias Hurth and Kostas Skenderis
+Abstract: We discuss in detail the relation between the gauge fixed and gauge invariant BRST cohomology. We showed previously that in certain gauges some cohomology classes of the gauge-fixed BRST differential do not correspond to gauge invariant observables. We now show that in addition ``accidental'' conserved currents may appear. These correspond one-to-one to observables that become trivial in this gauge. We explicitly show how the gauge-fixed BRST cohomology appears in the context of the Quantum Noether Method.

@@ -1,0 +1,4 @@
+Paper: 0402084
+Title: Exploring the 4d Superconformal Zoo
+Authors: Ken Intriligator and Brian Wecht
+Abstract: We discuss a new constraint for determining the superconformal U(1)_R symmetry of 4d N=1 SCFTs: It is the unique one which locally maximizes a(R) = 3Tr R^3-Tr R. This constraint comes close to proving the conjectured "a-theorem" for N=1 SCFTs. Using this "a-maximization", exact results can now be obtained for previously inaccessible 4d N=1 SCFTs. We apply this method to a rich class of examples: 4d N=1 SQCD with added matter chiral superfields in the adjoint representation. We classify a zoo of SCFTs, finding that Arnold's ADE singularity classification arises in classifying these theories via all possible relevant Landau-Ginzburg superpotentials. We verify that all RG flows are indeed compatible with the "a-theorem" conjecture, a_{IR}<a_{UV}, in every case

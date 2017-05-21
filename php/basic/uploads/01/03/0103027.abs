@@ -1,0 +1,4 @@
+Paper: 0103027
+Title: SU(N) gauge theories in four dimensions: exploring the approach to N =  infinity
+Authors: B. Lucini and M. Teper
+Abstract: We calculate the string tension, K, and some of the lightest glueball masses, M, in 3+1 dimensional SU(N) lattice gauge theories for N=2,3,4,5 . From the continuum extrapolation of the lattice values, we find that the mass ratios, M/sqrt(K), appear to show a rapid approach to the large-N limit, and, indeed, can be described all the way down to SU(2) using just a leading O(1/NxN) correction. We confirm that the smooth large-N limit we find, is obtained by keeping a constant 't Hooft coupling. We also calculate the topological charge of the gauge fields. We observe that, as expected, the density of small-size instantons vanishes rapidly as N increases, while the topological susceptibility appears to have a non-zero N=infinity limit.

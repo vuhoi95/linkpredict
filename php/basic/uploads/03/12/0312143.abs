@@ -1,0 +1,4 @@
+Paper: 0312143
+Title: Taming the alpha-vacuum
+Authors: Hael Collins and R. Holman
+Abstract: An interacting scalar field theory in de Sitter space is non-renormalizable for a generic alpha-vacuum state. This pathology arises since the usual propagator used allows for a constructive interference among propagators in loop corrections, which produces divergences that are not proportional to standard counterterms. This interference can be avoided by defining a new propagator for the alpha-vacuum based on a generalized time-ordering prescription. The generating functional associated with this propagator contains a source that couples to the field both at a point and at its antipode. To one loop order, we show that a set of theories with very general antipodal interactions is causal and renormalizable.

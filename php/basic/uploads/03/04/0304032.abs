@@ -1,0 +1,4 @@
+Paper: 0304032
+Title: Infinite Products of Large Random Matrices and Matrix-valued Diffusion
+Authors: Ewa Gudowska-Nowak and Romuald A. Janik and Jerzy Jurkiewicz and Maciej A. Nowak
+Abstract: We use an extension of the diagrammatic rules in random matrix theory to evaluate spectral properties of finite and infinite products of large complex matrices and large hermitian matrices. The infinite product case allows us to define a natural matrix-valued multiplicative diffusion process. In both cases of hermitian and complex matrices, we observe an emergence of "topological phase transition" in the spectrum, after some critical diffusion time $\tau_{\rm crit}$ is reached. In the case of the particular product of two hermitian ensembles, we observe also an unusual localization-delocalization phase transition in the spectrum of the considered ensemble. We verify the analytical formulae obtained in this work by numerical simulation.

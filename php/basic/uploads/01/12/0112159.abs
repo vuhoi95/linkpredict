@@ -1,0 +1,4 @@
+Paper: 0112159
+Title: Dimensional reduction, SL(2,C)-equivariant bundles and stable  holomorphic chains
+Authors: Luis Álvarez-Cónsul and Oscar García-Prada
+Abstract: In this paper we study gauge theory on SL(2,C)-equivariant bundles over XxP^1, where X is a compact Kahler manifold, P^1 is the complex projective line, and the action of SL(2,C) is trivial on X and standard on P^1. We first classify these bundles, showing that they are in correspondence with objects on X - that we call holomorphic chains - consisting of a finite number of holomorphic bundles E_i and morphisms E_i->E_{i-1}. We then prove a Hitchin-Kobayashi correspondence relating the existence of solutions to certain natural gauge-theoretic equations and an appropriate notion of stability for an equivariant bundle and the corresponding chain. A central tool in this paper is a dimensional reduction procedure which allow us to go from XxP^1 to X.

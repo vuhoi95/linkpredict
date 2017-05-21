@@ -1,0 +1,4 @@
+Paper: 0609651
+Title: Large Deviations of Extreme Eigenvalues of Random Matrices
+Authors: David S. Dean and Satya N. Majumdar
+Abstract: We calculate analytically the probability of large deviations from its mean of the largest (smallest) eigenvalue of random matrices belonging to the Gaussian orthogonal, unitary and symplectic ensembles. In particular, we show that the probability that all the eigenvalues of an (N\times N) random matrix are positive (negative) decreases for large N as \exp[-\beta \theta(0) N^2] where the parameter \beta characterizes the ensemble and the exponent \theta(0)=(\ln 3)/4=0.274653... is universal. We also calculate exactly the average density of states in matrices whose eigenvalues are restricted to be larger than a fixed number \zeta, thus generalizing the celebrated Wigner semi-circle law. The density of states generically exhibits an inverse square-root singularity at \zeta.

@@ -1,0 +1,4 @@
+Paper: 0610024
+Title: Topological Computation without Braiding
+Authors: H. Bombin and M. A. Martin-Delgado
+Abstract: We show that universal quantum computation can be performed within the ground state of a topologically ordered quantum system, which is a naturally protected quantum memory. In particular, we show how this can be achieved using brane-net condensates in 3-colexes. The universal set of gates is implemented without selective addressing of physical qubits and, being fully topologically protected, it does not rely on quasiparticle excitations or their braiding.

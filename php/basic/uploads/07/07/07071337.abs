@@ -1,0 +1,4 @@
+Paper: 07071337
+Title: Root Systems and the Quantum Cohomology of ADE resolutions
+Authors: Jim Bryan and Amin Gholampour
+Abstract: We compute the C*-equivariant quantum cohomology ring of Y, the minimal resolution of the DuVal singularity C^2/G where G is a finite subgroup of SU(2). The quantum product is expressed in terms of an ADE root system canonically associated to G. We generalize the resulting Frobenius manifold to non-simply laced root systems to obtain an n parameter family of algebra structures on the affine root lattice of any root system. Using the Crepant Resolution Conjecture, we obtain a prediction for the orbifold Gromov-Witten potential of [C^2/G].

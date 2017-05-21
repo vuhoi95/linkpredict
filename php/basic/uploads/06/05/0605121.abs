@@ -1,0 +1,4 @@
+Paper: 0605121
+Title: Structure of the MHV-rules Lagrangian
+Authors: James H. Ettle and Tim R. Morris
+Abstract: Recently, a canonical change of field variables was proposed that converts the Yang-Mills Lagrangian into an MHV-rules Lagrangian, i.e. one whose tree level Feynman diagram expansion generates CSW rules. We solve the relations defining the canonical transformation, to all orders of expansion in the new fields, yielding simple explicit holomorphic expressions for the expansion coefficients. We use these to confirm explicitly that the three, four and five point vertices are proportional to MHV amplitudes with the correct coefficient, as expected. We point out several consequences of this framework, and initiate a study of its implications for MHV rules at the quantum level. In particular, we investigate the wavefunction matching factors implied by the Equivalence Theorem at one loop, and show that they may be taken to vanish in dimensional regularisation.

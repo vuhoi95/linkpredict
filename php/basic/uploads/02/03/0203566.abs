@@ -1,0 +1,4 @@
+Paper: 0203566
+Title: Renormalization group and nonequilibrium action in stochastic field  theory
+Authors: Juan Zanella and Esteban Calzetta
+Abstract: We investigate the renormalization group approach to nonequilibrium field theory. We show that it is possible to derive nontrivial renormalization group flow from iterative coarse graining of a closed-time-path action. This renormalization group is different from the usual in quantum field theory textbooks, in that it describes nontrivial noise and dissipation. We work out a specific example where the variation of the closed-time-path action leads to the so-called Kardar-Parisi-Zhang equation, and show that the renormalization group obtained by coarse graining this action, agrees with the dynamical renormalization group derived by directly coarse graining the equations of motion.

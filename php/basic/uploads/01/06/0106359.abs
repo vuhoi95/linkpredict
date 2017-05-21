@@ -1,0 +1,4 @@
+Paper: 0106359
+Title: RNA Folding and Large N Matrix Theory
+Authors: H. Orland and A. Zee
+Abstract: We formulate the RNA folding problem as an $N\times N$ matrix field theory. This matrix formalism allows us to give a systematic classification of the terms in the partition function according to their topological character. The theory is set up in such a way that the limit $N\to \infty$ yields the so-called secondary structure (Hartree theory). Tertiary structure and pseudo-knots are obtained by calculating the $1/N^2$ corrections to the partition function. We propose a generalization of the Hartree recursion relation to generate the tertiary structure.

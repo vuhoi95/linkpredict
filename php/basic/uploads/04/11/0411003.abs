@@ -1,0 +1,4 @@
+Paper: 0411003
+Title: Stress Tensor Correlators in the Schwinger-Keldysh Formalism
+Authors: L. H. Ford and R. P. Woodard
+Abstract: We express stress tensor correlators using the Schwinger-Keldysh formalism. The absence of off-diagonal counterterms in this formalism ensures that the +- and -+ correlators are free of primitive divergences. We use dimensional regularization in position space to explicitly check this at one loop order for a massless scalar on a flat space background. We use the same procedure to show that the ++ correlator contains the divergences first computed by `t Hooft and Veltman for the scalar contribution to the graviton self-energy.

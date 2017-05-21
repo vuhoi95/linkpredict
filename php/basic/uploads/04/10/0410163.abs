@@ -1,0 +1,4 @@
+Paper: 0410163
+Title: The Replica Method and Toda Lattice Equations for QCD_3
+Authors: T. Andersson and P. H. Damgaard and K. Splittorff
+Abstract: We consider the epsilon-regime of QCD in 3 dimensions. It is shown that the leading term of the effective partition function satisfies a set of Toda lattice equations, recursive in the number of flavors. Taking the replica limit of these Toda equations allows us to derive the microscopic spectral correlation functions for the QCD Dirac operator in 3 dimensions. For an even number of flavors we reproduce known results derived using other techniques. In the case of an odd number of flavors the theory has a severe sign problem, and we obtain previously unknown microscopic spectral correlation functions.

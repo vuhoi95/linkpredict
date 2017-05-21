@@ -1,0 +1,4 @@
+Paper: 0104019
+Title: The W_t Transcendental Function and Quantum Mechanical Applications
+Authors: V. E. Markushin and R. Rosenfelder and A. W. Schreiber
+Abstract: We discuss the function wt(x) defined via the implicit equation wt(x)*tan[wt(x)]=x which appears in certain quantum mechanical and field theoretic applications. We investigate its analytic structure, develop series expansions for both small and large x, and provide various techniques for its numerical evaluation in the complex plane.

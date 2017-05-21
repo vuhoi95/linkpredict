@@ -1,0 +1,4 @@
+Paper: 0009030
+Title: Simulating Simplified Versions of the IKKT Matrix Model
+Authors: J. Ambjorn and K. N. Anagnostopoulos and W. Bietenholz and T. Hotta and J. Nishimura
+Abstract: We simulate a supersymmetric matrix model obtained from dimensional reduction of 4d SU(N) super Yang-Mills theory (a 4d counter part of the IKKT model or IIB matrix model). The eigenvalue distribution determines the space structure. The measurement of Wilson loop correlators reveals a universal large N scaling. Eguchi-Kawai equivalence may hold in a finite range of scale, which is also true for the bosonic case. We finally report on simulations of a low energy approximation of the 10d IKKT model, where we omit the phase of the Pfaffian and look for evidence for a spontaneous Lorentz symmetry breaking.

@@ -1,0 +1,4 @@
+Paper: 0109090
+Title: Kac-Moody algebras and Lie algebras of regular vector fields on tori
+Authors: M. Rausch de Traubenberg and M. J. Slupinski
+Abstract: We consider the problem of representing the Kac-Moody algebra $\mathfrak{g}(N)$ specified by an $r\times r$ indecomposable generalised Cartan matrix $N$ as vector fields on the torus ${{\bb C}^*}^r$. It is shown that, if the representations are of a certain form, this is possible if and only if $\mathfrak{g}(N)\cong sl(r+1,{\bb C})$ or $\tilde{sl}(r,{\bb C})$. For $sl(r+1,{\bb C})$ and $\tilde{sl}(r,{\bb C})$, discrete families of representations are constructed. These generalise the well-known discrete families of representations of $sl(2,{\bb C})$ as regular vector fields on ${\bb C}^*$

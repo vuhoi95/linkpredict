@@ -1,0 +1,4 @@
+Paper: 0309680
+Title: Integrable spin-boson interaction in the Tavis-Cummings model from a  generic boundary twist
+Authors: Luigi Amico and Kazuhiro Hikami
+Abstract: We construct models describing interaction between a spin $s$ and a single bosonic mode using a quantum inverse scattering procedure. The boundary conditions are generically twisted by generic matrices with both diagonal and off-diagonal entries. The exact solution is obtained by mapping the transfer matrix of the spin-boson system to an auxiliary problem of a spin-$j$ coupled to the spin-$s$ with general twist of the boundary condition. The corresponding auxiliary transfer matrix is diagonalized by a variation of the method of $Q$-matrices of Baxter. The exact solution of our problem is obtained applying certain large-$j$ limit to $su(2)_j$, transforming it into the bosonic algebra.

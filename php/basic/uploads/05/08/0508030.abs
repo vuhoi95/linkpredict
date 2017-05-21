@@ -1,0 +1,4 @@
+Paper: 0508030
+Title: Simulating nonequilibrium quantum fields with stochastic quantization  techniques
+Authors: J. Berges and I. -O. Stamatescu
+Abstract: We present lattice simulations of nonequilibrium quantum fields in Minkowskian space-time. Starting from a non-thermal initial state, the real-time quantum ensemble in 3+1 dimensions is constructed by a stochastic process in an additional (5th) ``Langevin-time''. For the example of a self-interacting scalar field we show how to resolve apparent unstable Langevin dynamics, and compare our quantum results with those obtained in classical field theory. Such a direct simulation method is crucial for our understanding of collision experiments of heavy nuclei or other nonequilibrium phenomena in strongly coupled quantum many-body systems.

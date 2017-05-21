@@ -1,0 +1,4 @@
+Paper: 07082591
+Title: The off-shell Veneziano amplitude in Schnabl gauge
+Authors: Leonardo Rastelli and Barton Zwiebach
+Abstract: We give a careful definition of the open string propagator in Schnabl gauge and present its worldsheet interpretation. The propagator requires two Schwinger parameters and contains the BRST operator. It builds surfaces by gluing strips of variable width to the left and to the right of off-shell states with contracted or expanded local frames. We evaluate explicitly the four-point amplitude of off-shell tachyons. The computation involves a subtle boundary term, crucial to enforce the correct exchange symmetries. Interestingly, the familiar on-shell physics emerges even though string diagrams produce Riemann surfaces more than once. Off-shell, the amplitudes do not factorize over intermediate on-shell states.

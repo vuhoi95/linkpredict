@@ -1,0 +1,4 @@
+Paper: 0012080
+Title: Exact spinor-scalar bound states in a QFT with scalar interactions
+Authors: Volodymyr Shpytko and Jurij Darewych
+Abstract: We study two-particle systems in a model quantum field theory, in which scalar particles and spinor particles interact via a mediating scalar field. The Lagrangian of the model is reformulated by using covariant Green's functions to solve for the mediating field in terms of the particle fields. This results in a Hamiltonian in which the mediating-field propagator appears directly in the interaction term. It is shown that exact two-particle eigenstates of the Hamiltonian can be determined. The resulting relativistic fermion-boson equation is shown to have Dirac and Klein-Gordon one-particle limits. Analytic solutions for the bound state energy spectrum are obtained for the case of massless mediating fields.

@@ -1,0 +1,4 @@
+Paper: 0008016
+Title: Sequential Bethe vectors and the quantum Ernst system
+Authors: M. Niedermaier and H. Samtleben
+Abstract: We give a brief review on the use of Bethe ansatz techniques to construct solutions of recursive functional equations which emerged in a bootstrap approach to the quantum Ernst system. The construction involves two particular limits of a rational Bethe ansatz system with complex inhomogeneities. First, we pinch two insertions to the critical value. This links Bethe systems with different number of insertions and leads to the concept of sequential Bethe vectors. Second, we study the semiclassical limit of the system in which the scale parameter of the insertions tends to infinity.

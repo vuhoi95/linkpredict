@@ -1,0 +1,4 @@
+Paper: 0505135
+Title: Anyon Wave Function for the Fractional Quantum Hall Effect
+Authors: O. Ciftja and G. Japaridze and X. Q. Wang
+Abstract: An anyon wave function (characterized by the statistical factor $n$) projected onto the lowest Landau level is derived for the fractional quantum Hall effect states at filling factor $\nu = n/(2pn+1)$ ($p$ and $n$ are integers). We study the properties of the anyon wave function by using detailed Monte Carlo simulations in disk geometry and show that the anyon ground-state energy is a lower bound to the composite fermion one.

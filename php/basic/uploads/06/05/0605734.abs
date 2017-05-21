@@ -1,0 +1,4 @@
+Paper: 0605734
+Title: Determinantal Characterization of Canonical Curves and Combinatorial  Theta Identities
+Authors: Marco Matone and Roberto Volpato
+Abstract: We characterize genus g canonical curves by the vanishing of combinatorial products of g+1 determinants of Brill-Noether matrices. This also implies the characterization of canonical curves in terms of (g-2)(g-3)/2 theta identities. A remarkable mechanism, based on a basis of H^0(K_C) expressed in terms of Szego kernels, reduces such identities to a simple rank condition for matrices whose entries are logarithmic derivatives of theta functions. Such a basis, together with the Fay trisecant identity, also leads to the solution of the question of expressing the determinant of Brill-Noether matrices in terms of theta functions, without using the problematic Klein-Fay section sigma.

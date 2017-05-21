@@ -1,0 +1,4 @@
+Paper: 0501187
+Title: On the numerical method of Casimir energy renormalization in the  presence of logarithmical divergencies
+Authors: Il. Malakhov and P. Silaev and K. Sveshnikov
+Abstract: A non-subtractive recipe of Casimir energy renormalization efficient in the presence of logarithmically divergent terms is proposed. It is demonstrated that it can be applied even then, when energy levels can be obtained only numerically and neither their asymptotical behavior, nor the analytic form of spectral equation is known. The results of calculations performed with this method are compared to those obtained by means of explicit subtraction of divergent terms from energy.

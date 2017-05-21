@@ -1,0 +1,4 @@
+Paper: 0309188
+Title: Berezinians, Exterior Powers and Recurrent Sequences
+Authors: H. M. Khudaverdian and Th. Th. Voronov
+Abstract: We study power expansions of the characteristic function of a linear operator $A$ in a $p|q$-dimensional superspace $V$. We show that traces of exterior powers of $A$ satisfy universal recurrence relations of period $q$. `Underlying' recurrence relations hold in the Grothendieck ring of representations of $\GL(V)$. They are expressed by vanishing of certain Hankel determinants of order $q+1$ in this ring, which generalizes the vanishing of sufficiently high exterior powers of an ordinary vector space. In particular, this allows to explicitly express the Berezinian of an operator as a rational function of traces. We analyze the Cayley--Hamilton identity in a superspace. Using the geometric meaning of the Berezinian we also give a simple formulation of the analog of Cramer's rule.

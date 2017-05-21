@@ -1,0 +1,4 @@
+Paper: 0606009
+Title: A gauge invariant cluster algorithm for the Ising spin glass
+Authors: K. Langfeld and M. Quandt and W. Lutz and H. Reinhardt
+Abstract: The frustrated Ising model in two dimensions is revisited. The frustration is quantified in terms of the number of non-trivial plaquettes which is invariant under the Nishimori gauge symmetry. The exact ground state energy is calculated using Edmond's algorithm. A novel cluster algorithm is designed which treats gauge equivalent spin glasses on equal footing and allows for efficient simulations near criticality. As a first application, the specific heat near criticality is investigated.

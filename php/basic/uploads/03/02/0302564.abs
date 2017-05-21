@@ -1,0 +1,4 @@
+Paper: 0302564
+Title: Third Neighbor Correlators of Spin-1/2 Heisenberg Antiferromagnet
+Authors: Kazumitsu Sakai and Masahiro Shiroishi and Yoshihiro Nishiyama and Minoru Takahashi
+Abstract: We exactly evaluate the third neighbor correlator <S_j^z S_{j+3}^z> and all the possible non-zero correlators <S^{alpha}_j S^{beta}_{j+1} S^{gamma}_{j+2} S^{delta}_{j+3}> of the spin-1/2 Heisenberg $XXX$ antiferromagnet in the ground state without magnetic field. All the correlators are expressed in terms of certain combinations of logarithm ln2, the Riemann zeta function zeta(3), zeta(5) with rational coefficients. The results accurately coincide with the numerical ones obtained by the density-matrix renormalization group method and the numerical diagonalization.

@@ -1,0 +1,4 @@
+Paper: 0612024
+Title: Quantitative comparison of filtering methods in lattice QCD
+Authors: Falk Bruckmann and Christof Gattringer and Ernst-Michael Ilgenfritz and Michael Müller-Preussker and Andreas Schafer and Stefan Solbrig
+Abstract: We systematically compare filtering methods used to extract topological excitations (like instantons, calorons, monopoles and vortices) from lattice gauge configurations, namely APE-smearing and spectral decompositions based on lattice Dirac and Laplace operators. Each of these techniques introduces ambiguities, which can invalidate the interpretation of the results. We show, however, that all these methods, when handled with care, reveal very similar topological structures. Hence, these common structures are free of ambiguities and faithfully represent infrared degrees of freedom in the QCD vacuum. As an application we discuss an interesting power-law for the clusters of filtered topological charge.

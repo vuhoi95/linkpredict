@@ -1,0 +1,4 @@
+Paper: 0405126
+Title: Generating function techniques for loop quantum cosmology
+Authors: Daniel Cartin and Gaurav Khanna and Martin Bojowald
+Abstract: Loop quantum cosmology leads to a difference equation for the wave function of a universe, which in general has solutions changing rapidly even when the volume changes only slightly. For a semiclassical regime such small-scale oscillations must be suppressed, by choosing the parameters of the solution appropriately. For anisotropic models this is not possible to do numerically by trial and error; instead, it is shown here for the Bianchi I LRS model how this can be done analytically, using generating function techniques. Those techniques can also be applied to more complicated models, and the results gained allow conclusions about initial value problems for other systems.

@@ -1,0 +1,4 @@
+Paper: 0309052
+Title: Finite calculation of divergent selfenergy diagrams
+Authors: Andreas Aste and Dirk Trautmann
+Abstract: Using dispersive techniques, it is possible to avoid ultraviolet divergences in the calculation of Feynman diagrams, making subsequent regularization of divergent diagrams unnecessary. We give a simple introduction to the most important features of such dispersive techniques in the framework of the so-called finite causal perturbation theory. The method is also applied to the 'divergent' general massive two-loop sunrise selfenergy diagram, where it leads directly to an analytic expression for the imaginary part of the diagram in accordance with the literature, whereas the real part can be obtained by a single integral dispersion relation. It is pointed out that dispersive methods have been known for decades and have been applied to several nontrivial Feynman diagram calculations.

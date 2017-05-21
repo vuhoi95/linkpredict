@@ -1,0 +1,4 @@
+Paper: 0406234
+Title: Integrability of the russian doll BCS model
+Authors: Clare Dunning and Jon Links
+Abstract: We show that integrability of the BCS model extends beyond Richardson's model (where all Cooper pair scatterings have equal coupling) to that of the russian doll BCS model for which the couplings have a particular phase dependence that breaks time-reversal symmetry. This model is shown to be integrable using the quantum inverse scattering method, and the exact solution is obtained by means of the algebraic Bethe ansatz. The inverse problem of expressing local operators in terms of the global operators of the monodromy matrix is solved. This result is used to find a determinant formulation of a correlation function for fluctuations in the Cooper pair occupation numbers. These results are used to undertake exact numerical analysis for small systems at half-filling.

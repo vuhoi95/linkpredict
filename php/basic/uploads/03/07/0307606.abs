@@ -1,0 +1,4 @@
+Paper: 0307606
+Title: Statistics of planar graphs viewed from a vertex: A study via labeled  trees
+Authors: J. Bouttier and P. Di Francesco and E. Guitter
+Abstract: We study the statistics of edges and vertices in the vicinity of a reference vertex (origin) within random planar quadrangulations and Eulerian triangulations. Exact generating functions are obtained for theses graphs with fixed numbers of edges and vertices at given geodesic distances from the origin. Our analysis relies on bijections with labeled trees, in which the labels encode the information on the geodesic distance from the origin. In the case of infinitely large graphs, we give in particular explicit formulas for the probabilities that the origin have given numbers of neighboring edges and/or vertices, as well as explicit values for the corresponding moments.

@@ -1,0 +1,4 @@
+Paper: 07081391
+Title: Geometry and dynamics of higher-spin frame fields
+Authors: Johan Engquist and Olaf Hohm
+Abstract: We give a systematic account of unconstrained free bosonic higher-spin fields on D-dimensional Minkowski and (Anti-)de Sitter spaces in the frame formalism. The generalized spin connections are determined by solving a chain of torsion-like constraints. Via a generalization of the vielbein postulate these allow to determine higher-spin Christoffel symbols, whose relation to the de Wit--Freedman connections is discussed. We prove that the generalized Einstein equations, despite being of higher-derivative order, give rise to the AdS Fronsdal equations in the compensator formulation. To this end we derive Damour-Deser identities for arbitrary spin on AdS. Finally we discuss the possibility of a geometrical and local action principle, which is manifestly invariant under unconstrained higher-spin symmetries.

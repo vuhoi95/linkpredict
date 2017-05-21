@@ -1,0 +1,4 @@
+Paper: 0307192
+Title: Characterizing entanglement with global and marginal entropic measures
+Authors: Gerardo Adesso and Fabrizio Illuminati and Silvio De Siena
+Abstract: We qualify the entanglement of arbitrary mixed states of bipartite quantum systems by comparing global and marginal mixednesses quantified by different entropic measures. For systems of two qubits we discriminate the class of maximally entangled states with fixed marginal mixednesses, and determine an analytical upper bound relating the entanglement of formation to the marginal linear entropies. This result partially generalizes to mixed states the quantification of entaglement with marginal mixednesses holding for pure states. We identify a class of entangled states that, for fixed marginals, are globally more mixed than product states when measured by the linear entropy. Such states cannot be discriminated by the majorization criterion.

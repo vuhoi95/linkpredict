@@ -1,0 +1,4 @@
+Paper: 0410036
+Title: Failure of Mean Field Theory at Large N
+Authors: Shailesh Chandrasekharan and Costas G. Strouthos
+Abstract: We study strongly coupled lattice QCD with $N$ colors of staggered fermions in 3+1 dimensions. While mean field theory describes the low temperature behavior of this theory at large $N$, it fails in the scaling region close to the finite temperature second order chiral phase transition. The universal critical region close to the phase transition belongs to the 3d XY universality class even when $N$ becomes large. This is in contrast to Gross-Neveu models where the critical region shrinks as $N$ (the number of flavors) increases and mean field theory is expected to describe the phase transition exactly in the limit of infinite $N$. Our work demonstrates that close to second order phase transitions infrared fluctuations can sometimes be important even when $N$ is strictly infinite.

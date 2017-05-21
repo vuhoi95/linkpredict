@@ -1,0 +1,4 @@
+Paper: 07060695
+Title: Finite temperature phase transition of a single scalar field on a fuzzy  sphere
+Authors: C. R. Das and S. Digal and T. R. Govindarajan
+Abstract: We study finite temperature phase transition of neutral scalar field on a fuzzy sphere using Monte Carlo simulations. We work with the zero mode in the temporal directions, while the effects of the higher modes are taken care by the temperature dependence of r. In the numerical calculations we use "pseudo-heatbath" method which reduces the auto-correlation considerably. Our results agree with the conventional calculations. We report some new results which show the presence of meta-stable states and also suggest that for suitable choice of parameters the symmetry breaking transition is of first order.

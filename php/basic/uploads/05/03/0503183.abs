@@ -1,0 +1,4 @@
+Paper: 0503183
+Title: The Geometric Dual of a-maximisation for Toric Sasaki-Einstein Manifolds
+Authors: Dario Martelli and James Sparks and Shing-Tung Yau
+Abstract: We show that the Reeb vector, and hence in particular the volume, of a Sasaki-Einstein metric on the base of a toric Calabi-Yau cone of complex dimension n may be computed by minimising a function Z on R^n which depends only on the toric data that defines the singularity. In this way one can extract certain geometric information for a toric Sasaki-Einstein manifold without finding the metric explicitly. For complex dimension n=3 the Reeb vector and the volume correspond to the R-symmetry and the a central charge of the AdS/CFT dual superconformal field theory, respectively. We therefore interpret this extremal problem as the geometric dual of a-maximisation. We illustrate our results with some examples, including the Y^{p,q} singularities and the complex cone over the second del Pezzo surface.

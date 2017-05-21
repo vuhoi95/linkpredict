@@ -1,0 +1,4 @@
+Paper: 0012334
+Title: Quantum Algorithms for Fermionic Simulations
+Authors: G. Ortiz and J. E. Gubernatis and E. Knill and R. Laflamme
+Abstract: We investigate the simulation of fermionic systems on a quantum computer. We show in detail how quantum computers avoid the dynamical sign problem present in classical simulations of these systems, therefore reducing a problem believed to be of exponential complexity into one of polynomial complexity. The key to our demonstration is the spin-particle connection (or generalized Jordan-Wigner transformation) that allows exact algebraic invertible mappings of operators with different statistical properties. We give an explicit implementation of a simple problem using a quantum computer based on standard qubits.

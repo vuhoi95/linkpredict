@@ -1,0 +1,4 @@
+Paper: 0406040
+Title: Study of CP(N-1) θ-Vacua by Cluster-Simulation of SU(N) Quantum  Spin Ladders
+Authors: B. B. Beard and M. Pepe and S. Riederer and U. J. Wiese
+Abstract: D-theory provides an alternative lattice regularization of the (1+1)-d CP(N-1) quantum field theory. In this formulation the continuous classical CP(N-1) fields emerge from the dimensional reduction of discrete SU(N) quantum spins. In analogy to Haldane's conjecture, ladders consisting of an even number of transversely coupled spin chains lead to a CP(N-1) model with vacuum angle \theta = 0, while an odd number of chains yields \theta = \pi. In contrast to Wilson's formulation of lattice field theory, in D-theory no sign problem arises at \theta = \pi, and an efficient cluster algorithm is used to investigate the \theta-vacuum effects. At \theta = \pi there is a first order phase transition with spontaneous breaking of charge conjugation symmetry for CP(N-1) models with N>2.

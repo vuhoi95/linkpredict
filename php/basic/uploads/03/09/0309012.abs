@@ -1,0 +1,4 @@
+Paper: 0309012
+Title: Space-time foam in 2D and the sum over topologies
+Authors: R. Loll and W. Westra
+Abstract: It is well-known that the sum over topologies in quantum gravity is ill-defined, due to a super-exponential growth of the number of geometries as a function of the space-time volume, leading to a badly divergent gravitational path integral. Not even in dimension 2, where a non-perturbative quantum gravity theory can be constructed explicitly from a (regularized) path integral, has this problem found a satisfactory solution. -- In the present work, we extend a previous 2d Lorentzian path integral, regulated in terms of Lorentzian random triangulations, to include space-times with an arbitrary number of handles. We show that after the imposition of physically motivated causality constraints, the combined sum over geometries and topologies is well-defined and possesses a continuum limit which yields a concrete model of space-time foam in two dimensions.

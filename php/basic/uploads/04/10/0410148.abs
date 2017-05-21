@@ -1,0 +1,4 @@
+Paper: 0410148
+Title: Large Deviation Approach to the Randomly Forced Navier-Stokes Equation
+Authors: R. Collina and R. Livi and A. Mazzino
+Abstract: The random forced Navier-Stokes equation can be obtained as a variational problem of a proper action. By virtue of incompressibility, the integration over transverse components of the fields allows to cast the action in the form of a large deviation functional. Since the hydrodynamic operator is nonlinear, the functional integral yielding the statistics of fluctuations can be practically computed by linearizing around a physical solution of the hydrodynamic equation. We show that this procedure yields the dimensional scaling predicted by K41 theory at the lowest perturbative order, where the perturbation parameter is the inverse Reynolds number. Moreover, an explicit expression of the prefactor of the scaling law is obtained.

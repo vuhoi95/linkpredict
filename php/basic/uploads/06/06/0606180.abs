@@ -1,0 +1,4 @@
+Paper: 0606180
+Title: Instanton counting and Donaldson invariants
+Authors: Lothar Göttsche and Hiraku Nakajima and Kota Yoshioka
+Abstract: For a smooth projective toric surface we determine the Donaldson invariants and their wallcrossing in terms of the Nekrasov partition function. Using the solution of the Nekrasov conjecture math.AG/0306198, hep-th/0306238, math.AG/0409441 and its refinement math.AG/0311058, we apply this result to give a generating function for the wallcrossing of Donaldson invariants of good walls of simply connected projective surfaces with $b_+=1$ in terms of modular forms. This formula was proved earlier in alg-geom/9506018 more generally for simply connected 4-manifolds with $b_+=1$, assuming the Kotschick-Morgan conjecture and it was also derived by physical arguments in hep-th/9709193.

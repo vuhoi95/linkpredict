@@ -1,0 +1,4 @@
+Paper: 07041756
+Title: The Invar Tensor Package
+Authors: Jose M. Martin-Garcia and Renato Portugal and Leon R. U. Manssur
+Abstract: The Invar package is introduced, a fast manipulator of generic scalar polynomial expressions formed from the Riemann tensor of a four-dimensional metric-compatible connection. The package can maximally simplify any polynomial containing tensor products of up to seven Riemann tensors within seconds. It has been implemented both in Mathematica and Maple algebraic systems.

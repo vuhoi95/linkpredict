@@ -1,0 +1,4 @@
+Paper: 07093228
+Title: Phase-ordering kinetics of two-dimensional disordered Ising models
+Authors: Florian Baumann and Malte Henkel and Michel Pleimling
+Abstract: The phase-ordering kinetics of the ferromagnetic two-dimensional Ising model with uniform disorder is investigated by intensive Monte Carlo simulations. Taking into account finite-time corrections to scaling, simple ageing behaviour is observed in the two-time responses and correlators. The dynamical exponent z and the form of the scaling functions only depend on the ratio eps/T, where eps describes the width of the distribution of the disorder. The agreement of the predictions of local scale-invariance generalised to z<> 2 for the two-time scaling functions of response and correlations with the numerical data provides a direct test of generalised Galilei-invariance.

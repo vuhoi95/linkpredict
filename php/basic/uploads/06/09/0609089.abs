@@ -1,0 +1,4 @@
+Paper: 0609089
+Title: Renormalization Proof for Massive phi_4^4 Theory on Riemannian Manifolds
+Authors: Christoph Kopper and Volkhard F. Müller
+Abstract: In this paper we present an inductive renormalizability proof for massive $\vp_4^4$ theory on Riemannian manifolds, based on the Wegner-Wilson flow equations of the Wilson renormalization group, adapted to perturbation theory. The proof goes in hand with bounds on the perturbative Schwinger functions which imply tree decay between their position arguments. An essential prerequisite are precise bounds on the short and long distance behaviour of the heat kernel on the manifold. With the aid of a regularity assumption (often taken for granted) we also show, that for suitable renormalization conditions the bare action takes the minimal form, that is to say, there appear the same counter terms as in flat space, apart from a logarithmically divergent one which is proportional to the scalar curvature.

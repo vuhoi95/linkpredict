@@ -1,0 +1,4 @@
+Paper: 0511222
+Title: Loop quantization as a continuum limit
+Authors: Elisa Manrique and Robert Oeckl and Axel Weber and José A. Zapata
+Abstract: We present an implementation of Wilson's renormalization group and a continuum limit tailored for loop quantization. The dynamics of loop quantized theories is constructed as a continuum limit of dynamics of effective theories. After presenting the general formalism we show as first explicit example the 2d Ising field theory. It is an interacting relativistic quantum field theory with local degrees of freedom quantized by loop quantization techniques.

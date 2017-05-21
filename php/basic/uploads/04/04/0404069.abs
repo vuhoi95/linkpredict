@@ -1,0 +1,4 @@
+Paper: 0404069
+Title: Nonsmooth backgrounds in quantum field theory
+Authors: M. Bordag and D. V. Vassilevich
+Abstract: The one-loop renormalization in field theories can be formulated in terms of the heat kernel expansion. In this paper we calculate leading contributions of discontinuities of background fields and their derivatives to the heat kernel coefficients. These results are then used to estimate contributions of the discontinuities to the Casimir energy. Sign of such contribution is defined solely by the order of discontinuous derivative. We also discuss renormalization in the presence of singular (delta-function) potentials. We show that an independent surface tension counterterm is necessary. This observation seems to resolve some contradictions in previous calculations.

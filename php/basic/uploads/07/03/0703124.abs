@@ -1,0 +1,4 @@
+Paper: 0703124
+Title: On the Bethe Ansatz for the Jaynes-Cummings-Gaudin model
+Authors: Olivier Babelon and Dmitri Talalaev
+Abstract: We investigate the quantum Jaynes-Cummings model - a particular case of the Gaudin model with one of the spins being infinite. Starting from the Bethe equations we derive Baxter's equation and from it a closed set of equations for the eigenvalues of the commuting Hamiltonians. A scalar product in the separated variables representation is found for which the commuting Hamiltonians are Hermitian. In the semi classical limit the Bethe roots accumulate on very specific curves in the complex plane. We give the equation of these curves. They build up a system of cuts modeling the spectral curve as a two sheeted cover of the complex plane. Finally, we extend some of these results to the XXX Heisenberg spin chain.

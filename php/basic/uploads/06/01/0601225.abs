@@ -1,0 +1,4 @@
+Paper: 0601225
+Title: Time-dependence of correlation functions following a quantum quench
+Authors: Pasquale Calabrese and John Cardy
+Abstract: We show that the time-dependence of correlation functions in an extended quantum system in d dimensions, which is prepared in the ground state of some hamiltonian and then evolves without dissipation according to some other hamiltonian, may be extracted using methods of boundary critical phenomena in d+1 dimensions. For d=1 particularly powerful results are available using conformal field theory. These are checked against those available from solvable models. They may be explained in terms of a picture, valid more generally, whereby quasiparticles, entangled over regions of the order of the correlation length in the initial state, then propagate classically through the system.

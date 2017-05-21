@@ -1,0 +1,4 @@
+Paper: 0410141
+Title: Ponzano-Regge model revisited II: Equivalence with Chern-Simons
+Authors: Laurent Freidel and David Louapre
+Abstract: We provide a mathematical definition of the gauge fixed Ponzano-Regge model showing that it gives a measure on the space of flat connections whose volume is well defined. We then show that the Ponzano-Regge model can be equivalently expressed as Reshetikhin-Turaev evaluation of a colored chain mail link based on D(SU(2)): a non compact quantum group being the Drinfeld double of SU(2) and a deformation of the Poincare algebra. This proves the equivalence between spin foam quantization and Chern-Simons quantization of three dimensional gravity without cosmological constant. We extend this correspondence to the computation of expectation value of physical observables and insertion of particles.

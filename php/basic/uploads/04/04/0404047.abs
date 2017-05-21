@@ -1,0 +1,4 @@
+Paper: 0404047
+Title: Solving the quantum non-linear Schrodinger equation with delta-type  impurity
+Authors: V. Caudrelier and M. Mintchev and E. Ragoucy
+Abstract: We establish the exact solution of the nonlinear Schrodinger equation with a delta-function impurity, representing a point-like defect which reflects and transmits. We solve the problem both at the classical and the second quantized levels. In the quantum case the Zamolodchikov-Faddeev algebra, familiar from the case without impurities, is substituted by the recently discovered reflection-transmission (RT) algebra, which captures both particle-particle and particle-impurity interactions. The off-shell quantum solution is expressed in terms of the generators of the RT algebra and the exact scattering matrix of the theory is derived.

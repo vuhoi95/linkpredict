@@ -1,0 +1,4 @@
+Paper: 0512229
+Title: Seidel's Mirror Map for Abelian Varieties
+Authors: Marco Aldi and Eric Zaslow
+Abstract: We compute Seidel's mirror map for abelian varieties by constructing the homogeneous coordinate rings from the Fukaya category of the symplectic mirrors. The computations are feasible as only linear holomorphic disks contribute to the Fukaya composition in the case of the planar Lagrangians used. The map depends on a symplectomorphism $\rho$ representing the large complex structure monodromy. For the example of the two-torus, different families of elliptic curves are obtained by using different $\rho$ which are linear in the universal cover. In the case where $\rho$ is merely affine linear in the universal cover, the commutative elliptic curve mirror is embedded in noncommutative projective space. The case of Kummer surfaces is also considered.

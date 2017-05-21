@@ -1,0 +1,4 @@
+Paper: 0310002
+Title: Eigenvalue spacings for regular graphs
+Authors: D. Jakobson and S. D. Miller and I. Rivin and Z. Rudnick
+Abstract: We carry out a numerical study of fluctuations in the spectrum of regular graphs. Our experiments indicate that the level spacing distribution of a generic k-regular graph approaches that of the Gaussian Orthogonal Ensemble of random matrix theory as we increase the number of vertices. A review of the basic facts on graphs and their spectra is included.

@@ -1,0 +1,4 @@
+Paper: 0112327
+Title: Comment on "Unique Translation between Hamiltonian Operators and  Functional Integrals"
+Authors: Michael Weyrauch and Andreas W. Schreiber
+Abstract: In a recent letter [PRL 86, 1 (2001)], Gollisch and Wetterich show that a careful treatment of discretization errors in a phase-space path integral formulation of quantum mechanics leads to a correction term as compared to the standard form based on coherent states. We point out in this comment that their approach is not unique and that the coherent state path integral formalism, without correction term, yields the same result. It does this as long as known (but sometimes neglected) exponential convergence factors, which control discretization errors in this approach, are taken into account.

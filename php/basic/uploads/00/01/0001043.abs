@@ -1,0 +1,4 @@
+Paper: 0001043
+Title: Braid group actions on derived categories of coherent sheaves
+Authors: Paul Seidel and R. P. Thomas
+Abstract: This paper gives a construction of braid group actions on the derived category of coherent sheaves on a variety $X$. The motivation for this is Kontsevich's homological mirror conjecture, together with the occurrence of certain braid group actions in symplectic geometry. One of the main results is that when $\dim X \geq 2$, our braid group actions are always faithful. We describe conjectural mirror symmetries between smoothings and resolutions of singularities that lead us to find examples of braid group actions arising from crepant resolutions of various singularities. Relations with the McKay correspondence and with exceptional sheaves on Fano manifolds are given. Moreover, the case of an elliptic curve is worked out in some detail.

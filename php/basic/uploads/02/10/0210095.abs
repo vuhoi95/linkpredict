@@ -1,0 +1,4 @@
+Paper: 0210095
+Title: Quantum Computation of Jones' Polynomials
+Authors: V. Subramaniam and P. Ramadevi
+Abstract: It is a challenging problem to construct an efficient quantum algorithm which can compute the Jones' polynomial for any knot or link obtained from platting or capping of a $2n$-strand braid. We recapitulate the construction of braid-group representations from vertex models. We present the eigenbases and eigenvalues for the braiding generators and its usefulness in direct evaluation of Jones' polynomial. The calculation suggests that it is possible to associate a series of unitary operators for any braid word. Hence we propose a quantum algorithm using these unitary operators as quantum gates acting on a $2n$ qubit state. We show that the quantum computation gives Jones' polynomial for achiral knots and links.

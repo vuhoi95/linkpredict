@@ -1,0 +1,4 @@
+Paper: 0404108
+Title: A Super-Flag Landau Model
+Authors: Evgeny Ivanov and Luca Mezincescu and Paul K. Townsend
+Abstract: We consider the quantum mechanics of a particle on the coset superspace $SU(2|1)/[U(1)\times U(1)]$, which is a super-flag manifold with $SU(2)/U(1)\cong S^2$ `body'. By incorporating the Wess-Zumino terms associated with the $U(1)\times U(1)$ stability group, we obtain an exactly solvable super-generalization of the Landau model for a charged particle on the sphere. We solve this model using the factorization method. Remarkably, the physical Hilbert space is finite-dimensional because the number of admissible Landau levels is bounded by a combination of the U(1) charges. The level saturating the bound has a wavefunction in a shortened, degenerate, irrep of $SU(2|1)$.

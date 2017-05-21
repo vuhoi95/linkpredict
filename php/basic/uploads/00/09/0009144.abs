@@ -1,0 +1,4 @@
+Paper: 0009144
+Title: An L^2-Index Theorem for Dirac Operators on S^1 * R^3
+Authors: Tom M. W. Nye and Michael A. Singer
+Abstract: An expression is found for the $L^2$-index of a Dirac operator coupled to a connection on a $U_n$ vector bundle over $S^1\times{\mathbb R}^3$. Boundary conditions for the connection are given which ensure the coupled Dirac operator is Fredholm. Callias' index theorem is used to calculate the index when the connection is independent of the coordinate on $S^1$. An excision theorem due to Gromov, Lawson, and Anghel reduces the index theorem to this special case. The index formula can be expressed using the adiabatic limit of the $\eta$-invariant of a Dirac operator canonically associated to the boundary. An application of the theorem is to count the zero modes of the Dirac operator in the background of a caloron (periodic instanton).

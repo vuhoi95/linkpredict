@@ -1,0 +1,4 @@
+Paper: 0002100
+Title: On the combinatorics of Forrester-Baxter models
+Authors: Omar Foda and Trevor A. Welsh
+Abstract: We provide further boson-fermion q-polynomial identities for the `finitised' Virasoro characters \chi^{p, p'}_{r,s} of the Forrester-Baxter minimal models M(p, p'), for certain values of r and s. The construction is based on a detailed analysis of the combinatorics of the set P^{p, p'}_{a, b, c}(L) of q-weighted, length-L Forrester-Baxter paths, whose generating function \chi^{p, p'}_{a, b, c}(L) provides a finitisation of \chi^{p, p'}_{r,s}. In this paper, we restrict our attention to the case where the startpoint a and endpoint b of each path both belong to the set of Takahashi lengths. In the limit L -> infinity, these polynomial identities reduce to q-series identities for the corresponding characters.

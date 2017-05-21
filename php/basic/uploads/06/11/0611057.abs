@@ -1,0 +1,4 @@
+Paper: 0611057
+Title: Exact evaluation of density matrix elements for the Heisenberg chain
+Authors: Jun Sato and Masahiro Shiroishi and Minoru Takahashi
+Abstract: We have obtained all the density matrix elements on six lattice sites for the spin-1/2 Heisenberg chain via the algebraic method based on the quantum Knizhnik-Zamolodchikov equations. Several interesting correlation functions, such as chiral correlation functions, dimer-dimer correlation functions, etc... have been analytically evaluated. Furthermore we have calculated all the eigenvalues of the density matrix and analyze the eigenvalue-distribution. As a result the exact von Neumann entropy for the reduced density matrix on six lattice sites has been obtained.

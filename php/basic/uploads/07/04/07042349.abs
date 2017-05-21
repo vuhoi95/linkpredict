@@ -1,0 +1,4 @@
+Paper: 07042349
+Title: Quantum Master Equation for QED in Exact Renormalization Group
+Authors: Yuji Igarashi and Katsumi Itoh and Hidenori Sonoda
+Abstract: Recently, one of us (H.S.) gave an explicit form of the Ward-Takahashi identity for the Wilson action of QED. We first rederive the identity using a functional method. The identity makes it possible to realize the gauge symmetry even in the presence of a momentum cutoff. In the cutoff dependent realization, the abelian nature of the gauge symmetry is lost, breaking the nilpotency of the BRS transformation. Using the Batalin-Vilkovisky formalism, we extend the Wilson action by including the antifield contributions. Then, the Ward-Takahashi identity for the Wilson action is lifted to a quantum master equation, and the modified BRS transformation regains nilpotency. We also obtain a flow equation for the extended Wilson action.

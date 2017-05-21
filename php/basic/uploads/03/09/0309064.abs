@@ -1,0 +1,4 @@
+Paper: 0309064
+Title: On the partition function of the six-vertex model with domain wall  boundary conditions
+Authors: Filippo Colomo and Andrei Pronko
+Abstract: The six-vertex model on an $N\times N$ square lattice with domain wall boundary conditions is considered. A Fredholm determinant representation for the partition function of the model is given. The kernel of the corresponding integral operator is of the so-called integrable type, and involves classical orthogonal polynomials. From this representation, a ``reconstruction'' formula is proposed, which expresses the partition function as the trace of a suitably chosen quantum operator, in the spirit of corner transfer matrix and vertex operator approaches to integrable spin models.

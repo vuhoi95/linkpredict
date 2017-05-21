@@ -1,0 +1,4 @@
+Paper: 0508377
+Title: Surface free energy for systems with integrable boundary conditions
+Authors: Frank Göhmann and Michael Bortz and Holger Frahm
+Abstract: The surface free energy is the difference between the free energies for a system with open boundary conditions and the same system with periodic boundary conditions. We use the quantum transfer matrix formalism to express the surface free energy in the thermodynamic limit of systems with integrable boundary conditions as a matrix element of certain projection operators. Specializing to the XXZ spin 1/2 chain we introduce a novel `finite temperature boundary operator' which characterizes the thermodynamical properties of surfaces related to integrable boundary conditions.

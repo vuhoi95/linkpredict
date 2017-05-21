@@ -1,0 +1,4 @@
+Paper: 0609012
+Title: Multiloop Superstring Amplitudes from Non-Minimal Pure Spinor Formalism
+Authors: Nathan Berkovits and Nikita Nekrasov
+Abstract: Using the non-minimal version of the pure spinor formalism, manifestly super-Poincare covariant superstring scattering amplitudes can be computed as in topological string theory without the need of picture-changing operators. The only subtlety comes from regularizing the functional integral over the pure spinor ghosts. In this paper, it is shown how to regularize this functional integral in a BRST-invariant manner, allowing the computation of arbitrary multiloop amplitudes. The regularization method simplifies for scattering amplitudes which contribute to ten-dimensional F-terms, i.e. terms in the ten-dimensional superspace action which do not involve integration over the maximum number of $\theta$'s.

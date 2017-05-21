@@ -1,0 +1,4 @@
+Paper: 0007044
+Title: Frame formalism for the N-dimensional quantum Euclidean spaces
+Authors: B. L. Cerchiai and G. Fiore and J. Madore
+Abstract: We sketch our recent application of a non-commutative version of the Cartan `moving-frame' formalism to the quantum Euclidean space $R^N_q$, the space which is covariant under the action of the quantum group $SO_q(N)$. For each of the two covariant differential calculi over $R^N_q$ based on the $R$-matrix formalism, we summarize our construction of a frame, the dual inner derivations, a metric and two torsion-free almost metric compatible covariant derivatives with a vanishing curvature. To obtain these results we have developed a technique which fully exploits the quantum group covariance of $R^N_q$. We first find a frame in the larger algebra $\Omega^*(R^N_q) \cocross \uqs$. Then we define homomorphisms from $R^N_q \cocross U_q^{\pm}{so(N)}$ to $R^N_q$ which we use to project this frame in $\Omega^*(R^N_q)$.

@@ -1,0 +1,4 @@
+Paper: 0611746
+Title: Interacting potential between spinons in the compact QED3 description of  the Heisenberg model
+Authors: Raoul Dillenschneider and Jean Richert
+Abstract: We implement a Chern-Simons (CS) contribution into the compact QED3 description of the antiferromagnetic Heisenberg model in two dimensions at zero temperature. The CS term allows for the conservation of the SU(2) symmetry of the quantum spin system and fixes the flux through a plaquette to be a multiple of pi as was shown by Marston. We work out the string tension of the confining potential which acts between the spinons and show that the CS term induces a screening effect on the magnetic field only. The confining potential between spinons is not affected by the CS flux. The strict site-occupation by a single spin 1/2 is enforced by the introduction of an imaginary chemical potential constraint.

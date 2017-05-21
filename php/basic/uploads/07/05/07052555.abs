@@ -1,0 +1,4 @@
+Paper: 07052555
+Title: A Generalisation of Dyson's Integration Theorem for Determinants
+Authors: Gernot Akemann and Leonid Shifrin
+Abstract: Dyson's integration theorem is widely used in the computation of eigenvalue correlation functions in Random Matrix Theory. Here we focus on the variant of the theorem for determinants, relevant for the unitary ensembles with Dyson index beta = 2. We derive a formula reducing the (n-k)-fold integral of an n x n determinant of a kernel of two sets of arbitrary functions to a determinant of size k x k. Our generalisation allows for sets of functions that are not orthogonal or bi-orthogonal with respect to the integration measure. In the special case of orthogonal functions Dyson's theorem is recovered.

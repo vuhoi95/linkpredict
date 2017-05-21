@@ -1,0 +1,4 @@
+Paper: 07054431
+Title: Quantum geometry and gravitational entropy
+Authors: Vijay Balasubramanian and Bartlomiej Czech and Donald Marolf and Klaus Larjo and Joan Simon
+Abstract: Most quantum states have wavefunctions that are widely spread over the accessible Hilbert space and hence do not have a good description in terms of a single classical geometry. In order to understand when geometric descriptions are possible, we exploit the AdS/CFT correspondence in the half-BPS sector of asymptotically AdS_5 x S^5 universes. In this sector we devise a "coarse-grained metric operator" whose eigenstates are well described by a single spacetime topology and geometry. We show that such half-BPS universes have a non-vanishing entropy if and only if the metric is singular, and that the entropy arises from coarse-graining the geometry. Finally, we use our entropy formula to find the most entropic spacetimes with fixed asymptotic moments beyond the global charges.

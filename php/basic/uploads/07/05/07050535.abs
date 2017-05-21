@@ -1,0 +1,4 @@
+Paper: 07050535
+Title: Do Killing-Yano tensors form a Lie Algebra?
+Authors: David Kastor and Sourya Ray and Jennie Traschen
+Abstract: Killing-Yano tensors are natural generalizations of Killing vectors. We investigate whether Killing-Yano tensors form a graded Lie algebra with respect to the Schouten-Nijenhuis bracket. We find that this proposition does not hold in general, but that it does hold for constant curvature spacetimes. We also show that Minkowski and (anti)-deSitter spacetimes have the maximal number of Killing-Yano tensors of each rank and that the algebras of these tensors under the SN bracket are relatively simple extensions of the Poincare and (A)dS symmetry algebras.

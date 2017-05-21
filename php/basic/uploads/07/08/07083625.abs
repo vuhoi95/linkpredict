@@ -1,0 +1,4 @@
+Paper: 07083625
+Title: Spin matrix elements in 2D Ising model on the finite lattice
+Authors: A. I. Bugrij and O. Lisovyy
+Abstract: We present explicit formulas for all spin matrix elements in the 2D Ising model with the nearest neighbor interaction on the finite periodic square lattice. These expressions generalize the known results [Phys. Rev. D19, (1979), 2477--2479; hep-th/0107117; hep-th/0112167] (coincide with them in the appropriate limits) and fulfill the test of straightforward transfer matrix calculations for finite $N$.

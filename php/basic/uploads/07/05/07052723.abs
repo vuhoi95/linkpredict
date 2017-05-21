@@ -1,0 +1,4 @@
+Paper: 07052723
+Title: A new antisymmetric bilinear map for type-I gauge theories
+Authors: Giampiero Esposito and Cosimo Stornaiolo
+Abstract: In the case of gauge theories, which are ruled by an infinite-dimensional invariance group, various choices of antisymmetric bilinear maps on field functionals are indeed available. This paper proves first that, within this broad framework, the Peierls map (not yet the bracket) is a member of a larger family. At that stage, restriction to gauge-invariant functionals of the fields, with the associated Ward identities and geometric structure of the space of histories, make it possible to prove that the new map is indeed a Poisson bracket in the simple but relevant case of Maxwell theory. The building blocks are available for gauge theories only: vector fields that leave the action functional invariant; the invertible gauge-field operator, and the Green function of the ghost operator.

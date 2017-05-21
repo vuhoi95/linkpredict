@@ -1,0 +1,4 @@
+Paper: 0003041
+Title: Signature Change and Clifford Algebras
+Authors: David Miralles and Josep Manel Parra and Jayme Vaz Jr
+Abstract: Given the real Clifford algebra of a quadratic space with a given signature, we define a new product in this structure such that it simulates the Clifford product of a quadratic space with another signature different from the original one. Among the possible applications of this new product, we use it in order to write the minkowskian Dirac equation over the euclidean spacetime and to define a new duality operation in terms of which one can find self-dual and anti-self-dual solutions of gauge fields over Minkowski spacetime analogous to the ones over Euclidean spacetime and without needing to complexify the original real algebra.

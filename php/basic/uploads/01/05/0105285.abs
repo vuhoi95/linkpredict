@@ -1,0 +1,4 @@
+Paper: 0105285
+Title: Numerical Methods for the 3-dimensional 2-body Problem in the  Action-at-a-Distance Electrodynamics
+Authors: I. N. Nikitin and J. De Luca
+Abstract: We develop two numerical methods to solve the differential equations with deviating arguments for the motion of two charges in the action-at-a-distance electrodynamics. Our first method uses St\"urmer's extrapolation formula and assumes that a step of integration can be taken as a step of light ladder, which limits its use to shallow energies. The second method is an improvement of pre-existing iterative schemes, designed for stronger convergence and can be used at high-energies.

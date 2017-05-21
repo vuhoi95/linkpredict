@@ -1,0 +1,4 @@
+Paper: 0612012
+Title: QCD with one compact spatial dimension
+Authors: Thomas DeGrand and Roland Hoffmann
+Abstract: The realization of global symmetries can depend on the geometry of the underlying space. In particular, compactification can lead to spontaneous breaking of such symmetries. Four-dimensional QCD with fundamental representation fermions embedded in a space with one compact spatial dimension has a critical length, at which the theory undergoes a phase transition and develops a ground state that is no longer charge conjugation invariant. We show this behavior with simulations of three color, four flavor QCD. We use unrooted staggered fermion at two values of the lattice spacing and several quark masses. We discuss the dependence of the transition on the dynamical fermion mass as well as its connection to the finite temperature and chiral phase transitions.

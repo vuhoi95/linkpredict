@@ -1,0 +1,4 @@
+Paper: 0702890
+Title: Classification of toric Fano 5-folds
+Authors: Maximilian Kreuzer and Benjamin Nill
+Abstract: We obtain 866 isomorphism classes of five-dimensional nonsingular toric Fano varieties using a computer program and the database of four-dimensional reflexive polytopes. The algorithm is based on the existence of facets of Fano polytopes having small integral distance from any vertex.

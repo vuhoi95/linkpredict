@@ -1,0 +1,4 @@
+Paper: 0210140
+Title: Asymptotic Behavior of the Emptiness Formation Probability in the  Critical Phase of XXZ Spin Chain
+Authors: V. E. Korepin and S. Lukyanov and Y. Nishiyama and M. Shiroishi
+Abstract: We study the Emptiness Formation Probability (EFP) for the spin 1/2 XXZ spin chain. EFP P(n) detects a formation of ferromagnetic string of the length n in the ground state. It is expected that EFP decays in a Gaussian way for large strings P(n) ~ n^{-gamma} C^{-n^2}. Here, we propose the explicit expressions for the rate of Gaussian decay C as well as for the exponent gamma. In order to confirm the validity of our formulas, we employed an ab initio simulation technique of the density-matrix renormalization group to simulate XXZ spin chain of sufficient length. Furthermore, we performed Monte-Carlo integration of the Jimbo-Miwa multiple integral for P(n). Those numerical results for P(n) support our formulas fairly definitely.

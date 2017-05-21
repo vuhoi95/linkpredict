@@ -1,0 +1,4 @@
+Paper: 0312014
+Title: Group averaging in the (p,q) oscillator representation of SL(2,R)
+Authors: Jorma Louko and Alberto Molgado
+Abstract: We investigate refined algebraic quantisation with group averaging in a finite-dimensional constrained Hamiltonian system that provides a simplified model of general relativity. The classical theory has gauge group SL(2,R) and a distinguished o(p,q) observable algebra. The gauge group of the quantum theory is the double cover of SL(2,R), and its representation on the auxiliary Hilbert space is isomorphic to the (p,q) oscillator representation. When p>1, q>1 and p+q == 0 (mod 2), we obtain a physical Hilbert space with a nontrivial representation of the o(p,q) quantum observable algebra. For p=q=1, the system provides the first example known to us where group averaging converges to an indefinite sesquilinear form.

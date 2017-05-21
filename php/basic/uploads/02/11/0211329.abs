@@ -1,0 +1,4 @@
+Paper: 0211329
+Title: New indications on the Higgs boson mass from lattice simulations
+Authors: P. Cea and M. Consoli and L. Cosmai
+Abstract: The `triviality' of $\Phi^4_4$ has been traditionally interpreted within perturbation theory where the prediction for the Higgs boson mass depends on the magnitude of the ultraviolet cutoff $\Lambda$. This approach crucially assumes that the vacuum field and its quantum fluctuations rescale in the same way. The results of the present lattice simulation, confirming previous numerical indications, show that this assumption is not true. As a consequence, large values of the Higgs mass $m_H$ can coexist with the limit $\Lambda\to \infty $. As an example, by extrapolating to the Standard Model our results obtained in the Ising limit of the one-component theory, one can obtain a value as large as $m_H=760 \pm 21$ GeV, independently of $\Lambda$.

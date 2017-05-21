@@ -1,0 +1,4 @@
+Paper: 0403089
+Title: Distillability and positivity of partial transposes in general quantum  field systems
+Authors: Rainer Verch and Reinhard F. Werner
+Abstract: Criteria for distillability, and the property of having a positive partial transpose, are introduced for states of general bipartite quantum systems. The framework is sufficiently general to include systems with an infinite number of degrees of freedom, including quantum fields. We show that a large number of states in relativistic quantum field theory, including the vacuum state and thermal equilibrium states, are distillable over subsystems separated by arbitrary spacelike distances. These results apply to any quantum field model. It will also be shown that these results can be generalized to quantum fields in curved spacetime, leading to the conclusion that there is a large number of quantum field states which are distillable over subsystems separated by an event horizon.

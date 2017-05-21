@@ -1,0 +1,4 @@
+Paper: 0005071
+Title: Robustness and diffusion of pointer states
+Authors: Lajos Diosi and Claus Kiefer
+Abstract: Classical properties of an open quantum system emerge through its interaction with other degrees of freedom (decoherence). We treat the case where this interaction produces a Markovian master equation for the system. We derive the corresponding distinguished local basis (pointer basis) by three methods. The first demands that the pointer states mimic as close as possible the local non-unitary evolution. The second demands that the local entropy production be minimal. The third imposes robustness on the inherent quantum and emerging classical uncertainties. All three methods lead to localized Gaussian pointer states, their formation and diffusion being governed by well-defined quantum Langevin equations.

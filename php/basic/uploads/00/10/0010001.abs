@@ -1,0 +1,4 @@
+Paper: 0010001
+Title: Test Function Space for Wick Power Series
+Authors: A. G. Smirnov and M. A. Soloviev
+Abstract: We derive a criterion that is convenient for applications and exactly characterizes the test function space on which the operator realization of a given series of Wick powers of a free field is possible. The suggested derivation does not use the assumption that the metric of the state space is positive and can therefore be used in a gauge theory. It is based on the systematic use of the analytic properties of the Hilbert majorant of the indefinite metric and on the application of a suitable theorem on the unconditional convergence of series of boundary values of analytic functions.

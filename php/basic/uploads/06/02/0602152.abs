@@ -1,0 +1,4 @@
+Paper: 0602152
+Title: Investigation of the Nicole model
+Authors: C. Adam and J. Sanchez-Guillen and R. A. Vazquez and A. Wereszczynski
+Abstract: We study soliton solutions of the Nicole model - a non-linear four-dimensional field theory consisting of the CP^1 Lagrangian density to the non-integer power 3/2 - using an ansatz within toroidal coordinates, which is indicated by the conformal symmetry of the static equations of motion. We calculate the soliton energies numerically and find that they grow linearly with the topological charge (Hopf index). Further we prove this behaviour to hold exactly for the ansatz. On the other hand, for the full three-dimensional system without symmetry reduction we prove a sub-linear upper bound, analogously to the case of the Faddeev-Niemi model. It follows that symmetric solitons cannot be true minimizers of the energy for sufficiently large Hopf index, again in analogy to the Faddeev-Niemi model.

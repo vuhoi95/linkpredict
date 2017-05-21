@@ -1,0 +1,4 @@
+Paper: 0306050
+Title: Effective action and the quantum equation of motion
+Authors: V. Branchina and H. Faivre and D. Zappalà
+Abstract: We carefully analyse the use of the effective action in dynamical problems, in particular the conditions under which the equation $\frac{\delta \Ga} {\delta \phi}=0$ can be used as a quantum equation of motion, and the relation between the asymptotic states involved in the definition of $\Ga$ and the initial state of the system. By considering the quantum mechanical example of a double-well potential, where we can get exact results for the time evolution of the system, we show that an approximation to the effective potential in the quantum equation of motion that correctly describes the dynamical evolution of the system is obtained with the help of the wilsonian RG equation (already at the lowest order of the derivative expansion), while the commonly used one-loop effective potential fails to reproduce the exact results.

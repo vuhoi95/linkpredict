@@ -1,0 +1,4 @@
+Paper: 0207089
+Title: Convergent resummed linear delta expansion in the critical O(N)  (φ_i^2)^2_{3d} model
+Authors: Jean-Loic Kneur and Marcus B. Pinto and Rudnei O. Ramos
+Abstract: The nonperturbative linear delta expansion (LDE) method is applied to the critical O(N) phi^4 three-dimensional field theory which has been widely used to study the critical temperature of condensation of dilute weakly interacting homogeneous Bose gases. We study the higher order convergence of the LDE as it is usually applied to this problem. We show how to improve both, the large-N and finite N=2, LDE results with an efficient resummation technique which accelerates convergence. In the large N limit, it reproduces the known exact result within numerical integration accuracy. In the finite N=2 case, our improved results support the recent numerical Monte Carlo estimates for the critical transition temperature of Bose-Einstein condensation.

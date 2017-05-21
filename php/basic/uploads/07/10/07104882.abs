@@ -1,0 +1,4 @@
+Paper: 07104882
+Title: Analytical and Numerical Demonstration of How the Drude Dispersive Model  Satisfies Nernst's Theorem for the Casimir Entropy
+Authors: Iver Brevik and Simen A. Ellingsen and Johan S. Høye and Kimball A. Milton
+Abstract: In view of the current discussion on the subject, an effort is made to show very accurately both analytically and numerically how the Drude dispersive model, assuming the relaxation is nonzero at zero temperature (which is the case when impurities are present), gives consistent results for the Casimir free energy at low temperatures. Specifically, we find that the free energy consists essentially of two terms, one leading term proportional to T^2, and a next term proportional to T^{5/2}. Both these terms give rise to zero Casimir entropy as T -> 0, thus in accordance with Nernst's theorem.

@@ -1,0 +1,4 @@
+Paper: 0201010
+Title: A Study of the 't Hooft Model with the Overlap Dirac Operator
+Authors: F. Berruto and L. Giusti and C. Hoelbling and C. Rebbi
+Abstract: We present the results of an exploratory numerical study of two dimensional QCD with overlap fermions. We have performed extensive simulations for U(N_c) and SU(N_c) color groups with N_c=2, 3, 4 and coupling constants chosen to satisfy the 't Hooft condition g^2 N_c =const=4/3. We have computed the meson spectrum and decay constants, the topological susceptibility and the chiral condensate. For U(N_c) gauge groups, our results indicate that the Witten-Veneziano relation is satisfied within our statistical errors and that the chiral condensate for N_f=1 is compatible with a non-zero value. Our results exhibit universality in N_c and confirm once more the excellent chiral properties of the overlap-Dirac operator.

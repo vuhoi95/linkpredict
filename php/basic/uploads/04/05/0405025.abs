@@ -1,0 +1,4 @@
+Paper: 0405025
+Title: Relativistic N-boson systems bound by pair potentials V(r_{ij}) =  g(r_{ij}^2)
+Authors: Richard L. Hall and Wolfgang Lucha and Franz F. Schoeberl
+Abstract: We study the lowest energy E of a relativistic system of N identical bosons bound by pair potentials of the form V(r_{ij}) = g(r_{ij}^2) in three spatial dimensions. In natural units hbar = c = 1 the system has the semirelativistic `spinless-Salpeter' Hamiltonian H = \sum_{i=1}^N \sqrt{m^2 + p_i^2} + \sum_{j>i=1}^N g(|r_i - r_j|^2), where g is monotone increasing and has convexity g'' >= 0. We use `envelope theory' to derive formulas for general lower energy bounds and we use a variational method to find complementary upper bounds valid for all N >= 2. In particular, we determine the energy of the N-body oscillator g(r^2) = c r^2 with error less than 0.15% for all m >= 0, N >= 2, and c > 0.

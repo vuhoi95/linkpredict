@@ -1,0 +1,4 @@
+Paper: 0507290
+Title: Correlation functions of the spin-1/2 anti-ferromagnetic Heisenberg  chain: exact calculation via the generating function
+Authors: Jun Sato and Masahiro Shiroishi and Minoru Takahashi
+Abstract: Analytical expressions of some of the spin-spin correlation functions up to eight lattice sites for the spin-1/2 anti-ferromagnetic Heisenberg chain at zero temperature without magnetic field are obtained. The key object of our method is the generating function of two-point spin-spin correlators, whose functional relations are derived from those for general inhomogeneous correlation functions previously obtained from the quantum Knizhnik-Zamolodchikov equations. We show how the generating functions are fully determined by their functional relations, which leads to the two-point spin-spin correlators. The obtained analytical results are numerically confirmed by the exact diagonalization for finite systems.

@@ -1,0 +1,4 @@
+Paper: 0404179
+Title: On the relation between non-commutative field theories at theta =  infinity and large N matrix field theories
+Authors: Wolfgang Bietenholz and Frank Hofheinz and Jun Nishimura
+Abstract: It is well-known that non-commutative (NC) field theories at theta = infinity are ``equivalent'' to large N matrix field theories to all orders in perturbation theory, due to the dominance of planar diagrams. By formulating a NC field theory on the lattice non-perturbatively and mapping it onto a twisted reduced model, we point out that the above equivalence does not hold if the translational symmetry of the NC field theory is broken spontaneously. As an example we discuss NC scalar field theory, where such a spontaneous symmetry breakdown has been confirmed by Monte Carlo simulations.

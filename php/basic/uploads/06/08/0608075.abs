@@ -1,0 +1,4 @@
+Paper: 0608075
+Title: Vortex free energy and deconfinement in center-blind discretizations of  Yang-Mills theories
+Authors: G. Burgio and M. Fuhrmann and W. Kerler and M. Muller-Preussker
+Abstract: Maximal 't Hooft loops are studied in SO(3) lattice gauge theory at finite temperature T. Tunneling barriers among twist sectors causing loss of ergodicity for local update algorithms are overcome through parallel tempering, enabling us to measure the vortex free energy F and to identify a deconfinement transition at some $\beta_A^{crit}$. The behavior of F below $\beta_A^{crit}$ shows however striking differences with what is expected from discretizations in the fundamental representation.

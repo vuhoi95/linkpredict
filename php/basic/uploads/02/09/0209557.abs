@@ -1,0 +1,4 @@
+Paper: 0209557
+Title: A classification of four-state spin edge Potts models
+Authors: J. -Ch. Anglès d'Auriac and J. -M. Maillard and C. M. Viallet
+Abstract: We classify four-state spin models with interactions along the edges according to their behavior under a specific group of symmetry transformations. This analysis uses the measure of complexity of the action of the symmetries, in the spirit of the study of discrete dynamical systems on the space of parameters of the models, and aims at uncovering solvable ones. We find that the action of these symmetries has low complexity (polynomial growth, zero entropy). We obtain natural parametrizations of various models, among which an unexpected elliptic parametrization of the four-state chiral Potts model, which we use to localize possible integrability conditions associated with high genus curves.

@@ -1,0 +1,4 @@
+Paper: 0405113
+Title: Semiclassical Calculation of the C Operator in PT-Symmetric Quantum  Mechanics
+Authors: Carl M. Bender and Hugh F. Jones
+Abstract: To determine the Hilbert space and inner product for a quantum theory defined by a non-Hermitian $\mathcal{PT}$-symmetric Hamiltonian $H$, it is necessary to construct a new time-independent observable operator called $C$. It has recently been shown that for the {\it cubic} $\mathcal{PT}$-symmetric Hamiltonian $H=p^2+ x^2+i\epsilon x^3$ one can obtain $\mathcal{C}$ as a perturbation expansion in powers of $\epsilon$. This paper considers the more difficult case of noncubic Hamiltonians of the form $H=p^2+x^2(ix)^\delta$ ($\delta\geq0$). For these Hamiltonians it is shown how to calculate $\mathcal{C}$ by using nonperturbative semiclassical methods.

@@ -1,0 +1,4 @@
+Paper: 0007174
+Title: Unbraiding the braided tensor product
+Authors: Gaetano Fiore and Harold Steinacker and Julius Wess
+Abstract: We show that the braided tensor product algebra $A_1\underline{\otimes}A_2$ of two module algebras $A_1, A_2$ of a quasitriangular Hopf algebra $H$ is equal to the ordinary tensor product algebra of $A_1$ with a subalgebra of $A_1\underline{\otimes}A_2$ isomorphic to $A_2$, provided there exists a realization of $H$ within $A_1$. In other words, under this assumption we construct a transformation of generators which `decouples' $A_1, A_2$ (i.e. makes them commuting). We apply the theorem to the braided tensor product algebras of two or more quantum group covariant quantum spaces, deformed Heisenberg algebras and q-deformed fuzzy spheres.

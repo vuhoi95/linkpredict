@@ -1,0 +1,4 @@
+Paper: 0703031
+Title: Strong coupling limit of Bethe Ansatz equations
+Authors: Ivan Kostov and Didina Serban and Dmytro Volin
+Abstract: We develop a method to analyze the strong coupling limit of the Bethe ansatz equations supposed to give the spectrum of anomalous dimensions of the planar ${\cal N}=4$ gauge theory. This method is particularly adapted for the three rank-one sectors, $su(2)$, $su(1|1)$ and $sl(2)$. We use the elliptic parametrization of the Bethe ansatz variables, which degenerates to a hyperbolic one in the strong coupling limit. We analyze the equations for the highest excited states in the su(2) and $su(1|1)$ sectors and for the state corresponding to the twist-two operator in the $sl(2)$ sector, both without and with the dressing kernel. In some cases we were able to give analytic expressions for the leading order magnon densities. Our method reproduces all existing analytical and numerical results for these states at the leading order.

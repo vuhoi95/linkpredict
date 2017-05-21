@@ -1,0 +1,4 @@
+Paper: 07042884
+Title: Higher Nilpotent Analogues of A-infinity Structure
+Authors: V. Dolotin and A. Morozov and Sh. Shakirov
+Abstract: Higher nilpotent analogues of the $A-\infty$-structure are explicitly defined on arbitrary simplicial complexes, generalizing explicit construction of /hep-th/0704.2609. These structures are associated with the higher nilpotent differential $d_n$, satisfying $d_n^n =0$, which is naturally defined on triangulated manifolds (tetrahedral lattices). The deformation $D_n = (I + \epsilon_n) d_n (I + \epsilon_n)^{-1}$ is defined with the help of the $n$-versions of discrete exterior product $\wedge_n$ and the $K_n$-operator.

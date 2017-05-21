@@ -1,0 +1,4 @@
+Paper: 0309261
+Title: Finite size effects in the XXZ and sine-Gordon models with two  boundaries
+Authors: Changrim Ahn and Rafael I. Nepomechie
+Abstract: We compute the boundary energy and the Casimir energy for both the spin-1/2 XXZ quantum spin chain and (by means of the light-cone lattice construction) the massive sine-Gordon model with both left and right boundaries. We also derive a nonlinear integral equation for the ground state of the sine-Gordon model on a finite interval. These results, which are based on a recently-proposed Bethe Ansatz solution, are for general values of the bulk coupling constant, and for both diagonal and nondiagonal boundary interactions. However, the boundary parameters are restricted to obey one complex (two real) constraints.

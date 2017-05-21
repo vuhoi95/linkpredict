@@ -1,0 +1,4 @@
+Paper: 0102247
+Title: Spin chains and combinatorics: twisted boundary conditions
+Authors: A. V. Razumov and Yu. G. Stroganov
+Abstract: The finite XXZ Heisenberg spin chain with twisted boundary conditions was considered. For the case of even number of sites $N$, anisotropy parameter -1/2 and twisting angle $2 \pi /3$ the Hamiltonian of the system possesses an eigenvalue $-3N/2$. The explicit form of the corresponding eigenvector was found for $N \le 12$. Conjecturing that this vector is the ground state of the system we made and verified several conjectures related to the norm of the ground state vector, its component with maximal absolute value and some correlation functions, which have combinatorial nature. In particular, the squared norm of the ground state vector is probably coincides with the number of half-turn symmetric alternating sign $N \times N$ matrices.

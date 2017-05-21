@@ -1,0 +1,4 @@
+Paper: 07083214
+Title: 3D N = 1 SYM Chern-Simons theory on the Lattice
+Authors: Joshua W. Elliott and Guy D. Moore
+Abstract: We present a method to implement 3-dimensional N = 1 SUSY Yang-Mills theory (a theory with two real supercharges containing gauge fields and an adjoint Majorana fermion) on the lattice, including a way to implement the Chern-Simons term present in this theory. At nonzero Chern-Simons number our implementation suffers from a sign problem which will make the numerical effort grow exponentially with volume. We also show that the theory with vanishing Chern-Simons number is anomalous; its partition function identically vanishes.

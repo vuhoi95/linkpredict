@@ -1,0 +1,4 @@
+Paper: 0409257
+Title: A geometric approach to scalar field theories on the supersphere
+Authors: A. F. Schunck and Chris Wainwright
+Abstract: Following a strictly geometric approach we construct globally supersymmetric scalar field theories on the supersphere, defined as the quotient space $S^{2|2} = UOSp(1|2)/\mathcal{U}(1)$. We analyze the superspace geometry of the supersphere, in particular deriving the invariant vielbein and spin connection from a generalization of the left-invariant Maurer-Cartan form for Lie groups. Using this information we proceed to construct a superscalar field action on $S^{2|2}$, which can be decomposed in terms of the component fields, yielding a supersymmetric action on the ordinary two-sphere. We are able to derive Lagrange equations and Noether's theorem for the superscalar field itself.

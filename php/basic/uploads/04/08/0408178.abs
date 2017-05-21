@@ -1,0 +1,4 @@
+Paper: 0408178
+Title: A Pendant for Polya: The One-Loop Partition Function of N=4 SYM on R x  S^3
+Authors: Marcus Spradlin and Anastasia Volovich
+Abstract: We study weakly coupled SU(N) N = 4 super Yang-Mills theory on R x S^3 at infinite N, which has interesting thermodynamics, including a Hagedorn transition, even at zero Yang-Mills coupling. We calculate the exact one-loop partition function below the Hagedorn temperature. Our calculation employs the representation of the one-loop dilatation operator as a spin chain Hamiltonian acting on neighboring sites and a generalization of Polya's counting of `necklaces' (gauge-invariant operators) to include necklaces with a `pendant' (an operator which acts on neighboring beads). We find that the one-loop correction to the Hagedorn temperature is delta ln T_H = + lambda/8 pi^2.

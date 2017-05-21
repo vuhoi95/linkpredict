@@ -1,0 +1,4 @@
+Paper: 0401169
+Title: Hamiltonian Superfield Formalism with N Supercharges
+Authors: I. A. Batalin and K. Bering
+Abstract: An action principle that applies uniformly to any number N of supercharges is proposed. We perform the reduction to the N=0 partition function by integrating out superpartner fields. As a new feature for theories of extended supersymmetry, the canonical Pfaffian measure factor is a result of a Gaussian integration over a superpartner. This is mediated through an explicit choice of direction n^a in the \theta-space, which the physical sector does not depend on. Also, we re-interpret the metric g^{ab} in the Susy algebra [D^a,D^b] = g^{ab}\partial_t as a symplectic structure on the fermionic \theta-space. This leads to a superfield formulation with a general covariant \theta-space sector.

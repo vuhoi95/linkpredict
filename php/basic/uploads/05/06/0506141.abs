@@ -1,0 +1,4 @@
+Paper: 0506141
+Title: Flux-vacua in Two Dimensional String Theory
+Authors: Juan Maldacena and Nathan Seiberg
+Abstract: We analyze the two dimensional type 0 theory with background RR-fluxes. Both the 0A and the 0B theory have two distinct fluxes $q$ and $\tilde q$. We study these two theories at finite temperature (compactified on a Euclidean circle of radius $R$) as a function of the fluxes, the tachyon condensate $\mu$ and the radius $R$. Surprisingly, the dependence on $q$, $\tilde q$ and $\mu$ is rather simple. The partition function is the absolute value square of a holomorphic function of $y=|q|+|\tilde q| + i \sqrt{2\alpha'} \mu$ (up to a simple but interesting correction). As expected, the 0A and the 0B answers are related by T-duality. Our answers are derived using the exact matrix models description of these systems and are interpreted in the low energy spacetime Lagrangian.

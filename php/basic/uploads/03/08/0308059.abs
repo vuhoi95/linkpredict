@@ -1,0 +1,4 @@
+Paper: 0308059
+Title: Level truncation and the quartic tachyon coupling
+Authors: Matteo Beccaria and Carlo Rampino
+Abstract: We discuss the convergence of level truncation in bosonic open string field theory. As a test case we consider the calculation of the quartic tachyon coupling $\gamma_4$. We determine the exact contribution from states up to level L=28 and discuss the $L\to\infty$ extrapolation by means of the BST algorithm. We determine in a self-consistent way both the coupling and the exponent $\omega$ of the leading correction to $\gamma_4$ at finite $L$ that we assume to be $\sim 1/L^\omega$. The results are $\gamma_4 = -1.7422006(9)$ and $|\omega-1|\lesssim 10^{-4}$.}

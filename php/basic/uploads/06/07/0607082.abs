@@ -1,0 +1,4 @@
+Paper: 0607082
+Title: Relativistic Brownian motion: From a microscopic binary collision model  to the Langevin equation
+Authors: Jörn Dunkel and Peter Hänggi
+Abstract: The Langevin equation (LE) for the one-dimensional relativistic Brownian motion is derived from a microscopic collision model. The model assumes that a heavy point-like Brownian particle interacts with the lighter heat bath particles via elastic hard-core collisions. First, the commonly known, non-relativistic LE is deduced from this model, by taking into account the non-relativistic conservation laws for momentum and kinetic energy. Subsequently, this procedure is generalized to the relativistic case. There, it is found that the relativistic stochastic force is still $\gd$-correlated (white noise) but does \emph{no} longer correspond to a Gaussian white noise process. Explicit results for the friction and momentum-space diffusion coefficients are presented and discussed.

@@ -1,0 +1,4 @@
+Paper: 0208035
+Title: Explicit Free Parameterization of the Modified Tetrahedron Equation
+Authors: G. von Gehlen and S. Pakuliak and S. Sergeev
+Abstract: The Modified Tetrahedron Equation (MTE) with affine Weyl quantum variables at N-th root of unity is solved by a rational mapping operator which is obtained from the solution of a linear problem. We show that the solutions can be parameterized in terms of eight free parameters and sixteen discrete phase choices, thus providing a broad starting point for the construction of 3-dimensional integrable lattice models. The Fermat curve points parameterizing the representation of the mapping operator in terms of cyclic functions are expressed in terms of the independent parameters. An explicit formula for the density factor of the MTE is derived. For the example N=2 we write the MTE in full detail. We also discuss a solution of the MTE in terms of bosonic continuum functions.

@@ -1,0 +1,4 @@
+Paper: 0105035
+Title: Effective Beta-Functions for Effective Field Theory
+Authors: Martin B. Einhorn and Jose Wudka
+Abstract: We consider the problem of determining the beta-functions for any reduced effective field theory. Even though not all the Green's functions of a reduced effective field theory are renormalizable, unlike the full effective field theory, certain effective beta- functions for the reduced set of couplings may be calculated without having to introduce vertices in the Feynman rules for redundant operators. These effective beta-functions suffice to apply the renormalization group equation to any transition amplitude (i.e., S- matrix element), thereby rendering reduced effective field theories no more cumbersome than traditionally renormalizable field theories. These effective beta-functions may equally be regarded as the running of couplings for a particular redefinition of the fields.

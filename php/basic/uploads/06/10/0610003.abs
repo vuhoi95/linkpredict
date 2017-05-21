@@ -1,0 +1,4 @@
+Paper: 0610003
+Title: PT-Symmetric Extension of the Korteweg-de Vries Equation
+Authors: Carl M. Bender and Dorje C. Brody and Junhua Chen and Elisabetta Furlan
+Abstract: The Korteweg-de Vries equation u_t+uu_x+u_{xxx}=0 is PT symmetric (invariant under space-time reflection). Therefore, it can be generalized and extended into the complex domain in such a way as to preserve the PT symmetry. The result is the family of complex nonlinear wave equations u_t-iu(i u_x)^epsilon+u_{xxx}=0, where epsilon is real. The features of these equations are discussed. Special attention is given to the epsilon=3 equation, for which conservation laws are derived and solitary waves are investigated.

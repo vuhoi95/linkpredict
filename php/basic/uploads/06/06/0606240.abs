@@ -1,0 +1,4 @@
+Paper: 0606240
+Title: Analysis of entropy of XY Spin Chain
+Authors: F. Franchini and A. R. Its and B. -Q. Jin and V. E. Korepin
+Abstract: Entanglement in the ground state of the XY model on the infinite chain can be measured by the von Neumann entropy of a block of neighboring spins. We study a double scaling limit: the size of the block is much larger then 1 but much smaller then the length of the whole chain. In this limit, the entropy of the block approaches a constant. The limiting entropy is a function of the anisotropy and of the magnetic field. The entropy reaches minima at product states and increases boundlessly at phase transitions.

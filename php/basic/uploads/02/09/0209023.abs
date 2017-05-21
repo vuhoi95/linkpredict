@@ -1,0 +1,4 @@
+Paper: 0209023
+Title: Crossing Probabilities and Modular Forms
+Authors: Peter Kleban and Don Zagier
+Abstract: We examine crossing probabilities and free energies for conformally invariant critical 2-D systems in rectangular geometries, derived via conformal field theory and Stochastic L\"owner Evolution methods. These quantities are shown to exhibit interesting modular behavior, although the physical meaning of modular transformations in this context is not clear. We show that in many cases these functions are completely characterized by very simple transformation properties. In particular, Cardy's function for the percolation crossing probability (including the conformal dimension 1/3), follows from a simple modular argument. A new type of "higher-order modular form" arises and its properties are discussed briefly.

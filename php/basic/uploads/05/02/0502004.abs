@@ -1,0 +1,4 @@
+Paper: 0502004
+Title: Continuous Symmetries of Difference Equations
+Authors: D. Levi and P. Winternitz
+Abstract: Lie group theory was originally created more than 100 years ago as a tool for solving ordinary and partial differential equations. In this article we review the results of a much more recent program: the use of Lie groups to study difference equations. We show that the mismatch between continuous symmetries and discrete equations can be resolved in at least two manners. One is to use generalized symmetries acting on solutions of difference equations, but leaving the lattice invariant. The other is to restrict to point symmetries, but to allow them to also transform the lattice.

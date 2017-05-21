@@ -1,0 +1,4 @@
+Paper: 0503106
+Title: Euler angles for G2
+Authors: Sergio L. Cacciatori and Bianca L. Cerchiai and Alberto Della Vedova and Giovanni Ortenzi and Antonio Scotti
+Abstract: We provide a simple parametrization for the group G2, which is analogous to the Euler parametrization for SU(2). We show how to obtain the general element of the group in a form emphasizing the structure of the fibration of G2 with fiber SO(4) and base H, the variety of quaternionic subalgebras of octonions. In particular this allows us to obtain a simple expression for the Haar measure on G2. Moreover, as a by-product it yields a concrete realization and an Einstein metric for H.

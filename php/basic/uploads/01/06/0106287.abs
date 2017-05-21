@@ -1,0 +1,4 @@
+Paper: 0106287
+Title: Affine su(3) and su(4) fusion multiplicities as polytope volumes
+Authors: Jorgen Rasmussen and Mark A. Walton
+Abstract: Affine su(3) and su(4) fusion multiplicities are characterised as discretised volumes of certain convex polytopes. The volumes are measured explicitly, resulting in multiple sum formulas. These are the first polytope-volume formulas for higher-rank fusion multiplicities. The associated threshold levels are also discussed. For any simple Lie algebra we derive an upper bound on the threshold levels using a refined version of the Gepner-Witten depth rule.

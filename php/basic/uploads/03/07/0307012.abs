@@ -1,0 +1,4 @@
+Paper: 0307012
+Title: Invariant Integration over the Unitary Group
+Authors: S. Aubert and C. S. Lam
+Abstract: Integrals for the product of unitary-matrix elements over the U(n) group will be discussed. A group-theoretical formula is available to convert them into a multiple sum, but unfortunately the sums are often tedious to compute. In this paper, we develop an alternative method in which these sums are avoided, and group theory is rendered unnecessary. Only unitarity and the invariance of the Haar measure are required for the computation. The method can also be used to get a closed expression for the simpler integral of monomials over a hypersphere.

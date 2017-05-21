@@ -1,0 +1,4 @@
+Paper: 0008070
+Title: Holonomy in the Schwarzschild-Droste Geometry
+Authors: Tony Rothman and George F. R. Ellis and Jeff Murugan
+Abstract: Parallel transport of vectors in curved spacetimes generally results in a deficit angle between the directions of the initial and final vectors. We examine such holonomy in the Schwarzschild-Droste geometry and find a number of interesting features that are not widely known. For example, parallel transport around circular orbits results in a quantized band structure of holonomy invariance. We also examine radial holonomy and extend the analysis to spinors and to the Reissner-Nordstr\"om metric, where we find qualitatively different behavior for the extremal ($Q = M$) case. Our calculations provide a toolbox that will hopefully be useful in the investigation of quantum parallel transport in Hilbert-fibered spacetimes.

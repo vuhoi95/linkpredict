@@ -1,0 +1,4 @@
+Paper: 0507015
+Title: Biorthogonal Quantum Systems
+Authors: Thomas Curtright and Luca Mezincescu
+Abstract: Models of PT symmetric quantum mechanics provide examples of biorthogonal quantum systems. The latter incorporporate all the structure of PT symmetric models, and allow for generalizations, especially in situations where the PT construction of the dual space fails. The formalism is illustrated by a few exact results for models of the form H=(p+\nu)^2+\sum_{k>0}\mu_{k}exp(ikx). In some non-trivial cases, equivalent hermitian theories are obtained and shown to be very simple: They are just free (chiral) particles. Field theory extensions are briefly considered.

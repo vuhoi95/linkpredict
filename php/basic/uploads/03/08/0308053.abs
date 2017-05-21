@@ -1,0 +1,4 @@
+Paper: 0308053
+Title: Finite lattice Bethe ansatz systems and the Heun equation
+Authors: Patrick Dorey and Junji Suzuki and Roberto Tateo
+Abstract: We study the P"oschl-Teller equation in complex domain and deduce infinite families of TQ and Bethe ansatz equations, classified by four integers. In all these models the form of T is very simple, while Q can be explicitly written in terms of the Heun function. At particular values there is a interesting interpretation in terms of finite lattice spin (L-2)/2 XXZ quantum chain with Delta= cos(pi/L) (for free-free boundary conditions), or Delta=-cos(pi/L) (for periodic boundary conditions). This result generalises the findings of Fridkin, Stroganov and Zagier. We also discuss the continuous (field theory) limit of these systems in view of the so-called ODE/IM correspondence.

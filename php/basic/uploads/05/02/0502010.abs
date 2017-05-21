@@ -1,0 +1,4 @@
+Paper: 0502010
+Title: Relating Chiral Perturbation Theory and QCD Simulations with Overlap  Hypercube Fermions
+Authors: W. Bietenholz and S. Shcheredin
+Abstract: We present simulation results for lattice QCD with light pions. For the quark fields we apply chirally symmetric lattice Dirac operators, in particular the overlap hypercube operator, along with the standard overlap operator for comparison. This allows us to simulate at very low pion masses. The results are related to Random Matrix Theory and to Chiral Perturbation Theory in order to extract information about the pion decay constant, the scalar condensate and the topological susceptibility.

@@ -1,0 +1,4 @@
+Paper: 0506183
+Title: Unstable particles as open quantum systems
+Authors: P. Caban and J. Rembielinski and K. A. Smolinski and Z. Walczak
+Abstract: We present the probability preserving description of the decaying particle within the framework of quantum mechanics of open systems taking into account the superselection rule prohibiting the superposition of the particle and vacuum. In our approach the evolution of the system is given by a family of completely positive trace preserving maps forming one-parameter dynamical semigroup. We give the Kraus representation for the general evolution of such systems which allows one to write the evolution for systems with two or more particles. Moreover, we show that the decay of the particle can be regarded as a Markov process by finding explicitly the master equation in the Lindblad form. We also show that there are remarkable restrictions on the possible strength of decoherence.

@@ -1,0 +1,4 @@
+Paper: 0006217
+Title: A Study on the Non-perturbative Existence of Yang-Mills Theories with  Large Extra Dimensions
+Authors: Shinji Ejiri and Jisuke Kubo and Michika Murata
+Abstract: Pure lattice SU(2) Yang-Mills theory in five dimensions is considered, where an extra dimension is compactified on a circle. Monte-Carlo simulations indicate that the theory possesses a continuum limit with a non-vanishing string tension if the compactification radius is smaller than a certain value $R_M$ which is $O(1/10)$ of the inverse of the square root of the string tension. We verify non-perturbatively the power-law running of gauge coupling constant. Our method can be applied to the investigation of continuum limits in other higher-dimensional gauge theories.

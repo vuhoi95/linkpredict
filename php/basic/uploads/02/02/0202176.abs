@@ -1,0 +1,4 @@
+Paper: 0202176
+Title: Topological Field Theory Interpretation of String Topology
+Authors: Alberto S. Cattaneo and Juerg Froehlich and Bill Pedrini
+Abstract: The string bracket introduced by Chas and Sullivan [math.GT/9911159] is reinterpreted from the point of view of topological field theories in the Batalin-Vilkovisky or BRST formalisms. Namely, topological action functionals for gauge fields (generalizing Chern-Simons and BF theories) are considered together with generalized Wilson loops. The latter generate a (Poisson or Gerstenhaber) algebra of functionals with values in the $S^1$-equivariant cohomology of the loop space of the manifold on which the theory is defined. It is proved that, in the case of $GL_n$ with standard representation, the (Poisson or BV) bracket of two generalized Wilson loops applied to two cycles is the same as the generalized Wilson loop applied to the string bracket of the cycles. Generalizations to other groups are briefly described.

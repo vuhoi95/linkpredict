@@ -1,0 +1,4 @@
+Paper: 07093668
+Title: Fermions on one or fewer Kinks
+Authors: Yi-Zen Chu and Tanmay Vachaspati
+Abstract: We find the full spectrum of fermion bound states on a Z_2 kink. In addition to the zero mode, there are int[2 m_f/m_s] bound states, where m_f is the fermion and m_s the scalar mass. We also study fermion modes on the background of a well-separated kink-antikink pair. Using a variational argument, we prove that there is at least one bound state in this background, and that the energy of this bound state goes to zero with increasing kink-antikink separation, 2L, and faster than e^{-a2L} where a = min(m_s, 2 m_f). By numerical evaluation, we find some of the low lying bound states explicitly.

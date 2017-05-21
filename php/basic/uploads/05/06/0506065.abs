@@ -1,0 +1,4 @@
+Paper: 0506065
+Title: Periodicity and Growth in a Lattice Gas with Dynamical Geometry
+Authors: Karin Baur and Jeffrey M. Rabin and David A. Meyer
+Abstract: We study a one-dimensional lattice gas "dynamical geometry model" in which local reversible interactions of counter-rotating groups of particles on a ring can create or destroy lattice sites. We exhibit many periodic orbits and and show that all other solutions have asymptotically growing lattice length in both directions of time. We explain why the length grows as $\sqrt{t}$ in all cases examined. We completely solve the dynamics for small numbers of particles with arbitrary initial conditions.

@@ -1,0 +1,4 @@
+Paper: 0506114
+Title: Exact results for the sigma^z two-point function of the XXZ chain at  Delta=1/2
+Authors: N. Kitanine and J. M. Maillet and N. A. Slavnov and V. Terras
+Abstract: We propose a new multiple integral representation for the correlation function <sigma_1^z sigma_{m+1}^z> of the XXZ spin-1/2 Heisenberg chain in the disordered regime. We show that for Delta=1/2 the integrals can be separated and computed exactly. As an example we give the explicit results up to the lattice distance m=8. It turns out that the answer is given as integer numbers divided by 2^[(m+1)^2].

@@ -1,0 +1,4 @@
+Paper: 0611218
+Title: Twisted Homology
+Authors: Andres Collinucci and Jarah Evslin
+Abstract: D-branes are classified by twisted K-theory. Yet twisted K-theory is often hard to calculate. We argue that, in the case of a compactification on a simply-connected six manifold, twisted K-theory is isomorphic to a much simpler object, twisted homology. Unlike K-theory, homology can be twisted by a class of any degree and so it classifies not only D-branes but also M-branes. Twisted homology classes correspond to cycles in a certain bundle over spacetime, and branes may decay via Kachru-Pearson-Verlinde transitions only if this cycle is trivial. We provide a spectral sequence which calculates twisted homology, the kth step treats D(p-2k)-branes ending on Dp-branes.

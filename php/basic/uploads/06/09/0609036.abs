@@ -1,0 +1,4 @@
+Paper: 0609036
+Title: The Bloch-Okounkov correlation functions of classical type
+Authors: David G. Taylor and Weiqiang Wang
+Abstract: Bloch and Okounkov introduced an n-point correlation function on the infinite wedge space and found an elegant closed formula in terms of theta functions. This function has connections to Gromov-Witten theory, Hilbert schemes, symmetric groups, etc, and it can also be interpreted as correlation functions on integrable gl_\infty-modules of level one. Such gl_\infty-correlation functions at higher levels were then calculated by Cheng and Wang. In this paper, generalizing the type A results, we formulate and determine the n-point correlation functions in the sense of Bloch-Okounkov on integrable modules over classical Lie subalgebras of gl_\infty of type B,C,D at arbitrary levels. As byproducts, we obtain new q-dimension formulas for integrable modules of type B,C,D and some fermionic type q-identities.

@@ -1,0 +1,4 @@
+Paper: 07063077
+Title: Exact solution of the Faddeev-Volkov model
+Authors: Vladimir V. Bazhanov and Vladimir V. Mangazeev and Sergey M. Sergeev
+Abstract: The Faddeev-Volkov model is an Ising-type lattice model with positive Boltzmann weights where the spin variables take continuous values on the real line. It serves as a lattice analog of the sinh-Gordon and Liouville models and intimately connected with the modular double of the quantum group U_q(sl_2). The free energy of the model is exactly calculated in the thermodynamic limit. In the quasi-classical limit c->infinity the model describes quantum fluctuations of discrete conformal transformations connected with the Thurston's discrete analogue of the Riemann mappings theorem. In the strongly-coupled limit c->1 the model turns into a discrete version of the D=2 Zamolodchikov's ``fishing-net'' model.

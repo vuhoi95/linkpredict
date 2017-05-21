@@ -1,0 +1,4 @@
+Paper: 0503393
+Title: Evolution of Entanglement Entropy in One-Dimensional Systems
+Authors: Pasquale Calabrese and John Cardy
+Abstract: We study the unitary time evolution of the entropy of entanglement of a one-dimensional system between the degrees of freedom in an interval of length l and its complement, starting from a pure state which is not an eigenstate of the hamiltonian. We use path integral methods of quantum field theory as well as explicit computations for the transverse Ising spin chain. In both cases, there is a maximum speed v of propagation of signals. In general the entanglement entropy increases linearly with time $t$ up to t=l/2v, after which it saturates at a value proportional to l, the coefficient depending on the initial state. This behavior may be understood as a consequence of causality.

@@ -1,0 +1,4 @@
+Paper: 0401003
+Title: Exact solution of a 1D many-body system with momentum dependent  interactions
+Authors: Harald Grosse and Edwin Langmann and Cornelius Paufler
+Abstract: We discuss a 1D many-body model of distinguishable particles with local, momentum dependent two-body interactions. We show that the restriction of this model to fermions corresponds to the non-relativistic limit of the massive Thirring model. This fermion model can be solved exactly by a mapping to the 1D boson gas with inverse coupling constant. We provide evidence that this mapping is the non-relativistic limit of the duality between the massive Thirring model and the quantum sine-Gordon model. We also investigate the question if the generalization of this model to distinguishable particles is exactly solvable by the coordinate Bethe ansatz and find that this is not the case.

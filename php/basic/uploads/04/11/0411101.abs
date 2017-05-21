@@ -1,0 +1,4 @@
+Paper: 0411101
+Title: Geometry and analysis in non-linear sigma models
+Authors: D. Auckly and L. Kapitanski and M. Speight
+Abstract: The configuration space of a non-linear sigma model is the space of maps from one manifold to another. This paper reviews the authors' work on non-linear sigma models with target a homogeneous space. It begins with a description of the components, fundamental group, and cohomology of such configuration spaces together with the physical interpretations of these results. The topological arguments given generalize to Sobolev maps. The advantages of representing homogeneous space valued maps by flat connections are described, with applications to the homotopy theory of Sobolev maps, and minimization problems for the Skyrme and Faddeev functionals. The paper concludes with some speculation about the possiblility of using these techniques to define new invariants of manifolds.

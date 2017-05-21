@@ -1,0 +1,4 @@
+Paper: 0107031
+Title: Group-theoretic Approach for Symbolic Tensor Manipulation: I. Free  Indices
+Authors: R. Portugal and B. F. Svaiter
+Abstract: We describe how Computational Group Theory provides tools for manipulating tensors in explicit index notation. In special, we present an algorithm that puts tensors with free indices obeying permutation symmetries into the canonical form. The method is based on algorithms for determining the canonical coset representative of a subgroup of the symmetric group. The complexity of our algorithm is polynomial on the number of indices and is useful for implementating general purpose tensor packages on the computer algebra systems.

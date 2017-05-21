@@ -1,0 +1,4 @@
+Paper: 0309063
+Title: A Transverse Lattice QCD Model for Mesons
+Authors: Apoorva Patel and Raghunath Ratabole
+Abstract: QCD is analysed with two light-front continuum dimensions and two transverse lattice dimensions. In the limit of large number of colours and strong transverse gauge coupling, the contributions of light-front and transverse directions factorise in the dynamics, and the theory can be analytically solved in a closed form. An integral equation is obtained, describing the properties of mesons, which generalises the 't Hooft equation by including spin degrees of freedom. The meson spectrum, light-front wavefunctions and form factors can be obtained by solving this equation numerically. These results would be a good starting point to model QCD observables which only weakly depend on transverse directions, e.g. deep inelastic scattering structure functions.

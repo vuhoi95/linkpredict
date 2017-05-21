@@ -1,0 +1,4 @@
+Paper: 0112017
+Title: Wishart and Anti-Wishart random matrices
+Authors: Romuald A. Janik and Maciej A. Nowak
+Abstract: We provide a compact exact representation for the distribution of the matrix elements of the Wishart-type random matrices $A^\dagger A$, for any finite number of rows and columns of $A$, without any large N approximations. In particular we treat the case when the Wishart-type random matrix contains redundant, non-random information, which is a new result. This representation is of interest for a procedure of reconstructing the redundant information hidden in Wishart matrices, with potential applications to numerous models based on biological, social and artificial intelligence networks.

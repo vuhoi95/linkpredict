@@ -1,0 +1,4 @@
+Paper: 0011263
+Title: Clifford Hopf gebra for two-dimensional space
+Authors: Bertfried Fauser and Zbigniew Oziewicz
+Abstract: A Clifford algebra Cl(V,\eta\in V^*\otimes V^*) jointly with a Clifford cogebra Cl(V,\xi\in V\otimes V) is said to be a Clifford biconvolution Cl(\eta,\xi). We show that a Clifford biconvolution for dim_R Cl=4 does possess an antipode iff det(id-\xi\circ\eta)\neq 0. An antipodal Clifford biconvolution is said to be a Clifford Hopf gebra. We study the Clifford Hopf gebra and examples of antipode less Clifford bigebras including the Grassmann case.

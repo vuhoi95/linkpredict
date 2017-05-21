@@ -1,0 +1,4 @@
+Paper: 0008273
+Title: Unique Translation between Hamiltonian Operators and Functional  Integrals
+Authors: T. Gollisch and C. Wetterich
+Abstract: A careful treatment of the discretization errors in the path integral formulation of quantum mechanics leads to a unique prescription for the translation from the Hamiltonian to the action in the functional integral. An example is given by an interaction quadratic in the occupation number, characteristic for manybody bosonic systems. As a result, the term linear in the occupation number (chemical potential) receives a correction as compared to the usual formulation based on coherent states. A perturbative calculation supports the relevance of this correction.

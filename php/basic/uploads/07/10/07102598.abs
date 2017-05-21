@@ -1,0 +1,4 @@
+Paper: 07102598
+Title: BRST quantization of the pure spinor superstring
+Authors: Joost Hoogeveen and Kostas Skenderis
+Abstract: We present a derivation of the scattering amplitude prescription for the pure spinor superstring from first principles, both in the minimal and non-minimal formulations, and show that they are equivalent. This is achieved by first coupling the worldsheet action to topological gravity and then proceeding to BRST quantize this system. Our analysis includes the introduction of constant ghosts and associated auxiliary fields needed to gauge fix symmetries associated with zero modes. All fields introduced in the process of quantization can be integrated out explicitly, resulting in the prescriptions for computing scattering amplitudes that have appeared previously in the literature. The zero mode insertions in the path integral follow from the integration over the constant auxiliary fields.

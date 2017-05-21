@@ -1,0 +1,4 @@
+Paper: 0203227
+Title: Ising Model on Networks with an Arbitrary Distribution of Connections
+Authors: S. N. Dorogovtsev and A. V. Goltsev and J. F. F. Mendes
+Abstract: We find the exact critical temperature $T_c$ of the nearest-neighbor ferromagnetic Ising model on an `equilibrium' random graph with an arbitrary degree distribution $P(k)$. We observe an anomalous behavior of the magnetization, magnetic susceptibility and specific heat, when $P(k)$ is fat-tailed, or, loosely speaking, when the fourth moment of the distribution diverges in infinite networks. When the second moment becomes divergent, $T_c$ approaches infinity, the phase transition is of infinite order, and size effect is anomalously strong.

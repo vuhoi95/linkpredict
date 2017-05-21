@@ -1,0 +1,4 @@
+Paper: 0602316
+Title: On syzygies of highest weight orbits
+Authors: A. L. Gorodentsev and A. S. Khoroshkin and A. N. Rudakov
+Abstract: We consider the graded space $R$ of syzygies for the coordinate algebra $A$ of projective variety $X=G/P$ embedded into projective space as an orbit of the highest weight vector of an irreducible representation of semisimple complex Lie group $G$. We show that $R$ is isomorphic to the Lie algebra cohomology $H=H^\bdot(\Lt,\CC)$, where $\Lt$ is graded Lie subalgebra of the graded Lie s-algebra $L=L_1\oplus\Lt$ Koszul dual to $A$. We prove that the isomorphism identifies the natural associative algebra structures on $R$ and $H$ coming from their Koszul and Chevalley DGA resolutions respectively. For subcanonically embedded $X$ a Frobenius algebra structure on the syzygies is constructed. We illustrate the results by several examples including the computation of syzygies for the Pl\"ucker embeddings of grassmannians $\Gr(2,N)$.

@@ -1,0 +1,4 @@
+Paper: 0511066
+Title: How robust is the entanglement entropy-area relation?
+Authors: Saurya Das and S. Shankaranarayanan
+Abstract: We revisit the problem of finding the entanglement entropy of a scalar field on a lattice by tracing over its degrees of freedom inside a sphere. It is known that this entropy satisfies the area law -- entropy proportional to the area of the sphere -- when the field is assumed to be in its ground state. We show that the area law continues to hold when the scalar field degrees of freedom are in generic coherent states and a class of squeezed states. However, when excited states are considered, the entropy scales as a lower power of the area. This suggests that for large horizons, the ground state entropy dominates, whereas entropy due to excited states gives power law corrections. We discuss possible implications of this result to black hole entropy.

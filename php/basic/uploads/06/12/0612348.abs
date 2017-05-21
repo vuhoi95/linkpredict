@@ -1,0 +1,4 @@
+Paper: 0612348
+Title: String correlation functions of the spin-1/2 Heisenberg XXZ chain
+Authors: Michael Bortz and Jun Sato and Masahiro Shiroishi
+Abstract: We calculate certain string correlation functions, originally introduced as order parameters in integer spin chains, for the spin-1/2 XXZ Heisenberg chain at zero temperature and in the thermodynamic limit. For small distances, we obtain exact results from Bethe Ansatz and exact diagonalization, whereas in the large-distance limit, field-theoretical arguments yield an asymptotic algebraic decay. We also make contact with two-point spin-correlation functions in the asymptotic limit.

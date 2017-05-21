@@ -1,0 +1,4 @@
+Paper: 0609570
+Title: Modular invariance for conformal full field algebras
+Authors: Yi-Zhi Huang and Liang Kong
+Abstract: Let V^L and V^R be simple vertex operator algebras satisfying certain natural uniqueness-of-vacuum, complete reducibility and cofiniteness conditions and let F be a conformal full field algebra over the tensor product of V^L and V^R. We prove that the q_\tau-\bar{q_\tau}-traces (natural traces involving q_\tau=e^{2\pi i\tau} and \bar{q_\tau}=\bar{e^{2\pi i\tau}}) of geometrically modified genus-zero correlation functions for F are convergent in suitable regions and can be extended to doubly periodic functions with periods 1 and \tau. We obtain necessary and sufficient conditions for these functions to be modular invariant. In the case that V^L=V^R and F is one of those constructed by the authors in \cite{HK}, we prove that all these functions are modular invariant.

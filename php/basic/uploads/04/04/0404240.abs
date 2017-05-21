@@ -1,0 +1,4 @@
+Paper: 0404240
+Title: Gribov Problem for Gauge Theories: a Pedagogical Introduction
+Authors: Giampiero Esposito and Diego N. Pelliccia and Francesco Zaccaria
+Abstract: The functional-integral quantization of non-Abelian gauge theories is affected by the Gribov problem at non-perturbative level: the requirement of preserving the supplementary conditions under gauge transformations leads to a non-linear differential equation, and the various solutions of such a non-linear equation represent different gauge configurations known as Gribov copies. Their occurrence (lack of global cross-sections from the point of view of differential geometry) is called Gribov ambiguity, and is here presented within the framework of a global approach to quantum field theory. We first give a simple (standard) example for the SU(2) group and spherically symmetric potentials, then we discuss this phenomenon in general relativity, and recent developments, including lattice calculations.

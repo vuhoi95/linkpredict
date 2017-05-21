@@ -1,0 +1,4 @@
+Paper: 0203017
+Title: New proposal for numerical simulations of theta-vacuum like systems
+Authors: Vicente Azcoiti and Giuseppe Di Carlo and Angelo Galante and Victor Laliena
+Abstract: We propose a new approach to perform numerical simulations of theta-vacuum like systems, test it in two analytically solvable models, and apply it to CP^3. The main new ingredient in our approach is the method used to compute the probability distribution function of the topological charge at theta=0. We do not get unphysical phase transitions (flattening behavior of the free energy density) and reproduce the exact analytical results for the order parameter in the whole theta-range within a few percent.

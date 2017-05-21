@@ -1,0 +1,4 @@
+Paper: 0301197
+Title: Gauge Symmetry in Fokker-Planck dynamics
+Authors: M. de Montgny and F. C. Khanna and A. E. Santana
+Abstract: Using a Galilean metric approach, based in an embedding of the Euclidean space into a (4+1)-Minkowski space, we analyze a gauge invariant Lagrangian associated with a Riemannian manifold R, with metric g. With a specific choice of the gauge condition, the Euler-Lagrange equations are written covariantly in R, and then the Fokker-Planck equation is derived, such that the drift and the diffusion terms are obtained from g. The analysis is carried out for both, abelian and non abelian symmetries, and an example with the su(2) symmetry is presented.

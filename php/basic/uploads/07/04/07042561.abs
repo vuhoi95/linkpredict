@@ -1,0 +1,4 @@
+Paper: 07042561
+Title: Dual Feynman transform for modular operads
+Authors: Joseph Chuang and Andrey Lazarev
+Abstract: We introduce and study the notion of a dual Feynman transform of a modular operad. This generalizes and gives a conceptual explanation of Kontsevich's dual construction producing graph cohomology classes from a contractible differential graded Frobenius algebra. The dual Feynman transform of a modular operad is indeed linear dual to the Feynman transform introduced by Getzler and Kapranov when evaluated on vacuum graphs. In marked contrast to the Feynman transform, the dual notion admits an extremely simple presentation via generators and relations; this leads to an explicit and easy description of its algebras. We discuss a further generalization of the dual Feynman transform whose algebras are not necessarily contractible. This naturally gives rise to a two-colored graph complex analogous to the Boardman-Vogt topological tree complex.

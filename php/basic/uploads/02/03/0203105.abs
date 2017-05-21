@@ -1,0 +1,4 @@
+Paper: 0203105
+Title: Light propagation in generally covariant electrodynamics and the Fresnel  equation
+Authors: Friedrich W. Hehl and Yuri N. Obukhov and Guillermo F. Rubilar
+Abstract: Within the framework of generally covariant (pre-metric) electrodynamics, we specify a local vacuum spacetime relation between the excitation $H=({\cal D},{\cal H})$ and the field strength $F=(E,B)$. We study the propagation of electromagnetic waves in such a spacetime by Hadamard's method and arrive, with the constitutive tensor density $\kappa\sim\partial H/\partial F$, at a Fresnel equation which is algebraic of 4th order in the wave covector. We determine how the different pieces of $\kappa$, in particular the axion and the skewon pieces, affect the propagation of light.

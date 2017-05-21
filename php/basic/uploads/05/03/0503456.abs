@@ -1,0 +1,4 @@
+Paper: 0503456
+Title: Finite difference quantum Toda lattice via equivariant K-theory
+Authors: Alexander Braverman and Michael Finkelberg
+Abstract: We construct the action of the quantum group U_v(sl_n) by the natural correspondences in the equivariant localized $K$-theory of the Laumon based Quasiflags' moduli spaces. The resulting module is the universal Verma module. We construct geometrically the Shapovalov scalar product and the Whittaker vectors. It follows that a certain generating function of the characters of the global sections of the structure sheaves of the Laumon moduli spaces satisfies a $v$-difference analogue of the quantum Toda lattice system, reproving the main theorem of Givental-Lee. The similar constructions are performed for the affine Lie agebra \hat{sl}_n.

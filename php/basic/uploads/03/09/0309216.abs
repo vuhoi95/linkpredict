@@ -1,0 +1,4 @@
+Paper: 0309216
+Title: The Non-Commutative λφ^{4} Model
+Authors: W. Bietenholz and F. Hofheinz and J. Nishimura
+Abstract: In the recent years, field theory on non-commutative (NC) spaces has attracted a lot of attention. Most literature on this subject deals with perturbation theory, although the latter runs into grave problems beyond one loop. Here we present results from a fully non-perturbative approach. In particular, we performed numerical simulations of the \lambda \phi^{4} model with two NC spatial coordinates, and a commutative Euclidean time. This theory is lattice discretized and then mapped onto a matrix model. The simulation results reveal a phase diagram with various types of ordered phases. We discuss the suitable order parameters, as well as the spatial and temporal correlators. The dispersion relation clearly shows a trend towards the expected IR singularity. Its parameterization provides the tool to extract the continuum limit.

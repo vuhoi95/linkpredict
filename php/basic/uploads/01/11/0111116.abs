@@ -1,0 +1,4 @@
+Paper: 0111116
+Title: A Geometric Picture of Entanglement and Bell Inequalities
+Authors: R. A. Bertlmann and H. Narnhofer and W. Thirring
+Abstract: We work in the real Hilbert space H_s of hermitian Hilbert-Schmid operators and show that the entanglement witness which shows the maximal violation of a generalized Bell inequality (GBI) is a tangent functional to the convex set S subset H_s of separable states. This violation equals the euclidean distance in H_s of the entangled state to S and thus entanglement, GBI and tangent functional are only different aspects of the same geometric picture. This is explicitly illustrated in the example of two spins, where also a comparison with familiar Bell inequalities is presented.

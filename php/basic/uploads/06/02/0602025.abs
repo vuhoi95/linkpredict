@@ -1,0 +1,4 @@
+Paper: 0602025
+Title: Wave functions for the Schwarschild black hole interior
+Authors: Daniel Cartin and Gaurav Khanna
+Abstract: Using the Hamiltonian constraint derived by Ashtekar and Bojowald, we look for pre-classical wave functions in the Schwarzschild interior. In particular, when solving this difference equation by separation of variables, an inequality is obtained relating the Immirzi parameter $\gamma$ to the quantum ambiguity $\delta$ appearing in the model. This bound is violated when we use a natural value for $\delta$ based on loop quantum gravity together with a recent proposal for $\gamma$. We also present numerical solutions of the constraint.

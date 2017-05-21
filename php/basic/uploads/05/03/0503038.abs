@@ -1,0 +1,4 @@
+Paper: 0503038
+Title: Comments on BRST quantization of strings
+Authors: Ben Craps and Kostas Skenderis
+Abstract: The BRST quantization of strings is revisited and the derivation of the path integral measure for scattering amplitudes is streamlined. Gauge invariances due to zero modes in the ghost sector are taken into account by using the Batalin-Vilkovisky formalism. This involves promoting the moduli of Riemann surfaces to quantum mechanical variables on which BRST transformations act. The familiar ghost and antighost zero mode insertions are recovered upon integrating out auxiliary fields. In contrast to the usual treatment, the gauge-fixed action including all zero mode insertions is BRST invariant. Possible anomalous contributions to BRST Ward identities due to boundaries of moduli space are reproduced in a novel way. Two models are discussed explicitly: bosonic string theory and topological gravity coupled to the topological A-model.

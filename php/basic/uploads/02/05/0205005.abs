@@ -1,0 +1,4 @@
+Paper: 0205005
+Title: Jordan-Schwinger realizations of three-dimensional polynomial algebras
+Authors: V. Sunil Kumar and B. A. Bambah and R. Jagannathan
+Abstract: A three-dimensional polynomial algebra of order $m$ is defined by the commutation relations $[P_0, P_\pm]$ $=$ $\pm P_\pm$, $[P_+, P_-]$ $=$ $\phi^{(m)}(P_0)$ where $\phi^{(m)}(P_0)$ is an $m$-th order polynomial in $P_0$ with the coefficients being constants or central elements of the algebra. It is shown that two given mutually commuting polynomial algebras of orders $l$ and $m$ can be combined to give two distinct $(l+m+1)$-th order polynomial algebras. This procedure follows from a generalization of the well known Jordan-Schwinger method of construction of $su(2)$ and $su(1,1)$ algebras from two mutually commuting boson algebras.

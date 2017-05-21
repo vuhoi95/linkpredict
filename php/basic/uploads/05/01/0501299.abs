@@ -1,0 +1,4 @@
+Paper: 0501299
+Title: What entropy at the edge of chaos?
+Authors: Marcello Lissia and Massimo Coraddu and Roberto Tonelli
+Abstract: Numerical experiments support the interesting conjecture that statistical methods be applicable not only to fully-chaotic systems, but also at the edge of chaos by using Tsallis' generalizations of the standard exponential and entropy. In particular, the entropy increases linearly and the sensitivity to initial conditions grows as a generalized exponential. We show that this conjecture has actually a broader validity by using a large class of deformed entropies and exponentials and the logistic map as test cases.

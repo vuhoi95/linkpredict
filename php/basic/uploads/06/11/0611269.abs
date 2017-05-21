@@ -1,0 +1,4 @@
+Paper: 0611269
+Title: Logarithmic corrections to higher twist scaling at strong coupling from  AdS/CFT
+Authors: S. Frolov and A. Tirziu and A. A. Tseytlin
+Abstract: We compute 1-loop correction E_1 to the energy of folded string in AdS_5 x S^5 (carrying spin S in AdS_5 and momentum J in S^5) using ``long string'' approximation in which S >> J >> 1. According to AdS/CFT E_1 should represent the first subleading correction to strong coupling expansion of anomalous dimension of higher twist SL(2) sector operators of the form Tr D^S Z^J. We show that E_1 smoothly interpolates between the ln S regime (previously found in the J=0 case) and the \lambda/J^2 ln^3 (S/J) regime (which is the leading correction to the thermodynamic limit on the spin chain side). This supports the universality of the ln S scaling. As in previous work, we also find ``non-analytic'' corrections related to non-trivial 1-loop phase in the corresponding Bethe ansatz S-matrix.

@@ -1,0 +1,4 @@
+Paper: 07063327
+Title: Analytical Bethe Ansatz for closed and open gl(M|N) super-spin chains in  arbitrary representations and for any Dynkin diagram
+Authors: E. Ragoucy and G. Satta
+Abstract: We present the analytical Bethe ansatz for spin chains based on the superalgebras gl(M|N), $M\neq N$, with at each site an arbitrary representation (and including inhomogeneities). The calculation is done for closed and open spin chains. In this latter case, the boundary matrices $K_{\pm}(u)$ are of general type, provided they commute. We compute the Bethe ansatz equations in full generality, and for any type of Dynkin diagram. Examples are worked out to illustrate the techniques.

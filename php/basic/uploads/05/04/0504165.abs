@@ -1,0 +1,4 @@
+Paper: 0504165
+Title: A note on BRST quantization of SU(2) Yang-Mills mechanics
+Authors: A. Fuster and J. W. van Holten
+Abstract: The quantization of SU(2) Yang-Mills theory reduced to 0+1 space-time dimensions is performed in the BRST framework. We show that in the unitary gauge $A_0 = 0$ the BRST procedure has difficulties which can be solved by introduction of additional singlet ghost variables. In the Lorenz gauge $\dot{A}_0 = 0$ one has additional unphysical degrees of freedom, but the BRST quantization is free of the problems in the unitary gauge.

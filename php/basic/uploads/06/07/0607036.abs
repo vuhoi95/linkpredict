@@ -1,0 +1,4 @@
+Paper: 0607036
+Title: Generating loop graphs via Hopf algebra in quantum field theory
+Authors: Angela Mestre and Robert Oeckl
+Abstract: We use the Hopf algebra structure of the time-ordered algebra of field operators to generate all connected weighted Feynman graphs in a recursive and efficient manner. The algebraic representation of the graphs is such that they can be evaluated directly as contributions to the connected n-point functions. The recursion proceeds by loop order and vertex number.

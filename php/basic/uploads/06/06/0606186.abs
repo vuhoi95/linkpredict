@@ -1,0 +1,4 @@
+Paper: 0606186
+Title: Partition Functions, the Bekenstein Bound and Temperature Inversion in  Anti-de Sitter Space and its Conformal Boundary
+Authors: G. W. Gibbons and M. J. Perry and C. N. Pope
+Abstract: We reformulate the Bekenstein bound as the requirement of positivity of the Helmholtz free energy at the minimum value of the function L=E- S/(2\pi R), where R is some measure of the size of the system. The minimum of L occurs at the temperature T=1/(2\pi R). In the case of n-dimensional anti-de Sitter spacetime, the rather poorly defined size R acquires a precise definition in terms of the AdS radius l, with R=l/(n-2). We previously found that the Bekenstein bound holds for all known black holes in AdS. However, in this paper we show that the Bekenstein bound is not generally valid for free quantum fields in AdS, even if one includes the Casimir energy. Some other aspects of thermodynamics in anti-de Sitter spacetime are briefly touched upon.

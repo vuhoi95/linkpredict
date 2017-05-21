@@ -1,0 +1,4 @@
+Paper: 0306231
+Title: A Fuzzy Three Sphere and Fuzzy Tori
+Authors: Brian P. Dolan and Denjoe O'Connor
+Abstract: A fuzzy circle and a fuzzy 3-sphere are constructed as subspaces of fuzzy complex projective spaces, of complex dimension one and three, by modifying the Laplacians on the latter so as to give unwanted states large eigenvalues. This leaves only states corresponding to fuzzy spheres in the low energy spectrum (this allows the commutative algebra of functions on the continuous sphere to be approximated to any required degree of accuracy). The construction of a fuzzy circle opens the way to fuzzy tori of any dimension, thus circumventing the problem of power law corrections in possible numerical simulations on these spaces.

@@ -1,0 +1,4 @@
+Paper: 0507014
+Title: Classical Simulation of Quantum Fields II
+Authors: T. Hirayama and B. Holdom and R. Koniuk and T. Yavin
+Abstract: We consider the classical time evolution of a real scalar field in 2 dimensional Minkowski space with a $\lambda \phi^4$ interaction. We compute the spatial and temporal two-point correlation functions and extract the renormalized mass of the interacting theory. We find our results are consistent with the one- and two-loop quantum computation. We also perform Monte Carlo simulations of the quantum theory and conclude that the classical scheme is able to produce more accurate results with a fraction of the CPU time.

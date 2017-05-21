@@ -1,0 +1,4 @@
+Paper: 07063244
+Title: A non-perturbative study of non-commutative U(1) gauge theory
+Authors: J. Nishimura and W. Bietenholz and Y. Susaki and J. Volkholz
+Abstract: We study U(1) gauge theory on a 4d non-commutative torus, where two directions are non-commutative. Monte Carlo simulations are performed after mapping the regularized theory onto a U(N) lattice gauge theory in d=2. At intermediate coupling strength, we find a phase in which open Wilson lines acquire non-zero vacuum expectation values, which implies the spontaneous breakdown of translational invariance. In this phase, various physical quantities obey clear scaling behaviors in the continuum limit with a fixed non-commutativity parameter theta, which provides evidence for a possible continuum theory. In the weak coupling symmetric phase, the dispersion relation involves a negative IR-singular term, which is responsible for the observed phase transition.

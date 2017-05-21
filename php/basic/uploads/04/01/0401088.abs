@@ -1,0 +1,4 @@
+Paper: 0401088
+Title: Cayley--Klein Contractions of Quantum Orthogonal Groups in Cartesian  Basis
+Authors: N. A. Gromov and V. V. Kuratov
+Abstract: Spaces of constant curvature and their motion groups are described most naturally in Cartesian basis. All these motion groups also known as CK groups are obtained from orthogonal group by contractions and analytical continuations. On the other hand quantum deformation of orthogonal group $SO(N) $ is most easily performed in so-called symplectic basis. We reformulate its standard quantum deformation to Cartesian basis and obtain all possible contractions of quantum orthogonal group $SO_q(N)$ both for untouched and transformed deformation parameter. It turned out, that similar to undeformed case all CK contractions of $SO_q(N)$ are realized. An algorithm for obtaining nonequivalent (as Hopf algebra) contracted quantum groups is suggested. Contractions of $SO_q(N), N=3,4,5$ are regarded as an examples.

@@ -1,0 +1,4 @@
+Paper: 0410096
+Title: Analytic solution of the microcausality problem in Discretized Light  Cone Quantization
+Authors: Lubomir Martinovic and Marshall Luban
+Abstract: It is shown that that violation of causality in two-dimensional light-front field theories quantized in a finite ``volume'' $L$ with periodic or antiperiodic boundary conditions is marginal and vanishes smoothly in the continuum limit. For this purpose, we derive an exact integral representation for the complete infinite series expansion of the two-point functions of a free massive scalar and fermi field for an arbitrary finite value of $L$ and show that in the $L \to \infty$ limit we retrieve the correct continuum results.

@@ -1,0 +1,4 @@
+Paper: 0605223
+Title: Exact solution of the open XXZ chain with general integrable boundary  terms at roots of unity
+Authors: Rajan Murgan and Rafael I. Nepomechie and Chi Shi
+Abstract: We propose a Bethe-Ansatz-type solution of the open spin-1/2 integrable XXZ quantum spin chain with general integrable boundary terms and bulk anisotropy values i \pi/(p+1), where p is a positive integer. All six boundary parameters are arbitrary, and need not satisfy any constraint. The solution is in terms of generalized T - Q equations, having more than one Q function. We find numerical evidence that this solution gives the complete set of 2^N transfer matrix eigenvalues, where N is the number of spins.

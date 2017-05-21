@@ -1,0 +1,4 @@
+Paper: 0312023
+Title: On the Microcanonical Entropy of a Black Hole
+Authors: Rajat K. Bhaduri and Muoi N. Tran and Saurya Das
+Abstract: It has been suggested recently that the microcanonical entropy of a system may be accurately reproduced by including a logarithmic correction to the canonical entropy. In this paper we test this claim both analytically and numerically by considering three simple thermodynamic models whose energy spectrum may be defined in terms of one quantum number only, as in a non-rotating black hole. The first two pertain to collections of noninteracting bosons, with logarithmic and power-law spectra. The last is an area ensemble for a black hole with equi-spaced area spectrum. In this case, the many-body degeneracy factor can be obtained analytically in a closed form. We also show that in this model, the leading term in the entropy is proportional to the horizon area A, and the next term is ln A with a negative coefficient.

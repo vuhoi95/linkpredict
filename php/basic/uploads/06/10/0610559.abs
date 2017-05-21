@@ -1,0 +1,4 @@
+Paper: 0610559
+Title: Nonlinear integral equations for the thermodynamics of the  sl(4)-symmetric Uimin-Sutherland model
+Authors: Jens Damerau and Andreas Klümper
+Abstract: We derive a finite set of nonlinear integral equations (NLIE) for the thermodynamics of the one-dimensional sl(4)-symmetric Uimin-Sutherland model. Our NLIE can be evaluated numerically for arbitrary finite temperature and chemical potentials. We recover the NLIE for sl(3) as a limiting case. In comparison to other recently derived NLIE, the evaluation at low temperature poses no problem in our formulation. The model shows a rich ground-state phase diagram. We obtain the critical fields from the T to zero limit of our NLIE. As an example for the application of the NLIE, we give numerical results for the SU(4) spin-orbital model. The magnetic susceptibility shows divergences at critical fields in the low-temperature limit and logarithmic singularities for zero magnetic field.

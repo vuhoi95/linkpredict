@@ -1,0 +1,4 @@
+Paper: 0005033
+Title: Higher regularity properties of mappings and morphisms
+Authors: Steven Duplij and Wladyslaw Marcinek
+Abstract: We propose to extend ``invertibility'' to ``regularity'' for categories in general abstract algebraic manner. Higher regularity conditions and ``semicommutative'' diagrams are introduced. Distinction between commutative and ``semicommutative'' cases is measured by non-zero obstruction proportional to the difference of some self-mappings (obstructors) $e^{(n)}$ from the identity. This allows us to generalize the notion of functor and to ``regularize'' braidings and related structures in monoidal categories. A ``noninvertible'' analog of the Yang-Baxter equation is proposed.

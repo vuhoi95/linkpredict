@@ -1,0 +1,4 @@
+Paper: 0105016
+Title: On blowup for Yang-Mills fields
+Authors: P. Bizoń and Z. Tabor
+Abstract: We study development of singularities for the spherically symmetric Yang-Mills equations in $d+1$ dimensional Minkowski spacetime for $d=4$ (the critical dimension) and $d=5$ (the lowest supercritical dimension). Using combined numerical and analytical methods we show in both cases that generic solutions starting with sufficiently large initial data blow up in finite time. The mechanism of singularity formation depends on the dimension: in $d=5$ the blowup is exactly self-similar while in $d=4$ the blowup is only approximately self-similar and can be viewed as the adiabatic shrinking of the marginally stable static solution. The threshold for blowup and the connection with critical phenomena in the gravitational collapse (which motivated this research) are also briefly discussed.

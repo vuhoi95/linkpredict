@@ -1,0 +1,4 @@
+Paper: 0611109
+Title: On a semiclassical formula for non-diagonal matrix elements
+Authors: O. Lev and P. Stovicek
+Abstract: Let $H(\hbar)=-\hbar^2d^2/dx^2+V(x)$ be a Schr\"odinger operator on the real line, $W(x)$ be a bounded observable depending only on the coordinate and $k$ be a fixed integer. Suppose that an energy level $E$ intersects the potential $V(x)$ in exactly two turning points and lies below $V_\infty=\liminf_{|x|\to\infty} V(x)$. We consider the semiclassical limit $n\to\infty$, $\hbar=\hbar_n\to0$ and $E_n=E$ where $E_n$ is the $n$th eigen-energy of $H(\hbar)$. An asymptotic formula for $<{}n|W(x)|n+k>$, the non-diagonal matrix elements of $W(x)$ in the eigenbasis of $H(\hbar)$, has been known in the theoretical physics for a long time. Here it is proved in a mathematically rigorous manner.

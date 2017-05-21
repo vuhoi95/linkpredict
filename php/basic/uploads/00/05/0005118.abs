@@ -1,0 +1,4 @@
+Paper: 0005118
+Title: From Special Lagrangian to Hermitian-Yang-Mills via Fourier-Mukai  Transform
+Authors: Naichung Conan Leung and Shing-Tung Yau and Eric Zaslow
+Abstract: We exhibit a transformation taking special Lagrangian submanifolds of a Calabi-Yau together with local systems to vector bundles over the mirror manifold with connections obeying deformed Hermitian-Yang-Mills equations. That is, the transformation relates supersymmetric A- and B-cycles. In this paper, we assume that the mirror pair are dual torus fibrations with flat tori and that the A-cycle is a section. We also show that this transformation preserves the (holomorphic) Chern-Simons functional for all connections. Furthermore, on corresponding moduli spaces of supersymmetric cycles it identifies the graded tangent spaces and the holomorphic m-forms. In particular, we verify Vafa's mirror conjecture with bundles in this special case.

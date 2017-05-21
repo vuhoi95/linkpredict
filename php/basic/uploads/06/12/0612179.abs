@@ -1,0 +1,4 @@
+Paper: 0612179
+Title: Recursion and growth estimates in renormalizable quantum field theory
+Authors: Dirk Kreimer and Karen Yeats
+Abstract: In this paper we show that there is a Lipatov bound for the radius of convergence for superficially divergent one-particle irreducible Green functions in a renormalizable quantum field theory if there is such a bound for the superficially convergent ones. The radius of convergence turns out to be ${\rm min}\{\rho,1/b_1\}$, where $\rho$ is the bound on the convergent ones, the instanton radius, and $b_1$ the first coefficient of the $\beta$-function.

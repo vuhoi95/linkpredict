@@ -1,0 +1,4 @@
+Paper: 0102185
+Title: Quantum diffusion of magnetic fields in a numerical worldline approach
+Authors: Holger Gies and Kurt Langfeld
+Abstract: We propose a numerical technique for calculating effective actions of electromagnetic backgrounds based on the worldline formalism. As a conceptually simple example, we consider scalar electrodynamics in three dimensions to one-loop order. Beyond the constant-magnetic-field case, serving as a benchmark test, we analyze the effective action of a step-function-like magnetic field -- a configuration that is inaccessible to derivative expansions. We observe magnetic-field diffusion, i.e., nonvanishing magnetic action density at space points near the magnetic step where the classical field vanishes.

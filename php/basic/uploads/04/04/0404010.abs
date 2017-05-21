@@ -1,0 +1,4 @@
+Paper: 0404010
+Title: Tunneling through two resonant levels: fixed points and conductances
+Authors: Sumathi Rao and Diptiman Sen
+Abstract: We study point contact tunneling between two leads of a Tomonaga-Luttinger liquid through two degenerate resonant levels in parallel. This is one of the simplest cases of a quantum junction problem where the Fermi statistics of the electrons plays a non-trivial role through the Klein factors appearing in bosonization. Using a mapping to a `generalized Coulomb model' studied in the context of the dissipative Hofstadter model, we find that any asymmetry in the tunneling amplitudes from the two leads grows at low temperatures, so that ultimately there is no conductance across the system. For the symmetric case, we identify a non-trivial fixed point of this model; the conductance at that point is generally different from the conductance through a single resonant level.

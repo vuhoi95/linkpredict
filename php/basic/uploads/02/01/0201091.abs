@@ -1,0 +1,4 @@
+Paper: 0201091
+Title: Logarithmic Conformal Field Theories via Logarithmic Deformations
+Authors: J. Fjelstad and J. Fuchs and S. Hwang and A. M. Semikhatov and I. Yu. Tipunin
+Abstract: We construct logarithmic conformal field theories starting from an ordinary conformal field theory -- with a chiral algebra C and the corresponding space of states V -- via a two-step construction: i) deforming the chiral algebra representation on V\tensor End K[[z,1/z]], where K is an auxiliary finite-dimensional vector space, and ii) extending C by operators corresponding to the endomorphisms End K. For K=C^2, with End K being the two-dimensional Clifford algebra, our construction results in extending C by an operator that can be thought of as \partial^{-1}E, where \oint E is a fermionic screening. This covers the (2,p) Virasoro minimal models as well as the sl(2) WZW theory.

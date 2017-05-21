@@ -1,0 +1,4 @@
+Paper: 0412102
+Title: Higher Coxeter graphs associated to affine su(3) modular invariants
+Authors: D. Hammaoui and G. Schieber and E. H. Tahri
+Abstract: The affine $su(3)$ modular invariant partition functions in 2d RCFT are associated with a set of generalized Coxeter graphs. These partition functions fall into two classes, the block-diagonal (Type I) and the non block-diagonal (Type II) cases, associated, from spectral properties, to the subsets of subgroup and module graphs respectively. We introduce a modular operator $\hat{T}$ taking values on the set of vertices of the subgroup graphs. It allows us to obtain easily the associated Type I partition functions. We also show that all Type II partition functions are obtained by the action of suitable twists $\vartheta$ on the set of vertices of the subgroup graphs. These twists have to preserve the values of the modular operator $\hat{T}$.

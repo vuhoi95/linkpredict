@@ -1,0 +1,4 @@
+Paper: 0407071
+Title: Correlation Functions in Holographic RG Flows
+Authors: Ioannis Papadimitriou and Kostas Skenderis
+Abstract: We discuss the computation of correlation functions in holographic RG flows. The method utilizes a recently developed Hamiltonian version of holographic renormalization and it is more efficient than previous methods. A significant simplification concerns the treatment of infinities: instead of performing a general analysis of counterterms, we develop a method where only the contribution of counterterms to any given correlator needs to be computed. For instance, the computation of renormalized 2-point functions requires only an analysis at the linearized level. We illustrate the method by discussing flat and AdS-sliced domain walls. In particular, we discuss correlation functions of the Janus solution, a recently discovered non-supersymmetric but stable AdS-sliced domain wall.

@@ -1,0 +1,4 @@
+Paper: 0309066
+Title: The continuum limit of perturbative coefficients calculated with a large  field cutoff
+Authors: L. Li and Y. Meurice
+Abstract: We report MC calculations of perturbative coefficients for lattice scalar field theory in dimensions 1, 2 and 3, where the large field contributions are cutoff. This produces converging (instead of asymptotic) perturbative series. We discuss the statistical errors and the lattice effects and show that accurate calculations are possible even in a crossover region where no approximation works. We show that the field cutoff is also a UV regulator. We point out the relevance for QCD questions discussed by Tomboulis and Trottier at this conference.

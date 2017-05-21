@@ -1,0 +1,4 @@
+Paper: 0207301
+Title: Correlation functions of the BC Calogero-Sutherland model
+Authors: Shinsuke M. Nishigaki and Dimitri M. Gangardt and Alex Kamenev
+Abstract: The BC-type Calogero-Sutherland model (CSM) is an integrable extension of the ordinary A-type CSM that possesses a reflection symmetry point. The BC-CSM is related to the chiral classes of random matrix ensembles (RMEs) in exactly the same way as the A-CSM is related to the Dyson classes. We first develop the fermionic replica sigma-model formalism suitable to treat all chiral RMEs. By exploiting ''generalized color-flavor transformation'' we then extend the method to find the exact asymptotics of the BC-CSM density profile. Consistency of our result with the c=1 Gaussian conformal field theory description is verified. The emerging Friedel oscillations structure and sum rules are discussed in details. We also compute the distribution of the particle nearest to the reflection point.

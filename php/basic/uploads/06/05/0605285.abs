@@ -1,0 +1,4 @@
+Paper: 0605285
+Title: Critical exponents for higher-representation sources in 3D SU(3) gauge  theory from CFT
+Authors: Ferdinando Gliozzi and Silvia Necco
+Abstract: We establish an exact mapping between the multiplication table of the irreducible representations of SU(3) and the fusion algebra of the two-dimensional conformal field theory in the same universality class of 3D SU(3) gauge theory at the deconfining point. In this way the Svetitsky-Yaffe conjecture on the critical behaviour of Polyakov lines in the fundamental representation naturally extends to whatever representation one considers. As a consequence, the critical exponents of the correlators of these Polyakov lines are determined. Monte Carlo simulations with sources in the symmetric two-index representation, combined with finite-size scaling analysis, compare very favourably with these predictions.

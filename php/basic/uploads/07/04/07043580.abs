@@ -1,0 +1,4 @@
+Paper: 07043580
+Title: Binding energies of semirelativistic N-boson systems
+Authors: Richard L. Hall and Wolfgang Lucha
+Abstract: General analytic energy bounds are derived for N-boson systems governed by semirelativistic Hamiltonians of the form H=\sum_{i=1}^N \sqrt(p_i^2+m^2) + \sum_{1=i<j}^N V(r_{ij}), where V(r) is a static attractive pair potential. A translation-invariant model Hamiltonian H_c is constructed. We conjecture that <H> \ge <H_c> generally, and we prove this for N=3, and for N=4 when m=0. The conjecture is also valid generally for the harmonic oscillator and in the nonrelativistic large-m limit. This formulation allows reductions to scaled 3- or 4-body problems, whose spectral bottoms provide energy lower bounds. The example of the ultrarelativistic linear potential is studied in detail and explicit upper- and lower-bound formulas are derived and compared with earlier bounds.

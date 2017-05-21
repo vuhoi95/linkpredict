@@ -1,0 +1,4 @@
+Paper: 0610215
+Title: AdS/CFT duality at strong coupling
+Authors: Matteo Beccaria and Carmine Ortix
+Abstract: We study the strong coupling limit of AdS/CFT correspondence in the framework of a recently proposed fermionic formulation of the Bethe Ansatz equations governing the gauge theory anomalous dimensions. We provide examples of states that do not follow the Gubser-Klebanov-Polyakov law at large 't Hooft coupling $\lambda$, in contrast with recent results on the quantum string Bethe equations valid in that regime. This result indicates that the fermionic construction cannot be trusted at large $\lambda$, although it remains an efficient tool to compute the weak coupling expansion of anomalous dimensions.

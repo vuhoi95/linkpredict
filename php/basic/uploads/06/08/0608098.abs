@@ -1,0 +1,4 @@
+Paper: 0608098
+Title: Hawking temperature in the tunneling picture
+Authors: Emil T. Akhmedov and Valeria Akhmedova and Douglas Singleton
+Abstract: We examine Hawking radiation from a Schwarzschild black hole in several reference frames using the quasi-classical tunneling picture. It is shown that when one uses, $\Gamma \propto \exp(Im [\oint p dr])$, rather than, $\Gamma \propto \exp(2 Im [\int p dr])$, for the tunneling probability/decay rate one obtains twice the original Hawking temperature. The former expression for $\Gamma$ is argued to be correct since $\oint p dr$ is invariant under canonical transformations, while $\int p dr$ is not. Thus, either the tunneling methods of calculating Hawking radiation are suspect or the Hawking temperature is twice that originally calculated.

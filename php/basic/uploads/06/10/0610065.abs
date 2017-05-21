@@ -1,0 +1,4 @@
+Paper: 0610065
+Title: Discretising differential geometry via a new product on the space of  chains
+Authors: Vivien de Beauce and Siddhartha Sen
+Abstract: A discretisation of differential geometry using the Whitney forms of algebraic topology is consistently extended via the introduction of a pairing on the space of chains. This pairing of chains enables us to give a definition of the discrete interior product and thus provides a solution to a notorious puzzle in discretisation techniques. Further prescriptions are made to introduce metric data, as a discrete substitute for the continuum vielbein, or Cartan formulation. The original topological data of the de Rham complex is then recovered as a discrete version of the Pontryagin class, a sketch of a few examples of the technique is also provided. A map of discrete differential geometry into the non-commutative geometry of graphs is constructed which shows in a precise way the difference between them.

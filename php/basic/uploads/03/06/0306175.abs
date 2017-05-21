@@ -1,0 +1,4 @@
+Paper: 0306175
+Title: Superfield algorithm for higher order gauge field theories
+Authors: Ludde Edgren and Niclas Sandstrom
+Abstract: We propose an algorithm for the construction of higher order gauge field theories from a superfield formulation within the Batalin-Vilkovisky formalism. This is a generalization of the superfield algorithm recently considered by Batalin and Marnelius. This generalization seems to allow for non-topological gauge field theories as well as alternative representations of topological ones. A five dimensional non-abelian Chern-Simons theory and a topological Yang-Mills theory are treated as examples.

@@ -1,0 +1,4 @@
+Paper: 0401016
+Title: A Note on Polarization Vectors in Quantum Electrodynamics
+Authors: Elliott H. Lieb and Michael Loss
+Abstract: A photon of momentum k can have only two polarization states, not three. Equivalently, one can say that the magnetic vector potential A must be divergence free in the Coulomb gauge. These facts are normally taken into account in QED by introducing two polarization vectors epsilon_\lambda(k) with lambda in {1,2}, which are orthogonal to the wave-vector k. These vectors must be very discontinuous functions of k and, consequently, their Fourier transforms have bad decay properties. Since these vectors have no physical significance there must be a way to eliminate them and their bad decay properties from the theory. We propose such a way here.

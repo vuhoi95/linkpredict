@@ -1,0 +1,4 @@
+Paper: 0308021
+Title: Non-anticommutative N=2 super-Yang-Mills theory with singlet deformation
+Authors: Sergio Ferrara and Emery Sokatchev
+Abstract: We consider a non-anticommutative N=2 superspace with an SU(2) singlet and Lorentz scalar deformation parameter, $\{\theta^{\alpha i},\theta^{\beta j}\}_\star = -2iP \e^{\alpha\beta}\e^{ij}$. We exploit this unique feature of the N=2 case to construct a deformation of the non-Abelian super-Yang-Mills theory which preserves the full N=2 supersymmetry together with the SU(2) R symmetry and Lorentz invariance. The resulting action describes a kind of "heterotic special geometry" with antiholomorphic prepotential $\bar f(\bar\phi) = Tr (\bar\phi^2 (1+P\bar\phi)^{-2})$.

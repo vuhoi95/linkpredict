@@ -1,0 +1,4 @@
+Paper: 0701605
+Title: A Numerical Renormalization Group for Continuum One-Dimensional Systems
+Authors: Robert M. Konik and Yury Adamov
+Abstract: We present a renormalization group (RG) procedure which works naturally on a wide class of interacting one-dimension models based on perturbed (possibly strongly) continuum conformal and integrable models. This procedure integrates Kenneth Wilson's numerical renormalization group with Al. B. Zamolodchikov's truncated conformal spectrum approach. Key to the method is that such theories provide a set of completely understood eigenstates for which matrix elements can be exactly computed. In this procedure the RG flow of physical observables can be studied both numerically and analytically. To demonstrate the approach, we study the spectrum of a pair of coupled quantum Ising chains and correlation functions in a single quantum Ising chain in the presence of a magnetic field.

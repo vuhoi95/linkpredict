@@ -1,0 +1,4 @@
+Paper: 0307095
+Title: Completeness of the Bethe Ansatz solution of the open XXZ chain with  nondiagonal boundary terms
+Authors: Rafael I. Nepomechie and Francesco Ravanini
+Abstract: A Bethe Ansatz solution of the open spin-1/2 XXZ quantum spin chain with nondiagonal boundary terms has recently been proposed. Using a numerical procedure developed by McCoy et al., we find significant evidence that this solution can yield the complete set of eigenvalues for generic values of the bulk and boundary parameters satisfying one linear relation. Moreover, our results suggest that this solution is practical for investigating the ground state of this model in the thermodynamic limit.

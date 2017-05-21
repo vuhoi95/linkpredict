@@ -1,0 +1,4 @@
+Paper: 0308020
+Title: On Conformal Field Theory and Stochastic Loewner Evolution
+Authors: Roland Friedrich and Jussi Kalkkinen
+Abstract: We describe Stochastic Loewner Evolution on arbitrary Riemann surfaces with boundary using Conformal Field Theory methods. We propose in particular a CFT construction for a probability measure on (clouded) paths, and check it against known restriction properties. The probability measure can be thought of as a section of the determinant bundle over moduli spaces of Riemann surfaces. Loewner evolutions have a natural description in terms of random walk in the moduli space, and the stochastic diffusion equation translates to the Virasoro action of a certain weight-two operator on a uniformised version of the determinant bundle.

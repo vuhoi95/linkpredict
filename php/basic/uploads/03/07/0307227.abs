@@ -1,0 +1,4 @@
+Paper: 0307227
+Title: Non-dissipative thermal transport in the massive regimes of the XXZ  chain
+Authors: Kazumitsu Sakai and Andreas Kluemper
+Abstract: We present exact results on the thermal conductivity of the one-dimensional spin-1/2 XXZ model in the massive antiferromagnetic and ferromagnetic regimes. The thermal Drude weight is calculated by a lattice path integral formulation. Numerical results for wide ranges of temperature and anisotropy as well as analytical results in the low and high temperature limits are presented. At finite temperature, the thermal Drude weight is finite and hence there is non-dissipative thermal transport even in the massive regime. At low temperature, the thermal Drude weight behaves as $D(T)\sim \exp(-\delta/T)/\sqrt{T}$ where $\delta$ is the one-spinon (respectively one-magnon) excitation energy for the antiferromagnetic (respectively ferromagnetic) regime.

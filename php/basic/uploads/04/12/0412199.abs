@@ -1,0 +1,4 @@
+Paper: 0412199
+Title: The internal logic of Bell's states
+Authors: Giulia Battilotti and Paola Zizzi
+Abstract: We investigate the internal logic of a quantum computer with two qubits, in the two particular cases of non-entanglement (separable states) and maximal entanglement (Bell's states). To this aim, we consider an internal (reversible) measurement which preserves the probabilities by mirroring the states. We then obtain logical judgements for both cases of separable and Bell's states.

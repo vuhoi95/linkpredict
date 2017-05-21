@@ -1,0 +1,4 @@
+Paper: 07070653
+Title: Complete Bethe Ansatz solution of the open spin-s XXZ chain with general  integrable boundary terms
+Authors: Luc Frappat and Rafael Nepomechie and Eric Ragoucy
+Abstract: We consider the open spin-s XXZ quantum spin chain with N sites and general integrable boundary terms for generic values of the bulk anisotropy parameter, and for values of the boundary parameters which satisfy a certain constraint. We derive two sets of Bethe Ansatz equations, and find numerical evidence that together they give the complete set of $(2s+1)^{N}$ eigenvalues of the transfer matrix. For the case s=1, we explicitly determine the Hamiltonian, and find an expression for its eigenvalues in terms of Bethe roots.

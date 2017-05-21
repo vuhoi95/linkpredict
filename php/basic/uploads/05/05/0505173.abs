@@ -1,0 +1,4 @@
+Paper: 0505173
+Title: Perturbative S-matrices with non-provisional regularization
+Authors: Marijan Ribaric and Luka Sustersic
+Abstract: Computing a perturbative S-matrix through Feynman series in quantum field theory, the regularization used does not affect the final result. We propose a new approach to construction of the perturbative S-matrices, so that they will depend on parameters of a realistic regularization--realistic in the sense of Pauli and Villars [Rev. Mod. Phys. 21, 434 (1949)]. We expect that these additional parameters may provide some new information about the physics of quantum scattering. There are such perturbative S-matrices also in the presence of non-renormalizable interaction terms with no counterterms.

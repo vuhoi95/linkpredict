@@ -1,0 +1,4 @@
+Paper: 0204079
+Title: Noether's variational theorem II and the BV formalism
+Authors: Ron Fulp and Tom Lada and Jim Stasheff
+Abstract: We review the basics of the Lagrangian approach to field theory and recast Noether's Second Theorem formulated in her language of dependencies using a slight modernization of terminology and notation. We then present the Cattaneo-Felder sigma model and work out the Noether identities or dependencies for this model. We review the description of the Batalin-Vilkovisky formalism and show explicitly how the anti-ghosts encode the Noether identities in this example.

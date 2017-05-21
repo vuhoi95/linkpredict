@@ -1,0 +1,4 @@
+Paper: 0605199
+Title: Heavy Quark Diffusion in Strongly Coupled $\N=4$ Yang Mills
+Authors: Jorge Casalderrey-Solana and Derek Teaney
+Abstract: We express the heavy quark diffusion coefficient as the temporal variation of a Wilson line along the Schwinger-Keldysh contour. This generalizes the classical formula for diffusion as a force-force correlator to a non-abelian theory. We use this formula to compute the diffusion coefficient in strongly coupled $\N=4$ Yang-Mills by studying the fluctuations of a string in $AdS_5\times S_5$. The string solution spans the full Kruskal plane and gives access to contour correlations. The diffusion coefficient is $D=2/\sqrt{\lambda} \pi T$ and is therefore parametrically smaller than momentum diffusion, $\eta/(e+p)=1/4\pi T$. The quark mass must be much greater than $T\sqrt{\lambda}$ in order to treat the quark as a heavy quasi-particle. The result is discussed in the context of the RHIC experiments.

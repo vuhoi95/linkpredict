@@ -1,0 +1,4 @@
+Paper: 0411247
+Title: BRST theory without Hamiltonian and Lagrangian
+Authors: S. L. Lyakhovich and A. A. Sharapov
+Abstract: We consider a generic gauge system, whose physical degrees of freedom are obtained by restriction on a constraint surface followed by factorization with respect to the action of gauge transformations; in so doing, no Hamiltonian structure or action principle is supposed to exist. For such a generic gauge system we construct a consistent BRST formulation, which includes the conventional BV Lagrangian and BFV Hamiltonian schemes as particular cases. If the original manifold carries a weak Poisson structure (a bivector field giving rise to a Poisson bracket on the space of physical observables) the generic gauge system is shown to admit deformation quantization by means of the Kontsevich formality theorem. A sigma-model interpretation of this quantization algorithm is briefly discussed.

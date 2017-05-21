@@ -1,0 +1,4 @@
+Paper: 0211005
+Title: On Nonexistence of Magnetic Charge in Pure Yang-Mills Theories
+Authors: A. Kovner and M. Lavelle and D. McMullan
+Abstract: We prove that magnetic charge does not exist as a physical observable on the physical Hilbert space of the pure SU(2) gauge theory. The abelian magnetic monopoles seen in lattice simulations are then interpreted as artifacts of gauge fixing. The apparent physical scaling properties of the monopole density in the continuum limit observed on the lattice are attributed to the correct scaling properties of physical objects - magnetic vortices, as first argued by Greensite et. al. We can show that a local gauge transformation of a certain type can " create" abelian monopole-antimonopole pairs along magnetic vortices. This gauge transformation exists in pure SU(N) gauge theory at any $N$.

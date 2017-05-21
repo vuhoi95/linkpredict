@@ -1,0 +1,4 @@
+Paper: 0401222
+Title: Universality of Low-Energy Scattering in 2+1 Dimensions: The Non  Symmetric Case
+Authors: N. N. Khuri and Andre Martin and Pierre C. Sabatier and Tai Tsun Wu
+Abstract: For a very large class of potentials, $V(\vec{x})$, $\vec{x}\in R^2$, we prove the universality of the low energy scattering amplitude, $f(\vec{k}', \vec{k})$. The result is $f=\sqrt{\frac{\pi}{2}}\{1/log k)+O(1/(log k)^2)$. The only exceptions occur if $V$ happens to have a zero energy bound state. Our new result includes as a special subclass the case of rotationally symmetric potentials, $V(|\vec{x}|)$.

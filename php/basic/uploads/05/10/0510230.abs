@@ -1,0 +1,4 @@
+Paper: 0510230
+Title: Non-perturbative renormalization in Light Front Dynamics with Fock space  truncation
+Authors: J. -F. Mathiot and V. A. Karmanov and A. V. Smirnov
+Abstract: Within the framework of the Covariant formulation of Light-Front Dynamics, we develop a general non-perturbative renormalization scheme based on the Fock decomposition of the state vector and its truncation. The explicit dependence of our formalism on the orientation of the light front is essential in order to analyze the structure of the counterterms and bare parameters needed to renormalize the theory. We present here a general strategy to determine the dependence of these quantities on the Fock sectors. We apply our formalism to QED for the two-body (one fermion and one boson) truncation and recover analytically, without any perturbative expansion, the renormalization of the electric charge according to the requirements of the Ward Identity.

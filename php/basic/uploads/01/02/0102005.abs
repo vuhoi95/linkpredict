@@ -1,0 +1,4 @@
+Paper: 0102005
+Title: The Algebraic Method
+Authors: P. A. Grassi and T. Hurth and M. Steinhauser
+Abstract: Combining the effect of an intermediate renormalization prescription (zero momentum subtraction) and the background field method (BFM), we show that the algebraic renormalization procedure needed for the computation of radiative corrections within non-invariant regularization schemes is drastically simplified. The present technique is suitable for gauge models and, here, is applied to the Standard Model. The use of the BFM allows a powerful organization of the counterterms and avoids complicated Slavnov-Taylor identities. Furthermore, the Becchi-Rouet-Stora-Tyutin (BRST) variation of background fields plays a special role in disentangling Ward-Takahashi identities (WTI) and Slavnov-Taylor identities (STI). Finally, the strategy to be applied to physical processes is exemplified for the process $b\to s\gamma$.

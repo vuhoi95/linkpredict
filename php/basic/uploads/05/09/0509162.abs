@@ -1,0 +1,4 @@
+Paper: 0509162
+Title: Field Theory Simulations on a Fuzzy Sphere - an Alternative to the  Lattice
+Authors: Julieta Medina and Wolfgang Bietenholz and Frank Hofheinz and Denjoe O'Connor
+Abstract: We explore a new way to simulate quantum field theory, without introducing a spatial lattice. As a pilot study we apply this method to the 3d \lambda \phi^4 model. The regularisation consists of a fuzzy sphere with radius R for the two spatial directions, plus a discrete Euclidean time. The fuzzy sphere approximates the algebra of functions of the sphere with a matrix algebra, and the scalar field is represented by a Hermitian N x N matrix at each time site. We evaluate the phase diagram, where we find a disordered phase and an ordered regime, which splits into phases of uniform and non-uniform order. We discuss the behaviour of the model in different limits of large N and R, which lead to a commutative or to a non-commutative \lambda \phi^4 model in flat space.

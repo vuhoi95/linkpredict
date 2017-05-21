@@ -1,0 +1,4 @@
+Paper: 0601123
+Title: Calculation of the Hidden Symmetry Operator for a $\cP\cT$-Symmetric  Square Well
+Authors: Carl M. Bender and Barnabas Tan
+Abstract: It has been shown that a Hamiltonian with an unbroken $\cP\cT$ symmetry also possesses a hidden symmetry that is represented by the linear operator $\cC$. This symmetry operator $\cC$ guarantees that the Hamiltonian acts on a Hilbert space with an inner product that is both positive definite and conserved in time, thereby ensuring that the Hamiltonian can be used to define a unitary theory of quantum mechanics. In this paper it is shown how to construct the operator $\cC$ for the $\cP\cT$-symmetric square well using perturbative techniques.

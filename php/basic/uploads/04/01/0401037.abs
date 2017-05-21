@@ -1,0 +1,4 @@
+Paper: 0401037
+Title: Topological calculation of the phase of the determinant of a non  self-adjoint elliptic operator
+Authors: Alexander G. Abanov and Maxim Braverman
+Abstract: We study the zeta-regularized determinant of a non self-adjoint elliptic operator on a closed odd-dimensional manifold. We show that, if the spectrum of the operator is symmetric with respect to the imaginary axis, then the determinant is real and its sign is determined by the parity of the number of the eigenvalues of the operator, which lie on the positive part of the imaginary axis. It follows that, for many geometrically defined operators, the phase of the determinant is a topological invariant. In numerous examples, coming from geometry and physics, we calculate the phase of the determinants in purely topological terms. Some of those examples were known in physical literature, but no mathematically rigorous proofs and no general theory were available until now.

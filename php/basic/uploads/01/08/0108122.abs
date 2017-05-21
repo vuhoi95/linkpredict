@@ -1,0 +1,4 @@
+Paper: 0108122
+Title: Algorithm for Computing Excited States in Quantum Theory
+Authors: X. Q. Luo and H. Jirari and H. Kroger and K. Moriarty
+Abstract: Monte Carlo techniques have been widely employed in statistical physics as well as in quantum theory in the Lagrangian formulation. However, in the conventional approach, it is extremely difficult to compute the excited states. Here we present a different algorithm: the Monte Carlo Hamiltonian method, designed to overcome the difficulties of the conventional approach. As a new example, application to the Klein-Gordon field theory is shown.

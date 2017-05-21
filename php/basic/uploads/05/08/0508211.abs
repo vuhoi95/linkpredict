@@ -1,0 +1,4 @@
+Paper: 0508211
+Title: Describing Curved Spaces by Matrices
+Authors: Masanori Hanada and Hikaru Kawai and Yusuke Kimura
+Abstract: It is shown that a covariant derivative on any d-dimensional manifold M can be mapped to a set of d operators acting on the space of functions on the principal Spin(d)-bundle over M. In other words, any d-dimensional manifold can be described in terms of d operators acting on an infinite dimensional space. Therefore it is natural to introduce a new interpretation of matrix models in which matrices represent such operators. In this interpretation the diffeomorphism, local Lorentz symmetry and their higher-spin analogues are included in the unitary symmetry of the matrix model. Furthermore the Einstein equation is obtained from the equation of motion, if we take the standard form of the action S=-tr([A_{a},A_{b}][A^{a},A^{b}]).

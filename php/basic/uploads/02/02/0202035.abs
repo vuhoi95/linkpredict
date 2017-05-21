@@ -1,0 +1,4 @@
+Paper: 0202035
+Title: Reduction of XXZ model with generalized periodic boundary conditions
+Authors: A. A. Belavin and S. Yu. Gubanov
+Abstract: We examine the XXZ model with generalized periodic boundary conditions and identify conditions for the truncation of the functional fusion relations of the transfer matrix fusion. After the truncation, the fusion relations become a closed system of functional equations. The energy spectrum can be obtained by solving these equations. We obtain the explicit form of the Hamiltonian eigenvalues for the special case where the anisotropy parameter $q^4=-1.

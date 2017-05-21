@@ -1,0 +1,4 @@
+Paper: 0512150
+Title: Circular loop operators in conformal field theories
+Authors: Nadav Drukker and Shoichi Kawamoto
+Abstract: We use the conformal group to study non-local operators in conformal field theories. A plane or a sphere (of any dimension) is mapped to itself by some subgroup of the conformal group, hence operators confined to that submanifold may be classified in representations of this subgroup. For local operators this gives the usual definition of conformal dimension and spin, but some conformal field theories contain interesting nonlocal operators, like Wilson or 't Hooft loops. We apply those ideas to Wilson loops in four-dimensional CFTs and show how they can be chosen to be in fixed representations of SL(2,R) x SO(3).

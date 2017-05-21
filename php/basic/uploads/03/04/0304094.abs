@@ -1,0 +1,4 @@
+Paper: 0304094
+Title: A New Symmetric Expression of Weyl Ordering
+Authors: Kazuyuki Fujii and Tatsuo Suzuki
+Abstract: For the creation operator $\adag $ and the annihilation operator $a$ of a harmonic oscillator, we consider Weyl ordering expression of $(\adag a)^n$ and obtain a new symmetric expression of Weyl ordering w.r.t. $\adag a \equiv N$ and $a\adag =N+1$ where $N$ is the number operator. Moreover, we interpret intertwining formulas of various orderings in view of the difference theory. Then we find that the noncommutative parameter corresponds to the increment of the difference operator w.r.t. variable $N$. Therefore, quantum (noncommutative) calculations of harmonic oscillators are done by classical (commutative) ones of the number operator by using the difference theory. As a by-product, nontrivial relations including the Stirling number of the first kind are also obtained.

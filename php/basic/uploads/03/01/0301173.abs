@@ -1,0 +1,4 @@
+Paper: 0301173
+Title: Highly accurate calculation of rotating neutron stars: Detailed  description of the numerical methods
+Authors: M. Ansorg and A. Kleinwächter and R. Meinel
+Abstract: We give a detailed description of the recently developed multi-domain spectral method for constructing highly accurate general-relativistic models of rapidly rotating stars. For both "ordinary" and "critical" configurations, it is exhibited by means of representative examples, how the accuracy improves as the order of the approximation increases. Apart from homogeneous fluid bodies, we also discuss models of polytropic and strange stars.

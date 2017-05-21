@@ -1,0 +1,4 @@
+Paper: 0305081
+Title: A Polar de Rham Theorem
+Authors: B. Khesin and A. Rosly and R. P. Thomas
+Abstract: We prove an analogue of the de Rham theorem for polar homology; that the polar homology $HP_q(X)$ of a smooth projective variety $X$ is isomorphic to its $H^{n,n-q}$ Dolbeault cohomology group. This analogue can be regarded as a geometric complexification where arbitrary (sub)manifolds are replaced by complex (sub)manifolds and de Rham's operator $d$ is replaced by Dolbeault's $\bar\partial$.

@@ -1,0 +1,4 @@
+Paper: 0305134
+Title: Chern-Simons Matrix Models and Unoriented Strings
+Authors: Nick Halmagyi and Vadim Yasnov
+Abstract: For matrix models with measure on the Lie algebra of SO/Sp, the sub-leading free energy is given by F_{1}(S)=\pm{1/4}\frac{\del F_{0}(S)}{\del S}. Motivated by the fact that this relationship does not hold for Chern-Simons theory on S^{3}, we calculate the sub-leading free energy in the matrix model for this theory, which is a Gaussian matrix model with Haar measure on the group SO/Sp. We derive a quantum loop equation for this matrix model and then find that F_{1} is an integral of the leading order resolvent over the spectral curve. We explicitly calculate this integral for quadratic potential and find agreement with previous studies of SO/Sp Chern-Simons theory.

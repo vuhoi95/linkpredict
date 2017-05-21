@@ -1,0 +1,4 @@
+Paper: 0402140
+Title: Quantum Phase Space in Relativistic Theory: the Case of Charge-Invariant  Observables
+Authors: A. A. Semenov and B. I. Lev and C. V. Usenko
+Abstract: Mathematical method of quantum phase space is very useful in physical applications like quantum optics and non-relativistic quantum mechanics. However, attempts to generalize it for the relativistic case lead to some difficulties. One of problems is band structure of energy spectrum for a relativistic particle. This corresponds to an internal degree of freedom, so-called charge variable. In physical problems we often deal with such of dynamical variables that do not depend on this degree of freedom. These are position, momentum, and any combination of them. Restricting our consideration to this kind of observables we propose the relativistic Weyl--Wigner--Moyal formalism that contains some surprising differences from its non-relativistic counterpart.

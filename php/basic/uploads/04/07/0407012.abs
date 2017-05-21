@@ -1,0 +1,4 @@
+Paper: 0407012
+Title: Shifted Yangians and finite W-algebras
+Authors: Jonathan Brundan and Alexander Kleshchev
+Abstract: We give a presentation for the finite W-algebra associated to a nilpotent matrix inside the general linear Lie algebra over C. In the special case that the nilpotent matrix consists of n Jordan blocks each of the same size l, the presentation is that of the Yangian of level l associated to the Lie algebra gl_n, as was first observed by Ragoucy and Sorba. In the general case, we are lead to introduce some generalizations of the Yangian which we call the shifted Yangians.

@@ -1,0 +1,4 @@
+Paper: 0702047
+Title: Schroedinger secant lower bounds to semirelativistic eigenvalues
+Authors: Richard L. Hall and Wolfgang Lucha
+Abstract: It is shown that the ground-state eigenvalue of a semirelativistic Hamiltonian of the form H = sqrt(m^2+p^2) + V is bounded below by the Schroedinger operator m + beta p^2 + V, for suitable beta > 0. An example is discussed.

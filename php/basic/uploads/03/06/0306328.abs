@@ -1,0 +1,4 @@
+Paper: 0306328
+Title: The two-boundary sine-Gordon model
+Authors: J. -S. Caux and H. Saleur and F. Siano
+Abstract: We study in this paper the ground state energy of a free bosonic theory on a finite interval of length $R$ with either a pair of sine-Gordon type or a pair of Kondo type interactions at each boundary. This problem has potential applications in condensed matter (current through superconductor-Luttinger liquid-superconductor junctions) as well as in open string theory (tachyon condensation). While the application of Bethe ansatz techniques to this problem is in principle well known, considerable technical difficulties are encountered. These difficulties arise mainly from the way the bare couplings are encoded in the reflection matrices, and require complex analytic continuations, which we carry out in detail in a few cases.

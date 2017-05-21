@@ -1,0 +1,4 @@
+Paper: 0112035
+Title: The Area Law in Matrix Models for Large N QCD Strings
+Authors: K. N. Anagnostopoulos and W. Bietenholz and J. Nishimura
+Abstract: We study the question whether matrix models obtained in the zero volume limit of 4d Yang-Mills theories can describe large N QCD strings. The matrix model we use is a variant of the Eguchi-Kawai model in terms of Hermitian matrices, but without any twists or quenching. This model was originally proposed as a toy model of the IIB matrix model. In contrast to common expectations, we do observe the area law for Wilson loops in a significant range of scale of the loop area. Numerical simulations show that this range is stable as N increases up to 768, which strongly suggests that it persists in the large N limit. Hence the equivalence to QCD strings may hold for length scales inside a finite regime.

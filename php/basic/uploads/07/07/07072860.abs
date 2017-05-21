@@ -1,0 +1,4 @@
+Paper: 07072860
+Title: Dimensional Reduction and the Yang-Mills Vacuum State in 2+1 Dimensions
+Authors: J. Greensite and S. Olejnik
+Abstract: We propose an approximation to the ground state of Yang-Mills theory, quantized in temporal gauge and 2+1 dimensions, which satisfies the Yang-Mills Schrodinger equation in both the free-field limit, and in a strong-field zero mode limit. Our proposal contains a single parameter with dimensions of mass; confinement via dimensional reduction is obtained if this parameter is non-zero, and a non-zero value appears to be energetically preferred. A method for numerical simulation of this vacuum state is developed. It is shown that if the mass parameter is fixed from the known string tension in 2+1 dimensions, the resulting mass gap deduced from the vacuum state agrees, to within a few percent, with known results for the mass gap obtained by standard lattice Monte Carlo methods.

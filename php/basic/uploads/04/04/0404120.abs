@@ -1,0 +1,4 @@
+Paper: 0404120
+Title: Fine-grained entanglement loss along renormalization group flows
+Authors: J. I. Latorre and C. A. Lutken and E. Rico and G. Vidal
+Abstract: We explore entanglement loss along renormalization group trajectories as a basic quantum information property underlying their irreversibility. This analysis is carried out for the quantum Ising chain as a transverse magnetic field is changed. We consider the ground-state entanglement between a large block of spins and the rest of the chain. Entanglement loss is seen to follow from a rigid reordering, satisfying the majorization relation, of the eigenvalues of the reduced density matrix for the spin block. More generally, our results indicate that it may be possible to prove the irreversibility along RG trajectories from the properties of the vacuum only, without need to study the whole hamiltonian.

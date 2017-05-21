@@ -1,0 +1,4 @@
+Paper: 0602041
+Title: The Partition Function in the Wigner-Kirkwood expansion
+Authors: S. G. Matinyan and B. Müller
+Abstract: We study the semiclassical Wigner-Kirkwood (WK) expansion of the partition function $Z(t)$ for arbitrary even homogeneous potentials, starting from the Bloch equation. As is well known, the phase-space kernel of $Z$ satisfies the so-called Uhlenbeck-Beth equation, which depends on the gradients of the potential. We perform a chain of transformations to obtain novel forms of this equation that invite analogies with various physical phenomena and formalisms, such as diffusion processes, the Fokker-Planck equation, and supersymmetric quantum mechanics.

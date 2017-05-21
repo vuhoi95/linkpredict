@@ -1,0 +1,4 @@
+Paper: 0606013
+Title: Monte Carlo Simulation of a NC Gauge Theory on The Fuzzy Sphere
+Authors: Denjoe O'Connor and Badis Ydri
+Abstract: We find using Monte Carlo simulation the phase structure of noncommutative U(1) gauge theory in two dimensions with the fuzzy sphere S^2_N as a non-perturbative regulator. There are three phases of the model. i) A matrix phase where the theory is essentially SU(N) Yang-Mills reduced to zero dimension . ii) A weak coupling fuzzy sphere phase with constant specific heat and iii) A strong coupling fuzzy sphere phase with non-constant specific heat. The order parameter distinguishing the matrix phase from the sphere phase is the radius of the fuzzy sphere. The three phases meet at a triple point. We also give the theoretical one-loop and 1/N expansion predictions for the transition lines which are in good agreement with the numerical data. A Monte Carlo measurement of the triple point is also given.

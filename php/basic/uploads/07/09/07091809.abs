@@ -1,0 +1,4 @@
+Paper: 07091809
+Title: Dynamical response functions in the quantum Ising chain with a boundary
+Authors: Dirk Schuricht and Fabian H. L. Essler
+Abstract: We determine dynamical response functions $<{\cal O}^\dagger(t,x_1){\cal O}(0,x_2)>$ in the scaling limit of the quantum Ising chain on the half line in the presence of a boundary magnetic field. Using a spectral representation in terms of infinite volume form factors and a boundary state, we derive an expansion for the correlator that is found to be rapidly convergent as long as $|\frac{x_1+x_2}{\xi}|\agt 0.2$ where $\xi$ is the correlation length. At sufficiently late times we observe oscillatory behaviour of the correlations arbitrarily far away from the boundary. We investigate the effects of the boundary bound state that is present for a range of boundary magnetic fields.

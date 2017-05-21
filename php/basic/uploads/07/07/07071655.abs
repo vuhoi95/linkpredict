@@ -1,0 +1,4 @@
+Paper: 07071655
+Title: PT-symmetric Models with O(N) Symmetry
+Authors: Peter N. Meisinger and Michael C. Ogilvie
+Abstract: We construct PT-symmetric quantum mechanical models with an O(N)-symmetric interaction term of the form $-g(\vec{x}^{2})^{2}/N$. Using functional integral methods, we find the equivalent Hermitian model, which has several unusual features. The effective potential obtained in the large-N limit of the Hermitian form is shown to be identical to the form obtained from the original PT-symmetric model using familiar constraint field methods. The analogous constraint field prescription in four dimensions suggests that $-g(\vec{\phi}^{2})^{2}/N$ PT-symmetric scalar field theories are asymptotically free.

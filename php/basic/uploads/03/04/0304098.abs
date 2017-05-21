@@ -1,0 +1,4 @@
+Paper: 0304098
+Title: Ground state entanglement in quantum spin chains
+Authors: J. I. Latorre and E. Rico and G. Vidal
+Abstract: A microscopic calculation of ground state entanglement for the XY and Heisenberg models shows the emergence of universal scaling behavior at quantum phase transitions. Entanglement is thus controlled by conformal symmetry. Away from the critical point, entanglement gets saturated by a mass scale. Results borrowed from conformal field theory imply irreversibility of entanglement loss along renormalization group trajectories. Entanglement does not saturate in higher dimensions which appears to limit the success of the density matrix renormalization group technique. A possible connection between majorization and renormalization group irreversibility emerges from our numerical analysis.

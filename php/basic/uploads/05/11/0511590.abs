@@ -1,0 +1,4 @@
+Paper: 0511590
+Title: Ribbon categories and (unoriented) CFT: Frobenius algebras,  automorphisms, reversions
+Authors: Jurgen Fuchs and Ingo Runkel and Christoph Schweigert
+Abstract: A Morita class of symmetric special Frobenius algebras A in the modular tensor category of a chiral CFT determines a full CFT on oriented world sheets. For unoriented world sheets, A must in addition possess a reversion, i.e. an isomorphism from A^opp to A squaring to the twist. Any two reversions of an algebra A differ by an element of the group Aut(A) of algebra automorphisms of A. We establish a group homomorphism from Aut(A) to the Picard group of the bimodule category C_AA, with kernel consisting of the inner automorphisms, and we refine Morita equivalence to an equivalence relation between algebras with reversion.

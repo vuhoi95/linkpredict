@@ -1,0 +1,4 @@
+Paper: 0306138
+Title: Twisted K-theory of differentiable stacks
+Authors: Jean-Louis Tu and Ping Xu and Camille Laurent-Gengoux
+Abstract: In this paper, we develop twisted $K$-theory for stacks, where the twisted class is given by an $S^1$-gerbe over the stack. General properties, including the Mayer-Vietoris property, Bott periodicity, and the product structure $K^i_\alpha \otimes K^j_\beta \to K^{i+j}_{\alpha +\beta}$ are derived. Our approach provides a uniform framework for studying various twisted $K$-theories including the usual twisted $K$-theory of topological spaces, twisted equivariant $K$-theory, and the twisted $K$-theory of orbifolds. We also present a Fredholm picture, and discuss the conditions under which twisted $K$-groups can be expressed by so-called "twisted vector bundles". Our approach is to work on presentations of stacks, namely \emph{groupoids}, and relies heavily on the machinery of $K$-theory ($KK$-theory) of $C^*$-algebras.

@@ -1,0 +1,4 @@
+Paper: 07060990
+Title: Analytical approximation schemes for solving exact renormalization group  equations in the local potential approximation
+Authors: C. Bervillier and B. Boisseau and H. Giacomini
+Abstract: The relation between the Wilson-Polchinski and the Litim optimized ERGEs in the local potential approximation is studied with high accuracy using two different analytical approaches based on a field expansion: a recently proposed genuine analytical approximation scheme to two-point boundary value problems of ordinary differential equations, and a new one based on approximating the solution by generalized hypergeometric functions. A comparison with the numerical results obtained with the shooting method is made. A similar accuracy is reached in each case. Both two methods appear to be more efficient than the usual field expansions frequently used in the current studies of ERGEs (in particular for the Wilson-Polchinski case in the study of which they fail).

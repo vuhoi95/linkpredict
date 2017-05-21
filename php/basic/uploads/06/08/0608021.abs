@@ -1,0 +1,4 @@
+Paper: 0608021
+Title: Why Z_{BH} = |Z_{top}|^2
+Authors: Chris Beasley and Davide Gaiotto and Monica Guica and Lisa Huang and Andrew Strominger and Xi Yin
+Abstract: It is argued, using an M-theory lift, that the IIA partition function on a euclidean AdS_2 x S^2 x CY_3 attractor geometry computes the modified elliptic genus Z_BH of the associated black hole in a large charge expansion. The partition function is then evaluated using the Green-Schwarz formalism. After localizing the worldsheet path integral with the addition of an exact term, contributions arise only from the center of AdS_2 and the north and south poles of S^2. These are the toplogical and anti-topological string partition functions Z_top and {\bar Z_top} respectively. We thereby directly reproduce the perturbative relation Z_BH = |Z_top|^2.

@@ -1,0 +1,4 @@
+Paper: 0608213
+Title: AdS/CFT and Strong Subadditivity of Entanglement Entropy
+Authors: Tomoyoshi Hirata and Tadashi Takayanagi
+Abstract: Recently, a holographic computation of the entanglement entropy in conformal field theories has been proposed via the AdS/CFT correspondence. One of the most important properties of the entanglement entropy is known as the strong subadditivity. This requires that the entanglement entropy should be a concave function with respect to geometric parameters. It is a non-trivial check on the proposal to see if this property is indeed satisfied by the entropy computed holographically. In this paper we examine several examples which are defined by annuli or cusps, and confirm the strong subadditivity via direct calculations. Furthermore, we conjecture that Wilson loop correlators in strongly coupled gauge theories satisfy the same relation. We also discuss the relation between the holographic entanglement entropy and the Bousso bound.

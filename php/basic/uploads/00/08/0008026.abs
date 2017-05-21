@@ -1,0 +1,4 @@
+Paper: 0008026
+Title: Solitons and wavelets: Scale analysis and bases
+Authors: A. Ludu and R. F. O'Connell and J. P. Draayer
+Abstract: We use a one-scale similarity analysis which gives specific relations between the velocity, amplitude and width of localized solutions of nonlinear differential equations, whose exact solutions are generally difficult to obtain. We also introduce kink-antikink compact solutions for the nonlinear-nonlinear dispersion K(2,2) equation, and we construct a basis of scaling functions similar with those used in the multiresolution analysis. These approaches are useful in describing nonlinear structures and patterns, as well as in the derivation of the time evolution of initial data for nonlinear equations with finite wavelength soliton solutions.

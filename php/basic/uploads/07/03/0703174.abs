@@ -1,0 +1,4 @@
+Paper: 0703174
+Title: Analytical and Numerical Verification of the Nernst Theorem for Metals
+Authors: Johan S. Høye and Iver Brevik and Simen A. Ellingsen and Jan B. Aarseth
+Abstract: In view of the current discussion on the subject, an effort is made to show very accurately both analytically and numerically how the Drude dispersion model gives consistent results for the Casimir free energy at low temperatures. Specifically, for the free energy near T=0 we find the leading term to be proportional to T^2 and the next-to-leading term proportional to T^{5/2}. These terms give rise to zero Casimir entropy as T approaches zero, and is thus in accordance with Nernst's theorem.

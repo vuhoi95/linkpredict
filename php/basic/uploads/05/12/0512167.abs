@@ -1,0 +1,4 @@
+Paper: 0512167
+Title: The dynamic exponent of the Ising model on negatively curved surfaces
+Authors: Hiroyuki Shima and Yasunori Sakaniwa
+Abstract: We investigate the dynamic critical exponent of the two-dimensional Ising model defined on a curved surface with constant negative curvature. By using the short-time relaxation method, we find a quantitative alteration of the dynamic exponent from the known value for the planar Ising model. This phenomenon is attributed to the fact that the Ising lattices embedded on negatively curved surfaces act as ones in infinite dimensions, thus yielding the dynamic exponent deduced from mean field theory. We further demonstrate that the static critical exponent for the correlation length exhibits the mean field exponent, which agrees with the existing results obtained from canonical Monte Carlo simulations.

@@ -1,0 +1,4 @@
+Paper: 0208065
+Title: Structured Adiabatic Quantum Search
+Authors: Daria Ahrensmeier and Saurya Das and Randy Kobes and Gabor Kunstatter and Haitham Zaraket
+Abstract: We examine the use of adiabatic quantum algorithms to solve structured, or nested, search problems. We construct suitable time dependent Hamiltonians and derive the computation times for a general class of nested searches involving n qubits. As expected, we find that as additional structure is included, the Hamiltonians become more local and the computation times decrease.

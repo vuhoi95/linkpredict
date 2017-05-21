@@ -1,0 +1,4 @@
+Paper: 0409182
+Title: String quantization: Fock vs. LQG Representations
+Authors: Robert C. Helling and Giuseppe Policastro
+Abstract: We set up a unified framework to compare the quantization of the bosonic string in two approaches: One proposed by Thiemann, based on methods of loop quantum gravity, and the other using the usual Fock space quantization. Both yield a diffeomorphism invariant quantum theory. We discuss why there is no central charge in Thiemann's approach but a discontinuity characteristic for the loop approach to diffeomorphism invariant theories. Then we show the (un)physical consequences of this discontinuity in the example of the harmonic oscillators such as an unbounded energy spectrum. On the other hand, in the continuous Fock representation, the unitary operators for the diffeomorphisms have to be constructed using the method of Gupta and Bleuler representing the diffeomorphism group up to a phase given by the usual central charge.

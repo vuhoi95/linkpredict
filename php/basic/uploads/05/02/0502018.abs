@@ -1,0 +1,4 @@
+Paper: 0502018
+Title: A Perturbative Approach to Fuzzifying Field Theories
+Authors: A. Pinzul and A. Stern
+Abstract: We propose a procedure for computing noncommutative corrections to the metric tensor, and apply it to scalar field theory written on coordinate patches of smooth manifolds. The procedure involves finding maps to the noncommutative plane where differentiation and integration are easily defined, and introducing a star product. There are star product independent, as well as dependent, corrections. Applying the procedure for two different star products, we find the lowest order fuzzy corrections to scalar field theory on a sphere which is sterographically projected to the plane.

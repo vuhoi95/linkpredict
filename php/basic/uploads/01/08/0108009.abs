@@ -1,0 +1,4 @@
+Paper: 0108009
+Title: The U_A(1) Problem on the Lattice with Ginsparg-Wilson Fermions
+Authors: L. Giusti and G. C. Rossi and M. Testa and G. Veneziano
+Abstract: We show how it is possible to give a precise and unambiguous implementation of the Witten--Veneziano formula for the eta' mass on the lattice, which looks like the formal continuum one, if the expression of the topological charge density operator, suggested by fermions obeying the Ginsparg--Wilson relation, is employed. By using recent numerical results from simulations with overlap fermions in 2 (abelian Schwinger model) and 4 (QCD) dimensions, one obtains values for the mass of the lightest pseudo-scalar flavour-singlet state that agree within errors with theoretical expectations and experimental data, respectively.

@@ -1,0 +1,4 @@
+Paper: 0604024
+Title: Self-gravitating Yang Monopoles in all Dimensions
+Authors: G. W. Gibbons and P. K. Townsend
+Abstract: The (2k+2)-dimensional Einstein-Yang-Mills equations for gauge group SO(2k) (or SU(2) for k=2 and SU(3) for k=3) are shown to admit a family of spherically-symmetric magnetic monopole solutions, for both zero and non-zero cosmological constant Lambda, characterized by a mass m and a magnetic-type charge. The k=1 case is the Reissner-Nordstrom black hole. The k=2 case yields a family of self-gravitating Yang monopoles. The asymptotic spacetime is Minkowski for Lambda=0 and anti-de Sitter for Lambda<0, but the total energy is infinite for k>1. In all cases, there is an event horizon when m>m_c, for some critical mass $m_c$, which is negative for k>1. The horizon is degenerate when m=m_c, and the near-horizon solution is then an adS_2 x S^{2k} vacuum.

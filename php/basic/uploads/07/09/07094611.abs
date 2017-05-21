@@ -1,0 +1,4 @@
+Paper: 07094611
+Title: Quantum and classical integrable sine-Gordon model with defect
+Authors: Ismagil Habibullin and Anjan Kundu
+Abstract: Defects which are predominant in a realistic model, usually spoil its integrability or solvability. We on the other hand show the exact integrability of a known sine-Gordon field model with a defect (DSG), at the classical as well as at the quantum level based on the Yang-Baxter equation. We find the associated classical and quantum R-matrices and the underlying q-algebraic structures, analyzing the exact lattice regularized model. We derive algorithmically all higher conserved quantities $C_n, n=1,2,...$ of this integrable DSG model, focusing explicitly on the contribution of the defect point to each $C_n$. The bridging condition across the defect, defined through the B\"acklund transformation is found to induce creation or annihilation of a soliton by the defect point or its preservation with a phase shift.

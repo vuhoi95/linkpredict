@@ -1,0 +1,4 @@
+Paper: 0611945
+Title: K-theoretic Donaldson invariants via instanton counting
+Authors: Lothar Göttsche and Hiraku Nakajima and Kota Yoshioka
+Abstract: In this paper we study the holomorphic Euler characteristics of determinant line bundles on moduli spaces of rank 2 semistable sheaves on an algebraic surface X, which can be viewed as $K$-theoretic versions of the Donaldson invariants. In particular, if X is a smooth projective toric surface, we determine these invariants and their wallcrossing in terms of the K-theoretic version of the Nekrasov partition function (called 5-dimensional supersymmetric Yang-Mills theory compactified on a circle in the physics literature). Using the results of math.AG/0606180 we give an explicit generating function for the wallcrossing of these invariants in terms of elliptic functions and modular forms.

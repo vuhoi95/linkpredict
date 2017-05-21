@@ -1,0 +1,4 @@
+Paper: 0512254
+Title: Notes on Generalised Nullvectors in logarithmic CFT
+Authors: Holger Eberle and Michael Flohr
+Abstract: In these notes we discuss the procedure how to calculate nullvectors in general indecomposable representations which are encountered in logarithmic conformal field theories. In particular, we do not make use of any of the restrictions which have been imposed in logarithmic nullvector calculations up to now, especially the quasi-primarity of all Jordan cell fields. For the quite well-studied c_{p,1} models we calculate examples of logarithmic nullvectors which have not been accessible to the older methods and recover the known representation structure. Furthermore, we calculate logarithmic nullvectors in the up to now almost unexplored general augmented c_{p,q} models and use these to find bounds on their possible representation structures.

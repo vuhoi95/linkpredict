@@ -1,0 +1,4 @@
+Paper: 0011192
+Title: Discrete Torsion, Covering Groups and Quiver Diagrams
+Authors: Bo Feng and Amihay Hanany and Yang-Hui He and Nikolaos Prezas
+Abstract: Without recourse to the sophisticated machinery of twisted group algebras, projective character tables and explicit values of 2-cocycles, we here present a simple algorithm to study the gauge theory data of D-brane probes on a generic orbifold G with discrete torsion turned on. We show in particular that the gauge theory can be obtained with the knowledge of no more than the ordinary character tables of G and its covering group G*. Subsequently we present the quiver diagrams of certain illustrative examples of SU(3)-orbifolds which have non-trivial Schur Multipliers. The paper serves as a companion to our earlier work (arXiv:hep-th/0010023) and aims to initiate a systematic and computationally convenient study of discrete torsion.

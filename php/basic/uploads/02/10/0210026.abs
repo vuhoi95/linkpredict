@@ -1,0 +1,4 @@
+Paper: 0210026
+Title: A method for solving systems of non-linear differential equations with  moving singularities
+Authors: S. S. Gousheh and H. R. Sepangi and K. Ghafoori-Tabrizi
+Abstract: We present a method for solving a class of initial valued, coupled, non-linear differential equations with `moving singularities' subject to some subsidiary conditions. We show that this type of singularities can be adequately treated by establishing certain `moving' jump conditions across them. We show how a first integral of the differential equations, if available, can also be used for checking the accuracy of the numerical solution.

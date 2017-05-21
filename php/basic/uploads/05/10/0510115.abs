@@ -1,0 +1,4 @@
+Paper: 0510115
+Title: Dilaton Domain Walls and Dynamical Systems
+Authors: Julian Sonner and Paul K. Townsend
+Abstract: Domain wall solutions of $d$-dimensional gravity coupled to a dilaton field $\sigma$ with an exponential potential $\Lambda e^{-\lambda\sigma}$ are shown to be governed by an autonomous dynamical system, with a transcritical bifurcation as a function of the parameter $\lambda$ when $\Lambda<0$. All phase-plane trajectories are found exactly for $\lambda=0$, including separatrices corresponding to walls that interpolate between $adS_d$ and $adS_{d-1} \times\bR$, and the exact solution is found for $d=3$. Janus-type solutions are interpreted as marginal bound states of these ``separatrix walls''. All flat domain wall solutions, which are given exactly for any $\lambda$, are shown to be supersymmetric for some superpotential $W$, determined by the solution.

@@ -1,0 +1,4 @@
+Paper: 0006096
+Title: The renormalization group for correlated scales: one-stage versus  two-stage running
+Authors: Aneesh V. Manohar and Joan Soto and Iain W. Stewart
+Abstract: Nonrelativistic bound states have two low energy scales, a soft scale mu_S of order mv and an ultrasoft scale mu_U of order mv^2. In two-stage running, the soft and ultrasoft scales are lowered from m to mv, and then the ultrasoft scale is lowered from mv to mv^2. In one-stage running, the two scales are lowered in a correlated way using a subtraction velocity. We compare these two methods of summing logarithms and show that only the correlated running in velocity space of the one-stage method correctly reproduces the logarithms in non-relativistic bound states in QED. The argument for one-stage running is general, and should apply to any system with correlated scales.

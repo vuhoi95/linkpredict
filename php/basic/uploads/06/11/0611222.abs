@@ -1,0 +1,4 @@
+Paper: 0611222
+Title: Renormalization group study of damping in nonequilibrium field theory
+Authors: J. Zanella and E. Calzetta
+Abstract: In this paper we shall study whether dissipation in a $\lambda\phi^{4}$ may be described, in the long wavelength, low frequency limit, with a simple Ohmic term $\kappa\dot{\phi}$, as it is usually done, for example, in studies of defect formation in nonequilibrium phase transitions. We shall obtain an effective theory for the long wavelength modes through the coarse graining of shorter wavelengths. We shall implement this coarse graining by iterating a Wilsonian renormalization group transformation, where infinitesimal momentum shells are coarse-grained one at a time, on the influence action describing the dissipative dynamics of the long wavelength modes. To the best of our knowledge, this is the first application of the nonequilibrium renormalization group to the calculation of a damping coefficient in quantum field theory.

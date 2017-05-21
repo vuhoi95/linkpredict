@@ -1,0 +1,4 @@
+Paper: 0607262
+Title: Initial States: IR and Collinear Divergences
+Authors: Martin Lavelle and David McMullan
+Abstract: The standard approach to the infra-red problem is to use the Bloch-Nordsieck trick to handle soft divergences and the Lee-Nauenberg (LN) theorem for collinear singularities. We show that this is inconsistent in the presence of massless initial particles. Furthermore, we show that using the LN theorem with such initial states introduces a non-convergent infinite series of diagrams at any fixed order in perturbation theory.

@@ -1,0 +1,4 @@
+Paper: 0307001
+Title: Emptiness Formation Probability for the Anisotropic XY Spin Chain in a  Magnetic Field
+Authors: Alexander G. Abanov and Fabio Franchini
+Abstract: We study an asymptotic behavior of the probability of formation of a ferromagnetic string (referred to as EFP) of length "n" in a ground state of the one-dimensional anisotropic XY model in a transversal magnetic field as n goes to infinity. We find that it is exponential everywhere in the phase diagram of the XY model except at the critical lines where the spectrum is gapless. One of those lines corresponds to the isotropic XY model where EFP decays in a Gaussian way, as was shown in cond-mat/0106062. The other line is at the critical value of the magnetic field. There, we show that EFP is still exponential but acquires a non-trivial power-law prefactor with a universal exponent.

@@ -1,0 +1,4 @@
+Paper: 0008009
+Title: Super Yang-Mills on the lattice with domain wall fermions
+Authors: G. Fleming and J. Kogut and P. Vranas
+Abstract: The dynamical N=1, SU(2) Super Yang-Mills theory is studied on the lattice using a new lattice fermion regulator, domain wall fermions. This formulation even at non-zero lattice spacing does not require fine-tuning, has improved chiral properties and can produce topological zero-mode phenomena. Numerical simulations of the full theory on lattices with the topology of a torus indicate the formation of a gluino condensate which is sustained at the chiral limit. The condensate is non-zero even for small volume and small supersymmetry breaking mass where zero mode effects due to gauge fields with fractional topological charge appear to play a role.

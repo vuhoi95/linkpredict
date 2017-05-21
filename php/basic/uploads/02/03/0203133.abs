@@ -1,0 +1,4 @@
+Paper: 0203133
+Title: An algorithm for twisted fusion rules
+Authors: T. Quella and I. Runkel and C. Schweigert
+Abstract: We present an algorithm for an efficient calculation of the fusion rules of twisted representations of untwisted affine Lie algebras. These fusion rules appear in WZW orbifold theories and as annulus coefficients in boundary WZW theories; they provide NIM-reps of the WZW fusion rules.

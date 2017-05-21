@@ -1,0 +1,4 @@
+Paper: 0411161
+Title: Quantized equations of motion in non-commutative theories
+Authors: Paul Heslop and Klaus Sibold
+Abstract: Quantum field theories based on interactions which contain the Moyal star product suffer, in the general case when time does not commute with space, from several diseases: quantum equation of motions contain unusual terms, conserved currents can not be defined and the residual spacetime symmetry is not maintained. All these problems have the same origin: time ordering does not commute with taking the star product. Here we show that these difficulties can be circumvented by a new definition of time ordering: namely with respect to a light-cone variable. In particular the original spacetime symmetries SO(1,1) x SO(2) and translation invariance turn out to be respected. Unitarity is guaranteed as well.

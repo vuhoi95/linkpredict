@@ -1,0 +1,4 @@
+Paper: 0309060
+Title: Approximations to path integrals and spectra of quantum systems
+Authors: S. I. Blinnikov and N. V. Nikitin
+Abstract: An expression for the Green function G(E;x_1,x_2) of the Schroedinger equation is obtained through the approximations of the path integral by n-fold multiple integrals. The approximations to Re{G(E;x,x)} on the real E-axis have peaks near the values of the energy levels E_{j}. The analytic and numerical examples for one-dimensional and multi-dimensional harmonic and anharmonic oscillators, and Poeschl-Teller potential wells, show that median values of these peaks for approximate G(E;0,0) corresponds with accuracy of order 10% to the exact values of even levels already in the lowest orders of approximation n=1 and n=2, i.e. when the path integral is replaced by a line or double integral. The weights of the peaks approximate the values of the squared modulus of the wave functions at x=0 with the same accuracy.

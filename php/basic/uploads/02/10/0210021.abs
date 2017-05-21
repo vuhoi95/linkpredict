@@ -1,0 +1,4 @@
+Paper: 0210021
+Title: Effective sigma models and lattice Ward identities
+Authors: Leander Dittmann and Thomas Heinzl and Andreas Wipf
+Abstract: We perform a lattice analysis of the Faddeev-Niemi effective action conjectured to describe the low-energy sector of SU(2) Yang-Mills theory. To this end we generate an ensemble of unit vector fields ("color spins") n from the Wilson action. The ensemble does not show long-range order but exhibits a mass gap of the order of 1 GeV. From the distribution of color spins we reconstruct approximate effective actions by means of exact lattice Schwinger-Dyson and Ward identities ("inverse Monte Carlo"). We show that the generated ensemble cannot be recovered from a Faddeev-Niemi action, modified in a minimal way by adding an explicit symmetry-breaking term to avoid the appearance of Goldstone modes.

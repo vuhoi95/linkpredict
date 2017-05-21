@@ -1,0 +1,4 @@
+Paper: 0003071
+Title: A reconstruction of Euler data
+Authors: Bong H. Lian and Chien-Hao Liu and Shing-Tung Yau
+Abstract: We apply the mirror principle of [L-L-Y] to reconstruct the Euler data $Q=\{Q_d\}_{d\in{\tinyBbb N}\cup\{0\}}$ associated to a vector bundle $V$ on ${\smallBbb C}{\rm P}^n$ and a multiplicative class $b$. This gives a direct way to compute the intersection number $K_d$ without referring to any other Euler data linked to $Q$. Here $K_d$ is the integral of the cohomology class $b(V_d)$ of the induced bundle $V_d$ on a stable map moduli space. A package '{\tt \verb+EulerData_MP.m+}' in Maple V that carries out the actual computation is provided. For $b$ the Chern polynomial, the computation of $K_1$ for the bundle $V=T_{\ast}{\smallBbb C}{\rm P}^2$, and $K_d$, $d=1,2,3$, for the bundles ${\cal O}_{{\tinyBbb C}{\rm P}^4}(l)$ with $6\le l\le 10$ done using the code are also included.

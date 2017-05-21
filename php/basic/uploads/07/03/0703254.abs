@@ -1,0 +1,4 @@
+Paper: 0703254
+Title: The quantum brachistochrone problem for non-Hermitian Hamiltonians
+Authors: Paulo E. G. Assis and Andreas Fring
+Abstract: Recently Bender, Brody, Jones and Meister found that in the quantum brachistochrone problem the passage time needed for the evolution of certain initial states into specified final states can be made arbitrarily small, when the time-evolution operator is taken to be non-Hermitian but PT-symmetric. Here we demonstrate that such phenomena can also be obtained for non-Hermitian Hamiltonians for which PT-symmetry is completely broken, i.e. dissipative systems. We observe that the effect of a tunable passage time can be achieved by projecting between orthogonal eigenstates by means of a time-evolution operator associated to a non-Hermitian Hamiltonian. It is not essential that this Hamiltonian is PT-symmetric.

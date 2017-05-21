@@ -1,0 +1,4 @@
+Paper: 0503074
+Title: On the limit cycle for the 1/r^2 potential in momentum space
+Authors: H. -W. Hammer and Brian G. Swingle
+Abstract: The renormalization of the attractive 1/r^2 potential has recently been studied using a variety of regulators. In particular, it was shown that renormalization with a square well in position space allows multiple solutions for the depth of the square well, including, but not requiring a renormalization group limit cycle. Here, we consider the renormalization of the 1/r^2 potential in momentum space. We regulate the problem with a momentum cutoff and absorb the cutoff dependence using a momentum-independent counterterm potential. The strength of this counterterm is uniquely determined and runs on a limit cycle. We also calculate the bound state spectrum and scattering observables, emphasizing the manifestation of the limit cycle in these observables.

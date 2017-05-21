@@ -1,0 +1,4 @@
+Paper: 0109100
+Title: A simple way to generate high order vacuum graphs
+Authors: K. Kajantie and M. Laine and Y. Schroder
+Abstract: We describe an efficient practical procedure for enumerating and regrouping vacuum Feynman graphs of a given order in perturbation theory. The method is based on a combination of Schwinger-Dyson equations and the two-particle-irreducible ("skeleton") expansion. The regrouping leads to skeletons containing only free propagators, together with "ring diagrams" containing all the self-energy insertions. As a consequence, relatively few diagrams need to be drawn and integrations carried out at any single stage of the computation and, in low dimensions, overlapping ultraviolet/infrared subdivergences can be cleanly isolated. As an illustration we enumerate the graphs contributing to the 4-loop free energy in QCD, explicitly in a continuum and more compactly in a lattice regularization.

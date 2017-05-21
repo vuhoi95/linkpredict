@@ -1,0 +1,4 @@
+Paper: 0507046
+Title: An Embedding of the BV Quantization into an N=1 Local Superfield  Formalism
+Authors: D. M. Gitman and P. Yu. Moshin and A. A. Reshetnyak
+Abstract: We propose an N=1 superfield formulation of Lagrangian quantization in general hypergauges by extending a reducible gauge theory to a superfield model with a local dependence on a Grassmann parameter $\theta$. By means of $\theta$-local functions of the quantum and gauge-fixing actions in terms of Darboux coordinates on the antisymplectic manifold, we construct superfield generating functionals of Green's functions, including the effective action. We prove the gauge-independence of the S-matrix, obtain the Ward identities and establish a relation of the proposed local quantization with the BV method and the multilevel Batalin-Tyutin formalism.

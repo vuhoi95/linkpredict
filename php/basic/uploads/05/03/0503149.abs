@@ -1,0 +1,4 @@
+Paper: 0503149
+Title: Dimer models and toric diagrams
+Authors: Amihay Hanany and Kristian D. Kennaway
+Abstract: We propose a duality between quiver gauge theories and the combinatorics of dimer models. The connection is via toric diagrams together with multiplicities associated to points in the diagram (which count multiplicities of fields in the linear sigma model construction of the toric space). These multiplicities may be computed from both sides and are found to agree in all known examples. The dimer models provide new insights into the quiver gauge theories: for example they provide a closed formula for the multiplicities of arbitrary orbifolds of a toric space, and allow a new algorithmic method for exploring the phase structure of the quiver gauge theory.

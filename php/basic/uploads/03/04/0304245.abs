@@ -1,0 +1,4 @@
+Paper: 0304245
+Title: Hamiltonian operators and l*-coverings
+Authors: Paul Kersten and Iosif Krasil'shchik and Alexander Verbovetsky
+Abstract: An efficient method to construct Hamiltonian structures for nonlinear evolution equations is described. It is based on the notions of variational Schouten bracket and l*-covering. The latter serves the role of the cotangent bundle in the category of nonlinear evolution PDEs. We first consider two illustrative examples (the KdV equation and the Boussinesq system) and reconstruct for them the known Hamiltonian structures by our methods. For the coupled KdV-mKdV system, a new Hamiltonian structure is found and its uniqueness (in the class of polynomial (x,t)-independent structures) is proved. We also construct a nonlocal Hamiltonian structure for this system and prove its compatibility with the local one.

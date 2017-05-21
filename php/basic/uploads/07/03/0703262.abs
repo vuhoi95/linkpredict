@@ -1,0 +1,4 @@
+Paper: 0703262
+Title: Solving the Anharmonic Oscillator: Tuning the Boundary Condition
+Authors: David Leonard and Paul Mansfield
+Abstract: We outline a remarkably efficient method for generating solutions to quantum anharmonic oscillators with an x^{2M} potential. We solve the Schroedinger equation in terms of a free parameter which is then tuned to give the correct boundary condition by generating a power series expansion of the wavefunction in x and applying a modified Borel resummation technique to obtain the large x behaviour. The process allows us to calculate energy eigenvalues to an arbitrary level of accuracy. High degrees of precision are achieved even with modest computing power. Our technique extends to all levels of excitation and produces the correct solution to the double well oscillators even though they are dominated by non-perturbative effects.

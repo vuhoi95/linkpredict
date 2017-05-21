@@ -1,0 +1,4 @@
+Paper: 0606235
+Title: Casimir edge effects
+Authors: Holger Gies and Klaus Klingmuller
+Abstract: We compute Casimir forces in open geometries with edges, involving parallel as well as perpendicular semi-infinite plates. We focus on Casimir configurations which are governed by a unique dimensional scaling law with a universal coefficient. With the aid of worldline numerics, we determine this coefficient for various geometries for the case of scalar-field fluctuations with Dirichlet boundary conditions. Our results facilitate an estimate of the systematic error induced by the edges of finite plates, for instance, in a standard parallel-plate experiment. The Casimir edge effects for this case can be reformulated as an increase of the effective area of the configuration.

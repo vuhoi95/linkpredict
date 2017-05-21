@@ -1,0 +1,4 @@
+Paper: 0309020
+Title: Classical brackets for dissipative systems
+Authors: Giuseppe Bimonte and Giampiero Esposito and Giuseppe Marmo and Cosimo Stornaiolo
+Abstract: We show how to write a set of brackets for the Langevin equation, describing the dissipative motion of a classical particle, subject to external random forces. The method does not rely on an action principle, and is based solely on the phenomenological description of the dissipative dynamics as given by the Langevin equation. The general expression for the brackets satisfied by the coordinates, as well as by the external random forces, at different times, is determined, and it turns out that they all satisfy the Jacobi identity. Upon quantization, these classical brackets are found to coincide with the commutation rules for the quantum Langevin equation, that have been obtained in the past, by appealing to microscopic conservative quantum models for the friction mechanism.

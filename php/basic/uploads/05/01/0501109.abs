@@ -1,0 +1,4 @@
+Paper: 0501109
+Title: All-genus calculation of Wilson loops using D-branes
+Authors: Nadav Drukker and Bartomeu Fiol
+Abstract: The standard prescription for calculating a Wilson loop in the AdS/CFT correspondence is by a string world-sheet ending along the loop at the boundary of AdS. For a multiply wrapped Wilson loop this leads to many coincident strings, which may interact among themselves. In such cases a better description of the system is in terms of a D3-brane carrying electric flux. We find such solutions for the single straight line and the circular loop. The action agrees with the string calculation at small coupling and in addition captures all the higher genus corrections at leading order in alpha'. The resulting expression is in remarkable agreement with that found from a zero dimensional Gaussian matrix model.

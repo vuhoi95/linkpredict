@@ -1,0 +1,4 @@
+Paper: 0702035
+Title: From Twistor Actions to MHV Diagrams
+Authors: Rutger Boels and Lionel Mason and David Skinner
+Abstract: We show that MHV diagrams are the Feynman diagrams of certain twistor actions for gauge theories in an axial gauge. The gauge symmetry of the twistor action is larger than that on space-time and this allows us to fix a gauge that makes the MHV formalism manifest but which is inaccessible from space-time. The framework is extended to describe matter fields: as an illustration we explicitly construct twistor actions for an adjoint scalar with arbitrary polynomial potential and a fermion in the fundamental representation and show how this leads to additional towers of MHV vertices in the MHV diagram formalism.

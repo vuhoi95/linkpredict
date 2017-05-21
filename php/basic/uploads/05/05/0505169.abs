@@ -1,0 +1,4 @@
+Paper: 0505169
+Title: Manifestly gauge invariant QED
+Authors: Stefano Arnone and Tim R. Morris and Oliver J. Rosten
+Abstract: We uncover a method of calculation that proceeds at every step without fixing the gauge or specifying details of the regularisation scheme. Results are obtained by iterated use of integration by parts and gauge invariance identities. Calculations can be performed almost entirely diagrammatically. The method is formulated within the framework of an exact renormalisation group for QED. We demonstrate the technique with a calculation of the one-loop beta function, achieving a manifestly universal result, and without gauge fixing.

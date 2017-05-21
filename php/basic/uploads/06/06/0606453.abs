@@ -1,0 +1,4 @@
+Paper: 0606453
+Title: Universal scaling behavior of the single electron box in the strong  tunneling limit
+Authors: Sergei L. Lukyanov and Philipp Werner
+Abstract: We perform a numerical analysis of recently proposed scaling functions for the single electron box. Specifically, we study the ``magnetic'' susceptibility as a function of tunneling conductance and gate charge, and the effective charging energy at zero gate charge as a function of tunneling conductance in the strong tunneling limit. Our Monte Carlo results confirm the accuracy of the theoretical predictions.

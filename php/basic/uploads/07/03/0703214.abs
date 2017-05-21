@@ -1,0 +1,4 @@
+Paper: 0703214
+Title: Comment on ``Analytical and numerical verification of the Nernst heat  theorem for metals''
+Authors: G. L. Klimchitskaya and V. M. Mostepanenko
+Abstract: Recently, H{\o}ye, Brevik, Ellingsen and Aarseth (quant-ph/0703174) claimed that the use of the Drude dielectric function leads to zero Casimir entropy at zero temperature in accordance with Nernst's theorem. We demonstrate that their proof is not applicable to metals with perfect crystal lattices having no impurities. Thus there is no any contradiction with previous results in the literature proving that the Drude dielectric function violates the Nernst theorem for the Casimir entropy in the case of perfect crystal lattices. We also indicate mistakes in the coefficients of their asymptotic expressions for metals with impurities.

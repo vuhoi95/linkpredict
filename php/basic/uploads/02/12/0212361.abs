@@ -1,0 +1,4 @@
+Paper: 0212361
+Title: From 2D Toda hierarchy to conformal map for domains of Riemann sphere
+Authors: Yu. Klimov and A. Korzh and S. Natanzon
+Abstract: In recent works [hep-th/9909147, hep-th/0005259] was found a wonderful correlation between integrable systems and meromorphic functions. They reduce a problem of effictivisation of Riemann theorem about conformal maps to calculation of a string solution of dispersionless limit of the 2D Toda hierarchy. In [math.CV/0103136] was found a recurrent formulas for coeffciens of Taylor series of the string solution. This gives, in particular, a method for calculation of the univalent conformal map from the until disk to an arbitrary domain, described by its harmonic moments. In the present paper we investigate some properties of these formulas. In particular, we find a sufficient condition for convergence of the Taylor series for the string solution of dispersionless limit of 2D Toda hierarchy.

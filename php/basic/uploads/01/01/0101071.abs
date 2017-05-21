@@ -1,0 +1,4 @@
+Paper: 0101071
+Title: The Convergence of Yang-Mills Integrals
+Authors: Peter Austing and John F. Wheater
+Abstract: We prove that SU(N) bosonic Yang-Mills matrix integrals are convergent for dimension (number of matrices) $D\ge D_c$. It is already known that $D_c=5$ for N=2; we prove that $D_c=4$ for N=3 and that $D_c=3$ for $N\ge 4$. These results are consistent with the numerical evaluations of the integrals by Krauth and Staudacher.

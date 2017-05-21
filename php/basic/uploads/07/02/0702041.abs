@@ -1,0 +1,4 @@
+Paper: 0702041
+Title: Trivializing and Orbifolding the Conifold's Base
+Authors: Jarah Evslin and Stanislav Kuperstein
+Abstract: The conifold is a cone over the space T^11, which is known to be topologically S^2xS^3. The coordinates used in the literature describe a sphere-bundle which can be proven to be topologically trivializable. We provide an explicit trivialization of this bundle, with simultaneous global coordinates for both spheres. Using this trivialization we are able to describe the topology of the base of several infinite families of chiral and non-chiral orbifolds of the conifold. We demonstrate that in each case the 2nd Betti number of the base matches the number of independent ranks in the dual quiver gauge theory.

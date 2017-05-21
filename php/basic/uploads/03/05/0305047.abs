@@ -1,0 +1,4 @@
+Paper: 0305047
+Title: Umbral Calculus, Difference Equations and the Discrete Schroedinger  Equation
+Authors: Decio Levi and Piergiulio Tempesta and Pavel Winternitz
+Abstract: We discuss umbral calculus as a method of systematically discretizing linear differential equations while preserving their point symmetries as well as generalized symmetries. The method is then applied to the Schr\"{o}dinger equation in order to obtain a realization of nonrelativistic quantum mechanics in discrete space-time. In this approach a quantum system on a lattice has a symmetry algebra isomorphic to that of the continuous case. Moreover, systems that are integrable, superintegrable or exactly solvable preserve these properties in the discrete case.

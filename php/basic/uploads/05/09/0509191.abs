@@ -1,0 +1,4 @@
+Paper: 0509191
+Title: Random walks on combs
+Authors: Bergfinnur Durhuus and Thordur Jonsson and John Wheater
+Abstract: We develop techniques to obtain rigorous bounds on the behaviour of random walks on combs. Using these bounds we calculate exactly the spectral dimension of random combs with infinite teeth at random positions or teeth with random but finite length. We also calculate exactly the spectral dimension of some fixed non-translationally invariant combs. We relate the spectral dimension to the critical exponent of the mass of the two-point function for random walks on random combs, and compute mean displacements as a function of walk duration. We prove that the mean first passage time is generally infinite for combs with anomalous spectral dimension.

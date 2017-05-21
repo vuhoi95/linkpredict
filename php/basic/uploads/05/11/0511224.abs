@@ -1,0 +1,4 @@
+Paper: 0511224
+Title: Stochastic Quantization of $(λφ^{4})_d$ Scalar Theory:  Generalized Langevin Equation with Memory Kernel
+Authors: G. Menezes and N. F. Svaiter
+Abstract: We review the method of stochastic quantization for a scalar field theory. We first give a brief survey for the case of self-interacting scalar fields, implementing the stochastic perturbation theory up to the one-loop level. The divergences therein are taken care of by employing the usual prescription of the stochastic regularization, introducing a colored random noise in the Einstein relations. We then extend this formalism to the case where we assume a Langevin equation with a memory kernel. We have shown that, if we also maintain the Einstein's relations with a colored noise, there is convergence to a non-regularized theory.

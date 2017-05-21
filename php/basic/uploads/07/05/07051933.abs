@@ -1,0 +1,4 @@
+Paper: 07051933
+Title: Percolation Crossing Formulas and Conformal Field Theory
+Authors: Jacob J. H. Simmons and Peter Kleban and Robert M. Ziff
+Abstract: Using conformal field theory, we derive several new crossing formulas at the two-dimensional percolation point. High-precision simulation confirms these results. Integrating them gives a unified derivation of Cardy's formula for the horizontal crossing probability $\Pi_h(r)$, Watts' formula for the horizontal-vertical crossing probability $\Pi_{hv}(r)$, and Cardy's formula for the expected number of clusters crossing horizontally $\mathcal{N}_h(r)$. The main step in our approach implies the identification of the derivative of one primary operator with another. We present operator identities that support this idea and suggest the presence of additional symmetry in $c=0$ conformal field theories.

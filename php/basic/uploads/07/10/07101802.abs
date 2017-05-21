@@ -1,0 +1,4 @@
+Paper: 07101802
+Title: A complex periodic QES potential and exceptional points
+Authors: B. Bagchi and C. Quesne and R. Roychoudhury
+Abstract: We show that the complex $\cal PT$-symmetric periodic potential $V(x) = - ({\rm i} \xi \sin 2x + N)^2$, where $\xi$ is real and $N$ is a positive integer, is quasi-exactly solvable. For odd values of $N \ge 3$, it may lead to exceptional points depending upon the strength of the coupling parameter $\xi$. The corresponding Schr\"odinger equation is also shown to go over to the Mathieu equation asymptotically. The limiting value of the exceptional points derived in our scheme is consistent with known branch-point singularities of the Mathieu equation.

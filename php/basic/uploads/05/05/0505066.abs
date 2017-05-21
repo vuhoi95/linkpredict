@@ -1,0 +1,4 @@
+Paper: 0505066
+Title: Combinatorics of n-point functions via Hopf algebra in quantum field  theory
+Authors: Angela Mestre and Robert Oeckl
+Abstract: We use a coproduct on the time-ordered algebra of field operators to derive simple relations between complete, connected and 1-particle irreducible n-point functions. Compared to traditional functional methods our approach is much more intrinsic and leads to efficient algorithms suitable for concrete computations. It may also be used to efficiently perform tree level computations.

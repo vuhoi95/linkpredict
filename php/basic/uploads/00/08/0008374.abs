@@ -1,0 +1,4 @@
+Paper: 0008374
+Title: Generalized Jordan-Wigner Transformations
+Authors: C. D. Batista and G. Ortiz
+Abstract: We introduce a new spin-fermion mapping, for arbitrary spin $S$ generating the SU(2) group algebra, that constitutes a natural generalization of the Jordan-Wigner transformation for $S=1/2$. The mapping, valid for regular lattices in any spatial dimension $d$, serves to unravel hidden symmetries in one representation that are manifest in the other. We illustrate the power of the transformation by finding exact solutions to lattice models previously unsolved by standard techniques. We also present a proof of the existence of the Haldane gap in $S=$1 bilinear nearest-neighbors Heisenberg spin chains and discuss the relevance of the mapping to models of strongly correlated electrons. Moreover, we present a general spin-anyon mapping for the case $d \leq 2$.

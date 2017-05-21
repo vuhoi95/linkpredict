@@ -1,0 +1,4 @@
+Paper: 0604065
+Title: Phase structure of the large-N reduced gauge theory and generalized  Weingarten model
+Authors: Masanori Hanada and Takashi Kanai and Hikaru Kawai and Fukuichiro Kubo
+Abstract: We study a generalization of Weingarten model reduced to a point, which becomes the large-N reduced U(N) gauge theory in a special limit. We find that the U(1)^d symmetry is broken one by one, and restored simultaneously as U(1)^d -> U(1)^{d-1} -> ... -> U(1) -> 1 -> U(1)^d as we change the coupling constants. In this model we can develop an efficient algorithm and we can see the phase structure of large-N reduced model clearly, and therefore this model would be useful for the study of the unitary model.

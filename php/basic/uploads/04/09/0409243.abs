@@ -1,0 +1,4 @@
+Paper: 0409243
+Title: Higher-Dimensional Twistor Transforms using Pure Spinors
+Authors: Nathan Berkovits and Sergey A. Cherkis
+Abstract: Hughston has shown that projective pure spinors can be used to construct massless solutions in higher dimensions, generalizing the four-dimensional twistor transform of Penrose. In any even (Euclidean) dimension d=2n, projective pure spinors parameterize the coset space SO(2n)/U(n), which is the space of all complex structures on R^{2n}. For d=4 and d=6, these spaces are CP^1 and CP^3, and the appropriate twistor transforms can easily be constructed. In this paper, we show how to construct the twistor transform for d>6 when the pure spinor satisfies nonlinear constraints, and present explicit formulas for solutions of the massless field equations.

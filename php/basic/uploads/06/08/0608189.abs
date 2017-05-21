@@ -1,0 +1,4 @@
+Paper: 0608189
+Title: Topological low-temperature limit of Z(2) spin-gauge theory in three  dimensions
+Authors: N. Yokomizo and P. Teotonio-Sobrinho and J. C. A. Barata
+Abstract: We study Z(2) lattice gauge theory on triangulations of a compact 3-manifold. We reformulate the theory algebraically, describing it in terms of the structure constants of a bidimensional vector space H equipped with algebra and coalgebra structures, and prove that in the low-temperature limit H reduces to a Hopf Algebra, in which case the theory becomes equivalent to a topological field theory. The degeneracy of the ground state is shown to be a topological invariant. This fact is used to compute the zeroth- and first-order terms in the low-temperature expansion of Z for arbitrary triangulations. In finite temperatures, the algebraic reformulation gives rise to new duality relations among classical spin models, related to changes of basis of H.

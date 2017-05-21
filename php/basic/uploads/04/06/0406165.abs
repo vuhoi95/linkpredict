@@ -1,0 +1,4 @@
+Paper: 0406165
+Title: Variational techniques in non-perturbative QCD
+Authors: Alex Kovner and J. Guilherme Milhano
+Abstract: We review attempts to apply the variational principle to understand the vacuum of non-abelian gauge theories. In particular, we focus on the method explored by Ian Kogan and collaborators, which imposes exact gauge invariance on the trial Gaussian wave functional prior to the minimization of energy. We describe the application of the method to a toy model -- confining compact QED in 2+1 dimensions -- where it works wonderfully and reproduces all known non-trivial results. We then follow its applications to pure Yang-Mills theory in 3+1 dimensions at zero and finite temperature. Among the results of the variational calculation are dynamical mass generation and the analytic description of the deconfinement phase transition.

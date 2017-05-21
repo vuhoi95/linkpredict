@@ -1,0 +1,4 @@
+Paper: 0308003
+Title: QCD Dirac operator at nonzero chemical potential: lattice data and  matrix model
+Authors: G. Akemann and T. Wettig
+Abstract: Recently, a non-Hermitian chiral random matrix model was proposed to describe the eigenvalues of the QCD Dirac operator at nonzero chemical potential. This matrix model can be constructed from QCD by mapping it to an equivalent matrix model which has the same symmetries as QCD with chemical potential. Its microscopic spectral correlations are conjectured to be identical to those of the QCD Dirac operator. We investigate this conjecture by comparing large ensembles of Dirac eigenvalues in quenched SU(3) lattice QCD at nonzero chemical potential to the analytical predictions of the matrix model. Excellent agreement is found in the two regimes of weak and strong non-Hermiticity, for several different lattice volumes.

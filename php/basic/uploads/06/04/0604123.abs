@@ -1,0 +1,4 @@
+Paper: 0604123
+Title: Langevin dynamics of the deconfinement transition for pure gauge theory
+Authors: Ana Júlia Mizher and Eduardo S. Fraga and Gastão Krein
+Abstract: We investigate the effects of dissipation in the deconfinement transition for pure SU(2) and SU(3) gauge theories. Using an effective theory for the order parameter, we study its Langevin evolution numerically. Noise effects are included for the case of SU(2). We find that both dissipation and noise have dramatic effects on the spinodal decomposition of the order parameter and delay considerably its thermalization. For SU(3) the effects of dissipation are even larger than for SU(2).

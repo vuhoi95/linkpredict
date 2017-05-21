@@ -1,0 +1,4 @@
+Paper: 0404045
+Title: On the refined 3-enumeration of alternating sign matrices
+Authors: F. Colomo and A. G. Pronko
+Abstract: An explicit expression for the numbers $A(n,r;3)$ describing the refined 3-enumeration of alternating sign matrices is given. The derivation is based on the recent results of Stroganov for the corresponding generating function. As a result, $A(n,r;3)$'s are represented as 1-fold sums which can also be written in terms of terminating ${}_4F_3$ series of argument 1/4.

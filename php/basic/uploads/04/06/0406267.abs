@@ -1,0 +1,4 @@
+Paper: 0406267
+Title: Effect of nonadiabatic switching of dynamic perturbations in 1d Fermi  systems
+Authors: Carlos M. Naón and Mariano J. Salvay and Marta L. Trobo
+Abstract: We study a two-dimensional fermionic QFT used to model 1D strongly correlated electrons in the presence of a time-dependent impurity that drives the system out of equilibrium. In contrast to previous investigations, we consider a dynamic barrier switched on at a finite time. We compute the total energy density (TED) of the system and establish two well defined regimes in terms of the relationship between the frequency of the time-dependent perturbation $\Omega$ and the electron energy $\omega$. Finally, we derive a relaxation time $t_{R}$ such that for times shorter than $t_{R}$ the finite-time switching process is relevant.

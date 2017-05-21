@@ -1,0 +1,4 @@
+Paper: 07081897
+Title: Morita classes of algebras in modular tensor categories
+Authors: Liang Kong and Ingo Runkel
+Abstract: We consider algebras in a modular tensor category C. If the trace pairing of an algebra A in C is non-degenerate we associate to A a commutative algebra Z(A), called the full centre, in a doubled version of the category C. We prove that two simple algebras with non-degenerate trace pairing are Morita-equivalent if and only if their full centres are isomorphic as algebras. This result has an interesting interpretation in two-dimensional rational conformal field theory; it implies that there cannot be several incompatible sets of boundary conditions for a given bulk theory.

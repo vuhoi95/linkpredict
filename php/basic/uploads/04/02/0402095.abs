@@ -1,0 +1,4 @@
+Paper: 0402095
+Title: Integrable Renormalization I: the Ladder Case
+Authors: Kurusch Ebrahimi-Fard and Li Guo and Dirk Kreimer
+Abstract: In recent years a Hopf algebraic structure underlying the process of renormalization in quantum field theory was found. It led to a Birkhoff factorization for (regularized) Hopf algebra characters, i.e. for Feynman rules. In this work we would like to show that this Birkhoff factorization finds its natural formulation in terms of a classical r-matrix, coming from a Rota-Baxter structure underlying the target space of the regularized Hopf algebra characters. Working in the rooted tree Hopf algebra, the simple case of the Hopf subalgebra of ladder trees is treated in detail. The extension to the general case, i.e. the full Hopf algebra of rooted trees or Feynman graphs is briefly outlined.

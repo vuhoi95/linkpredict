@@ -1,0 +1,4 @@
+Paper: 0609088
+Title: Entropy and Exact Matrix Product Representation of the Laughlin Wave  Function
+Authors: S. Iblisdir and J. I. Latorre and R. Orus
+Abstract: An analytical expression for the von Neumann entropy of the Laughlin wave function is obtained for any possible bipartition between the particles described by this wave function, for filling fraction nu=1. Also, for filling fraction nu=1/m, where m is an odd integer, an upper bound on this entropy is exhibited. These results yield a bound on the smallest possible size of the matrices for an exact representation of the Laughlin ansatz in terms of a matrix product state. An analytical matrix product state representation of this state is proposed in terms of representations of the Clifford algebra. For nu=1, this representation is shown to be asymptotically optimal in the limit of a large number of particles.

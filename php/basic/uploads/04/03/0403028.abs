@@ -1,0 +1,4 @@
+Paper: 0403028
+Title: Separation of variables and Bäcklund transformations for the symmetric  Lagrange top
+Authors: Vadim B. Kuznetsov and Matteo Petrera and Orlando Ragnisco
+Abstract: We construct the 1- and 2-point integrable maps (B\"acklund transformations) for the symmetric Lagrange top. We show that the Lagrange top has the same algebraic Poisson structure that belongs to the $sl(2)$ Gaudin magnet. The 2-point map leads to a real time-discretization of the continuous flow. Therefore, it provides an integrable numerical scheme for integrating the physical flow. We illustrate the construction by few pictures of the discrete flow calculated in MATLAB.

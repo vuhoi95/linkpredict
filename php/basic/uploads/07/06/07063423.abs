@@ -1,0 +1,4 @@
+Paper: 07063423
+Title: An exact string representation of 3d SU(2) lattice Yang--Mills theory
+Authors: Florian Conrady and Igor Khavkine
+Abstract: We show that 3d SU(2) lattice Yang--Mills theory can be cast in the form of an exact string representation. The derivation starts from the exact dual (or spin foam) representation of the lattice gauge theory. We prove that every dual configuration (or spin foam) can be equivalently described as a self--avoiding worldsheet of strings on a framing of the lattice. Using this correspondence, we translate the partition function into a sum over closed worldsheets that are weighted with explicit amplitudes. The expectation value of two Polyakov loops with spin j becomes a sum over worldsheets that are bounded by 2j strings along a framing of the loops.

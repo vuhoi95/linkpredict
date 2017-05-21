@@ -1,0 +1,4 @@
+Paper: 0508206
+Title: Stability of domain walls coupled to Abelian gauge fields
+Authors: Damien P. George and Raymond R. Volkas
+Abstract: Rozowsky, Volkas and Wali recently found interesting numerical solutions to the field equations for a gauged U1xU1 scalar field model. Their solutions describe a reflection-symmetric domain wall with scalar fields and coupled gauge configurations that interpolate between constant magnetic fields on one side of the wall and exponentially decaying ones on the other side. This corresponds physically to an infinite sheet of supercurrent confined to the domain wall with a linearly rising gauge potential on one side and Meissner suppression on the other. While it was shown that these static solutions satisfied the field equations, their stability was left unresolved. In this paper, we analyse the normal modes of perturbations of the static solutions to demonstrate their perturbative stability.

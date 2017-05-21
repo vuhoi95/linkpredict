@@ -1,0 +1,4 @@
+Paper: 0612644
+Title: Efficient Calculation of Energy Spectra Using Path Integrals
+Authors: Danica Stojiljkovic and Aleksandar Bogojevic and Antun Balaz
+Abstract: A newly developed method for systematically improving the convergence of path integrals for transition amplitudes, introduced in Phys. Rev. Lett. 94 (2005) 180403, Phys. Rev. B 72 (2005) 064302, Phys. Lett. A 344 (2005) 84, and expectation values, introduced in Phys. Lett. A 360 (2006) 217, is here applied to the efficient calculation of energy spectra. We show how the derived hierarchies of effective actions lead to substantial speedup of the standard path integral Monte Carlo evaluation of energy levels. The general results and the ensuing increase in efficiency of several orders of magnitude are shown using explicit Monte Carlo simulations of several distinct models.

@@ -1,0 +1,4 @@
+Paper: 0511172
+Title: No Area Law in QCD
+Authors: Tomoko Asaga and Takehisa Fujita
+Abstract: Wilson's area law in QCD is critically examined. It is shown that the expectation value of the Wilson loop integral $ \exp(\int iA_\mu dx^\mu) $ in the strong coupling limit vanishes when we employ the conjugate Wilson action which has a proper QED action in the continuum limit. The finite value of Wilson loop with the Wilson action is due to the result of the artifact. The fact that his area law is obtained even for QED simply indicates that the area law is unphysical.

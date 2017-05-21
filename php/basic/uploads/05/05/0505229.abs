@@ -1,0 +1,4 @@
+Paper: 0505229
+Title: Unitary Evolution on a Phase Space with Power of Two Discretization
+Authors: E. G. Floratos and S. Nicolis
+Abstract: We construct quantum evolution operators on the space of states, that realize the metaplectic representation of the modular group SL(2,Z_2^n). This representation acts in a natural way on the coordinates of the non-commutative 2-torus and thus is relevant for noncommutative field theories as well as theories of quantum space-time. The larger class of operators, thus defined, may be useful for the more efficient realization of new quantum algorithms.

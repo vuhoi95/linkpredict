@@ -1,0 +1,4 @@
+Paper: 0112089
+Title: QED-SCF, MCSCF and Coupled-cluster Methods in Quantum Chemistry
+Authors: Tadafumi Ohsaku and Kizashi Yamaguchi
+Abstract: We investigate the method to combine the techniques of quantum chemisty with QED. In our theory, we treat the N-electron system and the Dirac sea on an equal footing; we regard both of them as the dynamical degrees of freedom of a many-body system. After the introduction of our QED-SCF method, the QED-SCF solutions are classified into several classes on the basis of group-theoretical operations such as time reversal, parity and O(3) rotational symmetry. The natural orbitals of general QED-SCF solutions are determined by diagonalizing the first order density matrix. Thus, we obtain the possibility to treat the system under strong QED effect by the methods of quantum chemistry, such as QED-MCSCF and QED-coupled-cluster approaches.

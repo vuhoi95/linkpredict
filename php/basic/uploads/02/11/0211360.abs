@@ -1,0 +1,4 @@
+Paper: 0211360
+Title: Flops of G-Hilb and equivalences of derived categories by variation of  GIT quotient
+Authors: Alastair Craw and Akira Ishii
+Abstract: For a finite subgroup G in SL(3,C), Bridgeland, King and Reid proved that the moduli space of G-clusters is a crepant resolution of the quotient C^3/G. This paper considers the moduli spaces M_\theta, introduced by Kronheimer and further studied by Sardo Infirri, which coincide with G-Hilb for a particular choice of the GIT parameter \theta. For G Abelian, we prove that every projective crepant resolution of C^3/G is isomorphic to M_\theta for some parameter \theta. The key step is the description of GIT chambers in terms of the K-theory of the moduli space via the appropriate Fourier--Mukai transform. We also uncover explicit equivalences between the derived categories of moduli M_\theta for parameters lying in adjacent GIT chambers.

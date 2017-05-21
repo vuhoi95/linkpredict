@@ -1,0 +1,4 @@
+Paper: 0006138
+Title: Approximating Spectral invariants of Harper operators on graphs
+Authors: V. Mathai and S. Yates
+Abstract: We study Harper operators and the closely related discrete magnetic Laplacians (DML) on a graph with a free action of a discrete group, as defined by Sunada. A main result in this paper is that the spectral density function of DMLs associated to rational weight functions on graphs with a free action of an amenable discrete group, can be approximated by the average spectral density function of the DMLs on a regular exhaustion, with either Dirichlet or Neumann boundary conditions. This then gives a criterion for the existence of gaps in the spectrum of the DML, as well as other interesting spectral properties of such DMLs. The technique used incorporates some results of algebraic number theory.

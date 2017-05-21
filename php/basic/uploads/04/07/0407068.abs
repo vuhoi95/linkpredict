@@ -1,0 +1,4 @@
+Paper: 0407068
+Title: Topological susceptibility of SU(N) gauge theories at finite temperature
+Authors: Luigi Del Debbio and Haralambos Panagopoulos and Ettore Vicari
+Abstract: We investigate the large-N behavior of the topological susceptibility in four-dimensional SU(N) gauge theories at finite temperature, and in particular across the finite-temperature transition at Tc. For this purpose, we consider the lattice formulation of the SU(N) gauge theories and perform Monte Carlo simulations for N=4,6. The results indicate that the topological susceptibility has a nonvanishing large-N limit for T<Tc, as at T=0, and that the topological properties remain substantially unchanged in the low-temperature phase. On the other hand, above the deconfinement phase transition, the topological susceptibility shows a large suppression. The comparison between the data for N=4 and N=6 hints at a vanishing large-N limit for T>Tc.

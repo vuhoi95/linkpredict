@@ -1,0 +1,4 @@
+Paper: 0409031
+Title: A Super-Integrable Discretization of the Calogero Model
+Authors: Hideaki Ujino and Luc Vinet and Haruo Yoshida
+Abstract: A time-discretization that preserves the super-integrability of the Calogero model is obtained by application of the integrable time-discretization of the harmonic oscillator to the projection method for the Calogero model with continuous time. In particular, the difference equations of motion, which provide an explicit scheme for time-integration, are explicitly presented for the two-body case. Numerical results exhibit that the scheme conserves all the$(=3)$ conserved quantities of the (two-body) Calogero model with a precision of the machine epsilon times the number of iterations.

@@ -1,0 +1,4 @@
+Paper: 07070396
+Title: Finite volume QCD at fixed topological charge
+Authors: Sinya Aoki and Hidenori Fukaya and Shoji Hashimoto and Tetsuya Onogi
+Abstract: In finite volume the partition function of QCD with a given $\theta$ is a sum of different topological sectors with a weight primarily determined by the topological susceptibility. If a physical observable is evaluated only in a fixed topological sector, the result deviates from the true expectation value by an amount proportional to the inverse space-time volume 1/V. Using the saddle point expansion, we derive formulas to express the correction due to the fixed topological charge in terms of a 1/V expansion. Applying this formula, we propose a class of methods to determine the topological susceptibility in QCD from various correlation functions calculated in a fixed topological sector.

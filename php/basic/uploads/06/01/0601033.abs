@@ -1,0 +1,4 @@
+Paper: 0601033
+Title: Alternativity and reciprocity in the Cayley-Dickson algebra
+Authors: S. Kuwata and H. Fujii and A. Nakashima
+Abstract: We calculate the eigenvalue \rho of the multiplication mapping R on the Cayley-Dickson algebra A_n. If the element in A_n is composed of a pair of alternative elements in A_{n-1}, half the eigenvectors of R in A_n are still eigenvectors in the subspace which is isomorphic to A_{n-1}. The invariant under the reciprocal transformation A_n \times A_{n} \ni (x,y) -> (-y,x) plays a fundamental role in simplifying the functional form of \rho. If some physical field can be identified with the eigenspace of R, with an injective map from the field to a scalar quantity (such as a mass) m, then there is a one-to-one map \pi: m \mapsto \rho. As an example, the electro-weak gauge field can be regarded as the eigenspace of R, where \pi implies that the W-boson mass is less than the Z-boson mass, as in the standard model.

@@ -1,0 +1,4 @@
+Paper: 07082201
+Title: A Modified Borel Summation Technique
+Authors: David Leonard and Paul Mansfield
+Abstract: We compare and contrast three different perturbative expansions for the quartic anharmonic oscillator wavefunction and apply a modified Borel summation technique to determine the energy eigenvalues. In the first two expansions this provides the energy eigenvalues directly however in the third method we tune the wavefunctions to achieve the correct large x behaviour. This tuning technique allows us to determine the energy eigenvalues up to an arbitrary level of accuracy with remarkable efficiency. We give numerical evidence to explain this behaviour. We also refine the modified Borel summation technique to improve its accuracy. The main sources of error are investigated with reasonable error corrections calculated.

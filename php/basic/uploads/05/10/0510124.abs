@@ -1,0 +1,4 @@
+Paper: 0510124
+Title: Long-Range GL(n) Integrable Spin Chains and Plane-Wave Matrix Theory
+Authors: N. Beisert and T. Klose
+Abstract: Quantum spin chains arise naturally from perturbative large-N field theories and matrix models. The Hamiltonian of such a model is a long-range deformation of nearest-neighbor type interactions. Here, we study the most general long-range integrable spin chain with spins transforming in the fundamental representation of gl(n). We derive the Hamiltonian and the corresponding asymptotic Bethe ansatz at the leading four perturbative orders with several free parameters. Furthermore, we propose Bethe equations for all orders and identify the moduli of the integrable system. We finally apply our results to plane-wave matrix theory and show that the Hamiltonian in a closed sector is not of this form and therefore not integrable beyond the first perturbative order. This also implies that the complete model is not integrable.

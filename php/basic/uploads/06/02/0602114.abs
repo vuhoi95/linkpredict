@@ -1,0 +1,4 @@
+Paper: 0602114
+Title: Highly Irregular Quantum Constraints
+Authors: John R. Klauder and J. Scott Little
+Abstract: Motivated by a recent paper of Louko and Molgado, we consider a simple system with a single classical constraint R(q)=0. If q_l denotes a generic solution to R(q)=0, our examples include cases where R'(q_l)\ne 0 (regular constraint) and R'(q_l)=0 (irregular constraint) of varying order as well as the case where R(q)=0 for an interval, such as a \leq q \leq b. Quantization of irregular constraints is normally not considered; however, using the projection operator formalism we provide a satisfactory quantization which reduces to the constrained classical system when \hbar \to 0. It is noteworthy that irregular constraints change the observable aspects of a theory as compared to strictly regular constraints.

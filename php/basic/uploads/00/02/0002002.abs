@@ -1,0 +1,4 @@
+Paper: 0002002
+Title: New approximate solutions of the Ginsparg-Wilson equation - tests in 2-d
+Authors: Christof Gattringer and Ivan Hip
+Abstract: A new method for finding approximate solutions of the Ginsparg-Wilson equation is tested in 2-d. The Dirac operator is first constructed and then used in a dynamical simulation of the 2-flavor Schwinger model. We find a very small mass of the pi-particle implying almost chirally symmetric fermions. The generalization of our method to 4-d is straightforward.

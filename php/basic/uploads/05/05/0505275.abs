@@ -1,0 +1,4 @@
+Paper: 0505275
+Title: Quantum effective actions from nonperturbative worldline dynamics
+Authors: H. Gies and J. Sánchez--Guillén and R. A. Vázquez
+Abstract: We demonstrate the feasibility of a nonperturbative analysis of quantum field theory in the worldline formalism with the help of an efficient numerical algorithm. In particular, we compute the effective action for a super-renormalizable field theory with cubic scalar interaction in four dimensions in quenched approximation (small-$N_f$ expansion) to all orders in the coupling. We observe that nonperturbative effects exert a strong influence on the infrared behavior, rendering the massless limit well defined in contrast to the perturbative expectation. Our numerical method is based on a direct use of probability distributions for worldline ensembles, preserves all Euclidean spacetime symmetries, and thus represents a new nonperturbative tool for an investigation of continuum quantum field theory.

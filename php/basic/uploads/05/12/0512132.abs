@@ -1,0 +1,4 @@
+Paper: 0512132
+Title: Multi-vortices are Wall Vortices: A Numerical Proof
+Authors: Stefano Bolognesi and Sven Bjarke Gudnason
+Abstract: We study the Abrikosov-Nielsen-Olesen multi-vortices. Using a numerical code we are able to solve the vortex equations with winding number up to n=25,000. We can thus check the wall vortex conjecture previously made in hep-th/0507273 and hep-th/0507286. The numerical results show a remarkable agreement with the theoretical predictions.

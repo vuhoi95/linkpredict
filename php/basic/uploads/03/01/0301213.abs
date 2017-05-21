@@ -1,0 +1,4 @@
+Paper: 0301213
+Title: Noncommutative Burgers Equation
+Authors: Masashi Hamanaka and Kouichi Toda
+Abstract: We present a noncommutative version of the Burgers equation which possesses the Lax representation and discuss the integrability in detail. We find a noncommutative version of the Cole-Hopf transformation and succeed in the linearization of it. The linearized equation is the (noncommutative) diffusion equation and exactly solved. We also discuss the properties of some exact solutions. The result shows that the noncommutative Burgers equation is completely integrable even though it contains infinite number of time derivatives. Furthermore, we derive the noncommutative Burgers equation from the noncommutative (anti-)self-dual Yang-Mills equation by reduction, which is an evidence for the noncommutative Ward conjecture. Finally, we present a noncommutative version of the Burgers hierarchy by both the Lax-pair generating technique and the Sato's approach.

@@ -1,0 +1,4 @@
+Paper: 0210592
+Title: Conductance from Non-perturbative Methods II
+Authors: Olalla A. Castro-Alvaredo and Andreas Fring
+Abstract: This talk provides a natural continuation of the talk presented by Andreas Fring in this conference. Part I was focused on explaining how the DC conductance for a free Fermion theory in the presence of different kinds of defects can be computed by evaluating the Kubo formula. In this talk I will focus on an alternative method for the computation of the same quantity, that is the evaluation of Landauer formula. Once again, the integrability of the theories under consideration will be exploited, since a thermodynamic Bethe ansatz analysis provides all the input needed in that case, apart from the corresponding reflection and transmition amplitudes of the defect. The basic conclusion of our analysis will be the perfect agreement between the two different theoretical descriptions mentioned.

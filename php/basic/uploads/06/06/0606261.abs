@@ -1,0 +1,4 @@
+Paper: 0606261
+Title: Numerical solution to the hermitian Yang-Mills equation on the Fermat  quintic
+Authors: Michael R. Douglas and Robert L. Karp and Sergio Lukic and Rene Reinbacher
+Abstract: We develop an iterative method for finding solutions to the hermitian Yang-Mills equation on stable holomorphic vector bundles, following ideas recently developed by Donaldson. As illustrations, we construct numerically the hermitian Einstein metrics on the tangent bundle and a rank three vector bundle on P^2. In addition, we find a hermitian Yang-Mills connection on a stable rank three vector bundle on the Fermat quintic.

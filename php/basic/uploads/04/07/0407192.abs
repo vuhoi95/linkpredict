@@ -1,0 +1,4 @@
+Paper: 0407192
+Title: Poincare Recurrences and Topological Diversity
+Authors: M. Kleban and M. Porrati and R. Rabadan
+Abstract: Finite entropy thermal systems undergo Poincare recurrences. In the context of field theory, this implies that at finite temperature, timelike two-point functions will be quasi-periodic. In this note we attempt to reproduce this behavior using the AdS/CFT correspondence by studying the correlator of a massive scalar field in the bulk. We evaluate the correlator by summing over all the SL(2,Z) images of the BTZ spacetime. We show that all the terms in this sum receive large corrections after at certain critical time, and that the result, even if convergent, is not quasi-periodic. We present several arguments indicating that the periodicity will be very difficult to recover without an exact re-summation, and discuss several toy models which illustrate this. Finally, we consider the consequences for the information paradox.

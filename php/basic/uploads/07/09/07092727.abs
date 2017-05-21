@@ -1,0 +1,4 @@
+Paper: 07092727
+Title: Does the complex deformation of the Riemann equation exhibit shocks?
+Authors: Carl M. Bender and Joshua Feinberg
+Abstract: The Riemann equation $u_t+uu_x=0$, which describes a one-dimensional accelerationless perfect fluid, possesses solutions that typically develop shocks in a finite time. This equation is $\cP\cT$ symmetric. A one-parameter $\cP\cT$-invariant complex deformation of this equation, $u_t-iu(iu_x)^\epsilon= 0$ ($\epsilon$ real), is solved exactly using the method of characteristic strips, and it is shown that for real initial conditions, shocks cannot develop unless $\epsilon$ is an odd integer.

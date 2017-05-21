@@ -1,0 +1,4 @@
+Paper: 07053148
+Title: Spherical harmonics and integration in superspace
+Authors: Hendrik De Bie and Frank Sommen
+Abstract: In this paper the classical theory of spherical harmonics in R^m is extended to superspace using techniques from Clifford analysis. After defining a super-Laplace operator and studying some basic properties of polynomial null-solutions of this operator, a new type of integration over the supersphere is introduced by exploiting the formal equivalence with an old result of Pizzetti. This integral is then used to prove orthogonality of spherical harmonics of different degree, Green-like theorems and also an extension of the important Funk-Hecke theorem to superspace. Finally, this integration over the supersphere is used to define an integral over the whole superspace and it is proven that this is equivalent with the Berezin integral, thus providing a more sound definition of the Berezin integral.

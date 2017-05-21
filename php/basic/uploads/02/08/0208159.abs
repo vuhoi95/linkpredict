@@ -1,0 +1,4 @@
+Paper: 0208159
+Title: On a Poisson-Lie analogue of the classical dynamical Yang-Baxter  equation for self-dual Lie algebras
+Authors: L. Feher and I. Marshall
+Abstract: We derive a generalization of the classical dynamical Yang-Baxter equation (CDYBE) on a self-dual Lie algebra $\cal G$ by replacing the cotangent bundle T^*G in a geometric interpretation of this equation by its Poisson-Lie (PL) analogue associated with a factorizable constant r-matrix on $\cal G$. The resulting PL-CDYBE, with variables in the Lie group G equipped with the Semenov-Tian-Shansky Poisson bracket based on the constant r-matrix, coincides with an equation that appeared in an earlier study of PL symmetries in the WZNW model. In addition to its new group theoretic interpretation, we present a self-contained analysis of those solutions of the PL-CDYBE that were found in the WZNW context and characterize them by means of a uniqueness result under a certain analyticity assumption.

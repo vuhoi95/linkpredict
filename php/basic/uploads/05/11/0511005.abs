@@ -1,0 +1,4 @@
+Paper: 0511005
+Title: Prepotentials for local mirror symmetry via Calabi-Yau fourfolds
+Authors: Brian Forbes and Masao Jinzenji
+Abstract: In this paper, we first derive an intrinsic definition of classical triple intersection numbers of K_S, where S is a complex toric surface, and use this to compute the extended Picard-Fuchs system of K_S of our previous paper, without making use of the instanton expansion. We then extend this formalism to local fourfolds K_X, where X is a complex 3-fold. As a result, we are able to fix the prepotential of local Calabi-Yau threefolds K_S up to polynomial terms of degree 2. We then outline methods of extending the procedure to non canonical bundle cases.

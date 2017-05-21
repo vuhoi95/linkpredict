@@ -1,0 +1,4 @@
+Paper: 0610004
+Title: Perturbation theory and non-perturbative renormalization flow in scalar  field theory at finite temperature
+Authors: Jean-Paul Blaizot and Andreas Ipp and Ramon Mendez-Galain and Nicolas Wschebor
+Abstract: We use the non-perturbative renormalization group to clarify some features of perturbation theory in thermal field theory. For the specific case of the scalar field theory with O(N) symmetry, we solve the flow equations within the local potential approximation. This approximation reproduces the perturbative results for the screening mass and the pressure up to order g^3, and starts to differ at order g^4. The method allows a smooth extrapolation to the regime where the coupling is not small, very similar to that obtained from a simple self-consistent approximation.

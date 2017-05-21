@@ -1,0 +1,4 @@
+Paper: 0309015
+Title: JaxoDraw: A graphical user interface for drawing Feynman diagrams
+Authors: D. Binosi and L. Theussl
+Abstract: JaxoDraw is a Feynman graph plotting tool written in Java. It has a complete graphical user interface that allows all actions to be carried out via mouse click-and-drag operations in a WYSIWYG fashion. Graphs may be exported to postscript/EPS format and can be saved in XML files to be used in later sessions. One of the main features of JaxoDraw is the possibility to produce LaTeX code that may be used to generate graphics output, thus combining the powers of TeX/LaTeX with those of a modern day drawing program. With JaxoDraw it becomes possible to draw even complicated Feynman diagrams with just a few mouse clicks, without the knowledge of any programming language.

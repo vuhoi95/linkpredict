@@ -1,0 +1,4 @@
+Paper: 0601009
+Title: Large N expansion for the 2D Dyson gas
+Authors: A. Zabrodin and P. Wiegmann
+Abstract: We discuss the 1/N expansion of the free energy of N logarithmically interacting charges in the plane in an external field. For some particular values of the inverse temperature beta this system is equivalent to the eigenvalue version of certain random matrix models, where it is refered to as the "Dyson gas" of eigenvalues. To find the free energy at large N and the structure of 1/N-corrections, we first use the effective action approach and then confirm the results by solving the loop equation. The results obtained give some new representations of the mathematical objects related to the Dirichlet boundary value problem, complex analysis and spectral geometry of exterior domains. They also suggest interesting links with bosonic field theory on Riemann surfaces, gravitational anomalies and topological field theories.

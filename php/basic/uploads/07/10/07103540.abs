@@ -1,0 +1,4 @@
+Paper: 07103540
+Title: N=2 supersymmetric spin foams in three dimensions
+Authors: Etera R. Livine and James P. Ryan
+Abstract: We construct the spin foam model for N=2 supergravity in three dimensions. Classically, it is a BF theory with gauge algebra osp(2|2). This algebra has representations which are not completely reducible. This complicates the procedure when building a state sum. Fortunately, one can and should excise these representations. We show that the restricted subset of representations form a subcategory closed under tensor product. The resulting state-sum is once again a topological invariant. Furthermore, within this framework one can identify positively and negatively charged fermions propagating on the spin foam. These results on osp(2|2) representations and intertwiners apply more generally to spin network states for N=2 loop quantum supergravity (in 3+1 dimensions) where it allows to define a notion of BPS states.

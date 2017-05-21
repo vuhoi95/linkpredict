@@ -1,0 +1,4 @@
+Paper: 0504160
+Title: Comment on the Surface Exponential for Tensor Fields
+Authors: E. T. Akhmedov and V. Dolotin and A. Morozov
+Abstract: Starting from essentially commutative exponential map $E(B|I)$ for generic tensor-valued 2-forms $B$, introduced in \cite{Akh} as direct generalization of the ordinary non-commutative $P$-exponent for 1-forms with values in matrices (i.e. in tensors of rank 2), we suggest a non-trivial but multi-parametric exponential ${\cal E}(B|I|t_\gamma)$, which can serve as an interesting multi-directional evolution operator in the case of higher ranks. To emphasize the most important aspects of the story, construction is restricted to backgrounds $I_{ijk}$, associated with the structure constants of {\it commutative} associative algebras, what makes it unsensitive to topology of the 2d surface. Boundary effects are also eliminated (straightfoward generalization is needed to incorporate them).

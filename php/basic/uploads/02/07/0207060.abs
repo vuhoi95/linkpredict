@@ -1,0 +1,4 @@
+Paper: 0207060
+Title: First-order transition of tethered membranes in 3d space
+Authors: J-P. Kownacki and H. T. Diep
+Abstract: We study a model of phantom tethered membranes, embedded in three-dimensional space, by extensive Monte Carlo simulations. The membranes have hexagonal lattice structure where each monomer is interacting with six nearest-neighbors (NN). Tethering interaction between NN, as well as curvature penalty between NN triangles are taken into account. This model is new in the sense that NN interactions are taken into account by a truncated Lennard-Jones potential including both repulsive and attractive parts. The main result of our study is that the system undergoes a first-order crumpling transition from low temperature flat phase to high temperature crumpled phase, in contrast with early numerical results on models of tethered membranes.

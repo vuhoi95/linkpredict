@@ -1,0 +1,4 @@
+Paper: 0510335
+Title: The orbifold quantum cohomology of C^2/Z_3 and Hurwitz-Hodge integrals
+Authors: Jim Bryan and Tom Graber and Rahul Pandharipande
+Abstract: Let Z_3 act on C^2 by non-trivial opposite characters. Let X =[C^2/Z_3] be the orbifold quotient, and let Y be the unique crepant resolution. We show the equivariant genus 0 Gromov-Witten potentials of X and Y are equal after a change of variables -- verifying the Crepant Resolution Conjecture for the pair (X,Y). Our computations involve Hodge integrals on trigonal Hurwitz spaces which are of independent interest. In a self contained Appendix, we derive closed formulas for these Hurwitz-Hodge integrals.

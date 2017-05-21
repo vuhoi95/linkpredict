@@ -1,0 +1,4 @@
+Paper: 0004015
+Title: Toroidal Lie algebras and Bogoyavlensky's 2+1-dimensional equation
+Authors: T. Ikeda and K. Takasaki
+Abstract: We introduce an extension of the \ell-reduced KP hierarchy, which we call the \ell-Bogoyavlensky hierarchy. Bogoyavlensky's 2+1-dimensional extension of the KdV equation is the lowest equation of the hierarchy in case of \ell=2. We present a group-theoretic characterization of this hierarchy on the basis of the 2-toroidal Lie algebra sl_\ell^{tor}. This reproduces essentially the same Hirota bilinear equations as those recently introduced by Billig and Iohara et al. We can further derive these Hirota bilinear equation from a Lax formalism of the hierarchy.This Lax formalism also enables us to construct a family of special solutions that generalize the breaking soliton solutions of Bogoyavlensky. These solutions contain the N-soliton solutions, which are usually constructed by use of vertex operators.

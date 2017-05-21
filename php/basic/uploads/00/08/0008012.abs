@@ -1,0 +1,4 @@
+Paper: 0008012
+Title: The Gluon Propagator without lattice Gribov copies
+Authors: C. Alexandrou and Ph. de Forcrand and E. Follana
+Abstract: We study the gluon propagator in quenched lattice QCD using the Laplacian gauge which is free of lattice Gribov copies. We compare our results with those obtained in the Landau gauge on the lattice, as well as with various approximate solutions of the Dyson Schwinger equations. We find a finite value $\sim (445 \rm{MeV})^{-2}$ for the renormalized zero-momentum propagator (taking our renormalization point at 1.943 GeV), and a pole mass $\sim 640 \pm 140$ MeV.

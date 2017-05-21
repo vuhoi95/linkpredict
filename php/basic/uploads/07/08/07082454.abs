@@ -1,0 +1,4 @@
+Paper: 07082454
+Title: Ab Initio Method for Obtaining Exactly Solvable Quantum Mechanical  Potentials
+Authors: Asim Gangopadhyaya and Jeffry V. Mallow
+Abstract: The shape invariance condition is the integrability condition in supersymmetric quantum mechanics (SUSYQM). It is a difference-differential equation connecting the superpotential W and its derivative at two different values of parameters. We show that this difference equation is equivalent to a non-linear partial differential equation whose solutions are translational shape invariant superpotentials. In lieu of trial and error, this method provides the first ab initio technique for generating shape invariant superpotentials.

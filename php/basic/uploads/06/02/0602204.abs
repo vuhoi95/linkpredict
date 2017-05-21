@@ -1,0 +1,4 @@
+Paper: 0602204
+Title: A comparison of efficient methods for the computation of Born gluon  amplitudes
+Authors: Michael Dinsdale and Marko Ternick and Stefan Weinzierl
+Abstract: We compare four different methods for the numerical computation of the pure gluonic amplitudes in the Born approximation. We are in particular interested in the efficiency of the various methods as the number n of the external particles increases. In addition we investigate the numerical accuracy in critical phase space regions. The methods considered are based on (i) Berends-Giele recurrence relations, (ii) scalar diagrams, (iii) MHV vertices and (iv) BCF recursion relations.

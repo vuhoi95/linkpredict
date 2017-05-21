@@ -1,0 +1,4 @@
+Paper: 0506207
+Title: A new large N phase transition in YM2
+Authors: A. Apolloni and S. Arianos and A. D'Adda
+Abstract: Inspired by the interpretation of two dimensional Yang-Mills theory on a cylinder as a random walk on the gauge group, we point out the existence of a large N transition which is the gauge theory analogue of the cutoff transition in random walks. The transition occurs in the strong coupling region, with the 't Hooft coupling scaling as alpha*log(N), at a critical value of alpha (alpha = 4 on the sphere). The two phases below and above the transition are studied in detail. The effective number of degrees of freedom and the free energy are found to be proportional to N^(2-alpha/2) below the transition and to vanish altogether above it. The expectation value of a Wilson loop is calculated to the leading order and found to coincide in both phases with the strong coupling value.

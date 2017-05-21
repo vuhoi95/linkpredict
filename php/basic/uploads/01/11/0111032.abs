@@ -1,0 +1,4 @@
+Paper: 0111032
+Title: Adiabatic Quantum Computation and Deutsch's Algorithm
+Authors: Saurya Das and Randy Kobes and Gabor Kunstatter
+Abstract: We show that by a suitable choice of a time dependent Hamiltonian, Deutsch's algorithm can be implemented by an adiabatic quantum computer. We extend our analysis to the Deutsch-Jozsa problem and estimate the required running time for both global and local adiabatic evolutions.

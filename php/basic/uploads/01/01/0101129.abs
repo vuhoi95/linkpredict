@@ -1,0 +1,4 @@
+Paper: 0101129
+Title: Soliton dynamics in 3D ferromagnets
+Authors: Theodora Ioannidou and Paul Sutcliffe
+Abstract: We study the dynamics of solitons in a Landau-Lifshitz equation describing the magnetization of a three-dimensional ferromagnet with an easy axis anisotropy. We numerically compute the energy dispersion relation and the structure of moving solitons, using a constrained minimization algorithm. We compare the results with those obtained using an approximate form for the moving soliton, valid in the small momentum limit. We also study the interaction and scattering of two solitons, through a numerical simulation of the (3+1)-dimensional equations of motion. We find that the force between two solitons can be either attractive or repulsive depending on their relative internal phase and that in a collision two solitons can form an unstable oscillating loop of magnons.

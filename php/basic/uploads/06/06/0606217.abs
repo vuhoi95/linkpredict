@@ -1,0 +1,4 @@
+Paper: 0606217
+Title: Wavefunctions for topological quantum registers
+Authors: Eddy Ardonne and Kareljan Schoutens
+Abstract: We present explicit wavefunctions for quasi-hole excitations over a variety of non-abelian quantum Hall states: the Read-Rezayi states with k\geq 3 clustering properties and a paired spin-singlet quantum Hall state. Quasi-holes over these states constitute a topological quantum register, which can be addressed by braiding quasi-holes. We obtain the braid properties by direct inspection of the quasi-hole wavefunctions. We establish that the braid properties for the paired spin-singlet state are those of `Fibonacci anyons', and thus suitable for universal quantum computation. Our derivations in this paper rely on explicit computations in the parafermionic Conformal Field Theories that underly these particular quantum Hall states.

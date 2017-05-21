@@ -1,0 +1,4 @@
+Paper: 0008060
+Title: Scalar field collapse in three-dimensional AdS spacetime
+Authors: Viqar Husain and Michel Olivier
+Abstract: We describe results of a numerical calculation of circularly symmetric scalar field collapse in three spacetime dimensions with negative cosmological constant. The procedure uses a double null formulation of the Einstein-scalar equations. We see evidence of black hole formation on first implosion of a scalar pulse if the initial pulse amplitude $A$ is greater than a critical value $A_*$. Sufficiently near criticality the apparent horizon radius $r_{AH}$ grows with pulse amplitude according to the formula $r_{AH} \sim (A-A_*)^{0.81}$.

@@ -1,0 +1,4 @@
+Paper: 0508014
+Title: Towards The Moduli Space of Extended Partial Isometries
+Authors: Tewodros Amdeberhan and Arvind Ayyer
+Abstract: Partial Isometries are important constructs that help give nontrivial solutions once a simple solution is known. We generalize this notion to Extended Partial Isometries and include operators which have right inverses but no left inverses (or vice versa). We find a large class of such operators and conjecture the moduli space to be the Hilbert Scheme of Points. Further, we apply this technique to find instanton solutions of a noncommutative N=1 supersymmetric gauge theory in six dimensions and show that this construction yields nontrivial solutions for other noncommutative gauge theories. The analysis is done in one complex dimension and the generalization of the result to higher dimensions is shown.

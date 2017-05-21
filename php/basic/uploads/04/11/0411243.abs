@@ -1,0 +1,4 @@
+Paper: 0411243
+Title: The Dynamical Yang-Baxter Relation and the Minimal Representation of the  Elliptic Quantum Group
+Authors: Heng Fan and Bo-Yu Hou and Kang-Jie Shi and Rui-Hong Yue and Shao-You Zhao
+Abstract: In this paper, we give the general forms of the minimal $L$ matrix (the elements of the $L$-matrix are $c$ numbers) associated with the Boltzmann weights of the $A_{n-1}^1$ interaction-round-a-face (IRF) model and the minimal representation of the $A_{n-1}$ series elliptic quantum group given by Felder and Varchenko. The explicit dependence of elements of $L$-matrices on spectral parameter $z$ are given. They are of five different forms (A(1-4) and B). The algebra for the coefficients (which do not depend on $z$) are given. The algebra of form A is proved to be trivial, while that of form B obey Yang-Baxter equation (YBE). We also give the PBW base and the centers for the algebra of form B.

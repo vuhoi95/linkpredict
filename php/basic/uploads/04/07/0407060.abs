@@ -1,0 +1,4 @@
+Paper: 0407060
+Title: The Fuchsian differential equation of the square lattice Ising model  $χ(3)$ susceptibility
+Authors: N. Zenine and S. Boukraa and S. Hassani and J-M. Maillard
+Abstract: Using an expansion method in the variables $ x_i$ that appear in the $(n-1)$-dimensional integrals representing the $n$-particle contribution to the Ising square lattice model susceptibility $\chi$, we generate a long series of coefficients for the 3-particle contribution $\chi^{(3)}$, using a $ N^4$ polynomial time algorithm. We give the Fuchsian differential equation of order seven for $\chi^{(3)}$ that reproduces all the terms of our long series. An analysis of the properties of this Fuchsian differential equation is performed.

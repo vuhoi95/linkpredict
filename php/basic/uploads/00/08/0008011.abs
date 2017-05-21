@@ -1,0 +1,4 @@
+Paper: 0008011
+Title: Spectral involutions on rational elliptic surfaces
+Authors: Ron Donagi and Burt Ovrut and Tony Pantev and Dan Waldram
+Abstract: In this paper we describe a four dimensional family of special rational elliptic surfaces admitting an involution with isolated fixed points. For each surface in this family we calculate explicitly the action of a spectral version of the involution (namely of its Fourier-Mukai conjugate) on global line bundles and on spectral data. The calculation is carried out both on the level of cohomology and in the derived category. We find that the spectral involution behaves like a fairly simple affine transformation away from the union of those fiber components which do not intersect the zero section. These results are the key ingredient in the construction of Standard-Model bundles in [DOPWa].

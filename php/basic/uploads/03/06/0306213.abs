@@ -1,0 +1,4 @@
+Paper: 0306213
+Title: Torus fibrations, gerbes, and duality
+Authors: Ron Donagi and Tony Pantev
+Abstract: Let X be a smooth elliptic fibration over a smooth base B. Under mild assumptions, we establish a Fourier-Mukai equivalence between the derived categories of two objects, each of which is an O^* gerbe over a genus one fibration which is a twisted form of X. The roles of the gerbe and the twist are interchanged by our duality. We state a general conjecture extending this to allow singular fibers, and we prove the conjecture when X is a surface. The duality extends to an action of the full modular group. This duality is related to the Strominger-Yau-Zaslow version of mirror symmetry, to twisted sheaves, and to non-commutative geometry.

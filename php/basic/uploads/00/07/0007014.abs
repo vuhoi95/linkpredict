@@ -1,0 +1,4 @@
+Paper: 0007014
+Title: Ground States in Non-relativistic Quantum Electrodynamics
+Authors: Marcel Griesemer and Elliott H. Lieb and Michael Loss
+Abstract: The excited states of a charged particle interacting with the quantized electromagnetic field and an external potential all decay, but such a particle should have a true ground state--one that minimizes the energy and satisfies the Schr\"odinger equation. We prove quite generally that this state exists for {\it all values} of the fine-structure constant and ultraviolet cutoff. We also show the same thing for a many-particle system under physically natural conditions.

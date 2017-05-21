@@ -1,0 +1,4 @@
+Paper: 0608131
+Title: Group Integral Techniques for the Spinfoam Graviton Propagator
+Authors: Etera R. Livine and Simone Speziale
+Abstract: We consider the proposal of gr-qc/0508124 for the extraction of the graviton propagator from the spinfoam formalism. We propose a new ansatz for the boundary state, using which we can write the propagator as an integral over SU(2). The perturbative expansion in the Planck length can be recast into the saddle point expansion of this integral. We compute the leading order and recover the behavior expected from low-energy physics. In particular, we prove that the degenerate spinfoam configurations are suppressed.

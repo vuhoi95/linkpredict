@@ -1,0 +1,4 @@
+Paper: 0006126
+Title: A PT-Invariant Potential With Complex QES Eigenvalues
+Authors: Avinash Khare and Bhabani Prasad Mandal
+Abstract: We show that the quasi-exactly solvable eigenvalues of the Schr\"odinger equation for the PT-invariant potential $V(x) = -(\zeta \cosh 2x -iM)^2$ are complex conjugate pairs in case the parameter M is an even integer while they are real in case M is an odd integer. We also show that whereas the PT symmetry is spontaneously broken in the former case, it is unbroken in the latter case.

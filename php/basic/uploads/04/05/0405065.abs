@@ -1,0 +1,4 @@
+Paper: 0405065
+Title: Analysis of Superoscillatory Wave Functions
+Authors: M. S. Calder and A. Kempf
+Abstract: Surprisingly, differentiable functions are able to oscillate arbitrarily faster than their highest Fourier component would suggest. The phenomenon is called superoscillation. Recently, a practical method for calculating superoscillatory functions was presented and it was shown that superoscillatory quantum mechanical wave functions should exhibit a number of counter-intuitive physical effects. Following up on this work, we here present more general methods which allow the calculation of superoscillatory wave functions with custom-designed physical properties. We give concrete examples and we prove results about the limits to superoscillatory behavior. We also give a simple and intuitive new explanation for the exponential computational cost of superoscillations.

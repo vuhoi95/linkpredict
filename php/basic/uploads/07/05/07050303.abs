@@ -1,0 +1,4 @@
+Paper: 07050303
+Title: Gluon scattering amplitudes at strong coupling
+Authors: Luis F. Alday and Juan Maldacena
+Abstract: We describe how to compute planar gluon scattering amplitudes at strong coupling in N=4 super Yang Mills by using the gauge/string duality. The computation boils down to finding a certain classical string configuration whose boundary conditions are determined by the gluon momenta. The results are infrared divergent. We introduce the gravity version of dimensional regularization to define finite quantities. The leading and subleading IR divergencies are characterized by two functions of the coupling that we compute at strong coupling. We compute also the full finite form for the four point amplitude and we find agreement with a recent ansatz by Bern, Dixon and Smirnov.

@@ -1,0 +1,4 @@
+Paper: 0011043
+Title: Pathologies of the large-N limit for RP^{N-1}, CP^{N-1}, QP^{N-1} and  mixed isovector/isotensor sigma-models
+Authors: Alan D. Sokal and Andrei O. Starinets
+Abstract: We compute the phase diagram in the N\to\infty limit for lattice RP^{N-1}, CP^{N-1} and QP^{N-1} sigma-models with the quartic action, and more generally for mixed isovector/isotensor models. We show that the N=\infty limit exhibits phase transitions that are forbidden for any finite N. We clarify the origin of these pathologies by examining the exact solution of the one-dimensional model: we find that there are complex zeros of the partition function that tend to the real axis as N\to\infty. We conjecture the correct phase diagram for finite N as a function of the spatial dimension d. Along the way, we prove some new correlation inequalities for a class of N-component sigma-models, and we obtain some new results concerning the complex zeros of confluent hypergeometric functions.

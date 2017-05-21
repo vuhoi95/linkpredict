@@ -1,0 +1,4 @@
+Paper: 0305125
+Title: Chiral Dirac Fermions on the Lattice using Geometric Discretisation
+Authors: Vivien de Beauce and Samik Sen
+Abstract: We propose a discretisation scheme based on the Dirac-Kahler formalism (DK) in which the algebraic relations between continuum operators ${\wedge, d, \star}$ are captured by their discrete analogues, allowing the construction of the relevant projection operators necessary to prevent species doubling. We thus avoid the traditional form of species doubling as well as spectral doubling, which does not occur in the DK setting. Chirality is also captured, since we have $\star$ from geometric discretisation.

@@ -1,0 +1,4 @@
+Paper: 0609023
+Title: Path integrals and boundary conditions
+Authors: M. Asorey and A. Ibort and G. Marmo
+Abstract: The path integral approach to quantum mechanics provides a method of quantization of dynamical systems directly from the Lagrange formalism. In field theory the method presents some advantages over Hamiltonian quantization. The Lagrange formalism preserves relativistic covariance which makes the Feynman method very convenient to achieve the renormalization of field theories both in perturbative and non-perturbative approaches. However, when the systems are confined in bounded domains we shall show that the path integral approach does not describe the most general type of boundary conditions. Highly non-local boundary conditions cannot be described by Feynman's approach. We analyse in this note the origin of this problem in quantum mechanics and its implications for field theory.

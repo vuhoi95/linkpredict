@@ -1,0 +1,4 @@
+Paper: 0605112
+Title: Area law and vacuum reordering in harmonic networks
+Authors: A. Riera and J. I. Latorre
+Abstract: We review a number of ideas related to area law scaling of the geometric entropy from the point of view of condensed matter, quantum field theory and quantum information. An explicit computation in arbitrary dimensions of the geometric entropy of the ground state of a discretized scalar free field theory shows the expected area law result. In this case, area law scaling is a manifestation of a deeper reordering of the vacuum produced by majorization relations. Furthermore, the explicit control on all the eigenvalues of the reduced density matrix allows for a verification of entropy loss along the renormalization group trajectory driven by the mass term. A further result of our computation shows that single-copy entanglement also obeys area law scaling, majorization relations and decreases along renormalization group flows.

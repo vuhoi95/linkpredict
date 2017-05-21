@@ -1,0 +1,4 @@
+Paper: 0112169
+Title: CFT Description of Identity String Field: Toward Derivation of the VSFT  Action
+Authors: Isao Kishimoto and Kazuki Ohmori
+Abstract: We concretely define the identity string field as a surface state and deal with it consistently in terms of conformal field theory language, never using its formal properties nor oscillator representation of it. The generalized gluing and resmoothing theorem provides us with a powerful computational tool which fits into our framework. Among others, we can prove that in some situations the identity state defined this way actually behaves itself like an identity element under the *-product. We use these CFT techniques to give an explicit expression of the classical solution in the ordinary cubic string field theory having the property that the conjectured vacuum string field theory action arises when the cubic action is expanded around it.

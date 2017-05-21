@@ -1,0 +1,4 @@
+Paper: 0307186
+Title: Diagrammatic Young Projection Operators for U(n)
+Authors: Henriette Elvang and Predrag Cvitanović and Anthony D. Kennedy
+Abstract: We utilize a diagrammatic notation for invariant tensors to construct the Young projection operators for the irreducible representations of the unitary group U(n), prove their uniqueness, idempotency, and orthogonality, and rederive the formula for their dimensions. We show that all U(n) invariant scalars (3n-j coefficients) can be constructed and evaluated diagrammatically from these U(n) Young projection operators. We prove that the values of all U(n) 3n-j coefficients are proportional to the dimension of the maximal representation in the coefficient, with the proportionality factor fully determined by its S[k] symmetric group value. We also derive a family of new sum rules for the 3-j and 6-j coefficients, and discuss relations that follow from the negative dimensionality theorem.

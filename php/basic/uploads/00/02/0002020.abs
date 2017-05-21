@@ -1,0 +1,4 @@
+Paper: 0002020
+Title: On the Counting of Colored Tangles
+Authors: P. Zinn-Justin and J. -B. Zuber
+Abstract: The connection between matrix integrals and links is used to define matrix models which count alternating tangles in which each closed loop is weighted with a factor n, i.e. may be regarded as decorated with n possible colors. For n=2, the corresponding matrix integral is that recently solved in the study of the random lattice six-vertex model. The generating function of alternating 2-color tangles is provided in terms of elliptic functions, expanded to 16-th order (16 crossings) and its asymptotic behavior is given.

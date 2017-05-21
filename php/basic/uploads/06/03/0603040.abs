@@ -1,0 +1,4 @@
+Paper: 0603040
+Title: Integrals of rational symmetric functions, two matrix models and  biorthogonal polynomials
+Authors: J. Harnad and A. Yu. Orlov
+Abstract: We give a new method for the evaluation of a class of integrals of rational symmetric functions in N pairs of variables {x_a, y_a}_{a=1,... N} arising in coupled matrix models, valid for a broad class of two-variable measures. The result is expressed as the determinant of a matrix whose entries consist of the associated biorthogonal polynomials, their Hilbert transforms, evaluated at the zeros and poles of the integrand, and bilinear expressions in these. The method is elementary and direct, using only standard determinantal identities, partial fraction expansions and the property of biorthogonality. The corresponding result for one-matrix models and integrals of rational symmetric functions in N variables {x_a}_{a=1,... N} is also rederived in a simple way using this method

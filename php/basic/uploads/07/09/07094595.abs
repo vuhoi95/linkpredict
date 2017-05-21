@@ -1,0 +1,4 @@
+Paper: 07094595
+Title: Worldline Approach to Chiral Fermions
+Authors: Kurt Langfeld and Gerald Dunne and Holger Gies and Klaus Klingmuller
+Abstract: We propose to apply ``worldline numerics'' to a numerical calculation of quark determinants. The Gross-Neveu model with a U(1) chiral symmetry is considered as a first test. The worldline approach allows for an analytic renormalisation, and only finite parts of the determinant require a numerical calculation. It is shown that the discretisation of the worldlines, which is central to the numerical treatment, preserves chiral symmetry exactly. Numerical results for a kink configuration as a scalar background field are shown and compared with analytical results. The case of finite fermion chemical potential is also briefly discussed.

@@ -1,0 +1,4 @@
+Paper: 0505432
+Title: Integral Cohomology and Mirror Symmetry for Calabi-Yau 3-folds
+Authors: Victor Batyrev and Maximilian Kreuzer
+Abstract: In this paper, we compute the integral cohomology groups for all examples of Calabi-Yau 3-folds obtained from hypersurfaces in 4-dimensional Gorenstein toric Fano varieties. Among 473 800 776 families of Calabi-Yau 3-folds $X$ corresponding to 4-dimensional reflexive polytopes there exist exactly 32 families having non-trivial torsion in $H^*(X, \Z)$. We came to an interesting observation that the torsion subgroups in $H^2$ and $H^3$ are exchanged by the mirror symmetry involution, i.e. the torsion subgroup in the Picard group of $X$ is isomorphic to the Brauer group of the mirror $X^*$

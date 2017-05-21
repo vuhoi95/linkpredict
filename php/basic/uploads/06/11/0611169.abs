@@ -1,0 +1,4 @@
+Paper: 0611169
+Title: Worldsheet Scattering in AdS_5 x S^5
+Authors: Thomas Klose and Tristan McLoughlin and Radu Roiban and Konstantin Zarembo
+Abstract: We calculate the S-matrix in the gauge-fixed sigma-model on AdS_5 x S^5 to the leading order in perturbation theory, and analyze how supersymmetry is realized on the scattering states. A mild nonlocality of the supercharges implies that their action on multi-particle states does not follow the Leibniz rule, which is replaced by a nontrivial coproduct. The plane wave symmetry algebra is thus naturally enhanced to a Hopf algebra. The scattering matrix elements obey the classical Yang-Baxter equation modified by the existence of the coproduct. This structure mirrors that of the large 't Hooft coupling expansion of the S-matrix for the spin chain in the dual super-Yang-Mills theory.

@@ -1,0 +1,4 @@
+Paper: 07092577
+Title: Local holomorphic Euler characteristic and instanton decay
+Authors: Elizabeth Gasparim and Thomas Köppe and Pushan Majumdar
+Abstract: We study the local holomorphic Euler characteristic $\chi(x,\mathcal{F})$ of sheaves near a surface singularity obtained from contracting a line $\ell$ inside a smooth surface $Z$. We prove non-existence of sheaves with certain prescribed numerical invariants. Non-existence of instantons on $Z$ with certain charges follows, and we conclude that $\ell^2$ poses an obstruction to instanton decay. A Macaulay 2 algorithm to compute $\chi$ is made available at http://www.maths.ed.ac.uk/~s0571100/Instanton/

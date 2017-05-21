@@ -1,0 +1,4 @@
+Paper: 07104026
+Title: Scalar Field with Robin Boundary Conditions in the Worldline Formalism
+Authors: Fiorenzo Bastianelli and Olindo Corradini and Pablo A. G. Pisani
+Abstract: The worldline formalism has been widely used to compute physical quantities in quantum field theory. However, applications of this formalism to quantum fields in the presence of boundaries have been studied only recently. In this article we show how to compute in the worldline approach the heat kernel expansion for a scalar field with boundary conditions of Robin type. In order to describe how this mechanism works, we compute the contributions due to the boundary conditions to the coefficients A_1, A_{3/2} and A_2 of the heat kernel expansion of a scalar field on the positive real line.

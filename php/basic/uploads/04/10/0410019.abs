@@ -1,0 +1,4 @@
+Paper: 0410019
+Title: Zeta function regularization for a scalar field in a compact domain
+Authors: G. Ortenzi and M. Spreafico
+Abstract: We express the zeta function associated to the Laplacian operator on $S^1_r\times M$ in terms of the zeta function associated to the Laplacian on $M$, where $M$ is a compact connected Riemannian manifold. This gives formulas for the partition function of the associated physical model at low and high temperature for any compact domain $M$. Furthermore, we provide an exact formula for the zeta function at any value of $r$ when $M$ is a $D$-dimensional box or a $D$-dimensional torus; this allows a rigorous calculation of the zeta invariants and the analysis of the main thermodynamic functions associated to the physical models at finite temperature.

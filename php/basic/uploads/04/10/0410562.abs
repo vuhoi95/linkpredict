@@ -1,0 +1,4 @@
+Paper: 0410562
+Title: Hochschild cohomology of quantized symplectic orbifolds and the  Chen-Ruan cohomology
+Authors: Vasiliy Dolgushev and Pavel Etingof
+Abstract: We prove the additive version of the conjecture proposed by Ginzburg and Kaledin. This conjecture states that if X/G is an orbifold modeled on a quotient of a smooth affine symplectic variety X (over C) by a finite group G\subset Aut(X) and A is a G-stable quantum algebra of functions on X then the graded vector space HH(A^G) of the Hochschild cohomology of the algebra A^G of invariants is isomorphic to the graded vector space H_{CR}(X/G)((h)) of the Chen-Ruan (stringy) cohomology of the orbifold X/G.

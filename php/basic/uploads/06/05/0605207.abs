@@ -1,0 +1,4 @@
+Paper: 0605207
+Title: Kramers-Moyall cumulant expansion for the probability distribution of  parallel transporters in quantum gauge fields
+Authors: P. V. Buividovich and V. I. Kuvshinov
+Abstract: A general equation for the probability distribution of parallel transporters on the gauge group manifold is derived using the cumulant expansion theorem. This equation is shown to have a general form known as the Kramers-Moyall cumulant expansion in the theory of random walks, the coefficients of the expansion being directly related to nonperturbative cumulants of the shifted curvature tensor. In the limit of a gaussian-dominated QCD vacuum the obtained equation reduces to the well-known heat kernel equation on the group manifold.

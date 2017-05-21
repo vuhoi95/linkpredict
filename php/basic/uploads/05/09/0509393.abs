@@ -1,0 +1,4 @@
+Paper: 0509393
+Title: Reduction of Generalized Complex Structures
+Authors: Mathieu Stienon and Ping Xu
+Abstract: We study reduction of generalized complex structures. More precisely, we investigate the following question. Let $J$ be a generalized complex structure on a manifold $M$, which admits an action of a Lie group $G$ preserving $J$. Assume that $M_0$ is a $G$-invariant smooth submanifold and the $G$-action on $M_0$ is proper and free so that $M_G:=M_0/G$ is a smooth manifold. Under what condition does $J$ descend to a generalized complex structure on $M_G$? We describe a sufficient condition for the reduction to hold, which includes the Marsden-Weinstein reduction of symplectic manifolds and the reduction of the complex structures in K\"ahler manifolds as special cases. As an application, we study reduction of generalized K\"ahler manifolds.

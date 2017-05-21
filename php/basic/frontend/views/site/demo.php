@@ -1,0 +1,1 @@
+<div id="mynetwork" style="width: auto;height: 800px;"></div>

@@ -1,0 +1,4 @@
+Paper: 0507189
+Title: Quantum corrections to spinning strings in AdS(5)xS(5) and Bethe ansatz:  a comparative study
+Authors: Sakura Schafer-Nameki and Marija Zamaklar and Konstantin Zarembo
+Abstract: We analyze quantum corrections to rigid spinning strings in AdS(5)xS(5). The one-loop worldsheet quantum correction to the string energy is compared to the finite-size correction from the quantum string Bethe ansatz. Expanding the summands of the string theory energy shift in the parameter \lambda/J^2 and subsequently resumming them yields a divergent result. However, upon zeta-function regularization this result agrees with the Bethe ansatz at the first three orders. We also perform an analogous computation in the limit of large winding number, which results in a disagreement with the string Bethe ansatz prediction. A similar mismatch is observed numerically. We comment on the possible origin of this discrepancy.

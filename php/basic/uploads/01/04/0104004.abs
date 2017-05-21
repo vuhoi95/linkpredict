@@ -1,0 +1,4 @@
+Paper: 0104004
+Title: Canonical Commutation Relation Preserving Maps
+Authors: C. Chryssomalakos and A. Turbiner
+Abstract: We study maps preserving the Heisenberg commutation relation $ab - ba=1$. We find a one-parameter deformation of the standard realization of the above algebra in terms of a coordinate and its dual derivative. It involves a non-local ``coordinate'' operator while the dual ``derivative'' is just the Jackson finite-difference operator. Substitution of this realization into any differential operator involving $x$ and $\frac{d}{dx}$, results in an {\em isospectral} deformation of a continuous differential operator into a finite-difference one. We extend our results to the deformed Heisenberg algebra $ab-qba=1$. As an example of potential applications, various deformations of the Hahn polynomials are briefly discussed.

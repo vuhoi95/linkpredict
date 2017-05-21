@@ -1,0 +1,4 @@
+Paper: 0402031
+Title: Non-Commutativity of the Zero Chemical Potential Limit and the  Thermodynamic Limit in Finite Density Systems
+Authors: Jan Ambjorn and Konstantinos N. Anagnostopoulos and Jun Nishimura and Jacobus J. M. Verbaarschot
+Abstract: Monte Carlo simulations of finite density systems are often plagued by the complex action problem. We point out that there exists certain non-commutativity in the zero chemical potential limit and the thermodynamic limit when one tries to study such systems by reweighting techniques. This is demonstrated by explicit calculations in a Random Matrix Theory, which is thought to be a simple qualitative model for finite density QCD. The factorization method allows us to understand how the non-commutativity, which appears at the intermediate steps, cancels in the end results for physical observables.

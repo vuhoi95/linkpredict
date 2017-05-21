@@ -1,0 +1,4 @@
+Paper: 0605096
+Title: An Étude in non-linear Dyson--Schwinger Equations
+Authors: Dirk Kreimer and Karen Yeats
+Abstract: We show how to use the Hopf algebra structure of quantum field theory to derive nonperturbative results for the short-distance singular sector of a renormalizable quantum field theory in a simple but generic example. We discuss renormalized Green functions $G_R(\alpha,L)$ in such circumstances which depend on a single scale $L=\ln q^2/\mu^2$ and start from an expansion in the scale $G_R(\alpha,L)=1+\sum_k \gamma_k(\alpha)L^k$. We derive recursion relations between the $\gamma_k$ which make full use of the renormalization group. We then show how to determine the Green function by the use of a Mellin transform on suitable integral kernels. We exhibit our approach in an example for which we find a functional equation relating weak and strong coupling expansions.

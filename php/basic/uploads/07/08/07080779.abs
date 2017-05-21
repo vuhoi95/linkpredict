@@ -1,0 +1,4 @@
+Paper: 07080779
+Title: Real-time gauge theory simulations from stochastic quantization with  optimized updating
+Authors: J. Berges and D. Sexty
+Abstract: We investigate simulations for gauge theories on a Minkowskian space-time lattice. We employ stochastic quantization with optimized updating using stochastic reweighting or gauge fixing, respectively. These procedures do not affect the underlying theory but strongly improve the stability properties of the stochastic dynamics, such that simulations on larger real-time lattices can be performed.

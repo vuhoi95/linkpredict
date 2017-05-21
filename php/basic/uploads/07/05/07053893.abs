@@ -1,0 +1,4 @@
+Paper: 07053893
+Title: Complexified Dynamical Systems
+Authors: Carl M. Bender and Darryl D. Holm and Daniel W. Hook
+Abstract: Many dynamical systems, such as the Lotka-Volterra predator-prey model and the Euler equations for the free rotation of a rigid body, are PT symmetric. The standard and well-known real solutions to such dynamical systems constitute an infinitessimal subclass of the full set of complex solutions. This paper examines a subset of the complex solutions that contains the real solutions, namely, those having PT symmetry. The condition of PT symmetry selects out complex solutions that are periodic.

@@ -1,0 +1,4 @@
+Paper: 07101991
+Title: Large spin expansion of the long-range Baxter equation in the sl(2)  sector of N=4 SYM
+Authors: Matteo Beccaria and Francesca Catino
+Abstract: Recently, several multi-loop conjectures have been proposed for the spin dependence of anomalous dimensions of twist-2 and 3 operators in the sl(2) sector of N=4 SYM. Currently, these conjectures are not proven, although several consistency checks have been performed on their large spin expansion. In this paper, we show how these expansions can be efficiently computed without resorting to any conjecture. To this aim we present in full details a method to expand at large spin the solution of the long-range Baxter equation. We treat the twist-2 and 3 cases at two loops and the twist-3 case at three loops. Several subtleties arise whose resolution leads to a simple algorithm computing the expansion.

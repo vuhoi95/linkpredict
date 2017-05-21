@@ -1,0 +1,4 @@
+Paper: 0609001
+Title: Nonsingular solutions of Hitchin's equations for noncompact gauge groups
+Authors: Ricardo A. Mosna and Marcos Jardim
+Abstract: We consider a general ansatz for solving the 2-dimensional Hitchin's equations, which arise as dimensional reduction of the 4-dimensional self-dual Yang-Mills equations, with remarkable integrability properties. We focus on the case when the gauge group G is given by a real form of SL(2,C). For G=SO(2,1), the resulting field equations are shown to reduce to either the Liouville, elliptic sinh-Gordon or elliptic sine-Gordon equations. As opposed to the compact case, given by G=SU(2), the field equations associated with the noncompact group SO(2,1) are shown to have smooth real solutions with nonsingular action densities, which are furthermore localized in some sense. We conclude by discussing some particular solutions, defined on R^2, S^2 and T^2, that come out of this ansatz.

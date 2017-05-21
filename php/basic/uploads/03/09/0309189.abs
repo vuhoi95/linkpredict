@@ -1,0 +1,4 @@
+Paper: 0309189
+Title: Lattice QCD in the epsilon-regime and random matrix theory
+Authors: Leonardo Giusti and Martin Lüscher and Peter Weisz and Hartmut Wittig
+Abstract: In the epsilon-regime of QCD the main features of the spectrum of the low-lying eigenvalues of the (euclidean) Dirac operator are expected to be described by a certain universality class of random matrix models. In particular, the latter predict the joint statistical distribution of the individual eigenvalues in any topological sector of the theory. We compare some of these predictions with high-precision numerical data obtained from lattice QCD for a range of lattice spacings and volumes. While no complete matching is observed, the results agree with theoretical expectations at volumes larger than about 5 fm^4.

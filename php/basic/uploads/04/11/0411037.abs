@@ -1,0 +1,4 @@
+Paper: 0411037
+Title: The local Gromov-Witten theory of curves
+Authors: Jim Bryan and Rahul Pandharipande
+Abstract: The local Gromov-Witten theory of curves is solved by localization and degeneration methods. Localization is used for the exact evaluation of basic integrals in the local Gromov-Witten theory of P^1. A TQFT formalism is defined via degeneration to capture higher genus curves. Together, the results provide a compete and effective solution. The local Gromov-Witten theory of curves is equivalent to the local Donaldson-Thomas theory of curves, the quantum cohomology of the Hilbert scheme points of C^2, and the orbifold quantum cohomology the symmetric product of C^2. The results of the paper provide the local Gromov-Witten calculations required for the proofs of these equivalences.

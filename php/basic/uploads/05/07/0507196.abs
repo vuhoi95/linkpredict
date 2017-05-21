@@ -1,0 +1,4 @@
+Paper: 0507196
+Title: Asymptotically Universal Crossover in Perturbation Theory with a Field  Cutoff
+Authors: L. Li and Y. Meurice
+Abstract: We discuss the crossover between the small and large field cutoff (denoted x_{max}) limits of the perturbative coefficients for a simple integral and the anharmonic oscillator. We show that in the limit where the order k of the perturbative coefficient a_k(x_{max}) becomes large and for x_{max} in the crossover region, a_k(x_{max}) is proportional to the integral from -infinity to x_{max} of e^{-A(x-x_0(k))^2}dx. The constant A and the function x_0(k) are determined empirically and compared with exact (for the integral) and approximate (for the anharmonic oscillator) calculations. We discuss how this approach could be relevant for the question of interpolation between renormalization group fixed points.

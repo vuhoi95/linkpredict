@@ -1,0 +1,4 @@
+Paper: 0604617
+Title: Langlands duality for Hitchin systems
+Authors: Ron Donagi and Tony Pantev
+Abstract: We show that the Hitchin integrable system for a simple complex Lie group $G$ is dual to the Hitchin system for the Langlands dual group $\lan{G}$. In particular, the general fiber of the connected component $\Higgs_0$ of the Hitchin system for $G$ is an abelian variety which is dual to the corresponding fiber of the connected component of the Hitchin system for $\lan{G}$. The non-neutral connected components $\Higgs_{\alpha}$ form torsors over $\Higgs_0$. We show that their duals are gerbes over $\Higgs_0$ which are induced by the gerbe of $G$-Higgs bundles $\gHiggs$. More generally, we establish a duality between the gerbe $\gHiggs$ of $G$-Higgs bundles and the gerbe $\lan{\gHiggs}$ of $\lan{G}$-Higgs bundles, which incorporates all the previous dualities. All these results extend immediately to an arbirtary connected complex reductive group $\mathbb{G}$.

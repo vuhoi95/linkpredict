@@ -1,0 +1,4 @@
+Paper: 0508650
+Title: Conformal properties of 1D quantum systems with long-range interactions
+Authors: Carlos M. Naón and Mariano J. Salvay and Marta L. Trobo
+Abstract: We investigate conformal properties of a one-dimensional quantum system with a long-range, Coulomb-like potential of the form $\frac{1}{|x|^{\sigma}}$, with $\sigma >0$. We compute the conformal anomaly $c$ as function of $\sigma$. We obtain $c=0$ for $\sigma <1$ (Wigner crystal) and $c=1$ for $\sigma >1$ (Luttinger liquid). By studying the scaling regime of the system when it is deformed by the inclusion of a term $t \rho(x)$, (with $\rho(x)$ a scaling operator), we show that, for $\sigma >1$, the correlation length $\xi$ gets an additional interaction dependent factor. This leads to a necessary redefinition of $\xi$ in order to avoid an unphysical dependence of the central charge on the coupling constant.

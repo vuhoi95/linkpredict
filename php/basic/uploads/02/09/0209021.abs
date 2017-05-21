@@ -1,0 +1,4 @@
+Paper: 0209021
+Title: Simulating non-commutative field theory
+Authors: W. Bietenholz and F. Hofheinz and J. Nishimura
+Abstract: Non-commutative (NC) field theories can be mapped onto twisted matrix models. This mapping enables their Monte Carlo simulation, where the large N limit of the matrix models describes the continuum limit of NC field theory. First we present numeric results for 2d NC gauge theory of rank 1, which turns out to be renormalizable. The area law for the Wilson loop holds at small area, but at large area we observe a rotating phase, which corresponds to an Aharonov-Bohm effect. Next we investigate the NC phi^4 model in d=3 and explore its phase diagram. Our results agree with a conjecture by Gubser and Sondhi in d=4, who predicted that the ordered regime splits into a uniform phase and a phase dominated by stripe patterns.

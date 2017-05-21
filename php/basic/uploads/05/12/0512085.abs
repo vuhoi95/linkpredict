@@ -1,0 +1,4 @@
+Paper: 0512085
+Title: Running coupling at finite temperature and chiral symmetry restoration  in QCD
+Authors: Jens Braun and Holger Gies
+Abstract: We analyze the running gauge coupling at finite temperature for QCD, using the functional renormalization group. The running of the coupling is calculated for all scales and temperatures. At finite temperature, the coupling is governed by a fixed point of the 3-dimensional theory for scales smaller than the corresponding temperature. The running coupling can drive the quark sector to criticality, resulting in chiral symmetry breaking. Our results provide for a quantitative determination of the phase boundary in the plane of temperature and number of massless flavors. Using the experimental value of the coupling at the tau mass scale as the only input parameter, we obtain, e.g., for N_f=3 massless flavors a critical temperature of T_cr ~ 148 MeV in good agreement with lattice simulations.

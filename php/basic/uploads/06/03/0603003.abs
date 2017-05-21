@@ -1,0 +1,4 @@
+Paper: 0603003
+Title: Free energy topological expansion for the 2-matrix model
+Authors: Leonid Chekhov and Bertrand Eynard and Nicolas Orantin
+Abstract: We compute the complete topological expansion of the formal hermitian two-matrix model. For this, we refine the previously formulated diagrammatic rules for computing the 1/ N expansion of the nonmixed correlation functions and give a new formulation of the spectral curve. We extend these rules obtaining a closed formula for correlation functions in all orders of topological expansion. We then integrate it to obtain the free energy in terms of residues on the associated Riemann surface.

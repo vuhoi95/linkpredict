@@ -1,0 +1,4 @@
+Paper: 0102104
+Title: Effective action for bubble nucleation rates
+Authors: Ian G. Moss and Wade Naylor
+Abstract: We develop a method to calculate the prefactor in the expression for the bubble nucleation rate. A fermion with Yukawa coupling is considered where a step potential can be used as a good approximation in the thin wall limit. Corrections due to thicker walls are considered by perturbing about the thin wall case. We derive the thermal one loop effective action, calculating it numerically, and find that the prefactor in the nucleation rate can both suppress and enhance, for a given temperature, when the usual renormalisation conditions are applied to the effective potential.

@@ -1,0 +1,4 @@
+Paper: 0009035
+Title: P-vortices and Drama of Gribov Copies
+Authors: V. G. Bornyakov and D. A. Komarov and M. I. Polikarpov
+Abstract: We present results of the careful study of the Gribov copies problem in SU(2) lattice gauge theory for the direct maximal center projection widely used in confinement studies. Applying simulated annealing algorithm we demonstrate that this problem is more severe than it was thought before. The projected (gauge noninvariant) string tension is not in the agreement with the physical string tension. We do not find any indications that P-vortices reproduce the full SU(2) string tension neither in the infinite volume limit nor in the continuum limit.

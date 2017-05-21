@@ -1,0 +1,4 @@
+Paper: 0405016
+Title: Phase diagram of the lattice Wess-Zumino model from rigorous lower  bounds on the energy
+Authors: Matteo Beccaria and Massimo Campostrini and Gian Fabrizio De Angelis and Alessandra Feo
+Abstract: We study the lattice N=1 Wess-Zumino model in two dimensions and we construct a sequence $\rho^{(L)}$ of exact lower bounds on its ground state energy density $\rho$, converging to $\rho$ in the limit $L\to\infty$. The bounds $\rho^{(L)}$ can be computed numerically on a finite lattice with $L$ sites and can be exploited to discuss dynamical symmetry breaking. The transition point is determined and compared with recent results based on large-scale Green Function Monte Carlo simulations with good agreement.

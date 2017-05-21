@@ -1,0 +1,4 @@
+Paper: 0112006
+Title: Duality of spectral curves arising in two-matrix models
+Authors: M. Bertola and B. Eynard and J. Harnad
+Abstract: The two matrix model is considered, with measure given by the exponential of a sum of polynomials in two different variables. It is shown how to derive a sequence of pairs of ``dual'' finite size systems of ODEs for the corresponding biorthonormal polynomials. An inverse theorem is proved showing how to reconstruct such measures from pairs of semi-infinite finite band matrices defining the recursion relations and satisfying the string equation. A proof is given in the $N\to \infty$ limit that the dual systems obtained share the same spectral curve.

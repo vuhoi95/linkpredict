@@ -1,0 +1,4 @@
+Paper: 0112444
+Title: The thermal conductivity of the spin-1/2 XXZ chain at arbitrary  temperature
+Authors: Andreas Kluemper and Kazumitsu Sakai
+Abstract: Motivated by recent investigations of transport properties of strongly correlated 1d models and thermal conductivity measurements of quasi 1d magnetic systems we present results for the integrable spin-1/2 $XXZ$ chain. The thermal conductivity $\kappa(\omega)$ of this model has $\Re\kappa(\omega)=\tilde\kappa \delta(\omega)$, i.e. it is infinite for zero frequency $\omega$. The weight $\tilde\kappa$ of the delta peak is calculated exactly by a lattice path integral formulation. Numerical results for wide ranges of temperature and anisotropy are presented. The low and high temperature limits are studied analytically.

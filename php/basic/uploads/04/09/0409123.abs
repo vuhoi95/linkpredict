@@ -1,0 +1,4 @@
+Paper: 0409123
+Title: Renormalized thermodynamics from the 2PI effective action
+Authors: J. Berges and Sz. Borsanyi and U. Reinosa and J. Serreau
+Abstract: High-temperature resummed perturbation theory is plagued by poor convergence properties. The problem appears for theories with bosonic field content such as QCD, QED or scalar theories. We calculate the pressure as well as other thermodynamic quantities at high temperature for a scalar one-component field theory, solving a three-loop 2PI effective action numerically without further approximations. We present a detailed comparison with the two-loop approximation. One observes a strongly improved convergence behavior as compared to perturbative approaches. The renormalization employed in this work extends previous prescriptions, and is sufficient to determine all counterterms required for the theory in the symmetric as well as the spontaneously broken phase.

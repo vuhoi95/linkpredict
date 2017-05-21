@@ -1,0 +1,4 @@
+Paper: 0012368
+Title: High Temperature Expansion for a Chain Model
+Authors: Onofre Rojas and S. M. de Souza and M. T. Thomaz
+Abstract: We consider an arbitrary translationally invariant chain model with nearest neighbors interaction and satisfying periodic boundary condition. The approach developed here allows a thermodynamic description of the chain model directly in terms of grand potential per site. This thermodynamic function is derived from an auxiliary function constructed only from open connected sub-chains. In order to exemplify its application and how this approach works we consider the Heisenberg XXZ model. We obtain the coefficients of the high temperature expansion of the free energy per site of the model up to third order.

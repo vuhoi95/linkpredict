@@ -1,0 +1,4 @@
+Paper: 0311039
+Title: Group classification of (1+1)-Dimensional Schrödinger Equations with  Potentials and Power Nonlinearities
+Authors: Roman O. Popovych and Nataliya M. Ivanova and Homayoon Eshraghi
+Abstract: We perform the complete group classification in the class of nonlinear Schr\"odinger equations of the form $i\psi_t+\psi_{xx}+|\psi|^\gamma\psi+V(t,x)\psi=0$ where $V$ is an arbitrary complex-valued potential depending on $t$ and $x,$ $\gamma$ is a real non-zero constant. We construct all the possible inequivalent potentials for which these equations have non-trivial Lie symmetries using a combination of algebraic and compatibility methods. The proposed approach can be applied to solving group classification problems for a number of important classes of differential equations arising in mathematical physics.

@@ -1,0 +1,4 @@
+Paper: 0508010
+Title: Normalization anomalies in level truncation calculations
+Authors: Ehud Fuchs and Michael Kroyter
+Abstract: We test oscillator level truncation regularization in string field theory by calculating descent relations among vertices, or equivalently, the overlap of wedge states. We repeat the calculation using bosonic, as well as fermionic ghosts, where in the bosonic case we do the calculation both in the discrete and in the continuous basis. We also calculate analogous expressions in field level truncation. Each calculation gives a different result. We point out to the source of these differences and in the bosonic ghost case we pinpoint the origin of the difference between the discrete and continuous basis calculations. The conclusion is that level truncation regularization cannot be trusted in calculations involving normalization of singular states, such as wedge states, rank-one squeezed state projectors and string vertices.

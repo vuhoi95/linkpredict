@@ -1,0 +1,4 @@
+Paper: 0004014
+Title: A generalized Ginsparg-Wilson relation
+Authors: C. D. Fosco and M. Teper
+Abstract: We show that, under certain general assumptions, any sensible lattice Dirac operator satisfies a generalized form of the Ginsparg-Wilson relation (GWR). Those assumptions, on the other hand, are mostly dictated by large momentum behaviour considerations. We also show that all the desirable properties often deduced from the standard GWR hold true of the general case as well; hence one has, in fact, more freedom to modify the form of the lattice Dirac operator, without spoiling its nice properties. Our construction, a generalized Ginsparg-Wilson relation (GGWR), is satisfied by some known proposals for the lattice Dirac operator. We discuss some of these examples, and also present a derivation of the GGWR in terms of a renormalization group transformation with a blocking which is not diagonal in momentum space, but nevertheless commutes with the Dirac operator.

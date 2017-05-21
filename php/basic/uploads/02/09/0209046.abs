@@ -1,0 +1,4 @@
+Paper: 0209046
+Title: Stationary Perturbation Theory with Spatially Well-separated Potentials
+Authors: Seok Kim and Choonkyu Lee
+Abstract: We present a new perturbation theory for quantum mechanical energy eigenstates when the potential equals the sum of two localized, but not necessarily weak potentials $V_{1}(\vec{r})$ and $V_{2}(\vec{r})$, with the distance $L$ between the respective centers of the two taken to be quite large. It is assumed that complete eigenfunctions of the local Hamiltonians (i.e., in the presence of $V_{1}(\vec{r})$ or $V_{2}(\vec{r})$ only) are available as inputs to our perturbation theory. If the two local Hamiltonians have degenerate bound-state energy levels, a systematic extension of the molecular orbital theory (or the tight-binding approximation) follows from our formalism. Our approach can be viewed as a systematic adaptation of the multiple scattering theory to the problem of bound states.

@@ -1,0 +1,4 @@
+Paper: 0702022
+Title: Classical Dynamics of Quantum Numbers with Arrow of Time
+Authors: Vadim V. Asadov and Oleg V. Kechkin
+Abstract: We study a quantum theory with complex time parameter and non-Hermitian Hamiltonian structure. In this theory, the real part of the complex time is equal to `usual' physical time, whereas the imaginary one is proportional to inverse absolute temperature of the system. Then, the Hermitian part of the Hamiltonian coincides with conventional operator of energy; the anti-Hermitian part, which is taken as a symmetry operator, defines decay parameters of the theory. We integrate the equations of motion in a Hamiltonian proper basis, and detect a classical dynamics of the corresponding quantum numbers, using their continuous approximation and the zero limit of the Plank's constant. It is proved, that this dynamics possesses a well defined arrow of time in the isothermal and adiabatic regimes of the thermodynamical evolution of the system.

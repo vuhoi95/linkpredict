@@ -1,0 +1,4 @@
+Paper: 0010119
+Title: The Effect of Large Amplitude Fluctuations in the Ginzburg-Landau Phase  Transition
+Authors: G. Alvarez and H. Fort
+Abstract: The lattice Ginzburg-Landau model in d=3 and d=2 is simulated, for different values of the coherence length $\xi$ in units of the lattice spacing $a$, using a Monte Carlo method. The energy, specific heat, vortex density $v$, helicity modulus $\Gamma_\mu$ and mean square amplitude are measured to map the phase diagram on the plane $T-\xi$. When amplitude fluctuations, controlled by the parameter $\xi$, become large ($\xi \sim 1$) a proliferation of vortex excitations occurs changing the phase transition from continuous to first order.

@@ -1,0 +1,4 @@
+Paper: 0008014
+Title: On the Calculation of Group Characters
+Authors: M. Gungormez and H. R. Karadayi
+Abstract: It is known that characters of irreducible representations of finite Lie algebras can be obtained using theWeyl character formula including Weyl group summations which make actual calculations almost impossible except for a few Lie algebras of lower rank. By starting from the Weyl character formula, we show that these characters can be re-expressed without referring to Weyl group summations. Some useful technical points are given in detail for the instructive example of G2 Lie algebra.

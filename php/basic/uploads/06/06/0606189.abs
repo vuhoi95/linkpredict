@@ -1,0 +1,4 @@
+Paper: 0606189
+Title: Manifestly Gauge Invariant QCD
+Authors: Tim R. Morris and Oliver J. Rosten
+Abstract: Building on recent work in SU(N) Yang-Mills theory, we construct a manifestly gauge invariant exact renormalization group for QCD. A gauge invariant cutoff is constructed by embedding the physical gauge theory in a spontaneously broken SU(N|N) gauge theory, regularized by covariant higher derivatives. Intriguingly, the construction is most efficient if the number of flavours is a multiple of the number of colours. The formalism is illustrated with a very compact calculation of the one-loop beta function, achieving a manifestly universal result and without fixing the gauge.

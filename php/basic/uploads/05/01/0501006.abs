@@ -1,0 +1,4 @@
+Paper: 0501006
+Title: Anomalous scaling of passive scalar in turbulence and in equilibrium
+Authors: Gregory Falkovich and Alexander Fouxon
+Abstract: We analyze multi-point correlation functions of a tracer in an incompressible flow at scales far exceeding the scale $L$ at which fluctuations are generated (quasi-equilibrium domain) and compare them with the correlation functions at scales smaller than $L$ (turbulence domain). We demonstrate that the scale invariance can be broken in the equilibrium domain and trace this breakdown to the statistical integrals of motion (zero modes) as has been done before for turbulence. Employing Kraichnan model of short-correlated velocity we identify the new type of zero modes, which break scale invariance and determine an anomalously slow decay of correlations at large scales.

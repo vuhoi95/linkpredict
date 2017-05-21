@@ -1,0 +1,4 @@
+Paper: 0108026
+Title: Complete High Temperature Expansions for One-Loop Finite Temperature  Effects
+Authors: Peter N. Meisinger and Michael C. Ogilvie
+Abstract: We develop exact, simple closed form expressions for partition functions associated with relativistic bosons and fermions in odd spatial dimensions. These expressions, valid at high temperature, include the effects of a non-trivial Polyakov loop and generalize well-known high temperature expansions. The key technical point is the proof of a set of Bessel function identities which resum low temperature expansions into high temperature expansions. The complete expressions for these partition functions can be used to obtain one-loop finite temperature contributions to effective potentials, and thus free energies and pressures.

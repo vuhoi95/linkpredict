@@ -1,0 +1,4 @@
+Paper: 0703137
+Title: Classical limit of Quantum Sigma-Models from Bethe Ansatz
+Authors: Nikolay Gromov and Vladimir Kazakov and Pedro Vieira
+Abstract: In these proceedings we review the results of [1-3]. We show on the example of the SU(2) chiral-field how to reproduce the classical finite gap solutions for a large class of integrable sigma models from their exact quantum solutions. These solutions are usually formulated as Bethe ansatz equations for physical particles on a circle, with the interaction given by the factorized S-matrix conjectured from Zamolodchikovs' bootstrap procedure. Our method opens a new systematic way to justify this procedure. As an application of our method to the integrability in AdS/CFT correspondence, we reproduce the asymptotic string Bethe ansatz conjectured eartlier in the S3 x R sector of the Green-Schwarz-Metsaev-Tseytlin superstring. The role of the Virasoro constraints in this setup is clarified.

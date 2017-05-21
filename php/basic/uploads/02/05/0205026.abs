@@ -1,0 +1,4 @@
+Paper: 0205026
+Title: SO(3) versus SU(2) lattice gauge theory
+Authors: Ph. de Forcrand and O. Jahn
+Abstract: We consider the SO(3) lattice gauge theory at weak coupling, in the Villain action. We exhibit an analytic path in coupling space showing the equivalence of the SO(3) theory with SU(2) summed over all twist sectors. This clarifies the ``mysterious phase'' of SO(3). As order parameter, we consider the dual string tension or center vortex free energy, which we measure in SO(3) using multicanonical Monte Carlo. This allows us to set the scale, indicating that ${\cal O}(700)^4$ lattices are necessary to probe the confined phase. We consider the relevance of our findings for confinement in other gauge groups with trivial center.

@@ -1,0 +1,4 @@
+Paper: 07072859
+Title: A Clifford analysis approach to superspace
+Authors: Hendrik De Bie and Frank Sommen
+Abstract: A new framework for studying superspace is given, based on methods from Clifford analysis. This leads to the introduction of both orthogonal and symplectic Clifford algebra generators, allowing for an easy and canonical introduction of a super-Dirac operator, a super-Laplace operator and the like. This framework is then used to define a super-Hodge coderivative, which, together with the exterior derivative, factorizes the Laplace operator. Finally both the cohomology of the exterior derivative and the homology of the Hodge operator on the level of polynomial-valued super-differential forms are studied. This leads to some interesting graphical representations and provides a better insight in the definition of the Berezin-integral.

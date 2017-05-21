@@ -1,0 +1,4 @@
+Paper: 07062147
+Title: Replica Condensation and Tree Decay
+Authors: Arthur Jaffe and David Moser
+Abstract: We give an intuitive method--using local, cyclic replica symmetry--to isolate exponential tree decay in truncated (connected) correlations. We give an expansion and use the symmetry to show that all terms vanish, except those displaying {\em replica condensation}. The condensation property ensures exponential tree decay. We illustrate our method in a low-temperature Ising system, but expect that one can use a similar method in other random field and quantum field problems. While considering the illustration, we prove an elementary upper bound on the entropy of random lattice surfaces.

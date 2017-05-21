@@ -1,0 +1,4 @@
+Paper: 07084295
+Title: Numerical study on Schramm-Loewner Evolution in nonminimal conformal  field theories
+Authors: Marco Picco and Raoul Santachiara
+Abstract: The Schramm-Loewner evolution (SLE) is a powerful tool to describe fractal interfaces in 2D critical statistical systems. Yet the application of SLE is well established for statistical systems described by quantum field theories satisfying only conformal invariance, the so called minimal conformal field theories (CFTs). We consider interfaces in Z(N) spin models at their self-dual critical point for N=4 and N=5. These lattice models are described in the continuum limit by non-minimal CFTs where the role of a Z_N symmetry, in addition to the conformal one, should be taken into account. We provide numerical results on the fractal dimension of the interfaces which are SLE candidates for non-minimal CFTs. Our results are in excellent agreement with some recent theoretical predictions.

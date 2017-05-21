@@ -1,0 +1,4 @@
+Paper: 0602176
+Title: Worldline Instantons II: The Fluctuation Prefactor
+Authors: Gerald V. Dunne and Holger Gies and Christian Schubert and Qing-hai Wang
+Abstract: In a previous paper [1], it was shown that the worldline expression for the nonperturbative imaginary part of the QED effective action can be approximated by the contribution of a special closed classical path in Euclidean spacetime, known as a worldline instanton. Here we extend this formalism to compute also the prefactor arising from quantum fluctuations about this classical closed path. We present a direct numerical approach for determining this prefactor, and we find a simple explicit formula for the prefactor in the cases where the inhomogeneous electric field is a function of just one spacetime coordinate. We find excellent agreement between our semiclassical approximation, conventional WKB, and recent numerical results using numerical worldline loops.

@@ -1,0 +1,4 @@
+Paper: 0312494
+Title: Quantum symmetric functions
+Authors: Rafael Diaz and Eddy Pariguan
+Abstract: We study quantum deformations of Poisson orbivarieties. Given a Poisson manifold $(\mathbb{R}^{m},\alpha)$ we consider the Poisson orbivariety $(\mathbb{R}^{m})^{n}/S_{n}$. The Kontsevich star product on functions on $(\mathbb{R}^{m})^{n}$ induces a star product on functions on $(\mathbb{R}^{m})^{n}/S_{n}$. We provide explicit formulae for the case ${{\mathfrak h} \times {\mathfrak h}}/\mathcal{W}$, where ${\mathfrak h}$ is the Cartan subalgebra of a classical Lie algebra ${\mathfrak g}$ and $\mathcal{W}$ is the Weyl group of ${\mathfrak h}$. We approach our problem from a fairly general point of view, introducing Polya functors for categories over non-symmetric Hopf operads.

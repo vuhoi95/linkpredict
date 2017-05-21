@@ -1,0 +1,4 @@
+Paper: 0306038
+Title: A Review Of Two Novel Numerical Methods in QFT
+Authors: R. Easther and D. D. Ferrante and G. S. Guralnik and D. Petrov
+Abstract: We outline two alternative schemes to perform numerical calculations in quantum field theory. In principle, both of these approaches are better suited to study phase structure than conventional Monte Carlo. The first method, Source Galerkin, is based on a numerical analysis of the Schwinger-Dyson equations using modern computer techniques. The nature of this approach makes dealing with fermions relatively straightforward, particularly since we can work on the continuum. Its ultimate success in non-trivial dimensions will depend on the power of a propagator expansion scheme which also greatly simplifies numerical calculation of traditional perturbation graphs. The second method extends Monte Carlo approaches by introducing a procedure to deal with rapidly oscillating integrals.

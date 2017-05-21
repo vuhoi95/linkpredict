@@ -1,0 +1,4 @@
+Paper: 0310083
+Title: Hamiltonian BRST and Batalin-Vilkovisky formalisms for second  quantization of gauge theories
+Authors: Glenn Barnich and Maxim Grigoriev
+Abstract: Gauge theories that have been first quantized using the Hamiltonian BRST operator formalism are described as classical Hamiltonian BRST systems with a BRST charge of the form <\Psi,\Omega\Psi>_{even} and with natural ghost and parity degrees for all fields. The associated proper solution of the classical Batalin-Vilkovisky master equation is constructed from first principles. Both of these formulations can be used as starting points for second quantization. In the case of time reparametrization invariant systems, the relation to the standard <\Psi,\Omega\Psi>_{odd} master action is established.

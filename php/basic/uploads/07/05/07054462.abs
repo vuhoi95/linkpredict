@@ -1,0 +1,4 @@
+Paper: 07054462
+Title: Two-parameter scaling of correlation functions near continuous phase  transitions
+Authors: Nils Hasselmann and Andreas Sinner and Peter Kopietz
+Abstract: We discuss the order parameter correlation function in the vicinity of continuous phase transitions using a two-parameter scaling form G(k) = k_c^{-2} g(k\xi,k/k_c), where k is the wave-vector, \xi is the correlation length, and the interaction-dependent non-universal momentum scale k_c remains finite at the critical fixed point. The correlation function describes the entire critical regime and captures the classical to critical crossover. One-parameter scaling is recovered only in the limit k/k_c->0. We present an approximate calculation of g(x,y) for the Ising universality class using the functional renormalization group.

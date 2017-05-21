@@ -1,0 +1,4 @@
+Paper: 0008099
+Title: Stückelberg Field Shiftting Quantization of Free-Particle on  D-Dimensional Sphere
+Authors: C. Neves and C. Wotzasek
+Abstract: In this paper we quantize the free-particle on a D-dimensional sphere in an unambiguous way by converting the second-class constraint using St\"uckelberg field shiftting formalism. Further, we argument that this formalism is equivalent to the BFFT constraint conversion method and show that the energy spectrum is identical to the pure Laplace-Beltrami operator without additional terms arising from the curvature of the sphere. We work out the gauge symmetry generators with results consistent with those obtained through the nonlinear implementation of the gauge symmetry

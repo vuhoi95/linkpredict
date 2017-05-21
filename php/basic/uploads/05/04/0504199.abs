@@ -1,0 +1,4 @@
+Paper: 0504199
+Title: c=1 from c<1: Bulk and boundary correlators
+Authors: Sergei Alexandrov and Emiliano Imeroni
+Abstract: We study the c_L=25 limit, which corresponds to c=1 string theory, of bulk and boundary correlation functions of Liouville theory with FZZT boundary conditions. This limit is singular and requires a renormalization of vertex operators. We formulate a regularization procedure which allows to extract finite physical results. A particular attention is paid to c=1 string theory compactified at the self-dual radius R=1. In this case, the boundary correlation functions diverge even after the multiplicative renormalization. We show that all infinite contributions can be interpreted as contact terms arising from degenerate world sheet configurations. After their subtraction, one gets a well defined set of correlation functions. We also obtain several new results for correlation functions in Liouville theory at generic central charge.

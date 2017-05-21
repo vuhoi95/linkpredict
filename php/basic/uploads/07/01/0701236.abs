@@ -1,0 +1,4 @@
+Paper: 0701236
+Title: Baryonic Generating Functions
+Authors: Davide Forcella and Amihay Hanany and Alberto Zaffaroni
+Abstract: We show how it is possible to use the plethystic program in order to compute baryonic generating functions that count BPS operators in the chiral ring of quiver gauge theories living on the world volume of D branes probing a non compact CY manifold. Special attention is given to the conifold theory and the orbifold C^2/Z_2 times C, where exact expressions for generating functions are given in detail. This paper solves a long standing problem for the combinatorics of quiver gauge theories with baryonic moduli spaces. It opens the way to a statistical analysis of quiver theories on baryonic branches. Surprisingly, the baryonic charge turns out to be the quantized Kahler modulus of the geometry.

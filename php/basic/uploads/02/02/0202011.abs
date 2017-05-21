@@ -1,0 +1,4 @@
+Paper: 0202011
+Title: Polynomial τ-functions of the NLS-Toda hierarchy and the Virasoro  singular vectors
+Authors: Takeshi Ikeda and Hiro-Fumi Yamada
+Abstract: A family of polynomial \tau-functions for the NLS-Toda hierarchy is constructed. The hierarchy is associated with the homogeneous vertex operator representation of the affine algebra \g of type A_1^{(1)}. These \tau-functions are given explicitly in terms of Schur functions that correspond to rectangular Young diagrams. It is shown that an arbitrary polynomial \tau-function which is an eigenvector of d, the degree operator of \g, is contained in the family. By the construction, any \tau-function in the family becomes a Virasoro singular vector. This consideration gives rise to a simple proof of known results on the Fock representation of the Virasoro algebra with c=1.

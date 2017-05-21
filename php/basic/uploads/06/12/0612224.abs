@@ -1,0 +1,4 @@
+Paper: 0612224
+Title: Glueballs vs. Gluinoballs: Fluctuation Spectra in Non-AdS/Non-CFT
+Authors: Marcus Berg and Michael Haack and Wolfgang Muck
+Abstract: Building on earlier results on holographic bulk dynamics in confining gauge theories, we compute the spin-0 and spin-2 spectra of gauge theories dual to the non-singular Maldacena-Nunez and Klebanov-Strassler supergravity backgrounds. We construct and apply a numerical recipe for computing mass spectra from certain determinants. In the Klebanov-Strassler case, states containing the glueball and gluinoball obey "quadratic confinement", i.e. their mass-squareds depend on consecutive number as m^2 ~ n^2 for large n, with a universal proportionality constant. The hardwall approximation appears to work poorly when compared to the unique spectra we find in the full theory with a smooth cap-off in the infrared.

@@ -1,0 +1,4 @@
+Paper: 07104088
+Title: Comment on ``Reduction of static field equation of Faddeev model to  first order PDE'', arXiv:0707.2207
+Authors: C. Adam and J. Sanchez-Guillen and A. Wereszczynski
+Abstract: The authors of the article Phys. Lett. B 652 (2007) 384, (arXiv:0707.2207), propose an interesting method to solve the Faddeev model by reducing it to a set of first order PDEs. They first construct a vectorial quantity $\bm \alpha $, depending on the original field and its first derivatives, in terms of which the field equations reduce to a linear first order equation. Then they find vectors $\bm \alpha_1$ and $\bm \alpha_2$ which identically obey this linear first order equation. The last step consists in the identification of the $\bm \alpha_i$ with the original $\bm \alpha$ as a function of the original field. Unfortunately, the derivation of this last step in the paper cited above contains an error which invalidates most of its results.

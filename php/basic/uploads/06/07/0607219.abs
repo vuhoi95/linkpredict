@@ -1,0 +1,4 @@
+Paper: 0607219
+Title: Slipped non-Positive Reduced Dynamics and Entanglement
+Authors: F. Benatti and R. Floreanini and S. Breteaux
+Abstract: Non-positive Markov approximations are sometimes used to describe the dynamics of qubits in weak interaction with suitable environments; the appearance of negative probabilities is avoided by assuming that the transient regime eliminates from the possible initial conditions those qubit states which would otherwise be mapped out of the Bloch sphere by the subsequent Markovian time-evolution. By means of a simple model, we discuss some physical inconsistencies of this approach in relation to entanglement; in particular, we show that slipped non-positive reduced dynamics might create entanglement through a purely local action.

@@ -1,0 +1,4 @@
+Paper: 0305002
+Title: Fermionic Vacuum Energy from a Nielsen-Olesen Vortex
+Authors: M. Bordag and I. Drozdov
+Abstract: We calculate the vacuum energy of a spinor field in the background of a Nielsen-Olesen vortex. We use the method of representing the vacuum energy in terms of the Jost function on the imaginary momentum axis. Renormalization is carried out using the heat kernel expansion and zeta functional regularization. With this method well convergent sums and integrals emerge which allow for an efficient numerical calculation of the vacuum energy in the given case where the background is not known analytically but only numerically. The vacuum energy is calculated for several choices of the parameters and it turns out to give small corrections to the classical energy.

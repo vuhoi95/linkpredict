@@ -1,0 +1,4 @@
+Paper: 0505553
+Title: Instanton counting on blowup. II. $K$-theoretic partition function
+Authors: Hiraku Nakajima and Kota Yoshioka
+Abstract: We study Nekrasov's deformed partition function of 5-dimensional supersymmetric Yang-Mills theory compactified on a circle. Mathematically it is the generating function of the characters of the coordinate rings of the moduli spaces of instantons on $\mathbb R^4$. We show that it satisfies a system of functional equations, called blowup equations, whose solution is unique. As applications, we prove (a) logarithm of the partition function times $\epsilon_1\epsilon_2$ is regular at $\epsilon_1 = \epsilon_2 = 0$, (a part of Nekrasov's conjecture), and (b) the genus 1 parts, which are first several Taylor coefficients of the logarithm of the partition function, are written explicitly in terms of the Seiberg-Witten curves in rank 2 case.

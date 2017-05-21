@@ -1,0 +1,4 @@
+Paper: 0107216
+Title: Noncommutative Riemannian Geometry of the Alternating Group A_4
+Authors: F. Ngakeu and S. Majid and D. Lambert
+Abstract: We study the noncommutative Riemannian geometry of the alternating group $A_4=(Z_2 \times Z_2)\cross Z_3$ using a recent formulation for finite groups. We find a unique `Levi-Civita' connection for the invariant metric, and find that it has Ricci-flat but nonzero Riemann curvature. We show that it is the unique Ricci-flat connection on $A_4$ with the standard framing (we solve the vacuum Einstein's equation). We also propose a natural Dirac operator for the associated spin connection and solve the Dirac equation. Some of our results hold for any finite group equipped with a cyclic conjugacy class of 4 elements. In this case the exterior algebra $\Omega(A_4)$ has dimensions $1:4:8:11:12:12:11:8:4:1$ with top-form 9-dimensional. We also find the noncommutative cohomology $H^1(A_4)=C$.

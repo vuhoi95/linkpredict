@@ -1,0 +1,4 @@
+Paper: 0307338
+Title: Lattice fermion models with supersymmetry
+Authors: Paul Fendley and Bernard Nienhuis and Kareljan Schoutens
+Abstract: We investigate a family of lattice models with manifest N=2 supersymmetry. The models describe fermions on a 1D lattice, subject to the constraint that no more than k consecutive lattice sites may be occupied. We discuss the special properties arising from the supersymmetry, and present Bethe ansatz solutions of the simplest models. We display the connections of the k=1 model with the spin-1/2 antiferromagnetic XXZ chain at \Delta=-1/2, and the k=2 model with both the su(2|1)-symmetric tJ model in the ferromagnetic regime and the integrable spin-1 XXZ chain at \Delta=-1/\sqrt{2}. We argue that these models include critical points described by the superconformal minimal models.
