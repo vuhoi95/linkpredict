@@ -1,0 +1,4 @@
+Paper: 9901063
+Title: Causal continuity in degenerate spacetimes
+Authors: A. Borde and H. F. Dowker and R. S. Garcia and R. D. Sorkin and S. Surya
+Abstract: A change of spatial topology in a causal, compact spacetime cannot occur when the metric is globally Lorentzian. One can however construct a causal metric from a Riemannian metric and a Morse function on the background cobordism manifold, which is Lorentzian almost everywhere except that it is degenerate at each critical point of the function. We investigate causal structure in the neighbourhood of such a degeneracy, when the auxiliary Riemannian metric is taken to be Cartesian flat in appropriate coordinates. For these geometries, we verify Borde and Sorkin's conjecture that causal discontinuity occurs if and only if the Morse index is 1 or n-1.

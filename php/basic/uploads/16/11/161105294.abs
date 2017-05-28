@@ -1,0 +1,4 @@
+Paper: 161105294
+Title: First experience with classical-statistical real-time simulations of  anomalous transport with overlap fermions
+Authors: P. V. Buividovich and S. N. Valgushev
+Abstract: We present first results of classical-statistical real-time simulations of anomalous transport phenomena with overlap fermions. We find that even on small lattices overlap fermions reproduce the real-time anomaly equation with much better precision than Wilson-Dirac fermions on an order of magnitude larger lattices. The difference becomes much more pronounced for quickly changing electromagnetic fields, especially if one takes into account the back-reaction of fermions on electromagnetism. As test cases, we consider chirality pumping in parallel electric and magnetic fields and mixing between the plasmon and the Chiral Magnetic Wave.

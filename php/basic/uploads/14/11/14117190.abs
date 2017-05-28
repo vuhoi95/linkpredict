@@ -1,0 +1,4 @@
+Paper: 14117190
+Title: A Schwinger--Dyson Equation in the Borel Plane: singularities of the  solution
+Authors: Marc P. Bellon and Pierre J. Clavier
+Abstract: We map the Schwinger--Dyson equation and the renormalization group equation for the massless Wess--Zumino model in the Borel plane, where the product of functions get mapped to a convolution product. The two-point function can be expressed as a superposition of general powers of the external momentum. The singularities of the anomalous dimension are shown to lie on the real line in the Borel plane and to be linked to the singularities of the Mellin transform of the one-loop graph. This new approach allows us to enlarge the reach of previous studies on the expansions around those singularities. The asymptotic behavior at infinity of the Borel transform of the solution is beyond the reach of analytical methods and we do a preliminary numerical study, aiming to show that it should remain bounded.

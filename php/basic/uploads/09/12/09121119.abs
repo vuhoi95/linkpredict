@@ -1,0 +1,4 @@
+Paper: 09121119
+Title: Investigating stability of a class of black hole spacetimes under Ricci  flow
+Authors: Suvankar Dutta and V. Suneeta
+Abstract: We prove the linear stability of Schwarzschild-Tangherlini spacetimes and their Anti-de Sitter counterparts under Ricci flow for a special class of perturbations. This is useful in the choice of suitable initial conditions in numerical Ricci-flow-based algorithms for obtaining new solutions to the Einstein equation when the cosmological constant is zero or negative. The Ricci flow is a first-order renormalization group (RG) flow in string theory, and its solutions are believed to approximate string field theory processes in certain cases. Thus this result offers insights into the off-shell stability of these Euclidean black hole geometries in string theory, as well as in the Euclidean path integral approach to quantum gravity.

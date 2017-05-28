@@ -1,0 +1,4 @@
+Paper: 9802001
+Title: Accurate Checks of Universality for Dyson's Hierarchical Model
+Authors: J. J. Godina and Y. Meurice and M. B. Oktay
+Abstract: Using recently developed methods, we perform high-accuracy calculations of the susceptibility near beta_c for the D=3 version of Dyson's hierarchical model. Using linear fits, we estimate the leading gamma and subleading Delta exponents. Independent estimates are obtained by calculating the first two eigenvalues of the linearized renormalization group transformation. We found gamma = 1.29914073 (with an estimated error of 10^{-8}) and, Delta=0.4259469 (with an estimated error of 10^{-7}) independently of the choice of local integration measure (Ising or Landau-Ginzburg). After a suitable rescaling, the approximate fixed points for a large class of local measure coincide accurately with a fixed point constructed by Koch and Wittwer.

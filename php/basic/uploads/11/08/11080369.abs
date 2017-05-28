@@ -1,0 +1,4 @@
+Paper: 11080369
+Title: Twistor Networks and Covariant Twisted Geometries
+Authors: Etera R. Livine and Simone Speziale and Johannes Tambornino
+Abstract: We study the symplectic reduction of the phase space of two twistors to the cotangent bundle of the Lorentz group. We provide expressions for the Lorentz generators and group elements in terms of the spinors defining the twistors. We use this to define twistor networks as a graph carrying the phase space of two twistors on each edge. We also introduce simple twistor networks, which provide a classical version of the simple projected spin networks living on the boundary Hilbert space of EPRL/FK spin foam models. Finally, we give an expression for the Haar measure in terms of spinors.

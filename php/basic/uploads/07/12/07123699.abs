@@ -1,0 +1,4 @@
+Paper: 07123699
+Title: Odd Scalar Curvature in Anti-Poisson Geometry
+Authors: Igor A. Batalin and Klaus Bering
+Abstract: Recent works have revealed that the recipe for field-antifield quantization of Lagrangian gauge theories can be considerably relaxed when it comes to choosing a path integral measure \rho if a zero-order term \nu_{\rho} is added to the \Delta operator. The effects of this odd scalar term \nu_{\rho} become relevant at two-loop order. We prove that \nu_{\rho} is essentially the odd scalar curvature of an arbitrary torsion-free connection that is compatible with both the anti-Poisson structure E and the density \rho. This extends a previous result for non-degenerate antisymplectic manifolds to degenerate anti-Poisson manifolds that admit a compatible two-form.

@@ -1,0 +1,4 @@
+Paper: 9811063
+Title: Weyl's Law with Error Estimate
+Authors: Sultan Catto and Jonathan Huntley and Nam Jong Moh and David Tepper
+Abstract: Let X=Sl(3,Z)\Sl(3,R)/SO(3,R). Let N(lambda) denote the dimension of the space of cusp forms with Laplace eigenvalue less than lambda. We prove that N(lambda)=C lambda^(5/2)+O(lambda^2) where C is the appropriate constant establishing Weyl's law with a good error term for the noncompact space X. The proof uses the Selberg trace formula in a form that is modified from the work of Wallace and also draws on results of Stade and Wallace and techniques of Huntley and Tepper. We also, in the course of the proof, give an upper bound on the number of cusp forms that can violate the Ramanujan conjecture.

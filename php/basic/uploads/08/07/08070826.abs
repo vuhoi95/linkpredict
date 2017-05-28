@@ -1,0 +1,4 @@
+Paper: 08070826
+Title: Yang-Mills gauge theories from fermionic lattice models
+Authors: Paolo Maraner and Jiannis K. Pachos
+Abstract: A doublet of three-dimensional Dirac fermions can effectively describe the low energy spectrum of a fermionic cubic lattice. We employ this fermion doubling to encode a non-Abelian SU(2) charge in the fundamental representation. We explicitly demonstrate that suitable distortion of the tunnelling couplings can introduce a scalar and a Yang-Mills field in the effective low energy description, both coupled to the Dirac fermions. As an application we simulate Yang-Mills monopoles that give rise to localized zero-modes and fermion fractionalization. The generation of the non-Abelian field in the two-dimensional case is also presented.

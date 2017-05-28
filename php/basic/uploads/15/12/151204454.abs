@@ -1,0 +1,4 @@
+Paper: 151204454
+Title: String-charge duality in integrable lattice models
+Authors: Enej Ilievski and Eoin Quinn and Jacopo De Nardis and Michael Brockmann
+Abstract: We derive an explicit mapping between the spectra of conserved local operators of integrable quantum lattice models and the density distributions of their thermodynamic particle content. This is presented explicitly for the Heisenberg XXZ spin chain. As an application we discuss a quantum quench scenario, in both the gapped and critical regimes. We outline an exact technique which allows for an efficient implementation on periodic matrix product states. In addition, for certain simple product states we obtain analytic closed-form expressions in terms of solutions to Hirota functional relations. Remarkably, no reference to a maximal entropy principle is invoked.

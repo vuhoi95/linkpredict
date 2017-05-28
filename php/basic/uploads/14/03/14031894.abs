@@ -1,0 +1,4 @@
+Paper: 14031894
+Title: Exact Slope and Interpolating Functions in ABJM Theory
+Authors: Nikolay Gromov and Grigory Sizov
+Abstract: Using the Quantum Spectral Curve approach we compute exactly an observable (called slope function) in the planar ABJM theory in terms of an unknown interpolating function h(\lambda) which plays the role of the coupling in any integrability based calculation in this theory. We verified our results with known weak coupling expansion in the gauge theory and with the results of semi-classical string calculations. Quite surprisingly at strong coupling the result is given by an explicit rational function of h(\lambda) to all orders. By comparing the structure of our result with that of an exact localization-based calculation for a similar observable in JHEP 1006 (2010) 011 we conjecture an exact expression for h(\lambda).

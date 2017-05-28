@@ -1,0 +1,4 @@
+Paper: 9501129
+Title: Algebraization of difference eigenvalue equations related to $U_q(sl_2)$
+Authors: P. B. Wiegmann and A. V. Zabrodin
+Abstract: A class of second order difference (discrete) operators with a partial algebraization of the spectrum is introduced. The eigenfuncions of the algebraized part of the spectrum are polinomials (discrete polinomials). Such difference operators can be constructed by means of $U_q(sl_2)$, the quantum deformation of the $sl_2$ algebra. The roots of polinomials determine the spectrum and obey the Bethe Ansatz equations. A particular case of difference equations for $q$-hypergeometric and Askey-Wilson polinomials is discussed. Applications to the problem of Bloch electrons in magnetic field are outlined. {abstract}

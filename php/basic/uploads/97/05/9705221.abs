@@ -1,0 +1,4 @@
+Paper: 9705221
+Title: Dynamic SU(2) Lattice Gauge Theory at Finite Temperature
+Authors: K. Okano and L. Schuelke and B. Zheng
+Abstract: The dynamic relaxation process for the (2+1)--dimensional SU(2) lattice gauge theory at critical temperature is investigated with Monte Carlo methods. The critical initial increase of the Polyakov loop is observed. The dynamic exponents $\theta$ and $z$ as well as the static critical exponent $\beta/\nu$ are determined from the power law behaviour of the Polyakov loop, the auto-correlation and the second moment at the early stage of the time evolution. The results are well consistent and universal short-time scaling behaviour of the dynamic system is confirmed. The values of the exponents show that the dynamic SU(2) lattice gauge theory is in the same dynamic universality class as the dynamic Ising model.

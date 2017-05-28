@@ -1,0 +1,4 @@
+Paper: 9611201
+Title: Weakly first-order phase transitions: the epsilon expansion vs.  numerical simulations
+Authors: Peter Arnold and Stephen R. Sharpe and Laurence G. Yaffe and Yan Zhang
+Abstract: Some phase transitions of cosmological interest may be weakly first-order and cannot be analyzed by a simple perturbative expansion around mean field theory. We propose a simple two-scalar model--the cubic anisotropy model--as a foil for theoretical techniques to study such transitions, and we review its similarities and dissimilarities to the electroweak phase transition in the early universe. We present numerical Monte Carlo results for various discontinuities across very weakly first-order transitions in this model and, as an example, compare them to epsilon-expansion results. For this purpose, we have computed through next-to-next-to-leading order in epsilon.

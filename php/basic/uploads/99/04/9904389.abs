@@ -1,0 +1,4 @@
+Paper: 9904389
+Title: Superdiffusion and Out-of-equilibrium Chaotic Dynamics with Many Degrees  of Freedoms
+Authors: V. Latora and A. Rapisarda and S. Ruffo
+Abstract: We study the link between relaxation to the equilibrium and anomalous superdiffusive motion in a classical N-body hamiltonian system with long-range interaction showing a second-order phase-transition in the canonical ensemble. Anomalous diffusion is observed only in a transient out-of-equilibrium regime and for a small range of energy, below the critical one. Superdiffusion is due to L\'evy walks of single particles and is checked independently through the second moment of the distribution, power spectra, trapping and walking time probabilities. Diffusion becomes normal at equilibrium, after a relaxation time which diverges with N.

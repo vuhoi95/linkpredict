@@ -1,0 +1,4 @@
+Paper: 12041722
+Title: Feynman rules for Coulomb gauge QCD
+Authors: A. Andrasi and J. C. Taylor
+Abstract: The Coulomb gauge in nonabelian gauge theories is attractive in principle, but beset with technical difficulties in perturbation theory. In addition to ordinary Feynman integrals, there are, at 2-loop order, Christ-Lee (CL) terms, derived either by correctly ordering the operators in the Hamiltonian, or by resolving ambiguous Feynman integrals. Renormalization theory depends on the subgraph structure of ordinary Feynamn graphs. The CL terms do not have subgraph structure. We show how to carry out enormalization in the presene of CL terms, by re-expressing these as `pseudo-Feynman' inegrals. We also explain how energy divergences cancel.

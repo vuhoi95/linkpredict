@@ -1,0 +1,4 @@
+Paper: 160805090
+Title: Matrix Quantum Mechanics from Qubits
+Authors: Sean A. Hartnoll and Liza Huijse and Edward A. Mazenc
+Abstract: We introduce a transverse field Ising model with order N^2 spins interacting via a nonlocal quartic interaction. The model has an O(N,Z), hyperoctahedral, symmetry. We show that the large N partition function admits a saddle point in which the symmetry is enhanced to O(N). We further demonstrate that this `matrix saddle' correctly computes large N observables at weak and strong coupling. The matrix saddle undergoes a continuous quantum phase transition at intermediate couplings. At the transition the matrix eigenvalue distribution becomes disconnected. The critical excitations are described by large N matrix quantum mechanics. At the critical point, the low energy excitations are waves propagating in an emergent 1+1 dimensional spacetime.

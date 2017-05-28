@@ -1,0 +1,4 @@
+Paper: 151108789
+Title: $U(1)$ current from the AdS/CFT: diffusion, conductivity and causality
+Authors: Yanyan Bu and Michael Lublinsky and Amir Sharon
+Abstract: For a holographically defined finite temperature theory, we derive an off-shell constitutive relation for a global $U(1)$ current driven by a weak external non-dynamical electromagnetic field. The constitutive relation involves an all order gradient expansion resummed into three momenta-dependent transport coefficient functions: diffusion, electric conductivity, and "magnetic" conductivity. These transport functions are first computed analytically in the hydrodynamic limit, up to third order in the derivative expansion, and then numerically for generic values of momenta. We also compute a diffusion memory function, which, as a result of all order gradient resummation, is found to be causal.

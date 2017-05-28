@@ -1,0 +1,4 @@
+Paper: 9909056
+Title: A Quantum Anti-Zeno Paradox
+Authors: A. P. Balachandran and S. M. Roy
+Abstract: We establish an exact differential equation for the operator describing time-dependent measurements continuous in time and obtain a series solution. Suppose the projection operator $E(t) = U(t) E U^\dagger(t)$ is measured continuously from t = 0 to T, where E is a projector leaving the initial state unchanged and U(t) a unitary operator obeying U(0) = 1 and some smoothness conditions in t. We prove that the probability of always finding E(t) = 1 from t = 0 to T is unity. If $U(t) \neq 1$, the watched kettle is sure to `boil'.

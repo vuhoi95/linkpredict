@@ -1,0 +1,4 @@
+Paper: 9310028
+Title: Capillary Wave Approach to Order-Order Fluid Interfaces in the 3D  Three-State Potts Model
+Authors: Paolo Provero and Stefano Vinti
+Abstract: The physics of fluid interfaces between domains of different magnetization in the ordered phase of the 3D three-state Potts model is studied by means of a Monte Carlo simulation. It is shown that finite--size effects in the interface free energy are well described by the capillary wave model at two loop order, supporting the idea of the universality of this description of fluid interfaces in 3D statistical models.

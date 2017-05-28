@@ -1,0 +1,4 @@
+Paper: 9606104
+Title: Finite temperature correlations in the one-dimensional quantum Ising  model
+Authors: A. Leclair and F. Lesage and S. Sachdev and H. Saleur
+Abstract: We extend the form-factors approach to the quantum Ising model at finite temperature. The two point function of the energy is obtained in closed form, while the two point function of the spin is written as a Fredholm determinant. Using the approach of \Korbook, we obtain, starting directly from the continuum formulation, a set of six differential equations satisfied by this two point function. Four of these equations involve only spacetime derivatives, of which three are equivalent to the equations obtained earlier in \mccoy,\perk. In addition, we obtain two new equations involving a temperature derivative. Some of these results are generalized to the Ising model on the half line with a magnetic field at the origin.

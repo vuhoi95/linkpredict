@@ -1,0 +1,4 @@
+Paper: 9503013
+Title: A simulation of the Schwinger model in the overlap formalism
+Authors: Rajamani Narayanan and Herbert Neuberger and Pavlos Vranas
+Abstract: In the continuum, the single flavor massless Schwinger model has an exact global axial $U(1)$ symmetry in the sector of perturbative gauge fields. This symmetry is explicitly broken by gauge fields with nonzero topological charge inducing a nonzero expectation value for the bilinear $\bar\psi\psi$. We show that a lattice formulation of this model, using the overlap formalism to treat the massless fermions, explicitly exhibits this phenomenon. A Monte Carlo simulation of the complete system yields the correct value of the fermion condensate and shows unambiguously that it originates from the sector of topological charge equal to unity.

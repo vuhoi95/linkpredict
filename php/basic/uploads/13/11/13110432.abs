@@ -1,0 +1,4 @@
+Paper: 13110432
+Title: Exact solution of the one-dimensional Hubbard model with arbitrary  boundary magnetic fields
+Authors: Yuan-Yuan Li and Junpeng Cao and Wen-Li Yang and Kangjie Shi and Yupeng Wang
+Abstract: The one-dimensional Hubbard model with arbitrary boundary magnetic fields is solved exactly via the Bethe ansatz methods. With the coordinate Bethe ansatz in the charge sector, the second eigenvalue problem associated with the spin sector is constructed. It is shown that the second eigenvalue problem can be transformed into that of the inhomogeneous XXX spin chain with arbitrary boundary fields which can be solved via the off-diagonal Bethe ansatz method.

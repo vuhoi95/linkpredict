@@ -1,0 +1,4 @@
+Paper: 11054741
+Title: Solution of One-dimensional Dirac Equation via Poincare Map
+Authors: Hocine Bahlouli and El Bouazzaoui Choubabi and Ahmed Jellal
+Abstract: We solve the general one-dimensional Dirac equation using a "Poincare Map" approach which avoids any approximation to the spacial derivatives and reduces the problem to a simple recursive relation which is very practical from the numerical implementation point of view. To test the efficiency and rapid convergence of this approach we apply it to a vector coupling Woods--Saxon potential, which is exactly solvable. Comparison with available analytical results is impressive and hence validates the accuracy and efficiency of this method.

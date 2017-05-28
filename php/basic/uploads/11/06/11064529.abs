@@ -1,0 +1,4 @@
+Paper: 11064529
+Title: A new offspring of PALP
+Authors: Andreas P. Braun and Nils-Ole Walliser
+Abstract: We describe the C program mori.x. It is part of PALP, a package for analyzing lattice polytopes. Its main purpose is the construction and analysis of three--dimensional smooth Calabi--Yau hypersurfaces in toric varieties. The ambient toric varieties are given in terms of fans over the facets of reflexive lattice polytopes. The program performs crepant star triangulations of reflexive polytopes and determines the Mori cones of the resulting toric varieties. Furthermore, it computes the intersection rings and characteristic classes of hypersurfaces.

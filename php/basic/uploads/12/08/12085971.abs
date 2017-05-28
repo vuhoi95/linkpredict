@@ -1,0 +1,4 @@
+Paper: 12085971
+Title: Partition Functions for Maxwell Theory on the Five-torus and for the  Fivebrane on S1XT5
+Authors: Louise Dolan and Yang Sun
+Abstract: We compute the partition function of five-dimensional abelian gauge theory on a five-torus T5 with a general flat metric using the Dirac method of quantizing with constraints. We compare this with the partition function of a single fivebrane compactified on S1 times T5, which is obtained from the six-torus calculation of Dolan and Nappi. The radius R1 of the circle S1 is set to the dimensionful gauge coupling constant g^2= 4\pi^2 R1. We find the two partition functions are equal only in the limit where R1 is small relative to T5, a limit which removes the Kaluza-Klein modes from the 6d sum. This suggests the 6d N=(2,0) tensor theory on a circle is an ultraviolet completion of the 5d gauge theory, rather than an exact quantum equivalence.

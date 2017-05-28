@@ -1,0 +1,4 @@
+Paper: 12101436
+Title: Top quark pairs at two loops and Reduze 2
+Authors: Andreas von Manteuffel and Cedric Studerus
+Abstract: We report on progress for the analytical calculation of the two-loop corrections to top quark pair production at hadron colliders. For the light fermionic corrections in the gluon channel, we discuss the analytical solution for the master integrals of a non-planar double box with a massive propagator. The result in terms of Goncharov's multiple polylogarithms is handled using systematic reductions based on the symbol map and the coproduct. We discuss new features of the computer program Reduze 2. It provides a fully distributed variant of Laporta's algorithm to reduce loop integrals. New graph matroid based algorithms allow to calculate shift relations between Feynman integrals in a fully automated way.

@@ -1,0 +1,4 @@
+Paper: 09090283
+Title: Affine su(2) fusion rules from gerbe 2-isomorphisms
+Authors: Ingo Runkel and Rafal R. Suszek
+Abstract: We give a geometric description of the fusion rules of the affine Lie algebra su(2)_k at a positive integer level k in terms of the k-th power of the basic gerbe over the Lie group SU(2). The gerbe can be trivialised over conjugacy classes corresponding to dominant weights of su(2)_k via a 1-isomorphism. The fusion-rule coefficients are related to the existence of a 2-isomorphism between pullbacks of these 1-isomorphisms to a submanifold of SU(2) x SU(2) determined by the corresponding three conjugacy classes. This construction is motivated by its application in the description of junctions of maximally symmetric defect lines in the Wess-Zumino-Witten model.

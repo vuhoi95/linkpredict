@@ -1,0 +1,4 @@
+Paper: 9812259
+Title: The Renormalization Group and its Finite Lattice Approximations
+Authors: A. Cacciuto and E. B. Gregory and A. Travesset
+Abstract: We investigate finite lattice approximations to the Wilson Renormalization Group in models of unconstrained spins. We discuss first the properties of the Renormalization Group Transformation (RGT) that control the accuracy of this type of approximations and explain different methods and techniques to practically identify them. We also discuss how to determine the anomalous dimension of the field. We apply our considerations to a linear sigma model in two dimensions in the domain of attraction of the Ising Fixed Point using a Bell-Wilson RGT. We are able to identify optimal RGTs which allow accurate computations of quantities such as critical exponents, fixed point couplings and eigenvectors with modest statistics. We finally discuss the advantages and limitations of this type of approach.

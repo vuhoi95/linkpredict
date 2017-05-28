@@ -1,0 +1,4 @@
+Paper: 13084645
+Title: On the completeness of solutions of Bethe's equations
+Authors: Wenrui Hao and Rafael I. Nepomechie and Andrew J. Sommese
+Abstract: We consider the Bethe equations for the isotropic spin-1/2 Heisenberg quantum spin chain with periodic boundary conditions. We formulate a conjecture for the number of solutions with pairwise distinct roots of these equations, in terms of numbers of so-called singular (or exceptional) solutions. Using homotopy continuation methods, we find all such solutions of the Bethe equations for chains of length up to 14. The numbers of these solutions are in perfect agreement with the conjecture. We also discuss an indirect method of finding solutions of the Bethe equations by solving the Baxter T-Q equation. We briefly comment on implications for thermodynamical computations based on the string hypothesis.

@@ -1,0 +1,4 @@
+Paper: 150603696
+Title: Entanglement and Fast Quantum Thermalization in Heavy Ion Collisions
+Authors: Chiu Man Ho and Stephen D. H. Hsu
+Abstract: Let $A$ be subsystem of a larger system $A \cup B$, and $\psi$ be a typical state from the subspace of the Hilbert space ${\cal H}_{AB}$ satisfying an energy constraint. Then $\rho_A(\psi)= {\rm Tr}_B | \psi \rangle \langle \psi |$ is nearly thermal. We discuss how this observation is related to fast thermalization of the central region ($\approx A$) in heavy ion collisions, where $B$ represents other degrees of freedom (soft modes, hard jets, collinear particles) outside of $A$. Entanglement between the modes in $A$ and $B$ plays a central role: the entanglement entropy $S_A$ increases rapidly in the collision. In gauge-gravity duality, $S_A$ is related to the area of extremal surfaces in the bulk, which can be studied using gravitational duals.

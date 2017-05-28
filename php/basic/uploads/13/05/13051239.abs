@@ -1,0 +1,4 @@
+Paper: 13051239
+Title: Universal behavior of the Shannon mutual information of critical quantum  chains
+Authors: F. C. Alcaraz and M. A. Rajabpour
+Abstract: We consider the Shannon mutual information of subsystems of critical quantum chains in their ground states. Our results indicate a universal leading behavior for large subsystem sizes. Moreover, as happens with the entanglement entropy, its finite-size behavior yields the conformal anomaly $c$ of the underlying conformal field theory governing the long distance physics of the quantum chain. We studied analytically a chain of coupled harmonic oscillators and numerically the Q-state Potts models ($Q = 2$; 3 and 4), the XXZ quantum chain and the spin-1 Fateev-Zamolodchikov model. The Shannon mutual information is a quantity easily computed, and our results indicate that for relatively small lattice sizes its finite-size behavior already detects the universality class of quantum critical behavior.

@@ -1,0 +1,4 @@
+Paper: 14020872
+Title: Disordered horizons: Holography of randomly disordered fixed points
+Authors: Sean A. Hartnoll and Jorge E. Santos
+Abstract: We deform conformal field theories with classical gravity duals by marginally relevant random disorder. We show that the disorder generates a flow to IR fixed points with a finite amount of disorder. The randomly disordered fixed points are characterized by a dynamical critical exponent $z>1$ that we obtain both analytically (via resummed perturbation theory) and numerically (via a full simulation of the disorder). The IR dynamical critical exponent increases with the magnitude of disorder, probably tending to $z \to \infty$ in the limit of infinite disorder.

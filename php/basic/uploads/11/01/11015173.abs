@@ -1,0 +1,4 @@
+Paper: 11015173
+Title: Large parallel cosmic string simulations: New results on loop production
+Authors: Jose J. Blanco-Pillado and Ken D. Olum and Benjamin Shlaer
+Abstract: Using a new parallel computing technique, we have run the largest cosmic string simulations ever performed. Our results confirm the existence of a long transient period where a non-scaling distribution of small loops is produced at lengths depending on the initial correlation scale. As time passes, this initial population gives way to the true scaling regime, where loops of size approximately equal to one-twentieth the horizon distance become a significant component. We observe similar behavior in matter and radiation eras, as well as in flat space. In the matter era, the scaling population of large loops becomes the dominant component; we expect this to eventually happen in the other eras as well.

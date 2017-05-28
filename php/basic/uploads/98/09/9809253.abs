@@ -1,0 +1,4 @@
+Paper: 9809253
+Title: Universal amplitudes in the FSS of three-dimensional spin models
+Authors: Martin Weigel and Wolfhard Janke
+Abstract: In a MC study using a cluster update algorithm we investigate the finite-size scaling (FSS) of the correlation lengths of several representatives of the class of three-dimensional classical O(n) symmetric spin models on a column geometry. For all considered models we find strong evidence for a linear relation between FSS amplitudes and scaling dimensions when applying antiperiodic instead of periodic boundary conditions across the torus. The considered type of scaling relation can be proven analytically for systems on two-dimensional strips with periodic bc using conformal field theory

@@ -1,0 +1,4 @@
+Paper: 08062539
+Title: Reducibility of quantum representations of mapping class groups
+Authors: Jørgen Ellegaard Andersen and Jens Fjelstad
+Abstract: In this paper we provide a general condition for the reducibility of the Reshetikhin-Turaev quantum representations of the mapping class groups. Namely, for any modular tensor category with a special symmetric Frobenius algebra with a non-trivial genus one partition function, we prove that the quantum representations of all the mapping class groups built from the modular tensor category are reducible. In particular for SU(N) we get reducibility for certain levels and ranks. For the quantum SU(2) Reshetikhin-Turaev theory we construct a decomposition for all even levels. We conjecture this decomposition is a complete decomposition into irreducible representations for high enough levels.

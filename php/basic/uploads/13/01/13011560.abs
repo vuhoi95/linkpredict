@@ -1,0 +1,4 @@
+Paper: 13011560
+Title: A basis for large operators in N=4 SYM with orthogonal gauge group
+Authors: Pawel Caputa and Robert de Mello Koch and Pablo Diaz
+Abstract: We develop techniques to study the correlation functions of "large operators" whose bare dimension grows parametrically with N, in SO(N) gauge theory. We build the operators from a single complex matrix. For these operators, the large N limit of correlation functions is not captured by summing only the planar diagrams. By employing group representation theory we are able to define local operators which generalize the Schur polynomials of the theory with gauge group U(N). We compute the two point function of our operators exactly in the free field limit showing that they diagonalize the two point function. We explain how these results can be used to obtain the exact free field answers for correlators of operators in the trace basis.

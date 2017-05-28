@@ -1,0 +1,4 @@
+Paper: 160605495
+Title: Indefinite theta series and generalized error functions
+Authors: Sergei Alexandrov and Sibasish Banerjee and Jan Manschot and Boris Pioline
+Abstract: Theta series for lattices with indefinite signature $(n_+,n_-)$ arise in many areas of mathematics including representation theory and enumerative algebraic geometry. Their modular properties are well understood in the Lorentzian case ($n_+=1$), but have remained obscure when $n_+\geq 2$. Using a higher-dimensional generalization of the usual (complementary) error function, discovered in an independent physics project, we construct the modular completion of a class of `conformal' holomorphic theta series ($n_+=2$). As an application, we determine the modular properties of a generalized Appell-Lerch sum attached to the lattice $A_2$, which arose in the study of rank 3 vector bundles on $\mathbb{P}^2$. The extension of our method to $n_+>2$ is outlined.

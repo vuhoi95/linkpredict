@@ -1,0 +1,4 @@
+Paper: 10104640
+Title: Solving Bethe-Salpeter equation for two fermions in Minkowski space
+Authors: J. Carbonell and V. A. Karmanov
+Abstract: The method of solving the Bethe-Salpeter equation in Minkowski space, which we developed previously for spinless particles, is extended to a system of two fermions. The method is based on the Nakanishi integral representation of the amplitude and on projecting the equation on the light-front plane. The singularities in the projected two-fermion kernel are regularized without modifying the original Bethe-Salpeter amplitudes. The numerical solutions for the J=0 bound state with the scalar, pseudoscalar and massless vector exchange kernels are found. The stability of the scalar and positronium states without vertex form factor is discussed. Binding energies are in close agreement with the Euclidean results. Corresponding amplitudes in Minkowski space are obtained.

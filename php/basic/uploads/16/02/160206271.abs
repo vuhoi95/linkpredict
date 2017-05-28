@@ -1,0 +1,4 @@
+Paper: 160206271
+Title: Measuring the scrambling of quantum information
+Authors: Brian Swingle and Gregory Bentsen and Monika Schleier-Smith and Patrick Hayden
+Abstract: We provide a protocol to measure out-of-time-order correlation functions. These correlation functions are of theoretical interest for diagnosing the scrambling of quantum information in black holes and strongly interacting quantum systems generally. Measuring them requires an echo-type sequence in which the sign of a many-body Hamiltonian is reversed. We detail an implementation employing cold atoms and cavity quantum electrodynamics to realize the chaotic kicked top model, and we analyze effects of dissipation to verify its feasibility with current technology. Finally, we propose in broad strokes a number of other experimental platforms where similar out-of-time-order correlation functions can be measured.

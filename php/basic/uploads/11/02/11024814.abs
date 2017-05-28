@@ -1,0 +1,4 @@
+Paper: 11024814
+Title: Wick Theorem for General Initial States
+Authors: R. van Leeuwen and G. Stefanucci
+Abstract: We present a compact and simplified proof of a generalized Wick theorem to calculate the Green's function of bosonic and fermionic systems in an arbitrary initial state. It is shown that the decomposition of the non-interacting $n$-particle Green's function is equivalent to solving a boundary problem for the Martin-Schwinger hierarchy; for non-correlated initial states a one-line proof of the standard Wick theorem is given. Our result leads to new self-energy diagrams and an elegant relation with those of the imaginary-time formalism is derived. The theorem is easy to use and can be combined with any ground-state numerical technique to calculate time-dependent properties.

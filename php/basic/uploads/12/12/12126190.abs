@@ -1,0 +1,4 @@
+Paper: 12126190
+Title: Lattice Radial Quantization: 3D Ising
+Authors: Richard Brower and George Fleming and Herbert Neuberger
+Abstract: Lattice radial quantization is introduced as a nonperturbative method intended to numerically solve Euclidean conformal field theories that can be realized as fixed points of known Lagrangians. As an example, we employ a lattice shaped as a cylinder with a 2D Icosahedral cross-section to discretize dilatations in the 3D Ising model. Using this method, we obtain the preliminary estimate eta=0.034(10).

@@ -1,0 +1,4 @@
+Paper: 08084046
+Title: Inverse Monte-Carlo and Demon Methods for Effective Polyakov Loop Models  of SU(N)-YM
+Authors: Christian Wozar and Tobias Kaestner and Bjoern H. Wellegehausen and Andreas Wipf and Thomas Heinzl
+Abstract: We study effective Polyakov loop models for SU(N) Yang-Mills theories at finite temperature. In particular effective models for SU(3) YM with an additional adjoint Polyakov loop potential are considered. The rich phase structure including a center and anti-center directed phase is reproduced with an effective model utilizing the inverse Monte-Carlo method. The demon method as a possibility to obtain the effective models' couplings is compared to the method of Schwinger-Dyson equations. Thermalization effects of microcanonical and canonical demon method are analyzed. Finally the elaborate canonical demon method is applied to the finite temperature SU(4) YM phase transition.

@@ -1,0 +1,4 @@
+Paper: 11113050
+Title: A numerical approach to harmonic non-commutative spectral field theory
+Authors: Bernardino Spisso and Raimar Wulkenhaar
+Abstract: We present a first numerical investigation of a non-commutative gauge theory defined via the spectral action for Moyal space with harmonic propagation. This action is approximated by finite matrices. Using Monte Carlo simulation we study various quantities such as the energy density, the specific heat density and some order parameters, varying the matrix size and the independent parameters of the model. We find a peak structure in the specific heat which might indicate possible phase transitions. However, there are mathematical arguments which show that the limit of infinite matrices is very different from the original spectral model.

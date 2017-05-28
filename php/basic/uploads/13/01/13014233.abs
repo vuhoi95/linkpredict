@@ -1,0 +1,4 @@
+Paper: 13014233
+Title: Complex Path Integrals and the Space of Theories
+Authors: D. D. Ferrante and G. S. Guralnik and Z. Guralnik and C. Pehlevan
+Abstract: The Feynman Path Integral is extended in order to capture all solutions of a quantum field theory. This is done via a choice of appropriate integration cycles, parametrized by M in SL(2,C), i.e., the space of allowed integration cycles is related to certain Dp-branes and their properties, which can be further understood in terms of the "physical states" of another theory. We also look into representations of the Feynman Path Integral in terms of a Mellin-Barnes transform, bringing the singularity structure of the theory to the foreground. This implies that, as a sum over paths, we should consider more generic paths than just Brownian ones. Finally, we are able to study the Space of Theories through our examples in terms of their Quantum Phases and associated Stokes' Phenomena (wall-crossing).

@@ -1,0 +1,4 @@
+Paper: 12112242
+Title: Atomic Quantum Simulation of U(N) and SU(N) Non-Abelian Lattice Gauge  Theories
+Authors: D. Banerjee and M. Bögli and M. Dalmonte and E. Rico and P. Stebler and U. -J. Wiese and P. Zoller
+Abstract: Using ultracold alkaline-earth atoms in optical lattices, we construct a quantum simulator for U(N) and SU(N) lattice gauge theories with fermionic matter based on quantum link models. These systems share qualitative features with QCD, including chiral symmetry breaking and restoration at non-zero temperature or baryon density. Unlike classical simulations, a quantum simulator does not suffer from sign problems and can address the corresponding chiral dynamics in real time.

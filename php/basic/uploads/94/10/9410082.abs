@@ -1,0 +1,4 @@
+Paper: 9410082
+Title: Exact Results for the Adsorption of a Flexible Self-Avoiding Polymer  Chain in Two Dimensions
+Authors: M. T. Batchelor and C. M. Yung
+Abstract: We derive the exact critical couplings ($x^*, y_{\rm a}^*$), where $y_{\rm a}^*/x^* = \sqrt{1+\sqrt2} = 1.533\ldots\,$, for the polymer adsorption transition on the honeycomb lattice, along with the universal critical exponents, from the Bethe Ansatz solution of the O($n$) loop model at the special transition. Our result for the thermal scaling dimension, and thus the crossover exponent $\phi=\frac{1}{2}$, is in agreement with an earlier result based on conformal invariance arguments. Our result for the geometric scaling dimensions confirms recent conjectures that they are given by $h_{\ell+1,3}$ in the Kac formula.

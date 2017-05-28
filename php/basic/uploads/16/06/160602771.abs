@@ -1,0 +1,4 @@
+Paper: 160602771
+Title: The Effective Bootstrap
+Authors: Alejandro Castedo Echeverri and Benedict von Harling and Marco Serone
+Abstract: We study the numerical bounds obtained using a conformal-bootstrap method - advocated in ref. [1] but never implemented so far - where different points in the plane of conformal cross ratios $z$ and $\bar z$ are sampled. In contrast to the most used method based on derivatives evaluated at the symmetric point $z=\bar z =1/2$, we can consistently "integrate out" higher-dimensional operators and get a reduced simpler, and faster to solve, set of bootstrap equations. We test this "effective" bootstrap by studying the 3D Ising and $O(n)$ vector models and bounds on generic 4D CFTs, for which extensive results are already available in the literature. We also determine the scaling dimensions of certain scalar operators in the $O(n)$ vector models, with $n=2,3,4$, which have not yet been computed using bootstrap techniques.

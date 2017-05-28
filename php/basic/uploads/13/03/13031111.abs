@@ -1,0 +1,4 @@
+Paper: 13031111
+Title: Radial Coordinates for Conformal Blocks
+Authors: Matthijs Hogervorst and Slava Rychkov
+Abstract: We develop the theory of conformal blocks in CFT_d expressing them as power series with Gegenbauer polynomial coefficients. Such series have a clear physical meaning when the conformal block is analyzed in radial quantization: individual terms describe contributions of descendants of a given spin. Convergence of these series can be optimized by a judicious choice of the radial quantization origin. We argue that the best choice is to insert the operators symmetrically. We analyze in detail the resulting "rho-series" and show that it converges much more rapidly than for the commonly used variable z. We discuss how these conformal block representations can be used in the conformal bootstrap. In particular, we use them to derive analytically some bootstrap bounds whose existence was previously found numerically.

@@ -1,0 +1,4 @@
+Paper: 160405291
+Title: A Lagrangian formulation of relativistic Israel-Stewart hydrodynamics
+Authors: Giorgio Torrieri and David Montenegro
+Abstract: We rederive relativistic hydrodynamics as a Lagrangian effective theory using the doubled coordinates technique, allowing us to include dissipative terms. We include Navier-Stokes shear and bulk terms, as well as Israel-Stewart relaxation time terms, within this formalism. We show how the inclusion of shear viscosity, and the requirement of a bounded energy-momentum "vacuum", forces the inclusion of the Israel-Stewart term into the theory, thereby providing a justification for the origin and uniqueness of these terms.

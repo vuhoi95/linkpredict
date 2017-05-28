@@ -1,0 +1,4 @@
+Paper: 150707575
+Title: Encyclopaedia Curvatonis
+Authors: Vincent Vennin and Kazuya Koyama and David Wands
+Abstract: We investigate whether the predictions of single-field models of inflation are robust under the introduction of additional scalar degrees of freedom, and whether these extra fields change the potentials for which the data show the strongest preference. We study the situation where an extra light scalar field contributes both to the total curvature perturbations and to the reheating kinematic properties. Ten reheating scenarios are identified, and all necessary formulas allowing a systematic computation of the predictions for this class of models are derived. They are implemented in the public library ASPIC, which contains more than 75 single-field potentials. This paves the way for a forthcoming full Bayesian analysis of the problem. A few representative examples are displayed and discussed.

@@ -1,0 +1,4 @@
+Paper: 13061173
+Title: Space-time symmetries and the Yang-Mills gradient flow
+Authors: Luigi Del Debbio and Agostino Patella and Antonio Rago
+Abstract: The recent introduction of the gradient flow has provided a new tool to probe the dynamics of quantum field theories. The latest developments have shown how to use the gradient flow for the exploration of symmetries, and the definition of the corresponding renormalized Noether currents. In this paper we introduce infinitesimal translations along the gradient flow for gauge theories, and study the corresponding Ward identities. This approach is readily generalized to the case of gauge theories defined on a lattice, where the regulator breaks translation invariance. The Ward identities in this case lead to a nonperturbative renormalization of the energy-momentum tensor. We discuss an application of this method to the study of dilatations and scale invariance on the lattice.

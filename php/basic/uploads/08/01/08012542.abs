@@ -1,0 +1,4 @@
+Paper: 08012542
+Title: Functional BES equation
+Authors: Ivan Kostov and Didina Serban and Dmytro Volin
+Abstract: We give a realization of the Beisert, Eden and Staudacher equation for the planar N=4 supersymetric gauge theory whichseems to be particularly useful to study the strong coupling limit. We use a linearized version of the BES equation as two coupled equations involving an auxiliary density function. We write these equations in terms of the resolvents and we transform them into to a system of functional, instead of integral, equations. We solve the functional equations perturbatively in the strong coupling limit and reproduce the recursive solution obtained by Basso, Korchemsky and Kotanski. The coefficients of the strong coupling expansion are fixed by the analyticity properties obeyed by the resolvents.

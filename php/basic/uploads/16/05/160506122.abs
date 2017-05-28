@@ -1,0 +1,4 @@
+Paper: 160506122
+Title: MCMC with Strings and Branes: The Suburban Algorithm
+Authors: Jonathan J. Heckman and Jeffrey G. Bernstein and Ben Vigoda
+Abstract: Motivated by the physics of strings and branes, we introduce a general suite of Markov chain Monte Carlo (MCMC) "suburban samplers" (i.e., spread out Metropolis). The suburban algorithm involves an ensemble of statistical agents connected together by a random network. Performance of the collective in reaching a fast and accurate inference depends primarily on the average number of nearest neighbor connections. Increasing the average number of neighbors above zero initially leads to an increase in performance, though there is a critical connectivity with effective dimension d_eff ~ 1, above which "groupthink" takes over, and the performance of the sampler declines.

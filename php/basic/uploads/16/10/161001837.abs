@@ -1,0 +1,4 @@
+Paper: 161001837
+Title: Diffeomorphisms of quantum fields
+Authors: Dirk Kreimer and Karen Yeats
+Abstract: We study field diffeomorphisms $\Phi(x)= F(\rho(x))=a_0\rho(x)+a_1\rho^2(x)+\ldots=\sum_{j+0}^\infty a_j \rho^{j+1}$, for free and interacting quantum fields $\Phi$. We find that the theory is invariant under such diffeomorphisms if and only if kinematic renormalization schemes are used.

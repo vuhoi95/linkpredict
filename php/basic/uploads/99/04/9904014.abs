@@ -1,0 +1,4 @@
+Paper: 9904014
+Title: Vacuum structure of gauge theory on lattice with two parallel plaquette  action
+Authors: K. Farakos and G. K. Savvidy
+Abstract: We perform Monte Carlo simulations of a lattice gauge system with an action which contains two parallel plaquettes. The action is defined as a product of gauge group variables over two parallel plaquettes belonging to a given three-dimensional cube. The peculiar property of this system is that it has strong degeneracy of the vacuum state inherited from corresponding gonihedric $Z_2$ gauge spin system. These vacuua are well separated and can not be connected by a gauge transformation. We measure different observables in these vacuua and compare their properties.

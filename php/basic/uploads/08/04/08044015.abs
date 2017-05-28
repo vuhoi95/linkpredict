@@ -1,0 +1,4 @@
+Paper: 08044015
+Title: Conformal Relativistic Viscous Hydrodynamics: Applications to RHIC  results at sqrt(s_NN) = 200 GeV
+Authors: Matthew Luzum and Paul Romatschke
+Abstract: A new set of equations for relativistic viscous hydrodynamics that captures both weak-coupling and strong-coupling physics to second order in gradients has been developed recently. We apply this framework to bulk physics at RHIC, both for standard (Glauber-type) as well as for Color-Glass-Condensate initial conditions and show that the results do not depend strongly on the values for the second-order transport coefficients. Results for multiplicity, radial flow and elliptic flow are presented and we quote the ratio of viscosity over entropy density for which our hydrodynamic model is consistent with experimental data. For Color-Glass-Condensate initial conditions, early thermalization does not seem to be required in order for hydrodynamics to describe charged hadron elliptic flow.

@@ -1,0 +1,4 @@
+Paper: 10112656
+Title: A Symbolic Summation Approach to Feynman Integral Calculus
+Authors: Johannes Bluemlein and Sebastian Klein and Carsten Schneider and Flavia Stan
+Abstract: Given a Feynman parameter integral, depending on a single discrete variable $N$ and a real parameter $\epsilon$, we discuss a new algorithmic framework to compute the first coefficients of its Laurent series expansion in $\epsilon$. In a first step, the integrals are expressed by hypergeometric multi-sums by means of symbolic transformations. Given this sum format, we develop new summation tools to extract the first coefficients of its series expansion whenever they are expressible in terms of indefinite nested product-sum expressions. In particular, we enhance the known multi-sum algorithms to derive recurrences for sums with complicated boundary conditions, and we present new algorithms to find formal Laurent series solutions of a given recurrence relation.

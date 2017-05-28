@@ -1,0 +1,4 @@
+Paper: 160708560
+Title: Digital Quantum Simulation of Minimal AdS/CFT
+Authors: L. García-Álvarez and I. L. Egusquiza and L. Lamata and A. del Campo and J. Sonner and E. Solano
+Abstract: We propose the digital quantum simulation of a minimal AdS/CFT model in controllable quantum platforms. We consider the Sachdev-Ye-Kitaev model describing interacting Majorana fermions with randomly distributed all-to-all couplings, encoding nonlocal fermionic operators onto qubits to efficiently implement their dynamics via digital techniques. Moreover, we also give a method for probing non-equilibrium dynamics and the scrambling of information. Finally, our approach serves as a protocol for reproducing a simplified low-dimensional model of quantum gravity in advanced quantum platforms as trapped ions and superconducting circuits.

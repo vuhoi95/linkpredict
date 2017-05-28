@@ -1,0 +1,4 @@
+Paper: 10032284
+Title: Gauge fields on noncommutative geometries with curvature
+Authors: Maja Buric and Harald Grosse and John Madore
+Abstract: It was shown recently that the lagrangian of the Grosse-Wulkenhaar model can be written as lagrangian of the scalar field propagating in a curved noncommutative space. In this interpretation, renormalizability of the model is related to the interaction with the background curvature which introduces explicit coordinate dependence in the action. In this paper we construct the $U_1$ gauge field on the same noncommutative space: since covariant derivatives contain coordinates, the Yang-Mills action is again coordinate dependent. To obtain a two-dimensional model we reduce to a subspace, which results in splitting of the degrees of freedom into a gauge and a scalar. We define the gauge fixing and show the BRST invariance of the quantum action.

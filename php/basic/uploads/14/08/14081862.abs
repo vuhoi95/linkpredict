@@ -1,0 +1,4 @@
+Paper: 14081862
+Title: Feynman integrals and iterated integrals on moduli spaces of curves of  genus zero
+Authors: Christian Bogner and Francis Brown
+Abstract: This paper describes algorithms for the exact symbolic computation of period integrals on moduli spaces $\mathcal{M}_{0,n}$ of curves of genus $0$ with $n$ ordered marked points, and applications to the computation of Feynman integrals.

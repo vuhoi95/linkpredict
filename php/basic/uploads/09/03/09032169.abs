@@ -1,0 +1,4 @@
+Paper: 09032169
+Title: A Comment on Kerr-CFT and Wald Entropy
+Authors: Chethan Krishnan and Stanislav Kuperstein
+Abstract: We point out that the entropies of black holes in general diffeomorphism invariant theories, computed using the Kerr-CFT correspondence and the Wald formula (as implemented in the entropy function formalism), need not always agree. A simple way to illustrate this is to consider Einstein-Gauss-Bonnet gravity in four dimensions, where the Gauss-Bonnet term is topological. This means that the central charge of Kerr-CFT computed in the Barnich-Brandt-Compere formalism remains the same as in Einstein gravity, while the entropy computed using the entropy function gives a universal correction proportional to the Gauss-Bonnet coupling. We argue that at least in this example, the Kerr-CFT result is the physically reasonable one. The resolution to this discrepancy might lie in a better understanding of boundary terms.

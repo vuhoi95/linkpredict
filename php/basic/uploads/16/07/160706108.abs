@@ -1,0 +1,4 @@
+Paper: 160706108
+Title: Bose and Fermi Statistics and the Regularization of the Nonrelativistic  Jacobian for the Scale Anomaly
+Authors: Chris L. Lin and Carlos R. Ordonez
+Abstract: We regulate in Euclidean space the Jacobian under scale transformations for two-dimensional nonrelativistic fermions and bosons interacting via contact interactions and compare the resulting scaling anomalies. For fermions, Grassmannian integration inverts the Jacobian: however, this effect is cancelled by the regularization procedure and a result similar to that of bosons is attained. We show the independence of the result with respect to the regulating function, and show the robustness of our methods by comparing the procedure with an effective potential method using both cutoff and $\zeta$-function regularization.

@@ -1,0 +1,4 @@
+Paper: 9912004
+Title: Microscopic Universality and the Chiral Phase Transition in two Flavor  QCD
+Authors: F. Farchioni and Ph. de Forcrand and I. Hip and C. B. Lang and K. Splittorff
+Abstract: We re-analyze data from available finite-temperature QCD simulations near the chiral transition, with the help of Chiral Random Matrix Theory (chRMT). Statistical properties of the lowest-lying eigenvalues of the staggered Dirac operator for SU(3) lattice gauge theory with dynamical fermions are examined. We consider temperatures below, near, and above the critical temperature $T_c$ for the chiral phase transition. Below and above $T_c$ the statistics are in agreement with the exact analytical predictions in the microscopic scaling regime. Above $T_c$ we observe a gap in the spectral density and a distribution compatible with the Airy distribution. Near $T_c$ the eigenvalue correlations appear inconsistent with chRMT.

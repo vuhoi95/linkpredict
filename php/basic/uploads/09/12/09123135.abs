@@ -1,0 +1,4 @@
+Paper: 09123135
+Title: Dynamic critical phenomena from spectral functions on the lattice
+Authors: J. Berges and S. Schlichting and D. Sexty
+Abstract: We investigate spectral functions in the vicinity of the critical temperature of a second-order phase transition. Since critical phenomena in quantum field theories are governed by classical dynamics, universal properties can be computed using real-time lattice simulations. For the example of a relativistic single-component scalar field theory in 2+1 dimensions, we compute the spectral function described by universal scaling functions and extract the dynamic critical exponent z. Together with exactly known static properties of this theory, we obtain a verification from first principles that the relativistic theory is well described by the dynamic universality class of relaxational models with conserved density (Model C).

@@ -1,0 +1,4 @@
+Paper: 13111659
+Title: Primitive forms via polyvector fields
+Authors: Changzheng Li and Si Li and Kyoji Saito
+Abstract: We develop a complex differential geometric approach to the theory of higher residues and primitive forms from the viewpoint of Kodaira-Spencer gauge theory, unifying the semi-infinite period maps for Calabi-Yau models and Landau-Ginzburg models. We give an explicit perturbative construction of primitive forms with respect to opposite filtrations and primitive elements. This leads to a concrete algorithm to compute the Taylor expansions of primitive forms as well as the description of their moduli space for all weighted homogenous cases. As an example, we present unknown perturbative expressions for the primitive form of E_12 singularity and illustrate its application to Landau-Ginzburg mirror symmetry with FJRW-theory.

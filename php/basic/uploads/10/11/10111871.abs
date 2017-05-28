@@ -1,0 +1,4 @@
+Paper: 10111871
+Title: PT-symmetric quantum state discrimination
+Authors: Carl M. Bender and Dorje C. Brody and Joao Caldeira and Bernard K. Meister
+Abstract: Suppose that a system is known to be in one of two quantum states, $|\psi_1 > $ or $|\psi_2 >$. If these states are not orthogonal, then in conventional quantum mechanics it is impossible with one measurement to determine with certainty which state the system is in. However, because a non-Hermitian PT-symmetric Hamiltonian determines the inner product that is appropriate for the Hilbert space of physical states, it is always possible to choose this inner product so that the two states $|\psi_1 > $ and $|\psi_2 > $ are orthogonal. Thus, quantum state discrimination can, in principle, be achieved with a single measurement.

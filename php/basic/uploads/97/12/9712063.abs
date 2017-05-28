@@ -1,0 +1,4 @@
+Paper: 9712063
+Title: Volume elements of spacetime and a quartet of scalar fields
+Authors: Frank Gronwald and Uwe Muench and Alfredo Macías and Friedrich W. Hehl
+Abstract: Starting with a `bare' 4-dimensional differential manifold as a model of spacetime, we discuss the options one has for defining a volume element which can be used for physical theories. We show that one has to prescribe a scalar density \sigma. Whereas conventionally \sqrt{|\det g_{ij}|} is used for that purpose, with g_{ij} as the components of the metric, we point out other possibilities, namely \sigma as a `dilaton' field or as a derived quantity from either a linear connection or a quartet of scalar fields, as suggested by Guendelman and Kaganovich.

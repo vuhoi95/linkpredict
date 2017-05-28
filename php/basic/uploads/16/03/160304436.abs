@@ -1,0 +1,4 @@
+Paper: 160304436
+Title: Precision Islands in the Ising and $O(N)$ Models
+Authors: Filip Kos and David Poland and David Simmons-Duffin and Alessandro Vichi
+Abstract: We make precise determinations of the leading scaling dimensions and operator product expansion (OPE) coefficients in the 3d Ising, $O(2)$, and $O(3)$ models from the conformal bootstrap with mixed correlators. We improve on previous studies by scanning over possible relative values of the leading OPE coefficients, which incorporates the physical information that there is only a single operator at a given scaling dimension. The scaling dimensions and OPE coefficients obtained for the 3d Ising model, $(\Delta_{\sigma}, \Delta_{\epsilon},\lambda_{\sigma\sigma\epsilon}, \lambda_{\epsilon\epsilon\epsilon}) = (0.5181489(10), 1.412625(10), 1.0518537(41), 1.532435(19))$, give the most precise determinations of these quantities to date.

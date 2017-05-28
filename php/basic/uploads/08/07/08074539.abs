@@ -1,0 +1,4 @@
+Paper: 08074539
+Title: Resultants and Contour Integrals
+Authors: A. Morozov and Sh. Shakirov
+Abstract: Resultants are important special functions used in description of non-linear phenomena. Resultant $R_{r_1, ..., r_n}$ defines a condition of solvability for a system of $n$ homogeneous polynomials of degrees $r_1, ..., r_n$ in $n$ variables, just in the same way as determinant does for a system of linear equations. Unfortunately, there is a lack of convenient formulas for resultants when the number of variables is large. In this paper we use Cauchy contour integrals to obtain a polynomial formula for resultants, which is expected to be useful in applications.

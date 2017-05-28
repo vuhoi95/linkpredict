@@ -1,0 +1,4 @@
+Paper: 11081958
+Title: On an Airy matrix model with a logarithmic potential
+Authors: E. Brezin and S. Hikami
+Abstract: The Kontsevich-Penner model, an Airy matrix model with a logarithmic potential, may be derived from a simple Gaussian two-matrix model through a duality. In this dual version the Fourier transforms of the n-point correlation functions can be computed in closed form. Using Virasoro constraints, we find that in addition to the parameters $t_n$, which appears in the KdV hierarchies, one needs to introduce here half-integer indices $t_{n/2}$ . The free energy as a function of those parameters may be obtained from these Virasoro constraints. The large N limit follows from the solution to an integral equation. This leads to explicit computations for a number of topological invariants.

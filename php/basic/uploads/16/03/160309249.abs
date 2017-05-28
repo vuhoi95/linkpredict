@@ -1,0 +1,4 @@
+Paper: 160309249
+Title: Algebraic Bethe ansatz for the quantum group invariant open XXZ chain at  roots of unity
+Authors: Azat M. Gainutdinov and Rafael I. Nepomechie
+Abstract: For generic values of q, all the eigenvectors of the transfer matrix of the U_q sl(2)-invariant open spin-1/2 XXZ chain with finite length N can be constructed using the algebraic Bethe ansatz (ABA) formalism of Sklyanin. However, when q is a root of unity (q=exp(i pi/p) with integer p>1), the Bethe equations acquire continuous solutions, and the transfer matrix develops Jordan cells. Hence, there appear eigenvectors of two new types: eigenvectors corresponding to continuous solutions (exact complete p-strings), and generalized eigenvectors. We propose general ABA constructions for these two new types of eigenvectors. We present many explicit examples, and we construct complete sets of (generalized) eigenvectors for various values of p and N.

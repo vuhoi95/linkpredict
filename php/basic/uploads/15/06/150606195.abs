@@ -1,0 +1,4 @@
+Paper: 150606195
+Title: Mutual information and the F-theorem
+Authors: Horacio Casini and Marina Huerta and Robert C. Myers and Alexandre Yale
+Abstract: Mutual information is used as a purely geometrical regularization of entanglement entropy applicable to any QFT. A coefficient in the mutual information between concentric circular entangling surfaces gives a precise universal prescription for the monotonous quantity in the c-theorem for d=3. This is in principle computable using any regularization for the entropy, and in particular is a definition suitable for lattice models. We rederive the proof of the c-theorem for d=3 in terms of mutual information, and check our arguments with holographic entanglement entropy, a free scalar field, and an extensive mutual information model.

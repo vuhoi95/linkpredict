@@ -1,0 +1,4 @@
+Paper: 09031497
+Title: Quantum hashing with the icosahedral group
+Authors: Michele Burrello and Haitan Xu and Giuseppe Mussardo and Xin Wan
+Abstract: We study an efficient algorithm to hash any single qubit gate (or unitary matrix) into a braid of Fibonacci anyons represented by a product of icosahedral group elements. By representing the group elements by braid segments of different lengths, we introduce a series of pseudo-groups. Joining these braid segments in a renormalization group fashion, we obtain a Gaussian unitary ensemble of random-matrix representations of braids. With braids of length O[log(1/epsilon)], we can approximate all SU(2) matrices to an average error epsilon with a cost of O[log(1/epsilon)] in time. The algorithm is applicable to generic quantum compiling.

@@ -1,0 +1,4 @@
+Paper: 150704348
+Title: How to (Path-) Integrate by Differentiating
+Authors: Achim Kempf and David M. Jackson and Alejandro H. Morales
+Abstract: Recently, it was found that a new set of simple techniques allow one to conveniently express ordinary integrals through differentiation. These techniques add to the general toolbox for integration and integral transforms such as the Fourier and Laplace transforms. The new methods also yield new perturbative expansions when the integrals cannot be solved analytically. Here, we add new results, for example, on expressing the Laplace transform and its inverse in terms of derivatives. The new methods can be used to express path integrals in terms of functional differentiation, and they also suggest new perturbative expansions in quantum field theory.

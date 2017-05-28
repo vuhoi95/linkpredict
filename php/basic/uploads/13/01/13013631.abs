@@ -1,0 +1,4 @@
+Paper: 13013631
+Title: Testing the Yang-Mills vacuum wave functional Ansatz in 3+1 dimensions
+Authors: J. Greensite and S. Olejnik
+Abstract: We proposed a simple Ansatz for the vacuum wave functional (VWF) of SU(2) gauge theory in temporal gauge. In 2+1 dimensions, the Ansatz was shown to be a fairly good approximation to the true VWF of the theory. Relative probabilities of various test configurations in the vacuum can be computed in numerical simulations of lattice-regulated SU(2) gauge theory by the method proposed long ago by Greensite and Iwasaki. We report promising (albeit still preliminary) results of testing the proposed VWF in 3+1 dimensions on various sets of lattice gauge field configurations.

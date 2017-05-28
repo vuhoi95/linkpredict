@@ -1,0 +1,4 @@
+Paper: 9512013
+Title: Monte Carlo Simulation of the Three Dimensional Thirring Model
+Authors: Luigi Del Debbio and Simon Hands
+Abstract: We study the Thirring model in three spacetime dimensions, by means of Monte Carlo simulation on lattice sizes 8^3 and 12^3, for numbers of fermion flavors N_f=2,4,6. For sufficiently strong interaction strength, we find that spontaneous chiral symmetry breaking occurs for N_f=2,4, in accordance with the predictions of the Schwinger-Dyson approach. The phase transitions which occur are continuous and with critical scaling behaviour depending on N_f. For N_f=6 our results are preliminary, and no firm conclusions about the existence or otherwise of chiral symmetry breaking are possible

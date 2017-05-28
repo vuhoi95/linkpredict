@@ -1,0 +1,4 @@
+Paper: 09040612
+Title: The extended algebra of observables for Dirac fields and the trace  anomaly of their stress-energy tensor
+Authors: Claudio Dappiaggi and Thomas-Paul Hack and Nicola Pinamonti
+Abstract: We discuss from scratch the classical structure of Dirac spinors on an arbitrary globally hyperbolic, Lorentzian spacetime, their formulation as a locally covariant quantum field theory, and the associated notion of a Hadamard state. Eventually, we develop the notion of Wick polynomials for spinor fields, and we employ the latter to construct a covariantly conserved stress-energy tensor suited for back-reaction computations. We shall explicitly calculate its trace anomaly in particular.

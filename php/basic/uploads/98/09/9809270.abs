@@ -1,0 +1,4 @@
+Paper: 9809270
+Title: Compact support probability distributions in random matrix theory
+Authors: G. Akemann and G. M. Cicuta and L. Molinari and G. Vernizzi
+Abstract: We consider a generalization of the fixed and bounded trace ensembles introduced by Bronk and Rosenzweig up to an arbitrary polynomial potential. In the large-N limit we prove that the two are equivalent and that their eigenvalue distribution coincides with that of the "canonical" ensemble with measure exp[-$n$Tr V(M)]. The mapping of the corresponding phase boundaries is illuminated in an explicit example. In the case of a Gaussian potential we are able to derive exact expressions for the one- and two-point correlator for finite $n$, having finite support.

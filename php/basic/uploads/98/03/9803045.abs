@@ -1,0 +1,4 @@
+Paper: 9803045
+Title: Fermionic determinant as an overlap between bosonic vacua
+Authors: C. D. Fosco and F. A. Schaposnik
+Abstract: We find a representation for the determinant of a Dirac operator in an even number $D= 2 n$ of Euclidean dimensions as an overlap between two different vacua, each one corresponding to a bosonic theory with a quadratic action in $2 n + 1$ dimensions, with identical kinetic terms, but differing in their mass terms. This resembles the overlap representation of a fermionic determinant (although bosonic fields are used here). This representation may find applications to lattice field theory, as an alternative to other bosonized representations for Dirac determinants already proposed.

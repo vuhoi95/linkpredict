@@ -1,0 +1,4 @@
+Paper: 9704212
+Title: The Short Range RVB State of Even Spin Ladders: A Recurrent Variational  Approach
+Authors: German Sierra and Miguel A. Martin-Delgado
+Abstract: Using a recursive method we construct dimer and nondimer variational ansatzs of the ground state for the two-legged ladder, and compute the number of dimer coverings, the energy density and the spin correlation functions. The number of dimer coverings are given by the Fibonacci numbers for the dimer-RVB state and their generalization for the nondimer ones. Our method relies on the recurrent relations satisfied by the overlaps of the states with different lengths, which can be solved using generating functions. The recurrent relation method is applicable to other short range systems. Based on our results we make a conjecture about the bond amplitudes of the 2-leg ladder.

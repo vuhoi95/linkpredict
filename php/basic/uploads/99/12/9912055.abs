@@ -1,0 +1,4 @@
+Paper: 9912055
+Title: Random Matrix Theory and Dirac Spectrum at Nonzero Temperature and  Density
+Authors: Bernd A. Berg and Harald Markum and Rainer Pullirsch and Tilo Wettig
+Abstract: We investigate the eigenvalue spectrum of the staggered Dirac matrix in SU(3) gauge theory and in full QCD as well as in quenched U(1) theory on various lattice sizes. As a measure of the fluctuation properties of the eigenvalues, we study the nearest-neighbor spacing distribution, $P(s)$. We further study lattice QCD at nonzero chemical potential, $\mu$, by constructing the spacing distribution of adjacent eigenvalues in the complex plane. We find that in all regions of their phase diagrams, compact lattice gauge theories have bulk spectral correlations given by random matrix theory, which is an indication for quantum chaos.

@@ -1,0 +1,4 @@
+Paper: 9710061
+Title: Renormalized Contact Potential in Two Dimensions
+Authors: R. J. Henderson and S. G. Rajeev
+Abstract: We obtain for the attractive Dirac delta-function potential in two-dimensional quantum mechanics a renormalized formulation that avoids reference to a cutoff and running coupling constant. Dimensional transmutation is carried out before attempting to solve the system, and leads to an interesting eigenvalue problem in N-2 degrees of freedom (in the center of momentum frame) when there are N particles. The effective Hamiltonian for N-2 particles has a nonlocal attractive interaction, and the Schrodinger equation becomes an eigenvalue problem for the logarithm of this Hamiltonian. The 3-body case is examined in detail, and in this case a variational estimate of the ground-state energy is given.

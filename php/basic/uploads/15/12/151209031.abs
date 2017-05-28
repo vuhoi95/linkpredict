@@ -1,0 +1,4 @@
+Paper: 151209031
+Title: "Spread" restricted Young diagrams from a 2D WZNW dynamical quantum  group
+Authors: Ludmil Hadjiivanov and Paolo Furlan
+Abstract: The Fock representation of the Q-operator algebra for the diagonal WZNW model on SU(n) at level k, where Q is the matrix of the 2D WZNW "zero modes" generating certain dynamical quantum group, is finite dimensional and has a natural basis labeled by su(n) Young diagrams Y of "spread" not exceeding h := k+n (spr (Y) = #(columns) + #(rows))

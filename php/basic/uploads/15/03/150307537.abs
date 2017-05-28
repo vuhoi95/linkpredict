@@ -1,0 +1,4 @@
+Paper: 150307537
+Title: Hilbert Series for Constructing Lagrangians: expanding the  phenomenologist's toolbox
+Authors: Landon Lehman and Adam Martin
+Abstract: This note presents the Hilbert series technique to a wider audience in the context of constructing group-invariant Lagrangians. This technique provides a fast way to calculate the number of operators of a specified mass dimension for a given field content, and is a useful cross check on more well-known group theoretical methods. In addition, at least when restricted to invariants without derivatives, the Hilbert series technique supplies a robust way of counting invariants in scenarios which, due to the large number of fields involved or to high dimensional group representations, are intractable by traditional methods. We work out several practical examples.

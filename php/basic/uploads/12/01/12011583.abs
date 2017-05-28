@@ -1,0 +1,4 @@
+Paper: 12011583
+Title: The DFR-Algebra for Poisson Vector Bundles
+Authors: Michael Forger and Daniel V. Paulino
+Abstract: The aim of the present paper is to present the construction of a general family of $C^*$-algebras that includes, as a special case, the "quantum space-time algebra" first introduced by Doplicher, Fredenhagen and Roberts. To this end, we first review, within the $C^*$-algebra context, the Weyl-Moyal quantization procedure on a fixed Poisson vector space (a vector space equipped with a given bivector, which may be degenerate). We then show how to extend this construction to a Poisson vector bundle over a general manifold $M$, giving rise to a $C^*$-algebra which is also a module over $C_0(M)$. Apart from including the original DFR-model, this method yields a "fiberwise quantization" of general Poisson manifolds.

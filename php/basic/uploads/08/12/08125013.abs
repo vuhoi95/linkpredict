@@ -1,0 +1,4 @@
+Paper: 08125013
+Title: Resultant as Determinant of Koszul Complex
+Authors: A. Anokhina and A. Morozov and Sh. Shakirov
+Abstract: A linear map between two vector spaces has a very important characteristic: a determinant. In modern theory two generalizations of linear maps are intensively used: to linear complexes (the nilpotent chains of linear maps) and to non-linear mappings. Accordingly, determinant of a linear map has two generalizations: to determinants of complexes and to resultants. These quantities are in fact related: resultant of a non-linear map is determinant of the corresponding Koszul complex. We give an elementary introduction into these notions and interrelations, which will definitely play a role in the future development of theoretical physics.

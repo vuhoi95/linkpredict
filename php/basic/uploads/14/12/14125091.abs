@@ -1,0 +1,4 @@
+Paper: 14125091
+Title: Constructive Tensor Field Theory: The $T^4_3$ Model
+Authors: Thibault Delepouve and Vincent Rivasseau
+Abstract: We build constructively the simplest tensor field theory which requires some renormalization, namely the rank three tensor theory with quartic interactions and propagator inverse of the Laplacian on $U(1)^3$. This superrenormalizable tensor field theory has a power counting almost similar to ordinary $\phi^4_2$. Our construction uses the multiscale loop vertex expansion (MLVE) recently introduced in the context of an analogous vector model. However to prove analyticity and Borel summability of this model requires new estimates on the intermediate field integration, which is now of matrix rather than of scalar type.

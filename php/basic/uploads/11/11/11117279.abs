@@ -1,0 +1,4 @@
+Paper: 11117279
+Title: Leading order QCD in Coulomb gauge
+Authors: Peter Watson and Hugo Reinhardt
+Abstract: Coulomb gauge QCD in the first order formalism can be written in terms of a ghost-free, nonlocal action that ensures total color charge conservation via Gauss' law. Making an Ansatz whereby the nonlocal term (the Coulomb kernel) is replaced by its expectation value, the resulting Dyson-Schwinger equations can be derived. With a leading order truncation, these equations reduce to the gap equations for the static gluon and quark propagators obtained from a quasi-particle approximation to the canonical Hamiltonian approach. Moreover a connection to the heavy quark limit can be established, allowing an intuitive explanation for the charge constraint and infrared divergences.

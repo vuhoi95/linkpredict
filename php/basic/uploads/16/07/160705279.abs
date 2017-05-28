@@ -1,0 +1,4 @@
+Paper: 160705279
+Title: Spectrum of conformal gauge theories on a torus
+Authors: Alex Thomson and Subir Sachdev
+Abstract: Many model quantum spin systems have been proposed to realize critical points or phases described by 2+1 dimensional conformal gauge theories. On a torus of size $L$ and modular parameter $\tau$, the energy levels of such gauge theories equal $(1/L)$ times universal functions of $\tau$. We compute the universal spectrum of QED$_3$, a U(1) gauge theory with $N_f$ two-component massless Dirac fermions, in the large $N_f$ limit. We also allow for a Chern-Simons term at level $k$, and show how the topological $k$-fold ground state degeneracy in the absence of fermions transforms into the universal spectrum in the presence of fermions; these computations are performed at fixed $N_f/k$ in the large $N_f$ limit.

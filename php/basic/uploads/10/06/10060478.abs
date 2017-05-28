@@ -1,0 +1,4 @@
+Paper: 10060478
+Title: Exponential Formulas and Lie Algebra Type Star Products
+Authors: Stjepan Meljanac and Zoran Škoda and Dragutin Svrtan
+Abstract: Given formal differential operators $F_i$ on polynomial algebra in several variables $x_1,...,x_n$, we discuss finding expressions $K_l$ determined by the equation $\exp(\sum_i x_i F_i)(\exp(\sum_j q_j x_j)) = \exp(\sum_l K_l x_l)$ and their applications. The expressions for $K_l$ are related to the coproducts for deformed momenta for the noncommutative space-times of Lie algebra type and also appear in the computations with a class of star products. We find combinatorial recursions and derive formal differential equations for finding $K_l$. We elaborate an example for a Lie algebra $su(2)$, related to a quantum gravity application from the literature.

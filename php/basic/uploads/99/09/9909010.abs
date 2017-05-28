@@ -1,0 +1,4 @@
+Paper: 9909010
+Title: Pfaff tau-functions
+Authors: M. Adler and T. Shiota and P. van Moerbeke
+Abstract: Consider the evolution $$ \frac{\pl m_\iy}{\pl t_n}=\Lb^n m_\iy, \frac{\pl m_\iy}{\pl s_n}=-m_\iy(\Lb^\top)^n, $$ on bi- or semi-infinite matrices $m_\iy=m_\iy(t,s)$, with skew-symmetric initial data $m_{\iy}(0,0)$. Then, $m_\iy(t,-t)$ is skew-symmetric, and so the determinants of the successive "upper-left corners" vanish or are squares of Pfaffians. In this paper, we investigate the rich nature of these Pfaffians, as functions of t. This problem is motivated by questions concerning the spectrum of symmetric and symplectic random matrix ensembles.

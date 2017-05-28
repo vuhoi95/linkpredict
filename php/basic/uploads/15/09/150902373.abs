@@ -1,0 +1,4 @@
+Paper: 150902373
+Title: From "Dirac combs" to Fourier-positivity
+Authors: Bertrand G. Giraud and Robi Peschanski
+Abstract: Motivated by various problems in physics and applied mathematics, we look for constraints and properties of real Fourier-positive functions, i.e. with positive Fourier transforms. Properties of the "Dirac comb" distribution and of its tensor products in higher dimensions lead to Poisson resummation, allowing for a useful approximation formula of a Fourier transform in terms of a limited number of terms. A connection with the Bochner theorem on positive definiteness of Fourier-positive functions is discussed. As a practical application, we find simple and rapid analytic algorithms for checking Fourier-positivity in 1- and (radial) 2-dimensions among a large variety of real positive functions. This may provide a step towards a classification of positive positive-definite functions.

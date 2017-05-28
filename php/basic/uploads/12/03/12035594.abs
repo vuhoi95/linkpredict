@@ -1,0 +1,4 @@
+Paper: 12035594
+Title: Three-Tangle in Non-inertial Frame
+Authors: Mi-Ra Hwang and Eylee Jung and DaeKil Park
+Abstract: Let Alice, Bob, and Charlie initially share an arbitrary fermionic three-qubit pure state, whose three-tangle is $\tau_3^{(0)}$. It is shown within the single-mode approximation that if one party among the three of them moves with a uniform acceleration with respect to the other parties, the three-tangle reduces to $\tau_3^{(0)} \cos^2 r$, where $r$ denotes a statistical factor in Fermi-Dirac statistics.

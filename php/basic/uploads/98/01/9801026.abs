@@ -1,0 +1,4 @@
+Paper: 9801026
+Title: Correlation Functions of Finite XXZ model with Boundaries
+Authors: Yasuhiro Fujii and Miki Wadati
+Abstract: The finite XXZ model with boundaries is considered. We use the Matrix Product Ansatz (MPA), which was originally developed in the studies on the asymmetric simple exclusion process and the quantum antiferromagnetic spin chain. The MPA tells that the eigenstate of the Hamiltonian is constructed by the Zamolodchikov-Faddeev algebra (ZF-algebra) and the boundary states. We adopt the type I vertex operator of $U_q(\hat{sl}_2)$ as the ZF-algebra and realize the boundary states in the bosonic $U_q(\hat{sl}_2)$ form. The correlation functions are given by the product of the vertex operators and the bosonic boundary states. We express them in the integration forms.

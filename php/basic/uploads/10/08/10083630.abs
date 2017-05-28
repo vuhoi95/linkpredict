@@ -1,0 +1,4 @@
+Paper: 10083630
+Title: Spectral action for torsion with and without boundaries
+Authors: Bruno Iochum and Cyril Levy and Dmitri Vassilevich
+Abstract: We derive a commutative spectral triple and study the spectral action for a rather general geometric setting which includes the (skew-symmetric) torsion and the chiral bag conditions on the boundary. The spectral action splits into bulk and boundary parts. In the bulk, we clarify certain issues of the previous calculations, show that many terms in fact cancel out, and demonstrate that this cancellation is a result of the chiral symmetry of spectral action. On the boundary, we calculate several leading terms in the expansion of spectral action in four dimensions for vanishing chiral parameter $\theta$ of the boundary conditions, and show that $\theta=0$ is a critical point of the action in any dimension and at all orders of the expansion.

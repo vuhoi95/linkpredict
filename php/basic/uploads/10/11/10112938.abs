@@ -1,0 +1,4 @@
+Paper: 10112938
+Title: Holographic superconductors near the Breitenlohner-Freedman bound
+Authors: George Siopsis and Jason Therrien and Suphot Musiri
+Abstract: We discuss holographic superconductors in an arbitrary dimension whose dual black holes have scalar hair of mass near the Breitenlohner-Freedman bound. We concentrate on low temperatures in the probe limit. We show analytically that when the bound is saturated, the condensate diverges at low temperatures as $|\ln T|^\delta$, where $\delta$ depends on the dimension. This mild divergence was missed in earlier numerical studies. We calculate the conductivity analytically and show that at low temperatures, all poles move toward the real axis. We obtain an increasingly large number of poles which approach the zeroes of the Airy function in 2+1 dimensions and of the Gamma function in 3+1 dimensions. Our analytic results are in good agreement with numerical results whenever the latter are available.

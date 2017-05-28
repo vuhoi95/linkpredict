@@ -1,0 +1,4 @@
+Paper: 14050261
+Title: The a-theorem for the four-dimensional gauged vector model
+Authors: Howard J. Schnitzer and Ida G. Zadeh
+Abstract: The discussion of renormalization group flows in four-dimensional conformal field theories has recently focused on the a-anomaly. It has recently been shown that there is a monotonic decreasing function which interpolates between the ultraviolet and infrared fixed points such that \Delta a = a_UV - a_IR > 0. The analysis has been extended to weakly relevant and marginal deformations, though there are few explicit examples involving interacting theories. In this paper we examine the a-theorem in the context of the gauged vector model which couples the usual vector model to the Banks-Zaks model. We consider the model to leading order in the 1/N expansion, all orders in the coupling constant \lambda, and to second order in g^2. The model has both an IR and UV fixed point, and satisfies \Delta a > 0.

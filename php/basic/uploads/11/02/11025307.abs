@@ -1,0 +1,4 @@
+Paper: 11025307
+Title: Algorithmic derivation of functional renormalization group equations and  Dyson-Schwinger equations
+Authors: Markus Q. Huber and Jens Braun
+Abstract: We present the Mathematica application DoFun which allows to derive Dyson-Schwinger equations and renormalization group flow equations for n-point functions in a simple manner. DoFun offers several tools which considerably simplify the derivation of these equations from a given physical action. We discuss the application of DoFun by means of two different types of quantum field theories, namely a bosonic O(N) theory and the Gross-Neveu model.

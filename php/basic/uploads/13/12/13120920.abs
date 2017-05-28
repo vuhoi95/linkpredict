@@ -1,0 +1,4 @@
+Paper: 13120920
+Title: Three-sphere free energy for classical gauge groups
+Authors: Márk Mezei and Silviu S. Pufu
+Abstract: In this note, we calculate the $S^3$ free energy $F$ of 3-d ${\cal N}\geq 4$ supersymmetric gauge theories with $U(N)$, $O(N)$, and $USp(2N)$ gauge groups and matter hypermultiplets in the fundamental and two-index tensor representations. Supersymmetric localization reduces the computation of $F$ to a matrix model that we solve in the large $N$ limit using two different methods. The first method is a saddle point approximation first introduced in arXiv:1011.5487, which we extend to next-to-leading order in $1/N$. The second method generalizes the Fermi gas approach of arXiv:1110.4066 to theories with symplectic and orthogonal gauge groups, and yields an expression for $F$ valid to all orders in $1/N$. In developing the second method, we use a non-trivial generalization of the Cauchy determinant formula.

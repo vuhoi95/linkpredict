@@ -1,0 +1,4 @@
+Paper: 09111762
+Title: Supermatrix models, loop equations, and duality
+Authors: Patrick Desrosiers and Bertrand Eynard
+Abstract: We study integrals over Hermitian supermatrices of arbitrary size $p+q$, that are parametrized by an external field $X$ and a source $Y$, of respective size $m+n$ and $p+q$. We show that these integrals exhibit a simple topological expansion in powers of a formal parameter $\hbar$, which can be identified with $1/(p-q)$. The loop equation and the associated spectral curve are also obtained. The solutions to the loop equation are given in terms of the symplectic invariants introduced in arXiv:math-ph/0702045. The symmetry property of the latter objects allows us to prove a duality that relates supermatrix models in which the role of $X$ and $Y$ are interchanged.

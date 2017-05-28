@@ -1,0 +1,4 @@
+Paper: 12035129
+Title: Bounds on SCFTs from Conformal Perturbation Theory
+Authors: Daniel Green and David Shih
+Abstract: The operator product expansion (OPE) in 4d (super)conformal field theory is of broad interest, for both formal and phenomenological applications. In this paper, we use conformal perturbation theory to study the OPE of nearly-free fields coupled to SCFTs. Under fairly general assumptions, we show that the OPE of a chiral operator of dimension $\Delta = 1+\epsilon$ with its complex conjugate always contains an operator of dimension less than $2 \Delta$. Our bounds apply to Banks-Zaks fixed points and their generalizations, as we illustrate using several examples.

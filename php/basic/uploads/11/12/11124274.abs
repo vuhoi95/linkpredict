@@ -1,0 +1,4 @@
+Paper: 11124274
+Title: Testing the AdS/CFT correspondence by Monte Carlo calculation of BPS and  non-BPS Wilson loops in 4d N=4 super-Yang-Mills theory
+Authors: Masazumi Honda and Goro Ishiki and Jun Nishimura and Asato Tsuchiya
+Abstract: We test the AdS/CFT correspondence by calculating Wilson loops in N = 4 super Yang-Mills theory on R*S^3 in the planar limit. Our method is based on a novel large-N reduction, which reduces the problem to Monte Carlo calculations in the plane-wave matrix model or the BMN matrix model, which is a 1d gauge theory with 16 supercharges. By using the gauge-fixed momentumspace simulation, we obtain results respecting 16 supersymmetries. We report on the Monte Carlo results for the BPS circular Wilson loop, which reproduce the exact result up to strong coupling. As a future prospect, we calculate a track-shapedWilson loop from the gravity side, which shows that a clear test of the AdS/CFT for the non-BPS case is also feasible.

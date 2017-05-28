@@ -1,0 +1,4 @@
+Paper: 150106575
+Title: Quantum Gross-Pitaevskii Equation
+Authors: Jutho Haegeman and Damian Draxler and Vid Stojevic and J. Ignacio Cirac and Tobias J. Osborne and Frank Verstraete
+Abstract: We introduce a non-commutative generalization of the Gross-Pitaevskii equation for one-dimensional quantum gasses and quantum liquids. This generalization is obtained by applying the time-dependent variational principle to the variational manifold of continuous matrix product states. This allows for a full quantum description of many body system ---including entanglement and correlations--- and thus extends significantly beyond the usual mean-field description of the Gross-Pitaevskii equation, which is known to fail for (quasi) one-dimensional systems.

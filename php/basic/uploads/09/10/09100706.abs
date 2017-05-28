@@ -1,0 +1,4 @@
+Paper: 09100706
+Title: Entanglement entropy of two disjoint blocks in critical Ising models
+Authors: Vincenzo Alba and Luca Tagliacozzo and Pasquale Calabrese
+Abstract: We study the scaling of the Renyi and entanglement entropy of two disjoint blocks of critical Ising models, as function of their sizes and separations. We present analytic results based on conformal field theory that are quantitatively checked in numerical simulations of both the quantum spin chain and the classical two dimensional Ising model. Theoretical results match the ones obtained from numerical simulations only after taking properly into account the corrections induced by the finite length of the blocks to their leading scaling behavior.

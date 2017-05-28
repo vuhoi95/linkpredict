@@ -1,0 +1,4 @@
+Paper: 09092868
+Title: On the Classification of Brane Tilings
+Authors: John Davey and Amihay Hanany and Jurgis Pasukonis
+Abstract: We present a computationally efficient algorithm that can be used to generate all possible brane tilings. Brane tilings represent the largest class of superconformal theories with known AdS duals in 3+1 and also 2+1 dimensions and have proved useful for describing the physics of both D3 branes and also M2 branes probing Calabi-Yau singularities. This algorithm has been implemented and is used to generate all possible brane tilings with at most 6 superpotential terms, including consistent and inconsistent brane tilings. The collection of inconsistent tilings found in this work form the most comprehensive study of such objects to date.

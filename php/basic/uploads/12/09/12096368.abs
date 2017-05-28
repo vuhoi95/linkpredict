@@ -1,0 +1,4 @@
+Paper: 12096368
+Title: Tracing Through Scalar Entanglement
+Authors: Christopher P. Herzog and Michael Spillane
+Abstract: As a toy model of a gapped system, we investigate the entanglement entropy of a massive scalar field in 1+1 dimensions at nonzero temperature. In a small mass m and temperature T limit, we put upper and lower bounds on the two largest eigenvalues of the covariance matrix used to compute the entanglement entropy. We argue that the entanglement entropy has exp(-m/T) scaling in the limit m >> T. We comment on the relation between our work and the Ryu-Takayanagi proposal for computing the entanglement entropy holographically.

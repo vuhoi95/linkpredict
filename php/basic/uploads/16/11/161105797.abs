@@ -1,0 +1,4 @@
+Paper: 161105797
+Title: On the linearity of Regge trajectory at large transfer energy
+Authors: Carlos Cardona and Yu-tin Huang and Tsung-Hsuan Tsai
+Abstract: In this note we consider the four-point function of identical scalar operators in its Mellin representation. For CFTs, taking the large scaling dimension limit of the Mellin amplitude yields the flat-space S-matrix. Using this correspondence, and assuming that the Regge-limit of the Mellin amplitude vanishes, we prove that the resulting flat space S-matrix must have string-like linear Regge trajectory in the limit |s|>>|t|>>1. We also show that the Regge limit of Mellin amplitude is captured by the three-point coefficient of two scalars and one double trace operator in the large-spin limit. Using this, we can see that vanishing Regge behaviour occurs at small t'Hooft limit.

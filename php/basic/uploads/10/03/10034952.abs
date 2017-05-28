@@ -1,0 +1,4 @@
+Paper: 10034952
+Title: First Results from Lattice Simulation of the PWMM
+Authors: Simon Catterall and Greg van Anders
+Abstract: We present results of lattice simulations of the Plane Wave Matrix Model (PWMM). The PWMM is a theory of supersymmetric quantum mechanics that has a well-defined canonical ensemble. We simulate this theory by applying rational hybrid Monte Carlo techniques to a naive lattice action. We examine the strong coupling behaviour of the model focussing on the deconfinement transition.

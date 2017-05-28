@@ -1,0 +1,4 @@
+Paper: 14072090
+Title: Some remarks on Lefschetz thimbles and complex Langevin dynamics
+Authors: Gert Aarts and Lorenzo Bongiovanni and Erhard Seiler and Denes Sexty
+Abstract: Lefschetz thimbles and complex Langevin dynamics both provide a means to tackle the numerical sign problem prevalent in theories with a complex weight in the partition function, e.g. due to nonzero chemical potential. Here we collect some findings for the quartic model, and for U(1) and SU(2) models in the presence of a determinant, which have some features not discussed before, due to a singular drift. We find evidence for a relation between classical runaways and stable thimbles, and give an example of a degenerate fixed point. We typically find that the distributions sampled in complex Langevin dynamics are related to the thimble(s), but with some important caveats, for instance due to the presence of unstable fixed points in the Langevin dynamics.

@@ -1,0 +1,4 @@
+Paper: 9904003
+Title: Backlund transformations for many-body systems related to KdV
+Authors: A. N. W. Hone and V. B. Kuznetsov and O. Ragnisco
+Abstract: We present Backlund transformations (BTs) with parameter for certain classical integrable n-body systems, namely the many-body generalised Henon-Heiles, Garnier and Neumann systems. Our construction makes use of the fact that all these systems may be obtained as particular reductions (stationary or restricted flows) of the KdV hierarchy; alternatively they may be considered as examples of the reduced sl(2) Gaudin magnet. The BTs provide exact time-discretizations of the original (continuous) systems, preserving the Lax matrix and hence all integrals of motion, and satisfy the spectrality property with respect to the Backlund parameter.

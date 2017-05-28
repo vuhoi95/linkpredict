@@ -1,0 +1,4 @@
+Paper: 9612202
+Title: A Prediction for the 4-Loop βFunction
+Authors: John Ellis and Marek Karliner and Mark. A. Samuel
+Abstract: We predict that the four-loop contribution \beta_3 to the QCD \beta function in the MS-bar prescription is given by \beta_3\simeq 23,600(900) - 6,400(200) N_f + 350(70) N_f^2 + 1.5 N_f^3, where N_f is the number of flavours and the coefficient of N_f^3 is an exact result from large-N_f expansion. In the phenomenologically-interesting case N_f=3, we estimate \beta_3 = (7.6 \pm 0.1) x 10^3. We discuss our estimates of the errors in these QCD predictions, basing them on the demonstrated accuracy of our method in test applications to the O(N) \Phi^4 theory, and on variations in the details of our estimation method, which goes beyond conventional Pade approximants by estimating and correcting for subasymptotic deviations from exact results.

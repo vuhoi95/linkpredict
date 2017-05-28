@@ -1,0 +1,4 @@
+Paper: 09094381
+Title: On the monoidal structure of matrix bi-factorisations
+Authors: Nils Carqueville and Ingo Runkel
+Abstract: We investigate tensor products of matrix factorisations. This is most naturally done by formulating matrix factorisations in terms of bimodules instead of modules. If the underlying ring is C[x_1,...,x_N] we show that bimodule matrix factorisations form a monoidal category. This monoidal category has a physical interpretation in terms of defect lines in a two-dimensional Landau-Ginzburg model. There is a dual description via conformal field theory, which in the special case of W=x^d is an N=2 minimal model, and which also gives rise to a monoidal category describing defect lines. We carry out a comparison of these two categories in certain subsectors by explicitly computing 6j-symbols.

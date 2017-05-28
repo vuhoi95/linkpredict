@@ -1,0 +1,4 @@
+Paper: 11121056
+Title: Descent equations for superamplitudes
+Authors: Mathew Bullimore and David Skinner
+Abstract: At loop level in planar N=4 super Yang-Mills, the dual superconformal symmetry of tree amplitudes is lost. This is true even if one uses a supersymmetry preserving regulator, and even for finite quantities that remain dual conformally invariant. We examine this breaking from the dual point of view of the super Wilson Loop, tracing it to the difference between supersymmetries of the self-dual and of the full theories. We show that the anomaly is controlled by a descent equation that determines the derivative of an L-loop amplitude in terms of a single non-trivial integral of an (L-1)-loop amplitude. We propose that this equation can be used recursively to construct multi-loop amplitudes in a way that makes their transcendentality manifest.

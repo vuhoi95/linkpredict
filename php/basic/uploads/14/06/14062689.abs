@@ -1,0 +1,4 @@
+Paper: 14062689
+Title: On the Initial State and Consistency Relations
+Authors: Lasha Berezhiani and Justin Khoury
+Abstract: We study the effect of the initial state on the consistency conditions for adiabatic perturbations. In order to be consistent with the constraints of General Relativity, the initial state must be diffeomorphism invariant. As a result, we show that initial wavefunctional/density matrix has to satisfy a Slavnov-Taylor identity similar to that of the action. We then investigate the precise ways in which modified initial states can lead to violations of the consistency relations. We find two independent sources of violations: i) the state can include initial non-Gaussianities; ii) even if the initial state is Gaussian, such as a Bogoliubov state, the modified 2-point function can modify the q->0 analyticity properties of the vertex functional and result in violations of the consistency relations.

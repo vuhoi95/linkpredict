@@ -1,0 +1,4 @@
+Paper: 13125646
+Title: Ising Model from Intertwiners
+Authors: Bianca Dittrich and Jeff Hnybida
+Abstract: Spin networks appear in a number of areas, for instance in lattice gauge theories and in quantum gravity. They describe the contraction of intertwiners according to the underlying network. We show that a certain generating function of intertwiner contractions leads to the partition function of the 2d Ising model. This implies that the intertwiner model possesses a second order phase transition, thus leading to a continuum limit with propagating degrees of freedom.

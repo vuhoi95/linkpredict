@@ -1,0 +1,4 @@
+Paper: 9509003
+Title: Proofs of Two Conjectures Related to the Thermodynamic Bethe Ansatz
+Authors: Craig A. Tracy and Harold Widom
+Abstract: We prove that the solution to a pair of nonlinear integral equations arising in the thermodynamic Bethe Ansatz can be expressed in terms of the resolvent kernel of the linear integral operator with kernel exp(-u(theta)-u(theta'))/cosh[(1/2)(theta-theta')]

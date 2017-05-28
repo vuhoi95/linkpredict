@@ -1,0 +1,4 @@
+Paper: 12012431
+Title: Toric Fano varieties and Chern-Simons quivers
+Authors: Cyril Closset and Stefano Cremonesi
+Abstract: In favourable cases the low energy dynamics of a stack of M2-branes at a toric Calabi-Yau fourfold singularity can be described by an N=2 supersymmetric Chern-Simons quiver theory, but there still does not exists an "inverse algorithm" going from the toric data of the CY_4 to the CS quiver. We make progress in that direction by deriving CS quiver theories for M2-branes probing cones over a large class of geometries Ypq(B_4), which are S^3/Z_p bundles over toric Fano varieties B_4. We rely on the type IIA understanding of CS quivers, giving a firm string theory footing to our CS theories. In particular we give a derivation of some previously conjectured CS quivers in the case B_4= CP^1*CP^1, as field theories dual to M-theory backgrounds with nontrivial torsion G_4 fluxes.

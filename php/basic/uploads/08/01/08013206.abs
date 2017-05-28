@@ -1,0 +1,4 @@
+Paper: 08013206
+Title: Operator Approach to Boundary Liouville Theory
+Authors: Harald Dorn and George Jorjadze
+Abstract: We propose new methods for calculation of the discrete spectrum, the reflection amplitude and the correlation functions of boundary Liouville theory on a strip with Lorentzian signature. They are based on the structure of the vertex operator $V=e^{-\phi}$ in terms of the asymptotic operators. The methods first are tested for the particle dynamics in the Morse potential, where similar structures appear. Application of our methods to boundary Liouville theory reproduces the known results obtained earlier in the bootstrap approach, but there can arise a certain extension when the boundary parameters are near to critical values. Namely, in this case we have found up to four different equidistant series of discrete spectra, and the reflection amplitude is modified respectively.

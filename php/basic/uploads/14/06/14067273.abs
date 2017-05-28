@@ -1,0 +1,4 @@
+Paper: 14067273
+Title: Cluster Algebras and the Positive Grassmannian
+Authors: Miguel F. Paulos and Burkhard U. W. Schwab
+Abstract: Plabic graphs are intimately connected to the positroid stratification of the positive Grassmannian. The duals to these graphs are quivers, and it is possible to associate to them cluster algebras. For the top-cell graph of $Gr_{+}(k,n)$, this cluster algebra is the homogeneous coordinate ring of the corresponding positroid variety. We prove that the same statement holds for plabic graphs describing lower dimensional cells. In this way we obtain a map from the positroid strata onto cluster subalgebras of $Gr_{+}(k,n)$. We explore some of the consequences of this map for tree-level scattering amplitudes in $\mathcal N=4$ super Yang-Mills theory.

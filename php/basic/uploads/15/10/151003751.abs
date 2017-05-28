@@ -1,0 +1,4 @@
+Paper: 151003751
+Title: Asymptotically Limitless Quantum Energy Teleportation via Qudit Probes
+Authors: Guillaume Verdon-Akzam and Eduardo Martin-Martinez and Achim Kempf
+Abstract: We propose a modified Quantum Energy Teleportation (QET) scheme that uses arbitrary-dimensional qudit probes and polynomially localized Hamiltonians. We find that with an appropriate scaling of parameters, the teleported energy scales with the teleportation distance more favourably than the non-local tails of the Hamiltonians. We show that by allowing the exchange of arbitrary amounts of information between agents and in a suitable limit, an arbitrarily large amount of energy can be teleported through a massless quantum field.

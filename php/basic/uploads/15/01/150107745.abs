@@ -1,0 +1,4 @@
+Paper: 150107745
+Title: Spherical model of growing interfaces
+Authors: Malte Henkel and Xavier Durang
+Abstract: Building on an analogy between the ageing behaviour of magnetic systems and growing interfaces, the Arcetri model, a new exactly solvable model for growing interfaces is introduced, which shares many properties with the kinetic spherical model. The long-time behaviour of the interface width and of the two-time correlators and responses is analysed. For all dimensions $d\ne 2$, universal characteristics distinguish the Arcetri model from the Edwards-Wilkinson model, although for $d>2$ all stationary and non-equilibrium exponents are the same. For $d=1$ dimensions, the Arcetri model is equivalent to the $p=2$ spherical spin glass. For $2<d<4$ dimensions, its relaxation properties are related to the ones of a particle-reaction model, namely a bosonic variant of the diffusive pair-contact process. The global persistence exponent is also derived.

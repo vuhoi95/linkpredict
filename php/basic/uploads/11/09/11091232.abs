@@ -1,0 +1,4 @@
+Paper: 11091232
+Title: A critical look at the role of the bare parameters in the  renormalization of Phi-derivable approximations
+Authors: Urko Reinosa and Zsolt Szép
+Abstract: We revisit the renormalization of Phi-derivable approximations from a slightly different point of view than the one which is usually followed in previous works. We pay particular attention to the question of the existence of a solution to the self-consistent equation that defines the two-point function in the Cornwall-Jackiw-Tomboulis formalism and to the fact that some of the ultraviolet divergences which appear if one formally expands the solution in powers of the bare coupling do not always appear as divergences at the level of the solution itself. We discuss these issues using a particular truncation of the Phi functional, namely the simplest truncation which brings non-trivial momentum and field dependence to the two-point function.

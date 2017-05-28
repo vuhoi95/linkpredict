@@ -1,0 +1,4 @@
+Paper: 14078393
+Title: Dirac spectrum of one-flavor QCD at θ=0 and continuity of the  chiral condensate
+Authors: J. J. M. Verbaarschot and T. Wettig
+Abstract: We derive exact analytical expressions for the spectral density of the Dirac operator at fixed \theta-angle in the microscopic domain of one-flavor QCD. These results are obtained by performing the sum over topological sectors using novel identities involving sums of products of Bessel functions. Because the fermion determinant is not positive definite for negative quark mass, the usual Banks-Casher relation is not valid and has to be replaced by a different mechanism first observed for QCD at nonzero chemical potential. Using the exact results for the spectral density we explain how this mechanism results in a chiral condensate that remains constant when the quark mass changes sign.

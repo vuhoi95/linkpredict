@@ -1,0 +1,4 @@
+Paper: 150900428
+Title: Recursion Relations for Conformal Blocks
+Authors: João Penedones and Emilio Trevisani and Masahito Yamazaki
+Abstract: In the context of conformal field theories in general space-time dimension, we find all the possible singularities of the conformal blocks as functions of the scaling dimension $\Delta$ of the exchanged operator. In particular, we argue, using representation theory of parabolic Verma modules, that in odd spacetime dimension the singularities are only simple poles. We discuss how to use this information to write recursion relations that determine the conformal blocks. We first recover the recursion relation introduced in 1307.6856 for conformal blocks of external scalar operators. We then generalize this recursion relation for the conformal blocks associated to the four point function of three scalar and one vector operator. Finally we specialize to the case in which the vector operator is a conserved current.

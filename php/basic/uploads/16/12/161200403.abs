@@ -1,0 +1,4 @@
+Paper: 161200403
+Title: Exponential reduction of finite volume effects with twisted boundary  conditions
+Authors: Aleksey Cherman and Srimoyee Sen and Michael L. Wagman and Laurence G. Yaffe
+Abstract: Flavor-twisted boundary conditions can be used for exponential reduction of finite volume artifacts in flavor-averaged observables in lattice QCD calculations with $SU(N_f)$ light quark flavor symmetry. Finite volume artifact reduction arises from destructive interference effects in a manner closely related to the phase averaging which leads to large $N_c$ volume independence. With a particular choice of flavor-twisted boundary conditions, finite volume artifacts for flavor-singlet observables in a hypercubic spacetime volume are reduced to the size of finite volume artifacts in a spacetime volume with periodic boundary conditions that is four times larger.

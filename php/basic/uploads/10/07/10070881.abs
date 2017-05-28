@@ -1,0 +1,4 @@
+Paper: 10070881
+Title: Corrections to scaling for block entanglement in massive spin-chains
+Authors: Pasquale Calabrese and John Cardy and Ingo Peschel
+Abstract: We consider the Renyi entropies S_n in one-dimensional massive integrable models diagonalizable by means of corner transfer matrices (as Heisenberg and Ising spin chains). By means of explicit examples and using the relation of corner transfer matrix with the Virasoro algebra, we show that close to a conformal invariant critical point, when the correlation length xi is finite but large, the corrections to the scaling are of the unusual form xi^(-x/n), with x the dimension of a relevant operator in the conformal theory. This is reminiscent of the results for gapless chains and should be valid for any massive one-dimensional model close to a conformal critical point.

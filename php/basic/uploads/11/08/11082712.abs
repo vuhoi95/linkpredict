@@ -1,0 +1,4 @@
+Paper: 11082712
+Title: Large Representation Recurrences in Large N Random Unitary Matrix Models
+Authors: Joanna L. Karczmarek and Gordon W. Semenoff
+Abstract: In a random unitary matrix model at large N, we study the properties of the expectation value of the character of the unitary matrix in the rank k symmetric tensor representation. We address the problem of whether the standard semiclassical technique for solving the model in the large N limit can be applied when the representation is very large, with k of order N. We find that the eigenvalues do indeed localize on an extremum of the effective potential; however, for finite but sufficiently large k/N, it is not possible to replace the discrete eigenvalue density with a continuous one. Nonetheless, the expectation value of the character has a well-defined large N limit, and when the discreteness of the eigenvalues is properly accounted for, it shows an intriguing approximate periodicity as a function of k/N.

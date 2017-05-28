@@ -1,0 +1,4 @@
+Paper: 150203125
+Title: Computing observables in curved multifield models of inflation - A guide  (with code) to the transport method
+Authors: Mafalda Dias and Jonathan Frazer and David Seery
+Abstract: We describe how to apply the transport method to compute inflationary observables in a broad range of multiple-field models. The method is efficient and encompasses scenarios with curved field-space metrics, violations of slow-roll conditions and turns of the trajectory in field space. It can be used for an arbitrary mass spectrum, including massive modes and models with quasi-single-field dynamics. In this note we focus on practical issues. It is accompanied by a Mathematica code which can be used to explore suitable models, or as a basis for further development.

@@ -1,0 +1,4 @@
+Paper: 14124765
+Title: Tensor calculus with open-source software: the SageManifolds project
+Authors: Eric Gourgoulhon and Michal Bejger and Marco Mancini
+Abstract: The SageManifolds project aims at extending the mathematics software system Sage towards differential geometry and tensor calculus. Like Sage, SageManifolds is free, open-source and is based on the Python programming language. We discuss here some details of the implementation, which relies on Sage's parent/element framework, and present a concrete example of use.

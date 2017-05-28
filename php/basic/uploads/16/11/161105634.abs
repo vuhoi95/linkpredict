@@ -1,0 +1,4 @@
+Paper: 161105634
+Title: Topological defects with power-law tails
+Authors: Roman V. Radomskiy and Elizaveta V. Mrozovskaya and Vakhid A. Gani and Ivan C. Christov
+Abstract: We study interactions of kinks and antikinks of the $(1+1)$-dimensional $\varphi^8$ model. In this model, there are kinks with mixed tail asymptotics: power-law behavior at one infinity versus exponential decay towards the other. We show that if a kink and an antikink face each other in way such that their power-law tails determine the kink--antikink interaction, then the force of their interaction decays slowly, as some negative power of distance between them. We estimate the force numerically using the collective coordinate approximation, and analytically via Manton's method (making use of formulas derived for the kink and antikink tail asymptotics).

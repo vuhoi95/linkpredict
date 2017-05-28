@@ -1,0 +1,4 @@
+Paper: 160700463
+Title: Computations of superstring amplitudes in pure spinor formalism via  Cadabra
+Authors: Ke-Sheng Sun and Xiang-Mao Ding and Fei Sun and Hai-Bin Zhang
+Abstract: The discovery of pure spinor formalism makes the computation of superstring scattering amplitudes possible. In this paper, we will illustrate how computer algebra system Cadabra is used in computing the supersymmetric amplitude in pure spinor formalism and provide the source code that computes the tree-level massless 5-gluon amplitude.

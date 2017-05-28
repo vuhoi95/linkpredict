@@ -1,0 +1,4 @@
+Paper: 08014792
+Title: Minimal duality breaking in the Kallen-Lehman approach to 3D Ising  model: a numerical test
+Authors: Marco Astorino and Fabrizio Canfora and Cristian Martinez and Luca Parisi
+Abstract: A Kallen-Lehman approach to 3D Ising model is analyzed numerically both at low and high temperature. It is shown that, even assuming a minimal duality breaking, one can fix three parameters of the model to get a very good agreement with the MonteCarlo results at high temperatures. With the same parameters the agreement is satisfactory both at low and near critical temperatures. How to improve the agreement with MonteCarlo results by introducing a more general duality breaking is shortly discussed.

@@ -1,0 +1,4 @@
+Paper: 150300417
+Title: Complex Langevin method applied to the 2D $SU(2)$ Yang-Mills theory
+Authors: Hiroki Makino and Hiroshi Suzuki and Daisuke Takeda
+Abstract: The complex Langevin method in conjunction with the gauge cooling is applied to the two-dimensional lattice $SU(2)$ Yang-Mills theory that is analytically solvable. We obtain strong numerical evidence that at large Langevin time the expectation value of the plaquette variable converges, but to a wrong value when the complex phase of the gauge coupling is large.

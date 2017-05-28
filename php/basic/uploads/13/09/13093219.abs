@@ -1,0 +1,4 @@
+Paper: 13093219
+Title: Unimodular homotopy algebras and Chern-Simons theory
+Authors: Christopher Braun and Andrey Lazarev
+Abstract: Quantum Chern-Simons invariants of differentiable manifolds are analyzed from the point of view of homological algebra. Given a manifold M and a Lie (or, more generally, an L-infinity) algebra g, the vector space H^*(M) \otimes g has the structure of an L-infinity algebra whose homotopy type is a homotopy invariant of M. We formulate necessary and sufficient conditions for this L-infinity algebra to have a quantum lift. We also obtain structural results on unimodular L-infinity algebras and introduce a doubling construction which links unimodular and cyclic L-infinity algebras.

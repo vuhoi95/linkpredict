@@ -1,0 +1,4 @@
+Paper: 11031608
+Title: New Symbolic Tools for Differential Geometry, Gravitation, and Field  Theory
+Authors: I. M. Anderson and C. G. Torre
+Abstract: DifferentialGeometry is a Maple software package which symbolically performs fundamental operations of calculus on manifolds, differential geometry, tensor calculus, Lie algebras, Lie groups, transformation groups, jet spaces, and the variational calculus. These capabilities, combined with dramatic recent improvements in symbolic approaches to solving algebraic and differential equations, have allowed for development of powerful new tools for solving research problems in gravitation and field theory. The purpose of this paper is to describe some of these new tools and present some advanced applications involving: Killing vector fields and isometry groups, Killing tensors and other tensorial invariants, algebraic classification of curvature, and symmetry reduction of field equations.

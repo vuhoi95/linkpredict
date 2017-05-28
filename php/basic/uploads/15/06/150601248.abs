@@ -1,0 +1,4 @@
+Paper: 150601248
+Title: A Note on Physical Mass and the Thermodynamics of AdS-Kerr Black Holes
+Authors: Brett McInnes and Yen Chin Ong
+Abstract: As with any black hole, asymptotically anti-de Sitter Kerr black holes are described by a small number of parameters, including a "mass parameter" $M$ that reduces to the AdS-Schwarzschild mass in the limit of vanishing angular momentum. In sharp contrast to the asymptotically flat case, the horizon area of such a black hole increases with the angular momentum parameter $a$ if one fixes $M$, this appears to mean that the Penrose process in this case would violate the Second Law of black hole thermodynamics. We show that the correct procedure is to fix not $M$ but rather the "physical" mass $E=M/(1-a^2/L^2)^2$, this is motivated by the First Law. For then the horizon area decreases with $a$. We recommend that $E$ always be used as the mass in physical processes: for example, in attempts to "over-spin" AdS-Kerr black holes.

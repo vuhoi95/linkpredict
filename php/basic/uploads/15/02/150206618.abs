@@ -1,0 +1,4 @@
+Paper: 150206618
+Title: Holographic codes
+Authors: Jose I. Latorre and German Sierra
+Abstract: There exists a remarkable four-qutrit state that carries absolute maximal entanglement in all its partitions. Employing this state, we construct a tensor network that delivers a holographic many body state, the H-code, where the physical properties of the boundary determine those of the bulk. This H-code is made of an even superposition of states whose relative Hamming distances are exponentially large with the size of the boundary. This property makes H-codes natural states for a quantum memory. H-codes exist on tori of definite sizes and get classified in three different sectors characterized by the sum of their qutrits on cycles wrapped through the boundaries of the system. We construct a parent Hamiltonian for the H-code which is highly non local and finally we compute the topological entanglement entropy of the H-code.

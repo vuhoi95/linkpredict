@@ -1,0 +1,4 @@
+Paper: 09032472
+Title: Exact Results for Perturbative Chern-Simons Theory with Complex Gauge  Group
+Authors: Tudor Dimofte and Sergei Gukov and Jonatan Lenells and Don Zagier
+Abstract: We develop several methods that allow us to compute all-loop partition functions in perturbative Chern-Simons theory with complex gauge group G_C, sometimes in multiple ways. In the background of a non-abelian irreducible flat connection, perturbative G_C invariants turn out to be interesting topological invariants, which are very different from finite type (Vassiliev) invariants obtained in a theory with compact gauge group G. We explore various aspects of these invariants and present an example where we compute them explicitly to high loop order. We also introduce a notion of "arithmetic TQFT" and conjecture (with supporting numerical evidence) that SL(2,C) Chern-Simons theory is an example of such a theory.

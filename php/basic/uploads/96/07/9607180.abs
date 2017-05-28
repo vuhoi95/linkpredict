@@ -1,0 +1,4 @@
+Paper: 9607180
+Title: Field Theories for Learning Probability Distributions
+Authors: William Bialek and Curtis G. Callan and S. P. Strong
+Abstract: Imagine being shown $N$ samples of random variables drawn independently from the same distribution. What can you say about the distribution? In general, of course, the answer is nothing, unless we have some prior notions about what to expect. From a Bayesian point of view we need an {\it a priori} distribution on the space of possible probability distributions, which defines a scalar field theory. In one dimension, free field theory with a constraint provides a tractable formulation of the problem, and we also discus generalizations to higher dimensions.

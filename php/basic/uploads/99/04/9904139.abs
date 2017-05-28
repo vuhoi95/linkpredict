@@ -1,0 +1,4 @@
+Paper: 9904139
+Title: Projective modules over non-commutative tori: classification of modules  with constant curvature connection
+Authors: Alexander Astashkevich and Albert Schwarz
+Abstract: We study finitely generated projective modules over noncommutative tori. We prove that for every module $E$ with constant curvature connection the corresponding element $[E]$ of the K-group is a generalized quadratic exponent and, conversely, for every positive generalized quadratic exponent $\mu$ in the K-group one can find such a module $E$ with constant curvature connection that $[E] = \mu $. In physical words we give necessary and sufficient conditions for existence of 1/2 BPS states in terms of topological numbers.

@@ -1,0 +1,4 @@
+Paper: 9805360
+Title: Time evolution of correlation functions for classical and quantum  anharmonic oscillators
+Authors: Luis M. A. Bettencourt and C. Wetterich
+Abstract: The time evolution of the correlation functions of an ensemble of anharmonic N-component oscillators with O(N) symmetry is described by a flow equation, exact up to corrections of order $1/N^2$. We find effective irreversibility. Nevertheless, analytical and numerical investigation reveals that the system does not reach thermal equilibrium for large times, even when $N\to \infty$. Depending on the initial distribution, the dynamics is asymptotically stable or it exhibits growing modes which break the conditions for the validity of the 1/N expansion for large time. We investigate both classical and quantum systems, the latter being the limit of an O(N) symmetric scalar quantum field theory in zero spatial dimensions.

@@ -1,0 +1,4 @@
+Paper: 14098180
+Title: Localized shocks
+Authors: Daniel A. Roberts and Douglas Stanford and Leonard Susskind
+Abstract: We study products of precursors of spatially local operators, $W_{x_{n}}(t_{n}) ... W_{x_1}(t_1)$, where $W_x(t) = e^{-iHt} W_x e^{iHt}$. Using chaotic spin-chain numerics and gauge/gravity duality, we show that a single precursor fills a spatial region that grows linearly in $t$. In a lattice system, products of such operators can be represented using tensor networks. In gauge/gravity duality, they are related to Einstein-Rosen bridges supported by localized shock waves. We find a geometrical correspondence between these two descriptions, generalizing earlier work in the spatially homogeneous case.

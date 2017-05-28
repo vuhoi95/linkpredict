@@ -1,0 +1,4 @@
+Paper: 161001130
+Title: Linde problem in Yang-Mills theory compactified on $\mathbb{R}^2 \times  \mathbb{T}^2$
+Authors: Eduardo S. Fraga and Daniel Kroff and Jorge Noronha
+Abstract: We investigate the perturbative expansion in $SU(3)$ Yang-Mills theory compactified on $\mathbb{R}^2\times \mathbb{T}^2$ where the compact space is a torus $\mathbb{T}^2= S^1_{\beta}\times S^1_{L}$, with $S^1_{\beta}$ being a thermal circle with period $\beta=1/T$ ($T$ is the temperature) while $S^1_L$ is a circle with length $L=1/\Lambda$ where $\Lambda$ is an energy scale. A Linde-type analysis indicates that perturbative calculations for the pressure in this theory break down already at order $\mathcal{O}(g^2)$ due to the presence of a non-perturbative scale $\sim g \sqrt{T\Lambda}$. We conjecture that a similar result should hold if the torus is replaced by any compact surface of genus one.

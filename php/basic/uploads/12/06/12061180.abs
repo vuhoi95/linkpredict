@@ -1,0 +1,4 @@
+Paper: 12061180
+Title: Enhanced quantization on the circle
+Authors: Joseph Ben Geloun and John R. Klauder
+Abstract: We apply the quantization scheme introduced in [arXiv:1204.2870] to a particle on a circle. We find that the quantum action functional restricted to appropriate coherent states can be expressed as the classical action plus $\hbar$-corrections. This result extends the examples presented in the cited paper.

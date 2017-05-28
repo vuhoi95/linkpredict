@@ -1,0 +1,4 @@
+Paper: 9804049
+Title: An Introduction to Coordinate-free Quantization and its Application to  Constrained Systems
+Authors: John R. Klauder and Sergei V. Shabanov
+Abstract: Canonical quantization entails using Cartesian coordinates, and Cartesian coordinates exist only in flat spaces. This situation can either be questioned or accepted. In this paper we offer a brief and introductory overview of how a flat phase space metric can be incorporated into a covariant, coordinate-free quantization procedure involving a continuous-time (Wiener measure) regularization of traditional phase space path integrals. Additionally we show how such procedures can be extended to incorporate systems with constraints and illustrate that extension for special systems.

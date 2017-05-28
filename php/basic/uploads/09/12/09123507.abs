@@ -1,0 +1,4 @@
+Paper: 09123507
+Title: Some recursive formulas for Selberg-type integrals
+Authors: Sergio Iguri and Toufik Mansour
+Abstract: A set of recursive relations satisfied by Selberg-type integrals involving monomial symmetric polynomials are derived, generalizing previously known results. These formulas provide a well-defined algorithm for computing Selberg-Schur integrals whenever the Kostka numbers relating Schur functions and the corresponding monomial polynomials are explicitly known. We illustrate the usefulness of our results discussing some interesting examples.

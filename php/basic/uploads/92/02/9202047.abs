@@ -1,0 +1,4 @@
+Paper: 9202047
+Title: Quasi-Quantum Groups, Knots, Three-Manifolds, and Topological Field  Theory
+Authors: Daniel Altschuler and Antoine Coste
+Abstract: We show how to construct, starting from a quasi-Hopf algebra, or quasi-quantum group, invariants of knots and links. In some cases, these invariants give rise to invariants of the three-manifolds obtained by surgery along these links. This happens for a finite-dimensional quasi-quantum group, whose definition involves a finite group $G$, and a 3-cocycle $\om$, which was first studied by Dijkgraaf, Pasquier and Roche. We treat this example in more detail, and argue that in this case the invariants agree with the partition function of the topological field theory of Dijkgraaf and Witten depending on the same data $G, \,\om$.

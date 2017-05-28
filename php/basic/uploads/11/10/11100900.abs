@@ -1,0 +1,4 @@
+Paper: 11100900
+Title: Non-adiabatic Quantum Vlasov Equation for Schwinger Pair Production
+Authors: Sang Pyo Kim and Christian Schubert
+Abstract: Using Lewis-Riesenfeld theory, we derive an exact non-adiabatic master equation describing the time evolution of the QED Schwinger pair production rate for a general time-varying electric field. This equation can be written equivalently as a first-order matrix equation, as a Vlasov type integral equation, or as a third-order differential equation. In the last version it relates to the KdV equation, which allows us to construct an exact solution using the well-known one-soliton solution to that equation. The case of time-like delta function pulse fields is also shortly considered. We compare with previous approaches to the purely time-dependent field case.

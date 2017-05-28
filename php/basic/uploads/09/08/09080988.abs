@@ -1,0 +1,4 @@
+Paper: 09080988
+Title: A Monopole Index for N=4 Chern-Simons Theories
+Authors: Yosuke Imamura and Shuichi Yokoyama
+Abstract: We compute a certain index for an N=4 Chern-Simons theory with gauge group U(N)^r in the large N limit with taking account of monopole contribution, and compare it to the corresponding multi-particle index for M-theory in the dual geometry AdS_4 x X_7. The internal space X_7 has non-trivial two-cycles, and M2-branes wrapped on them contribute to the multi-particle index. We establish one-to-one map between r-1 independent magnetic charges on the gauge theory side and the same number of charges on the gravity side: the M-momentum and r-2 (=b_2(X_7)) wrapping numbers. With a certain assumption for the wrapped M2-brane contribution, we confirm the agreement of the indices for many sectors specified by the r-1 charges by using analytic and numerical methods.

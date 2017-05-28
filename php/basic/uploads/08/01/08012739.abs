@@ -1,0 +1,4 @@
+Paper: 08012739
+Title: Numerical tests of AdS/CFT at strong coupling
+Authors: David Berenstein and Randel Cotta and Rodrigo Leonardi
+Abstract: We study various correlation functions (two and three point functions) in a large $N$ matrix model of six commuting matrices with a numerical Monte Carlo algorithm. This is equivalent to a model of a gas of particles in six dimensions with a confining quadratic potential and logarithmic repulsions at finite temperature, where we are measuring the leading order non-gaussianities in the thermal fluctuations. This is a simplified model of the low energy dynamics of N=4 SYM at strong coupling. We find strong evidence that the simplified matrix model matches with the dual gravitational description of three point functions in the AdS/CFT correspondence.

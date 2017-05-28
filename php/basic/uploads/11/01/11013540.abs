@@ -1,0 +1,4 @@
+Paper: 11013540
+Title: A manifestly MHV Lagrangian for N=4 Yang-Mills
+Authors: Sudarshan Ananth and Stefano Kovacs and Sarthak Parikh
+Abstract: We derive a manifestly MHV Lagrangian for the N=4 supersymmetric Yang-Mills theory in light-cone superspace. This is achieved by constructing a canonical redefinition which maps the N=4 superfield and its conjugate to a new pair of superfields. In terms of these new superfields the N=4 Lagrangian takes a (non-polynomial) manifestly MHV form, containing vertices involving two superfields of negative helicity and an arbitrary number of superfields of positive helicity. We also discuss constraints satisfied by the new superfields, which ensure that they describe the correct degrees of freedom in the N=4 supermultiplet. We test our derivation by showing that an expansion of our superspace Lagrangian in component fields reproduces the correct gluon MHV vertices.

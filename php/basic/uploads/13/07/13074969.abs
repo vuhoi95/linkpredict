@@ -1,0 +1,4 @@
+Paper: 13074969
+Title: Phase structure of two-dimensional QED at zero temperature with  flavor-dependent chemical potentials and the role of multidimensional theta  functions
+Authors: Robert Lohmayer and Rajamani Narayanan
+Abstract: We consider QED on a two-dimensional Euclidean torus with $f$ flavors of massless fermions and flavor-dependent chemical potentials. The dependence of the partition function on the chemical potentials is reduced to a $(2f-2)$-dimensional theta function. At zero temperature, the system can exist in an infinite number of phases characterized by certain values of traceless number densities and separated by first-order phase transitions. Furthermore, there exist many points in the $(f-1)$-dimensional space of traceless chemical potentials where two or three phases can coexist for $f=3$ and two, three, four or six phases can coexist for $f=4$. We conjecture that the maximal number of coexisting phases grows exponentially with increasing $f$.

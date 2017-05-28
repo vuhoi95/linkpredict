@@ -1,0 +1,4 @@
+Paper: 151203330
+Title: Relativistic rotating Boltzmann gas using the tetrad formalism
+Authors: Victor E. Ambrus and Robert Blaga
+Abstract: We consider an application of the tetrad formalism introduced by Cardall et al. [Phys. Rev. D 88 (2013) 023011] to the problem of a rigidly rotating relativistic gas in thermal equilibrium and discuss the possible applications of this formalism to relativistic lattice Boltzmann simulations. We present in detail the transformation to the comoving frame, the choice of tetrad, as well as the explicit calculation and analysis of the components of the equilibrium particle flow four-vector and of the equilibrium stress-energy tensor.

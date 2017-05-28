@@ -1,0 +1,4 @@
+Paper: 13033616
+Title: Fusion of Critical Defect Lines in the 2D Ising Model
+Authors: Costas Bachas and Ilka Brunner and Daniel Roggenkamp
+Abstract: Two defect lines separated by a distance delta look from much larger distances like a single defect. In the critical theory, when all scales are large compared to the cutoff scale, this fusion of defect lines is universal. We calculate the universal fusion rule in the critical 2D Ising model and show that it is given by the Verlinde algebra of primary fields, combined with group multiplication in O(1,1)/Z_2. Fusion is in general singular and requires the subtraction of a divergent Casimir energy.

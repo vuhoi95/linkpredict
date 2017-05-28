@@ -1,0 +1,4 @@
+Paper: 9504049
+Title: Entanglement entropy in curved spacetimes with event horizons
+Authors: Rainer Mueller and Carlos O. Lousto
+Abstract: We consider the computation of the entanglement entropy in curved backgrounds with event horizons. We use a Hamiltonian approach to the problem and perform numerical computations on a spherical lattice of spacing $a$. We study the cosmological case and make explicit computations for the Friedmann-Robertson-Walker universe. Our results for a massless, minimally coupled scalar field can be summarized by $S_{ent}=0.30 r_H^2/a^2$,which resembles the flat space formula, although here the horizon radius, $r_H$, is time-dependent.

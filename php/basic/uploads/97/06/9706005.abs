@@ -1,0 +1,4 @@
+Paper: 9706005
+Title: A Lax Description for Polytropic Gas Dynamics
+Authors: J. C. Brunelli and A. Das
+Abstract: We give a Lax description for the system of polytropic gas equations. The special structure of the Lax function naturally leads to the two infinite sets of conserved charges associated with this system. We obtain closed form expressions for the conserved charges as well as the generating functions for them. We show how the study of these generating functions can naturally lead to the recursion relation between the conserved quantities as well as the higher order Hamiltonian structures.

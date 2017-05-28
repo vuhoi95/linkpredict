@@ -1,0 +1,4 @@
+Paper: 13111512
+Title: The Excited Hexagon Reloaded
+Authors: J. Bartels and J. Kotanski and V. Schomerus and M. Sprenger
+Abstract: This work revisits the computation of six-gluon scattering amplitudes in the high energy limit of strongly coupled N=4 supersymmetric Yang-Mills theory. It is based on previous studies in which we showed that the amplitude simplifies in the Regge regime and outlined an efficient computational scheme. By exploiting a symmetry of the underlying equations we are now able to argue that a term we had seen in preliminary numerical studies must vanish identically. The derived formula for the Regge limit of the 6-gluon scattering amplitude at strong coupling differs from the one we had conjectured previously.

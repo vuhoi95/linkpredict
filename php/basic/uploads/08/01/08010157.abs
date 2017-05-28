@@ -1,0 +1,4 @@
+Paper: 08010157
+Title: On the Rosenberg-Zelinsky sequence in abelian monoidal categories
+Authors: Till Barmeier and J"urgen Fuchs and Ingo Runkel and Christoph Schweigert
+Abstract: We consider Frobenius algebras and their bimodules in certain abelian monoidal categories. In particular we study the Picard group of the category of bimodules over a Frobenius algebra, i.e. the group of isomorphism classes of invertible bimodules. The Rosenberg-Zelinsky sequence describes a homomorphism from the group of algebra automorphisms to the Picard group, which however is typically not surjective. We investigate under which conditions there exists a Morita equivalent Frobenius algebra for which the corresponding homomorphism is surjective. One motivation for our considerations is the orbifold construction in conformal field theory.

@@ -1,0 +1,4 @@
+Paper: 9707131
+Title: Tunneling in quantum wires II: A new line of IR fixed points
+Authors: F. Lesage and H. Saleur and P. Simonetti
+Abstract: In a previous paper, we showed that the problem of tunneling in quantum wires was integrable in the isotropic case $g_\sigma=2$. In the present work, we continue the exploration of the general phase diagram by looking for other integrable cases. Specifically, we discuss in details the manifold $g_\rho+g_\sigma=2$, where the associated ``double sine-Gordon'' model is integrable. Transport properties are exactly computed. Surprisingly, the IR fixed points, while having complete reflection of charge and spin currents, do not correspond to two separate leads. Their main characteristic is that they are approached along irrelevant operators of dimension $1+{1\over g_\rho}$ and $1+{1\over g_\sigma}$, corresponding to transfer of one electron charge but no spin, or one spin 1/2 but no charge.

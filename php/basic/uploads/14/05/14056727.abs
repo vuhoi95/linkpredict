@@ -1,0 +1,4 @@
+Paper: 14056727
+Title: A solution of 2D QCD at Finite $N$ using a conformal basis
+Authors: Emanuel Katz and Gustavo Marques Tavares and Yiming Xu
+Abstract: We study 2D QCD with a fundamental fermion at small-$N$ using the recently proposed conformal basis approach. We find that effective conformal dominance still holds, namely that the spectrum converges efficiently, with high scaling-dimension operators decoupling exponentially quickly from the stable single-particle states. Consequently, for these stable bound states, accurate, analytic expressions for wavefunctions and parton distribution functions can be given, even for $N=3$.

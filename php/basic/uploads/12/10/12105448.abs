@@ -1,0 +1,4 @@
+Paper: 12105448
+Title: On-shell extension of distributions
+Authors: Dorothea Bahns and Michał Wrochna
+Abstract: We consider distributions on $\R^n\setminus{0}$ which satisfy a given set of partial differential equations and provide criteria for the existence of extensions to $\R^n$ that satisfy the same set of equations on $\R^n$. We use the results to construct distributions satisfying specific renormalisation conditions in the Epstein and Glaser approach to perturbative quantum field theory. Contrary to other approaches, we provide a unified apporach to treat Lorentz covariance, invariance under global gauge group and almost homogeneity, as well as discrete symmetries. We show that all such symmetries can be recovered by applying a linear map defined for all degrees of divergence. Using similar techniques, we find a relation between on-shell and off-shell time-ordered products involving higher derivatives of the fields.

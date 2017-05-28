@@ -1,0 +1,4 @@
+Paper: 150203076
+Title: On thermal fluctuations and the generating functional in relativistic  hydrodynamics
+Authors: Michael Harder and Pavel Kovtun and Adam Ritz
+Abstract: We discuss a real-time generating functional for correlation functions in dissipative relativistic hydrodynamics which takes into account thermal fluctuations of the hydrodynamic variables. Starting from the known form of these correlation functions in the linearized regime, we integrate to find a generating functional which we can interpret within the CTP formalism, provided the space-time and internal global symmetries are realized in a specific manner in the (r,a) sectors. We then verify that this symmetry realization, when implemented in an effective action for hydrodynamic fields in the (r,a) basis, leads to a consistent derivative expansion for the constitutive relations at the nonlinear level, modulo constraints associated with the existence of an equilibrium state.

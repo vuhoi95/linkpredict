@@ -1,0 +1,4 @@
+Paper: 13113354
+Title: Orbifold equivalent potentials
+Authors: Nils Carqueville and Ana Ros Camacho and Ingo Runkel
+Abstract: To a graded finite-rank matrix factorisation of the difference of two homogeneous potentials one can assign two numbers, the left and right quantum dimension. The existence of such a matrix factorisation with non-zero quantum dimensions defines an equivalence relation between potentials, giving rise to non-obvious equivalences of categories. Restricted to ADE singularities, the resulting equivalence classes of potentials are those of type {A_{d-1}} for d odd, {A_{d-1},D_{d/2+1}} for d even but not in {12,18,30}, and {A_{11}, D_7, E_6}, {A_{17}, D_{10}, E_7} and {A_{29}, D_{16}, E_8}. This is the result expected from two-dimensional rational conformal field theory, and it directly leads to new descriptions of and relations between the associated (derived) categories of matrix factorisations and Dynkin quiver representations.

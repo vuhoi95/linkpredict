@@ -1,0 +1,4 @@
+Paper: 12111983
+Title: The Navier-Stokes equation and solution generating symmetries from  holography
+Authors: Joel Berkeley and David S. Berman
+Abstract: The fluid-gravity correspondence provides us with explicit spacetime metrics that are holographically dual to (non-)relativistic nonlinear hydrodynamics. The vacuum Einstein equations, in the presence of a Killing vector, possess solution-generating symmetries known as spacetime Ehlers transformations. These form a subgroup of the larger generalized Ehlers group acting on spacetimes with arbitrary matter content. We apply this generalized Ehlers group, in the presence of Killing isometries, to vacuum metrics with hydrodynamic duals to develop a formalism for solution-generating transformations of Navier-Stokes fluids. Using this we provide examples of a linear energy scaling from RG flow under vanishing vorticity, and a set of Z_2 symmetries for fixed viscosity.

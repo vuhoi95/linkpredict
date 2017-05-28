@@ -1,0 +1,4 @@
+Paper: 09091489
+Title: Partially quenched chiral perturbation theory in the epsilon regime at  next-to-leading order
+Authors: Christoph Lehner and Tilo Wettig
+Abstract: We calculate the partition function of partially quenched chiral perturbation theory in the epsilon regime at next-to-leading order using the supersymmetry method in the formulation without a singlet particle. We include a nonzero imaginary chemical potential and show that the finite-volume corrections to the low-energy constants $\Sigma$ and $F$ for the partially quenched partition function, and hence for spectral correlation functions of the Dirac operator, are the same as for the unquenched partition function. We briefly comment on how to minimize these corrections in lattice simulations of QCD. As a side result, we show that the zero-momentum integral in the formulation without a singlet particle agrees with previous results from random matrix theory.

@@ -1,0 +1,4 @@
+Paper: 14024420
+Title: Scalar fields in a non-commutative space
+Authors: Wolfgang Bietenholz and Frank Hofheinz and Héctor Mejía-Díaz and Marco Panero
+Abstract: We discuss the lambda phi**4 model in 2- and 3-dimensional non-commutative spaces. The mapping onto a Hermitian matrix model enables its non-perturbative investigation by Monte Carlo simulations. The numerical results reveal a phase where stripe patterns dominate. In d=3 we show that in this phase the dispersion relation is deformed in the IR regime, in agreement with the property of UV/IR mixing. This "striped phase" also occurs in d=2. For both dimensions we provide evidence that it persists in the simultaneous limit to the continuum and to infinite volume ("Double Scaling Limit"). This implies the spontaneous breaking of translation symmetry.

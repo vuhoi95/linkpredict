@@ -1,0 +1,4 @@
+Paper: 08123595
+Title: Modular application of an Integration by Fractional Expansion (IBFE)  method to multiloop Feynman diagrams II
+Authors: Ivan Gonzalez and Ivan Schmidt
+Abstract: A modular application of the integration by fractional expansion (IBFE) method for evaluating Feynman diagrams is extended to diagrams that contain loop triangle subdiagrams in their geometry. The technique is based in the replacement of this module or subdiagram by its corresponding multiregion expansion (MRE), which in turn is obtained from Schwinger's parametric representation of the diagram. The result is a topological reduction, transforming the triangular loop into an equivalent vertex, which simplifies the search for the MRE of the complete diagram. This procedure has important advantages with respect to considering the parametric representation of the whole diagram: the obtained MRE is reduced and the resulting hypergeometric series tend to have smaller multiplicity.

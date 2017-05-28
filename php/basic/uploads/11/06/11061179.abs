@@ -1,0 +1,4 @@
+Paper: 11061179
+Title: Fuzzy Geometry via the Spinor Bundle, with Applications to Holographic  Space-time and Matrix Theory
+Authors: Tom Banks and John Kehayias
+Abstract: We present a new framework for defining fuzzy approximations to geometry in terms of a cutoff on the spectrum of the Dirac operator, and a generalization of it that we call the Dirac-Flux operator. This framework does not require a symplectic form on the manifold, and is completely rotation invariant on an arbitrary n-sphere. The framework is motivated by the formalism of Holographic Space-Time (HST), whose fundamental variables are sections of the spinor bundle over a compact Euclidean manifold. The strong holographic principle (SHP) requires the space of these sections to be finite dimensional. We discuss applications of fuzzy spinor geometry to HST and to Matrix Theory.

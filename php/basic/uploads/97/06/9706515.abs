@@ -1,0 +1,4 @@
+Paper: 9706515
+Title: Infra-Red Finite Charge Propagation
+Authors: Emili Bagan and Bartomeu Fiol and Martin Lavelle and David McMullan
+Abstract: The Coulomb gauge has a long history and many uses. It is especially useful in bound state applications. An important feature of this gauge is that the matter fields have an infra-red finite propagator in an on-shell renormalisation scheme. This is, however, only the case if the renormalisation point is chosen to be the static point on the mass shell, p = (m, 0, 0, 0). In this letter we show how to extend this key property of the Coulomb gauge to an arbitrary relativistic renormalisation point. This is achieved through the introduction of a new class of gauges of which the Coulomb gauge is a limiting case. A physical explanation for this result is given.

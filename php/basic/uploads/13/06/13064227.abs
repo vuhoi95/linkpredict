@@ -1,0 +1,4 @@
+Paper: 13064227
+Title: Super-Whittaker vector at c=3/2
+Authors: P. Desrosiers and L. Lapointe and P. Mathieu
+Abstract: The degenerate Whittaker vector of the superconformal algebra can be represented in terms of Jack superpolynomials. However, in this representation the norm of the Whittaker vector involves a scalar product with respect to which the Jack superpolynomials are not orthogonal. In this note, we point out that this defect can be cured at c=3/2 by means of a trick specific to the supersymmetric case. At c=3/2, we thus end up with a closed-form expression for the norm of the degenerate super-Whittaker vector. Granting the super-version of the AGT conjecture, this closed-form expression should be equal to the Z_2-symmetric SU(2) pure-gauge instanton partition function -- the corresponding equality taking the form of a rather nontrivial combinatorial identity.

@@ -1,0 +1,4 @@
+Paper: 08031378
+Title: A gauge invariant infrared stabilization of 3D Yang-Mills gauge theories
+Authors: D. Dudal and J. A. Gracey and S. P. Sorella and N. Vandersickel and H. Verschelde
+Abstract: We demonstrate that the inversion method can be a very useful tool in providing an infrared stabilization of 3D gauge theories, in combination with the mass operator $A^2$ in the Landau gauge. The numerical results will be unambiguous, since the corresponding theory is ultraviolet finite in dimensional regularization, making a renormalization scale or scheme obsolete. The proposed framework is argued to be gauge invariant, by showing that the nonlocal gauge invariant operator $A^2_{\min}$, which reduces to $A^2$ in the Landau gauge, could be treated in 3D, in the sense that it is power counting renormalizable in any gauge. As a corollary of our analysis, we are able to identify a whole set of powercounting renormalizable nonlocal operators of dimension two.

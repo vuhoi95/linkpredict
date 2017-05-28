@@ -1,0 +1,4 @@
+Paper: 12063879
+Title: Gromov-Witten theory and cycle-valued modular forms
+Authors: Todor Milanov and Yongbin Ruan and Yefeng Shen
+Abstract: In this paper, we proved generating functions of Gromov-Witten cycles of the elliptic orbifold lines with weights (3,3,3), (4,4,2), and (6,3,2) are cycle-valued quasi-modular forms. This is a generalization of Milanov and Ruan's work on cycle-valued level. First we construct a global cohomology field theory (CohFT) for simple elliptic singularities (modulo an extension problem) and prove its modularity. Then, we apply Teleman's reconstruction theorem to prove mirror theorems on cycled-valued level and match it with a CohFT from Gromov-Witten theory of a corresponding orbifold.This solves the extension property as well as inducing the modularity for a Gromov-Witten CohFT.

@@ -1,0 +1,4 @@
+Paper: 161003559
+Title: Nonperturbative solution of scalar Yukawa model in two- and three-body  Fock space truncations
+Authors: Vladimir A. Karmanov and Yang Li and Alexander V. Smirnov and James P. Vary
+Abstract: The Light-Front Tamm-Dancoff method of finding the nonperturbative solutions in field theory is based on the Fock decomposition of the state vector, complemented with the sector-dependent nonperturbative renormalization scheme. We show in detail how to implement the renormalization procedure and to solve the simplest nontrivial example of the scalar Yukawa model in the two- and three-body Fock space truncations incorporating scalar "nucleon" and one or two scalar "pions".

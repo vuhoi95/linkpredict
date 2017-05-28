@@ -1,0 +1,4 @@
+Paper: 13033273
+Title: Scattering in Time-Dependent Basis Light-Front Quantization
+Authors: Xingbo Zhao and Anton Ilderton and Pieter Maris and James P. Vary
+Abstract: We introduce a nonperturbative, first principles numerical approach for solving time-dependent problems in quantum field theory, using light-front quantization. As a first application we consider QED in a strong background field, and the process of non-linear Compton scattering in which an electron is excited by the background and emits a photon. We track the evolution of the quantum state as a function of time. Observables, such as the invariant mass of the electron-photon pair, are first checked against results from perturbation theory, for suitable parameters. We then proceed to a test case in the strong background field regime and discuss the various nonperturbative effects revealed by the approach.

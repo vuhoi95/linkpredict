@@ -1,0 +1,4 @@
+Paper: 09124705
+Title: Potts model on recursive lattices: some new exact results
+Authors: Pedro D. Alvarez and Fabrizio Canfora and Sebastian A. Reyes and Simon Riquelme
+Abstract: We compute the partition function of the Potts model with arbitrary values of $q$ and temperature on some strip lattices. We consider strips of width $L_y=2$, for three different lattices: square, diced and `shortest-path' (to be defined in the text). We also get the exact solution for strips of the Kagome lattice for widths $L_y=2,3,4,5$. As further examples we consider two lattices with different type of regular symmetry: a strip with alternating layers of width $L_y=3$ and $L_y=m+2$, and a strip with variable width. Finally we make some remarks on the Fisher zeros for the Kagome lattice and their large q-limit.

@@ -1,0 +1,4 @@
+Paper: 160500321
+Title: Compressed Teleportation
+Authors: Arthur Jaffe and Zhengwei Liu and Alex Wozniakowski
+Abstract: In a previous paper we introduced holographic software for quantum networks, inspired by work on planar para algebras. This software suggests the definition of a compressed transformation. Here we utilize the software to find a CT protocol to teleport compressed transformations. This protocol serves multiple parties with multiple persons.

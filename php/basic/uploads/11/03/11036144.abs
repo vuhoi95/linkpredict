@@ -1,0 +1,4 @@
+Paper: 11036144
+Title: Interaction of half-quantized vortices in two-component Bose-Einstein  condensates
+Authors: Minoru Eto and Kenichi Kasamatsu and Muneto Nitta and Hiromitsu Takeuchi and Makoto Tsubota
+Abstract: We study the asymptotic interaction between two half-quantized vortices in two-component Bose-Einstein condensates. When two vortices in different components are placed at distance 2R, the leading order of the force between them is found to be (log R/\xi-1/2)/R^3, in contrast to 1/R between vortices placed in the same component. We derive it analytically using the Abrikosov ansatz and the profile functions of the vortices, confirmed numerically with the Gross-Pitaevskii model. We also find that the short-range cutoff of the inter-vortex potential linearly depends on the healing length.

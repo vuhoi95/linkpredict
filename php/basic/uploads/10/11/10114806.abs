@@ -1,0 +1,4 @@
+Paper: 10114806
+Title: CPT-symmetric discrete square well
+Authors: Miloslav Znojil and Miloš Tater
+Abstract: A new version of an elementary PT-symmetric square well quantum model is proposed in which a certain Hermiticity-violating end-point interaction leaves the spectrum real in a large domain of couplings $\lambda\in (-1,1)$. Within this interval we employ the usual coupling-independent operator P of parity and construct, in a systematic Runge-Kutta discrete approximation, a coupling-dependent operator of charge C which enables us to classify our P-asymmetric model as CPT-symmetric or, equivalently, hiddenly Hermitian alias cryptohermitian.

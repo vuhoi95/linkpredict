@@ -1,0 +1,4 @@
+Paper: 12073227
+Title: Computing the Primordial Power Spectra Directly
+Authors: Maria G. Romania and N. C. Tsamis and R. P. Woodard
+Abstract: The tree order power spectra of primordial inflation depend upon the norm-squared of mode functions which oscillate for early times and then freeze in to constant values. We derive simple differential equations for the power spectra, that avoid the need to numerically simulate the physically irrelevant phases of the mode functions. We also derive asymptotic expansions which should be valid until a few e-foldings before first horizon crossing, thereby avoiding the need to evolve mode functions from the ultraviolet over long periods of inflation.

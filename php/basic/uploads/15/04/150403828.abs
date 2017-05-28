@@ -1,0 +1,4 @@
+Paper: 150403828
+Title: The Ising model on the random planar causal triangulation: bounds on the  critical line and magnetization properties
+Authors: George M. Napolitano and Tatyana Turova
+Abstract: We investigate a Gibbs (annealed) probability measure defined on Ising spin configurations on causal triangulations of the plane. We study the region where such measure can be defined and provide bounds on the boundary of this region (critical line). We prove that for any finite random triangulation the magnetization of the central spin is sensitive of the boundary conditions. Furthermore, we show that in the infinite volume limit, the magnetization of the central spin vanishes for values of the temperature high enough.

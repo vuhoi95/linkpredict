@@ -1,0 +1,4 @@
+Paper: 161009006
+Title: On the Semi-Classical Limit of Scalar Products of the XXZ Spin Chain
+Authors: Yunfeng Jiang and Joren Brunekreef
+Abstract: We study the scalar products between Bethe states in the XXZ spin chain with anisotropy $|\Delta|>1$ in the semi-classical limit where the length of the spin chain and the number of magnons tend to infinity with their ratio kept finite and fixed. Our method is a natural yet non-trivial generalization of similar methods developed for the XXX spin chain. The final result can be written in a compact form as a contour integral in terms of Faddeev's quantum dilogarithm function, which in the isotropic limit reduces to the classical dilogarithm function.

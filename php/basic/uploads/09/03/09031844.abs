@@ -1,0 +1,4 @@
+Paper: 09031844
+Title: Correlation functions in the non-relativistic AdS/CFT correspondence
+Authors: Carlos A. Fuertes and Sergej Moroz
+Abstract: We study the correlation functions of scalar operators in the theory defined as the holographic dual of the Schroedinger background with dynamical exponent z=2 at zero temperature and zero chemical potential. We offer a closed expression of the correlation functions at tree level in terms of Fourier transforms of the corresponding n-point functions computed from pure AdS in the lightcone frame. At the loop level this mapping does not hold and one has to use the full Schroedinger background, after proper regularization. We explicitly compute the 3-point function comparing it with the specific 3-point function of the non-relativistic theory of cold atoms at unitarity. We find agreement of both 3-point functions, including the part not fixed by the symmetry, up to an overall normalization constant.

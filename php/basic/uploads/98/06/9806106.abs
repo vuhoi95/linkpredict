@@ -1,0 +1,4 @@
+Paper: 9806106
+Title: Exact Solution of a Electron System Combining Two Different t-J Models
+Authors: J. Abad and M. Ríos
+Abstract: A new strongly correlated electron model is presented. This is formed by two types of sites: one where double occupancy is forbidden, as in the t-J model, and the other where double occupancy is allowed but vacancy is not allowed, as an inverse t-J model. The Hamiltonian shows nearest and next-to-nearest neighbour interactions and it is solved by means of a modified algebraic nested Bethe Ansatz. The number of sites where vacancy is not allowed, may be treated as a new parameter if the model is looked at as a t-J model with impurities. The ground and excited states are described in the thermodynamic limit.

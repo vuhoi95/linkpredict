@@ -1,0 +1,4 @@
+Paper: 12036064
+Title: Solving the 3D Ising Model with the Conformal Bootstrap
+Authors: Sheer El-Showk and Miguel F. Paulos and David Poland and Slava Rychkov and David Simmons-Duffin and Alessandro Vichi
+Abstract: We study the constraints of crossing symmetry and unitarity in general 3D Conformal Field Theories. In doing so we derive new results for conformal blocks appearing in four-point functions of scalars and present an efficient method for their computation in arbitrary space-time dimension. Comparing the resulting bounds on operator dimensions and OPE coefficients in 3D to known results, we find that the 3D Ising model lies at a corner point on the boundary of the allowed parameter space. We also derive general upper bounds on the dimensions of higher spin operators, relevant in the context of theories with weakly broken higher spin symmetries.

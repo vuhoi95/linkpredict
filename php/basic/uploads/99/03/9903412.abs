@@ -1,0 +1,4 @@
+Paper: 9903412
+Title: Configuration Space Based Recurrence Relations for Sunset-Type Diagrams
+Authors: S. Groote and J. G. Körner and A. A. Pivovarov
+Abstract: We derive recurrence relations for the calculation of multiloop sunset-type diagrams with large powers of massive propagators. The technique is formulated in configuration space and exploits the explicit form of the massive propagator raised to a given power. We write down and evaluate a convenient set of basis integrals. The method is well suited for a numerical evaluation of this class of diagrams. We give explicit analytical formulae for the basis integrals in the asymptotic regime.

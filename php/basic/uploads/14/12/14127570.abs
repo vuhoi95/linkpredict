@@ -1,0 +1,4 @@
+Paper: 14127570
+Title: Equivalence of Adiabatic and DeWitt-Schwinger renormalization schemes
+Authors: Adrian del Rio and Jose Navarro-Salas
+Abstract: We prove that adiabatic regularization and DeWitt-Schwinger point-splitting provide the same result for the renormalized expectation values of the stress-energy tensor for spin-$1/2$ fields. This generalizes the equivalence found for scalar fields, which is here recovered in a different way. We also argue that the coincidence limit of the DeWitt-Schwinger proper time expansion of the two-point function exactly agrees with the analogous expansion defined by the adiabatic regularization method at any order (for both scalar and spin-$1/2$ fields). We also illustrate the power of the adiabatic method to compute higher order DeWitt coefficients in FLRW universes.

@@ -1,0 +1,4 @@
+Paper: 161108764
+Title: Subsystem ETH
+Authors: Anatoly Dymarsky and Nima Lashkari and Hong Liu
+Abstract: Motivated by the qualitative picture of Canonical Typicality, we propose a refined formulation of the Eigenstate Thermalization Hypothesis (ETH) for chaotic quantum systems. The new formulation, which we refer to as subsystem ETH, is in terms of the reduced density matrix of subsystems. This strong form of ETH clarifies which set of observables defined within the subsystem will thermalize. We discuss the limits when the size of the subsystem is small or comparable to its complement. Finally, we provide numerical evidence for the proposal in case of one-dimensional Ising spin-chain.

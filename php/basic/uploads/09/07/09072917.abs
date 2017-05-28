@@ -1,0 +1,4 @@
+Paper: 09072917
+Title: Numerical calculation of second order perturbations
+Authors: Ian Huston and Karim A. Malik
+Abstract: We numerically solve the Klein-Gordon equation at second order in cosmological perturbation theory in closed form for a single scalar field, describing the method employed in detail. We use the slow-roll version of the second order source term and argue that our method is extendable to the full equation. We consider two standard single field models and find that the results agree with previous calculations using analytic methods, where comparison is possible. Our procedure allows the evolution of second order perturbations in general and the calculation of the non-linearity parameter f_NL to be examined in cases where there is no analytical solution available.

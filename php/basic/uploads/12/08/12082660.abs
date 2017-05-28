@@ -1,0 +1,4 @@
+Paper: 12082660
+Title: A Numerical Simulation of Chern-Simons Inflation
+Authors: David Garrison and Christopher Underwood
+Abstract: In this work, we present results of numerical simulations of the Chern-Simons Inflation Model proposed by Alexander, Marciano and Spergel. According to this model, inflation begins with a fermion condensate interacting with a gauge field. Crucial to the success of this mechanism is the assumption that the Chern-Simons interaction would drive energy from the initial random spectrum into a narrow band of frequencies at superhorizon scales. In this work we numerically confirm this expectation. These gauge fields and currents, when combined with the Friedmann equations, were broken into a system of hyperbolic equations and numerically simulated. It was found in our simulation that, by including the effects of the chiral anomaly for the axial vector current, inflation ended satisfactorily after approximately 60 e-folds.

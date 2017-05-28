@@ -1,0 +1,4 @@
+Paper: 11032476
+Title: Microscopic Origin of the Shear Relaxation Time in Causal Dissipative  Fluid Dynamics
+Authors: G. S. Denicol and H. Niemi and J. Noronha and D. H. Rischke
+Abstract: In this paper we show how to compute the shear relaxation time from an underlying microscopic theory. We prove that the shear relaxation time in Israel-Stewart-type theories is given by the inverse of the pole of the corresponding retarded Green's function, which is nearest to the origin in the complex energy plane. Consequently, the relaxation time in such theories is a microscopic, and not a macroscopic, i.e., fluid-dynamical time scale.

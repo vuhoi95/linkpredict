@@ -1,0 +1,4 @@
+Paper: 13061741
+Title: Bethe Ansaetze for GKP strings
+Authors: Benjamin Basso and Adam Rej
+Abstract: Studying the scattering of excitations around a dynamical background has a long history in the context of integrable models. The Gubser-Klebanov-Polyakov string solution provides such a background for the string/gauge correspondence. Taking the conjectured all-loop asymptotic equations for the AdS_4/CFT_3 correspondence as the starting point, we derive the S-matrix and a set of spectral equations for the lowest-lying excitations. We find that these equations resemble closely the analogous equations for AdS_5/CFT_4, which are also discussed in this paper. At large values of the coupling constant we show that they reproduce the Bethe equations proposed to describe the spectrum of the low-energy limit of the AdS_4xCP^3 sigma model.

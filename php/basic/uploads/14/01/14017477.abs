@@ -1,0 +1,4 @@
+Paper: 14017477
+Title: Iterative construction of eigenfunctions of the monodromy matrix for  SL(2,C) magnet
+Authors: S. E. Derkachov and A. N. Manashov
+Abstract: Eigenfunctions of the matrix elements of the monodromy matrix provide a convenient basis for studies of spin chain models. We present an iterative method for constructing the eigenfunctions in the case of the SL(2,C) spin chains. We derived an explicit integral representation for the eigenfunctions and calculated the corresponding scalar products (Sklyanin's measure).

@@ -1,0 +1,4 @@
+Paper: 12123616
+Title: The Analytic Bootstrap and AdS Superhorizon Locality
+Authors: A. Liam Fitzpatrick and Jared Kaplan and David Poland and David Simmons-Duffin
+Abstract: We take an analytic approach to the CFT bootstrap, studying the 4-pt correlators of d > 2 dimensional CFTs in an Eikonal-type limit, where the conformal cross ratios satisfy |u| << |v| < 1. We prove that every CFT with a scalar operator \phi must contain infinite sequences of operators O_{\tau,l} with twist approaching \tau -> 2\Delta_\phi + 2n for each integer n as l -> infinity. We show how the rate of approach is controlled by the twist and OPE coefficient of the leading twist operator in the \phi x \phi OPE, and we discuss SCFTs and the 3d Ising Model as examples. Additionally, we show that the OPE coefficients of other large spin operators appearing in the OPE are bounded as l -> infinity. We interpret these results as a statement about superhorizon locality in AdS for general CFTs.

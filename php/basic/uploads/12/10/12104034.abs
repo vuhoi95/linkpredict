@@ -1,0 +1,4 @@
+Paper: 12104034
+Title: The open Gromov-Witten-Welschinger theory of blowups of the projective  plane
+Authors: Asaf Horev and Jake P. Solomon
+Abstract: We compute the Welschinger invariants of blowups of the projective plane at an arbitrary conjugation invariant configuration of points. Specifically, open analogues of the WDVV equation and Kontsevich-Manin axioms lead to a recursive algorithm that reconstructs all the invariants from a small set of known invariants. Example computations are given, including the non-del Pezzo case.

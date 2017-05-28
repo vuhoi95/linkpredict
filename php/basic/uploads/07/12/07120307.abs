@@ -1,0 +1,4 @@
+Paper: 07120307
+Title: Quantum Hamilton-Jacobi Theory
+Authors: Marco Roncadelli and L. S. Schulman
+Abstract: Quantum canonical transformations have attracted interest since the beginning of quantum theory. Based on their classical analogues, one would expect them to provide a powerful quantum tool. However, the difficulty of solving a nonlinear operator partial differential equation such as the quantum Hamilton-Jacobi equation (QHJE) has hindered progress along this otherwise promising avenue. We overcome this difficulty. We show that solutions to the QHJE can be constructed by a simple prescription starting from the propagator of the associated Schroedinger equation. Our result opens the possibility of practical use of quantum Hamilton-Jacobi theory. As an application we develop a surprising relation between operator ordering and the density of paths around a semiclassical trajectory.

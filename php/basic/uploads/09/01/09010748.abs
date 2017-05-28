@@ -1,0 +1,4 @@
+Paper: 09010748
+Title: The confining string beyond the free-string approximation in the gauge  dual of percolation
+Authors: Pietro Giudice and Ferdinando Gliozzi and Stefano Lottini
+Abstract: We simulate five different systems belonging to the universality class of the gauge dual of three-dimensional random percolation to study the underlying effective string theory at finite temperature. All the data for the finite temperature string tension, when expressed by means of adimensional variables, are nicely described by a unique scaling function. We calculate the first few terms of the string tension up to order $T^6$ and compare to different theoretical predictions. We obtain unambiguous evidence that the coefficients of $T^2$ and $T^4$ terms coincide with those of the Nambu-Goto string, as expected, while the $T^6$ term strongly differs and is characteristic of the universality class of this specific gauge theory.

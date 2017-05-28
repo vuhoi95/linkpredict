@@ -1,0 +1,4 @@
+Paper: 151201544
+Title: $θ$ dependence in $SU(3)$ Yang-Mills theory from analytic  continuation
+Authors: Claudio Bonati and Massimo D'Elia and Aurora Scapellato
+Abstract: We investigate the topological properties of the $SU(3)$ pure gauge theory by performing numerical simulations at imaginary values of the $\theta$ parameter. By monitoring the dependence of various cumulants of the topological charge distribution on the imaginary part of $\theta$ and exploiting analytic continuation, we determine the free energy density up to the sixth order order in $\theta$, $f(\theta,T) = f(0,T) + {1\over 2} \chi(T) \theta^2 (1 + b_2(T) \theta^2 + b_4(T) \theta^4 + O(\theta^6))$. That permits us to achieve determinations with improved accuracy, in particular for the higher order terms, with control over the continuum and the infinite volume extrapolations. We obtain $b_2=-0.0216(15)$ and $|b_4|\lesssim 4\times 10^{-4}$.

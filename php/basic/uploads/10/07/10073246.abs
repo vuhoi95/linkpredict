@@ -1,0 +1,4 @@
+Paper: 10073246
+Title: From correlation functions to scattering amplitudes
+Authors: Burkhard Eden and Gregory P. Korchemsky and Emery Sokatchev
+Abstract: We study the correlators of half-BPS protected operators in N=4 super-Yang-Mills theory, in the limit where the positions of the adjacent operators become light-like separated. We compute the loop corrections by means of Lagrangian insertions. The divergences resulting from the light-cone limit are regularized by changing the dimension of the integration measure over the insertion points. Switching from coordinates to dual momenta, we show that the logarithm of the correlator is identical with twice the logarithm of the matching MHV gluon scattering amplitude. We present a number of examples of this new relation, at one and two loops.

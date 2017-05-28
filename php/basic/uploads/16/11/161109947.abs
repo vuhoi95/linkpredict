@@ -1,0 +1,4 @@
+Paper: 161109947
+Title: Towards Spectral Geometry for Causal Sets
+Authors: Yasaman K. Yazdi and Achim Kempf
+Abstract: We show that the Feynman propagator (or the d'Alembertian) of a causal set contains the complete information about the causal set. Intuitively, this is because the Feynman propagator, being a correlator that decays with distance, provides a measure for the invariant distance between pairs of events. Further, we show that even the spectra alone (of the self-adjoint and anti-self-adjoint parts) of the propagator(s) and d'Alembertian already carry large amounts of geometric information about their causal set. This geometric information is basis independent and also gauge invariant in the sense that it is relabeling invariant (which is analogue to diffeomorphism invariance). We provide numerical evidence that the associated spectral distance between causal sets can serve as a measure for the geometric similarity between causal sets.

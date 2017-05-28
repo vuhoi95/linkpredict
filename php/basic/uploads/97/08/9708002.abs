@@ -1,0 +1,4 @@
+Paper: 9708002
+Title: Nonstandard Drinfeld-Sokolov reduction
+Authors: F. Delduc and L. Feher and L. Gallot
+Abstract: Subject to some conditions, the input data for the Drinfeld-Sokolov construction of KdV type hierarchies is a quadruplet $(\A,\Lambda, d_1, d_0)$, where the $d_i$ are $\Z$-gradations of a loop algebra $\A$ and $\Lambda\in \A$ is a semisimple element of nonzero $d_1$-grade. A new sufficient condition on the quadruplet under which the construction works is proposed and examples are presented. The proposal relies on splitting the $d_1$-grade zero part of $\A$ into a vector space direct sum of two subalgebras. This permits one to interpret certain Gelfand-Dickey type systems associated with a nonstandard splitting of the algebra of pseudo-differential operators in the Drinfeld-Sokolov framework.

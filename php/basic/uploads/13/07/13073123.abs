@@ -1,0 +1,4 @@
+Paper: 13073123
+Title: Planar maps, circle patterns and 2d gravity
+Authors: Francois David and Bertrand Eynard
+Abstract: Via circle pattern techniques, random planar triangulations (with angle variables) are mapped onto Delaunay triangulations in the complex plane. The uniform measure on triangulations is mapped onto a conformally invariant spatial point process. We show that this measure can be expressed as: (1) a sum over 3-spanning-trees partitions of the edges of the Delaunay triangulations; (2) the volume form of a K\"ahler metric over the space of Delaunay triangulations, whose prepotential has a simple formulation in term of ideal tessellations of the 3d hyperbolic space; (3) a discretized version (involving finite difference complex derivative operators) of Polyakov's conformal Fadeev-Popov determinant in 2d gravity; (4) a combination of Chern classes, thus also establishing a link with topological 2d gravity.

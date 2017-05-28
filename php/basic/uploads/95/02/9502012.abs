@@ -1,0 +1,4 @@
+Paper: 9502012
+Title: Complex Trkalian Fields and Solutions to Euler's Equations for the Ideal  Fluid
+Authors: P. R. Baldwin and G. M. Townsend
+Abstract: We consider solutions to the complex Trkalian equation,~$ \vec{\nabla} \times \vc = \vc ,$ where~$\vc$ is a 3 component vector function with each component in the complex field, and may be expressed in the form~$ \vc = e^{ig} \vec{\nabla} F, $ with~$g$ real and~$F$ complex. We find, there are precisely two classes of solutions; one where~$g$ is a Cartesian variable and one where~$g$ is the spherical radial coordinate. We consider these flows to be the simplest of all exact 3-d solutions to the Euler's equation for the ideal incompressible fluid. The novel approach we use in solving for these classes of solutions to these 3-dimensional vector pdes involves differential geometric techniques: one may employ the method to generate solutions to other classes of vector pdes.

@@ -1,0 +1,4 @@
+Paper: 11123600
+Title: Baxter Operators and Hamiltonians for "nearly all" Integrable Closed  gl(n) Spin Chains
+Authors: Rouven Frassek and Tomasz Lukowski and Carlo Meneghelli and Matthias Staudacher
+Abstract: We continue our systematic construction of Baxter Q-operators for spin chains, which is based on certain degenerate solutions of the Yang-Baxter equation. Here we generalize our approach from the fundamental representation of gl(n) to generic finite-dimensional representations in quantum space. The results equally apply to non-compact representations of highest or lowest weight type. We furthermore fill an apparent gap in the literature, and provide the nearest-neighbor Hamiltonians of the spin chains in question for all cases where the gl(n) representations are described by rectangular Young diagrams, as well as for their infinite-dimensional generalizations. They take the form of digamma functions depending on operator-valued shifted weights.

@@ -1,0 +1,4 @@
+Paper: 09104649
+Title: Casimir Force at a Knife's Edge
+Authors: Noah Graham and Alexander Shpunt and Thorsten Emig and Sahand Jamal Rahi and Robert L. Jaffe and Mehran Kardar
+Abstract: The Casimir force has been computed exactly for only a few simple geometries, such as infinite plates, cylinders, and spheres. We show that a parabolic cylinder, for which analytic solutions to the Helmholtz equation are available, is another case where such a calculation is possible. We compute the interaction energy of a parabolic cylinder and an infinite plate (both perfect mirrors), as a function of their separation and inclination, $H$ and $\theta$, and the cylinder's parabolic radius $R$. As $H/R\to 0$, the proximity force approximation becomes exact. The opposite limit of $R/H\to 0$ corresponds to a semi-infinite plate, where the effects of edge and inclination can be probed.

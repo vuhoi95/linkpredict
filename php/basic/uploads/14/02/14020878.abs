@@ -1,0 +1,4 @@
+Paper: 14020878
+Title: Energy carries Information
+Authors: Irfan Ilgin and I-Sheng Yang
+Abstract: We show that for every qubit of quantum information, there is a well-defined notion of "the amount of energy that carries it", because it is a conserved quantity. This generalizes to larger systems and any conserved quantites: the eigenvalue spectrum of conserved charges has to be preserved while transferring quantum information. It is possible to "apparently" violate these conservations by losing a small fraction of information, but that must invoke a specific process which requires a large scale coherence. We discuss its implication regarding the black hole information paradox.

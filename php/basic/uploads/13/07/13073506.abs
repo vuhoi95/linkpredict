@@ -1,0 +1,4 @@
+Paper: 13073506
+Title: Comments on World-Sheet Form Factors in AdS/CFT
+Authors: Thomas Klose and Tristan McLoughlin
+Abstract: We study form factors in the light-cone gauge world-sheet theory for strings in AdS_5 x S^5. We perturbatively calculate the two-particle form factor in a closed su(2) sector to one-loop in the near-plane-wave limit and to two-loops in the Maldacena-Swanson limit. We also perturbatively solve the functional equation which follows from the form factor axioms for the world-sheet theory and show that the "minimal" solution correctly reproduces the discontinuities of the perturbative calculations. Finally we propose a prescription, valid for polynomial orders of the inverse world-sheet length, for extracting the finite-volume world-sheet matrix element from the form factors and show that the two-excitation matrix element matches with the thermodynamic limit of the spin-chain description of certain tree-level N=4 SYM structure constants.

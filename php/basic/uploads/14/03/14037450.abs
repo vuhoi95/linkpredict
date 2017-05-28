@@ -1,0 +1,4 @@
+Paper: 14037450
+Title: Quench echo and work statistics in integrable quantum field theories
+Authors: Tamas Palmai and Spyros Sotiriadis
+Abstract: We propose a boundary thermodynamic Bethe ansatz calculation technique to obtain the Loschmidt echo and the statistics of the work done when a global quantum quench is performed on an integrable quantum field theory. We derive an analytic expression for the lowest edge of the probability density function and find that it exhibits universal features, in the sense that its scaling form depends only on the statistics of excitations. We perform numerical calculations on the sinh-Gordon model, a deformation of the free boson theory, and we obtain that by turning on the interaction the density function develops fermionic properties. The calculations are facilitated by a previously unnoticed property of the thermodynamic Bethe ansatz construction.

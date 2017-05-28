@@ -1,0 +1,4 @@
+Paper: 11013425
+Title: A note on the implications of gauge invariance in QCD
+Authors: Elliot Leader and Enrico Predazzi
+Abstract: We compare and contrast the implications of gauge invariance for the structure of scattering amplitudes in QED and QCD. We derive the most general analogue for QCD of the famous QED rule that the scattering amplitude must be invariant if the polarization vectors $\epsilon^{{\mu}_j}(k_j)$ of any number of photons undergo the replacement $ \epsilon^{{\mu}_j}(k_j) \rightarrow \epsilon^{{\mu}_j}(k_j) + c \, k_j^{\mu_j} $, where $c$ is an arbitrary constant.

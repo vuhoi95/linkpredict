@@ -1,0 +1,4 @@
+Paper: 10021824
+Title: Continuous Matrix Product States for Quantum Fields
+Authors: F. Verstraete and J. I. Cirac
+Abstract: We define matrix product states in the continuum limit, without any reference to an underlying lattice parameter. This allows to extend the density matrix renormalization group and variational matrix product state formalism to quantum field theories and continuum models in 1 spatial dimension. We illustrate our procedure with the Lieb-Liniger model.

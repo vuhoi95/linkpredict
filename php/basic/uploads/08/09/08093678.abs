@@ -1,0 +1,4 @@
+Paper: 08093678
+Title: Electromagnetic form factor via Bethe-Salpeter amplitude in Minkowski  space
+Authors: J. Carbonell and V. A. Karmanov and M. Mangin-Brinet
+Abstract: For a relativistic system of two scalar particles, we find the Bethe-Salpeter amplitude in Minkowski space and use it to compute the electromagnetic form factor. The comparison with Euclidean space calculation shows that the Wick rotation in the form factor integral induces errors which increase with the momentum transfer Q^2. At JLab domain (Q^2=10 GeV^2/c^2), they are about 30%. Static approximation results in an additional and more significant error. On the contrary, the form factor calculated in light-front dynamics is almost indistinguishable from the Minkowski space one.

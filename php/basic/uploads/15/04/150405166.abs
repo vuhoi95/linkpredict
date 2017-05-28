@@ -1,0 +1,4 @@
+Paper: 150405166
+Title: Functional renormalisation group in a finite volume
+Authors: Leonard Fister and Jan Martin Pawlowski
+Abstract: We study a $\phi^4$-theory at finite temperature in a finite volume. Quantum, thermal and volume fluctuations are treated with the functional renormalisation group. Specifically, we focus on the interplay of temperature and length scales driving the system. We find that thermodynamical observables at finite volume such as the pressure approach the infinite volume limit similarly to that of the vanishing temperature limit. We also advance the functional renormalisation group method at finite volume. In particular, we identify requirements for suitable regulators that admit the exponential thermal and finite volume decay properties.

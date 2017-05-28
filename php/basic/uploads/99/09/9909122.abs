@@ -1,0 +1,4 @@
+Paper: 9909122
+Title: New Numerical Methods for Quantum Field Theories on the Continuum
+Authors: P. Emirdag and R. Easther and G. S. Guralnik and S. C. Hahn
+Abstract: The Source Galerkin Method is a new numerical technique that is being developed to solve Quantum Field Theories on the continuum. It is not based on Monte Carlo techniques and has a measure to evaluate relative errors. It promises to increase the accuracy and speed of calculations, and takes full advantage of symmetries of the theory. The application of this method to the non-linear sigma model is outlined.

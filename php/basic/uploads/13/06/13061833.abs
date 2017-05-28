@@ -1,0 +1,4 @@
+Paper: 13061833
+Title: The Differential of All Two-Loop MHV Amplitudes in N=4 Yang-Mills Theory
+Authors: John Golden and Marcus Spradlin
+Abstract: We present an explicit analytic calculation of the differential of the planar n-particle, two-loop MHV scattering amplitude in N=4 super Yang-Mills theory. The result is expressed only in terms of the polylogarithm functions Li_k(-x), for k=1,2,3, with arguments x belonging to the special class of dual conformal cross-ratios known as cluster X-coordinates. The surprising fact that these amplitudes may be expressed in this way provides a striking example of the manner in which the cluster structure on the kinematic configuration space underlies the structure of amplitudes in SYM theory.

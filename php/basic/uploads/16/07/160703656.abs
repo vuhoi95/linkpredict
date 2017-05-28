@@ -1,0 +1,4 @@
+Paper: 160703656
+Title: Digital quantum simulation of $\mathbb{Z}_2$ lattice gauge theories with  dynamical fermionic matter
+Authors: Erez Zohar and Alessandro Farace and Benni Reznik and J. Ignacio Cirac
+Abstract: We propose a scheme for digital quantum simulation of lattice gauge theories with dynamical fermions. Using a layered optical lattice with ancilla atoms that can move and interact with the other atoms (simulating the physical degrees of freedom), we obtain a stroboscopic dynamics which yields the four-body plaquette interactions, arising in models with $2+1$ and higher dimensions, without the use of perturbation theory. As an example we show how to simulate a $\mathbb{Z}_2$ model in $2+1$ dimensions.

@@ -1,0 +1,4 @@
+Paper: 151206109
+Title: Holographic Proof of the Quantum Null Energy Condition
+Authors: Jason Koeller and Stefan Leichenauer
+Abstract: We use holography to prove the Quantum Null Energy Condition (QNEC) at leading order in large-$N$ for CFTs and relevant deformations of CFTs in Minkowski space which have Einstein gravity duals. Given any codimension-2 surface $\Sigma$ which is locally stationary under a null deformation in the direction $k$ at the point $p$, the QNEC is a lower bound on the energy-momentum tensor at $p$ in terms of the second variation of the entropy to one side of $\Sigma$: $\langle T_{kk}\rangle \geq S"/2\pi \sqrt{h}$. In a CFT, conformal transformations of this inequality give results which apply when $\Sigma$ is not locally stationary. The QNEC was proven previously for free theories, and taken together with our result this provides strong evidence that the QNEC is a true statement about quantum field theory in general.

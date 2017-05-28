@@ -1,0 +1,4 @@
+Paper: 9511090
+Title: An Ising model in a magnetic field with a boundary
+Authors: Murray T. Batchelor and Vlad Fridkin and Yu-kui Zhou
+Abstract: We obtain the diagonal reflection matrices for a recently introduced family of dilute ${\rm A}_L$ lattice models in which the ${\rm A}_3$ model can be viewed as an Ising model in a magnetic field. We calculate the surface free energy from the crossing-unitarity relation and thus directly obtain the critical magnetic surface exponent $\delta_s$ for $L$ odd and surface specific heat exponent for $L$ even in each of the various regimes. For $L=3$ in the appropriate regime we obtain the Ising exponent $\delta_s = -\frac{15}{7}$, which is the first determination of this exponent without the use of scaling relations.

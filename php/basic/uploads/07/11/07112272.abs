@@ -1,0 +1,4 @@
+Paper: 07112272
+Title: Tensor calculus for supergravity on a manifold with boundary
+Authors: Dmitry V. Belyaev and Peter van Nieuwenhuizen
+Abstract: Using the simple setting of 3D N=1 supergravity, we show how the tensor calculus of supergravity can be extended to manifolds with boundary. We present an extension of the standard F-density formula which yields supersymmetric bulk-plus-boundary actions. To construct additional separately supersymmetric boundary actions, we decompose bulk supergravity and bulk matter multiplets into co-dimension one submultiplets. As an illustration we obtain the supersymmetric extension of the York-Gibbons-Hawking extrinsic curvature boundary term. We emphasize that our construction does not require any boundary conditions on off-shell fields. This gives a significant improvement over the existing orbifold supergravity tensor calculus.

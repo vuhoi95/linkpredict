@@ -1,0 +1,4 @@
+Paper: 12065877
+Title: Maxwell-like Lagrangians for higher spins
+Authors: Andrea Campoleoni and Dario Francia
+Abstract: We show how implementing invariance under divergence-free gauge transformations leads to a remarkably simple Lagrangian description of massless bosons of any spin. Our construction covers both flat and (A)dS backgrounds and extends to tensors of arbitrary mixed-symmetry type. Irreducible and traceless fields produce single-particle actions, while whenever trace constraints can be dispensed with the resulting Lagrangians display the same reducible, multi-particle spectra as those emerging from the tensionless limit of free open-string field theory. For all explored options the corresponding kinetic operators take essentially the same form as in the spin-one, Maxwell case.

@@ -1,0 +1,4 @@
+Paper: 9811330
+Title: One-dimensional fermions with incommensurate hopping close to  dimerization
+Authors: Diptiman Sen and Siddhartha Lal
+Abstract: We study the spectrum of fermions hopping on a chain with a weak incommensuration close to dimerization; both q, the deviation of the wave number from pi, and delta, the strength of the incommensuration, are small. For free fermions, we use a continuum Dirac theory to show that there are an infinite number of bands which meet at zero energy as q approaches zero. In the limit that the ratio q/delta ---> 0, the number of states lying inside the q = 0 gap is nonzero and equal to 2 delta / pi^2. Thus the limit q ---> 0 differs from q = 0; this can be seen clearly in the behavior of the specific heat at low temperature. For interacting fermions or the XXZ spin-1/2 chain, we use bosonization to argue that similar results hold.

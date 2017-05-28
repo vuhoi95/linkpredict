@@ -1,0 +1,4 @@
+Paper: 08105015
+Title: Analytical Bethe ansatz for the open AdS/CFT SU(1|1) spin chain
+Authors: Rafael I. Nepomechie and Eric Ragoucy
+Abstract: We prove an inversion identity for the open AdS/CFT SU(1|1) quantum spin chain which is exact for finite size. We use this identity, together with an analytic ansatz, to determine the eigenvalues of the transfer matrix and the corresponding Bethe ansatz equations. We also solve the closed chain by algebraic Bethe ansatz.

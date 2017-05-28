@@ -1,0 +1,4 @@
+Paper: 10082035
+Title: Generation of a Complete Set of Supersymmetric Shape Invariant  Potentials from an Euler Equation
+Authors: Jonathan Bougie and Asim Gangopadhyaya and Jeffry V. Mallow
+Abstract: In supersymmetric quantum mechanics, shape invariance is a sufficient condition for solvability. We show that all conventional additive shape invariant superpotentials that are independent of $\hbar$ obey two partial differential equations. One of these is equivalent to the one-dimensional Euler equation expressing momentum conservation for inviscid fluid flow, and it is closed by the other. We solve these equations, generate the set of all conventional shape invariant superpotentials, and show that there are no others in this category. We then develop an algorithm for generating all additive shape invariant superpotentials including those that depend on $\hbar$ explicitly.

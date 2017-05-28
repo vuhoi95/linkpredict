@@ -1,0 +1,4 @@
+Paper: 10034954
+Title: Asymptotics of quantum spin networks at a fixed root of unity
+Authors: Stavros Garoufalidis and Roland van der Veen
+Abstract: A classical spin network consists of a ribbon graph (i.e., an abstract graph with a cyclic ordering of the vertices around each edge) and an admissible coloring of its edges by natural numbers. The standard evaluation of a spin network is an integer number. In a previous paper, we proved an existence theorem for the asymptotics of the standard evaluation of an arbitrary classical spin network when the coloring of its edges are scaled by a large natural number. In the present paper, we extend the results to the case of an evaluation of quantum spin networks of arbitrary valency at a fixed root of unity. As in the classical case, our proofs use the theory of $G$-functions of Andr\'e, together with some new results concerning holonomic and $q$-holonomic sequences of Wilf-Zeilberger.

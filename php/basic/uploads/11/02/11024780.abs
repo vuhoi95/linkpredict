@@ -1,0 +1,4 @@
+Paper: 11024780
+Title: Origin of the Relaxation Time in Dissipative Fluid Dynamics
+Authors: G. S. Denicol and J. Noronha and H. Niemi and D. H. Rischke
+Abstract: We show how the linearized equations of motion of any dissipative current are determined by the analytical structure of the associated retarded Green's function. If the singularity of the Green's function, which is nearest to the origin in the complex-frequency plane, is a simple pole on the imaginary frequency axis, the linearized equations of motion can be reduced to relaxation-type equations for the dissipative currents. The value of the relaxation time is given by the inverse of this pole. We prove that, if the relaxation time is sent to zero, or equivalently, the pole to infinity, the dissipative currents approach the values given by the standard gradient expansion.

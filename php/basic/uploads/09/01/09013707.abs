@@ -1,0 +1,4 @@
+Paper: 09013707
+Title: Shear viscosity coefficient and relaxation time of causal dissipative  hydrodynamics in QCD
+Authors: T. Koide and E. Nakano and T. Kodama
+Abstract: The shear viscosity coefficient and the corresponding relaxation time for causal dissipative hydrodynamics are calculated based on the microscopic formula proposed in [T. Koide and T. Kodama, Phys. Rev. \textbf{E 78}, 051107 (2008)]. Here, the exact formula is transformed into a more compact form and applied it to evaluate these transport coefficients in the chiral perturbation theory and perturbative QCD. It is shown that in the leading order calculation, the causal shear viscosity coefficient $\eta$ reduces to that of the ordinary Green-Kubo-Nakano formula, and the relaxation time $\tau_{\pi}$ is related to $\eta$ and pressure $P$ by a simple relationship, $\tau_{\pi}=\eta/P$.

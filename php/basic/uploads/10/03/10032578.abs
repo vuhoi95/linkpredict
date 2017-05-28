@@ -1,0 +1,4 @@
+Paper: 10032578
+Title: Hopf algebras and Frobenius algebras in finite tensor categories
+Authors: Christoph Schweigert and Jürgen Fuchs
+Abstract: We discuss algebraic and representation theoretic structures in braided tensor categories C which obey certain finiteness conditions. Much interesting structure of such a category is encoded in a Hopf algebra H in C. In particular, the Hopf algebra H gives rise to representations of the modular group SL(2,Z) on various morphism spaces. We also explain how every symmetric special Frobenius algebra in a semisimple modular category provides additional structure related to these representations.

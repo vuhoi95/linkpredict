@@ -1,0 +1,4 @@
+Paper: 11020767
+Title: Inelastic scattering and elastic amplitude in Ising field theory in a  weak magnetic field at T>T_c. Perturbative analysis
+Authors: A. Zamolodchikov and I. Ziyatdinov
+Abstract: Two-particle scattering in Ising field theory in a weak magnetic field h is studied in the regime T>T_c, using perturbation theory in h^2. We calculate explicitly the cross-section of the process 2->3 to the order h^2. To this order, the corresponding cross-section dominates the total cross-section (the probability of all inelastic processes) at all energies E. We show that at high energies the h^2 term in the total cross-section grows as 16 G_3 h^2 log(E) where G_3 is exactly the third moment of the Euclidean spin-spin correlation function. Going beyond the leading order, we argue that at small h^2 the probability of the 2->2 process decays as E^(-16G_3 h^2) as E->infinity.

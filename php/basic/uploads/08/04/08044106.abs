@@ -1,0 +1,4 @@
+Paper: 08044106
+Title: Correlation function of the Schur process with a fixed final partition
+Authors: T. Imamura and T. Sasamoto
+Abstract: We consider a generalization of the Schur process in which a partition evolves from the empty partition into an arbitrary fixed final partition. We obtain a double integral representation of the correlation kernel. For a special final partition with only one row, the edge scaling limit is also discussed by the use of the saddle point analysis. If we appropriately scale the length of the row, the limiting correlation kernel changes from the extended Airy kernel.

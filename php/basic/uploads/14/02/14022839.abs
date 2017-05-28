@@ -1,0 +1,4 @@
+Paper: 14022839
+Title: State sum construction of two-dimensional topological quantum field  theories on spin surfaces
+Authors: Sebastian Novak and Ingo Runkel
+Abstract: We provide a combinatorial model for spin surfaces. Given a triangulation of an oriented surface, a spin structure is encoded by assigning to each triangle a preferred edge, and to each edge an orientation and a sign, subject to certain admissibility conditions. The behaviour of this data under Pachner moves is then used to define a state sum topological field theory on spin surfaces. The algebraic data is a Delta-separable Frobenius algebra whose Nakayama automorphism is an involution. We find that a simple extra condition on the algebra guarantees that the amplitude is zero unless the combinatorial data satisfies the admissibility condition required for the reconstruction of the spin structure.

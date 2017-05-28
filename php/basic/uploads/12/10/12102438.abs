@@ -1,0 +1,4 @@
+Paper: 12102438
+Title: Phase quenching in finite-density QCD: models, holography, and lattice
+Authors: Masanori Hanada and Yoshinori Matsuo and Naoki Yamamoto
+Abstract: Finite-density QCD is difficult to study numerically because of the sign problem. We prove that, in a certain region of the phase diagram, the phase quenched approximation is exact to O(Nf/Nc). It is true for any physical observables. We also consider the implications for the lattice simulations and find a quantitative evidence for the validity of the phase quenching from existing lattice QCD results at Nc=3. Our results show that the phase-quench approximation is rather good already at Nc=3, and the 1/Nc correction can be incorporated by the phase reweighting method without suffering from the overlap problem. We also show the same equivalence in effective models and holographic models.

@@ -1,0 +1,4 @@
+Paper: 151201548
+Title: Tensor Networks from Kinematic Space
+Authors: Bartlomiej Czech and Lampros Lamprou and Samuel McCandlish and James Sully
+Abstract: We point out that the MERA network for the ground state of a 1+1-dimensional conformal field theory has the same structural features as kinematic space---the geometry of CFT intervals. In holographic theories kinematic space becomes identified with the space of bulk geodesics studied in integral geometry. We argue that in these settings MERA is best viewed as a discretization of the space of bulk geodesics rather than of the bulk geometry itself. As a test of this kinematic proposal, we compare the MERA representation of the thermofield-double state with the space of geodesics in the two-sided BTZ geometry, obtaining a detailed agreement which includes the entwinement sector. We discuss how the kinematic proposal can be extended to excited states by generalizing MERA to a broader class of compression networks.

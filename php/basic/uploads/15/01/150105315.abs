@@ -1,0 +1,4 @@
+Paper: 150105315
+Title: Virasoro Conformal Blocks and Thermality from Classical Background  Fields
+Authors: A. Liam Fitzpatrick and Jared Kaplan and Matthew T. Walters
+Abstract: We show that in 2d CFTs at large central charge, the coupling of the stress tensor to heavy operators can be re-absorbed by placing the CFT in a non-trivial background metric. This leads to a more precise computation of the Virasoro conformal blocks between heavy and light operators, which are shown to be equivalent to global conformal blocks evaluated in the new background. We also generalize to the case where the operators carry U(1) charges. The refined Virasoro blocks can be used as the seed for a new Virasoro block recursion relation expanded in the heavy-light limit. We comment on the implications of our results for the universality of black hole thermality in $AdS_3$, or equivalently, the eigenstate thermalization hypothesis for $CFT_2$ at large central charge.

@@ -1,0 +1,4 @@
+Paper: 9805005
+Title: First lattice evidence for a non-trivial renormalization of the Higgs  condensate
+Authors: P. Cea and M. Consoli and L. Cosmai
+Abstract: General arguments related to ``triviality'' predict that, in the broken phase of $(\lambda\Phi^4)_4$ theory, the condensate $<\Phi>$ re-scales by a factor $Z_{\phi}$ different from the conventional wavefunction-renormalization factor, $Z_{prop}$. Using a lattice simulation in the Ising limit we measure $Z_{\phi}=m^2 \chi$ from the physical mass and susceptibility and $Z_{prop}$ from the residue of the shifted-field propagator. We find that the two $Z$'s differ, with the difference increasing rapidly as the continuum limit is approached. Since $Z_{\phi}$ affects the relation of $<\Phi>$ to the Fermi constant it can sizeably affect the present bounds on the Higgs mass.

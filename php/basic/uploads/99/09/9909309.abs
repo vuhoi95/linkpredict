@@ -1,0 +1,4 @@
+Paper: 9909309
+Title: Chaos analyses in both phases of QED and QCD
+Authors: Tamas S. Biro and Natascha Hoermann and Harald Markum and Rainer Pullirsch
+Abstract: We analyze the leading Lyapunov exponents of U(1) and SU(2) gauge field configurations on the lattice which are initialized by quantum Monte Carlo simulations. We find that configurations in the strong coupling phase are substantially more chaotic than in deconfinement.

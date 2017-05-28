@@ -1,0 +1,4 @@
+Paper: 09020367
+Title: Quantum kink and its excitations
+Authors: Arttu Rajantie and David J. Weir
+Abstract: We show how detailed properties of a kink in quantum field theory can be extracted from field correlation functions. This makes it possible to study quantum kinks in a fully non-perturbative way using Monte Carlo simulations. We demonstrate this by calculating the kink mass as well as the spectrum and approximate wave functions of its excitations. This way of measuring the kink mass has clear advantages over the existing approaches based on creation and annihilation operators or the kink free energy. Our methods are straightforward to generalise to more realistic theories and other defect types.

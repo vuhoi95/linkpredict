@@ -1,0 +1,4 @@
+Paper: 11096815
+Title: The 4D SU(3) gauge theory with an imaginary theta term
+Authors: Haralambos Panagopoulos and Ettore Vicari
+Abstract: We study the scaling behavior of the 4D SU(3) lattice gauge theory in the presence of a theta term, by Monte Carlo simulations computing the topological properties at imaginary theta. The numerical results provide a good evidence of scaling in the continuum limit. The imaginary theta dependence of the ground-state energy turns out to be well described by the first few terms of related expansions around theta=0, providing accurate estimates of the first few coefficients, up to O(theta^6).

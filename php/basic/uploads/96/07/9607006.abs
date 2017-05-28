@@ -1,0 +1,4 @@
+Paper: 9607006
+Title: Velocity fluctuations in forced Burgers turbulence
+Authors: J. -P. Bouchaud and M. Mezard
+Abstract: We propose a simple method to compute the velocity difference statistics in forced Burgers turbulence in any dimension. Within a reasonnable assumption concerning the nucleation and coalescence of shocks, we find in particular that the `left' tail of the distribution decays as an inverse square power, which is compatible with numerical data. Our results are compared to those of various recent approaches: instantons, operator product expansion, replicas.

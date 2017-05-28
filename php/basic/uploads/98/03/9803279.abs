@@ -1,0 +1,4 @@
+Paper: 9803279
+Title: A geometric generalization of field theory to manifolds of arbitrary  dimension
+Authors: Kay Joerg Wiese and Mehran Kardar
+Abstract: We introduce a generalization of the O(N) field theory to N-colored membranes of arbitrary inner dimension D. The O(N) model is obtained for D->1, while N->0 leads to self-avoiding tethered membranes (as the O(N) model reduces to self-avoiding polymers). The model is studied perturbatively by a 1-loop renormalization group analysis, and exactly as N->infinity. Freedom to choose the expansion point D, leads to precise estimates of critical exponents of the O(N) model. Insights gained from this generalization include a conjecture on the nature of droplets dominating the 3d-Ising model at criticality; and the fixed point governing the random bond Ising model.

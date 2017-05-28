@@ -1,0 +1,4 @@
+Paper: 08071905
+Title: Two-Dimensional Wess-Zumino Models at Intermediate Couplings
+Authors: Tobias Kaestner and Georg Bergner and Sebastian Uhlmann and Andreas Wipf and Christian Wozar
+Abstract: We consider the two-dimensional N=(2,2) Wess-Zumino model with a cubic superpotential at weak and intermediate couplings. Refined algorithms allow for the extraction of reliable masses in a region where perturbation theory no longer applies. We scrutinize the Nicolai improvement program which is supposed to guarantee lattice supersymmetry and compare the results for ordinary and non-standard Wilson fermions with those for SLAC derivatives. It turns out that this improvement completely fails to enhance simulations for Wilson fermions and only leads to better results for SLAC fermions. Furthermore, even without improvement terms the models with all three fermion species reproduce the correct values for the fermion masses in the continuum limit.

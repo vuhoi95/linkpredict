@@ -1,0 +1,4 @@
+Paper: 09053448
+Title: Diagrams for Symmetric Product Orbifolds
+Authors: Ari Pakman and Leonardo Rastelli and Shlomo S. Razamat
+Abstract: We develop a diagrammatic language for symmetric product orbifolds of two-dimensional conformal field theories. Correlation functions of twist operators are written as sums of diagrams: each diagram corresponds to a branched covering map from a surface where the fields are single-valued to the base sphere where twist operators are inserted. This diagrammatic language facilitates the study of the large N limit and makes more transparent the analogy between symmetric product orbifolds and free non-abelian gauge theories. We give a general algorithm to calculate the leading large N contribution to four-point correlators of twist fields.

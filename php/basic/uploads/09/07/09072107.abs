@@ -1,0 +1,4 @@
+Paper: 09072107
+Title: Dominance of a single topological sector in gauge theory on  non-commutative geometry
+Authors: Hajime Aoki and Jun Nishimura and Yoshiaki Susaki
+Abstract: We demonstrate a striking effect of non-commutative (NC) geometry on topological properties of gauge theory by Monte Carlo simulations. We study 2d U(1) NC gauge theory for various boundary conditions using a new finite-matrix formulation proposed recently. We find that a single topological sector dictated by the boundary condition dominates in the continuum limit. This is in sharp contrast to the results in commutative space-time based on lattice gauge theory, where all topological sectors appear with certain weights in the continuum limit. We discuss possible implications of this effect in the context of string theory compactifications and in field theory contexts.

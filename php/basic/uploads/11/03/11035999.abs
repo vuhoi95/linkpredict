@@ -1,0 +1,4 @@
+Paper: 11035999
+Title: Ultraviolet filtering of lattice configurations and applications to  Monte Carlo dynamics
+Authors: Margarita Garcia Perez and Antonio Gonzalez-Arroyo and Alfonso Sastre
+Abstract: We present a detailed study of a filtering method based upon Dirac quasi-zero-modes in the adjoint representation. The procedure induces no distortions on configurations which are solutions of the euclidean classical equations of motion. On the other hand, it is very effective in reducing the short-wavelength stochastic noise present in Monte Carlo generated configurations. After testing the performance of the method in various situations, we apply it successfully to study the effect of Monte Carlo dynamics on topological structures like instantons.

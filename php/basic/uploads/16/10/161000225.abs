@@ -1,0 +1,4 @@
+Paper: 161000225
+Title: Quantizing Weierstrass
+Authors: Vincent Bouchard and Nitin K. Chidambaram and Tyler Dauphinee
+Abstract: We study the connection between the Eynard-Orantin topological recursion and quantum curves for the family of genus one spectral curves given by the Weierstrass equation. We construct quantizations of the spectral curve that annihilate the perturbative and non-perturbative wave-functions. In particular, for the non-perturbative wave-function, we prove, up to order hbar^5, that the quantum curve satisfies the properties expected from matrix models. As a side result, we obtain an infinite sequence of identities relating A-cycle integrals of elliptic functions and quasi-modular forms.

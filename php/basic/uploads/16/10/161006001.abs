@@ -1,0 +1,4 @@
+Paper: 161006001
+Title: Gauge covariance of the fermion Schwinger-Dyson equation in QED
+Authors: Shaoyang Jia and M. R. Pennington
+Abstract: Any practical application of the Schwinger-Dyson equations to the study of $n$-point Green's functions of a field theory requires truncations, the best known being finite order perturbation theory. Strong coupling studies require a different approach. In the case of QED, gauge covariance is a powerful constraint. By using a spectral representation for the massive fermion propagator in QED, we are able to show that the constraints imposed by the Landau-Khalatnikov-Fradkin transformations are linear operations on the spectral densities. Here we formally define these group operations and show with a couple of examples how in practice they provide a straightforward way to test the gauge covariance of any viable truncation of the Schwinger-Dyson equation for the fermion 2-point function.

@@ -1,0 +1,4 @@
+Paper: 14065967
+Title: Systems of coupled PT-symmetric oscillators
+Authors: Carl M. Bender and Mariagiovanna Gianfreda and S. P. Klevansky
+Abstract: The Hamiltonian for a PT-symmetric chain of coupled oscillators is constructed. It is shown that if the loss-gain parameter $\gamma$ is uniform for all oscillators, then as the number of oscillators increases, the region of unbroken PT-symmetry disappears entirely. However, if $\gamma$ is localized in the sense that it decreases for more distant oscillators, then the unbroken-PT-symmetric region persists even as the number of oscillators approaches infinity. In the continuum limit the oscillator system is described by a PT-symmetric pair of wave equations, and a localized loss-gain impurity leads to a pseudo-bound state. It is also shown that a planar configuration of coupled oscillators can have multiple disconnected regions of unbroken PT symmetry.

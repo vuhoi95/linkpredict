@@ -1,0 +1,4 @@
+Paper: 161010096
+Title: Landau gauge gluon vertices from Lattice QCD
+Authors: Anthony G. Duarte and Orlando Oliveira and Paulo J. Silva
+Abstract: In lattice QCD the computation of one-particle irreducible (1PI) Green's functions with a large number (> 2) of legs is a challenging task. Besides tuning the lattice spacing and volume to reduce finite size effects, the problems associated with the estimation of higher order moments via Monte Carlo methods and the extraction of 1PI from complete Green's functions are limitations of the method. Herein, we address these problems revisiting the calculation of the three gluon 1PI Green's function.

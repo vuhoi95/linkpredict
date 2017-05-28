@@ -1,0 +1,4 @@
+Paper: 14114222
+Title: Recursive Method for Nekrasov partition function for classical Lie  groups
+Authors: Satoshi Nakamura and Futoshi Okazawa and Yutaka Matsuo
+Abstract: Nekrasov partition function for the supersymmetric gauge theories with general Lie groups is not so far known in a closed form while there is a definition in terms of the integral. In this paper, as an intermediate step to derive it, we give a recursion formula among partition functions, which can be derived from the integral. We apply the method to a toy model which reflects the basic structure of partition functions for BCD type Lie groups and obtained a closed expression for the factor associated with the generalized Young diagram.

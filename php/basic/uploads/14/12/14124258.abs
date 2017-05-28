@@ -1,0 +1,4 @@
+Paper: 14124258
+Title: Sigma-model limit of Yang-Mills instantons in higher dimensions
+Authors: Andreas Deser and Olaf Lechtenfeld and Alexander D. Popov
+Abstract: We consider the Hermitian Yang-Mills (instanton) equations for connections on vector bundles over a 2n-dimensional K\"ahler manifold X which is a product Y x Z of p- and q-dimensional Riemannian manifold Y and Z with p+q=2n. We show that in the adiabatic limit, when the metric in the Z direction is scaled down, the gauge instanton equations on Y x Z become sigma-model instanton equations for maps from Y to the moduli space M (target space) of gauge instantons on Z if q>= 4. For q<4 we get maps from Y to the moduli space M of flat connections on Z. Thus, the Yang-Mills instantons on Y x Z converge to sigma-model instantons on Y while Z shrinks to a point. Put differently, for small volume of Z, sigma-model instantons on Y with target space M approximate Yang-Mills instantons on Y x Z.

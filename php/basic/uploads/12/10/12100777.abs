@@ -1,0 +1,4 @@
+Paper: 12100777
+Title: Variable Phase S-Matrix Calculations for Asymmetric Potentials and  Dielectrics
+Authors: Aden Forrow and Noah Graham
+Abstract: Motivated by recently developed techniques making it possible to compute Casimir energies for any object whose scattering S-matrix (or, equivalently, T-matrix) is available, we develop a variable phase method to compute the S-matrix for localized but asymmetric sources. Starting from the case of scalar potential scattering, we develop a combined inward/outward integration algorithm that is numerically efficient and extends robustly to imaginary wave number. We then extend these results to electromagnetic scattering from a position-dependent dielectric. This case requires additional modifications to disentangle the transverse and longitudinal modes.

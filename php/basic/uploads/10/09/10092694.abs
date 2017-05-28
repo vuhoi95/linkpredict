@@ -1,0 +1,4 @@
+Paper: 10092694
+Title: What is the boundary condition for radial wave function of the  Schrödinger equation ?
+Authors: Anzor A. Khelashvili and Teimuraz P. Nadareishvili
+Abstract: There is much discussion in the mathematical physics literature as well as in quantum mechanics textbooks on spherically symmetric potentials. Nevertheless, there is no consensus about the behavior of the radial function at the origin, particularly for singular potentials. A careful derivation of the radial Schr\"odinger equation leads to the appearance of a delta function term when the Laplace operator is written in spherical coordinates. As a result, regardless of the behavior of the potential, an additional constraint is imposed on the radial wave function in the form of a vanishing boundary condition at the origin.

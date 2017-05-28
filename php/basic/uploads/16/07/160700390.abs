@@ -1,0 +1,4 @@
+Paper: 160700390
+Title: The g-theorem and quantum information theory
+Authors: Horacio Casini and Ignacio Salazar Landea and Gonzalo Torroba
+Abstract: We study boundary renormalization group flows between boundary conformal field theories in $1+1$ dimensions using methods of quantum information theory. We define an entropic $g$-function for theories with impurities in terms of the relative entanglement entropy, and we prove that this $g$-function decreases along boundary renormalization group flows. This entropic $g$-theorem is valid at zero temperature, and is independent from the $g$-theorem based on the thermal partition function. We also discuss the mutual information in boundary RG flows, and how it encodes the correlations between the impurity and bulk degrees of freedom. Our results provide a quantum-information understanding of (boundary) RG flow as increase of distinguishability between the UV fixed point and the theory along the RG flow.

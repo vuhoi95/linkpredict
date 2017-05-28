@@ -1,0 +1,4 @@
+Paper: 09081792
+Title: The gauge algebra of double field theory and Courant brackets
+Authors: Chris Hull and Barton Zwiebach
+Abstract: We investigate the symmetry algebra of the recently proposed field theory on a doubled torus that describes closed string modes on a torus with both momentum and winding. The gauge parameters are constrained fields on the doubled space and transform as vectors under T-duality. The gauge algebra defines a T-duality covariant bracket. For the case in which the parameters and fields are T-dual to ones that have momentum but no winding, we find the gauge transformations to all orders and show that the gauge algebra reduces to one obtained by Siegel. We show that the bracket for such restricted parameters is the Courant bracket. We explain how these algebras are realised as symmetries despite the failure of the Jacobi identity.

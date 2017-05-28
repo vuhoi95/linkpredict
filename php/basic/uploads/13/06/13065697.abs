@@ -1,0 +1,4 @@
+Paper: 13065697
+Title: Dynamical Black Holes: Approach to the Final State
+Authors: Abhay Ashtekar and Miguel Campiglia and Samir Shah
+Abstract: Since black holes can be formed through widely varying processes, the horizon structure is highly complicated in the dynamical phase. Nonetheless, as numerical simulations show, the final state appears to be universal, well described by the Kerr geometry. How are all these large and widely varying deviations from the Kerr horizon washed out? To investigate this issue, we introduce a well-suited notion of horizon multipole moments and equations governing their dynamics, thereby providing a coordinate and slicing independent framework to investigate the approach to equilibrium. In particular, our flux formulas for multipoles can be used as analytical checks on numerical simulations and, in turn, the simulations could be used to fathom possible universalities in the way black holes approach their final equilibrium.

@@ -1,0 +1,4 @@
+Paper: 10035337
+Title: Global F-theory Models: Instantons and Gauge Dynamics
+Authors: Mirjam Cvetič and Iñaki García-Etxebarria and James Halverson
+Abstract: We elucidate certain aspects of F-theory gauge dynamics, due to quantum splitting of certain brane stacks, which are absent in the Type IIB limit. We also provide a working implementation of an algorithm for computing cohomology of line bundles on arbitrary toric varieties. This should be of general use for studying the physics of global Type IIB and F-theory models, in particular for the explicit counting of zero modes for rigid F-theory instantons which contribute to charged matter couplings. We illustrate the discussion by constructing and analyzing in detail a compact F-theory GUT model in which a D-brane instanton generates the top Yukawa coupling non-perturbatively.

@@ -1,0 +1,4 @@
+Paper: 12030188
+Title: Properties of c_2 invariants of Feynman graphs
+Authors: Francis Brown and Oliver Schnetz and Karen Yeats
+Abstract: The c_2 invariant of a Feynman graph is an arithmetic invariant which detects many properties of the corresponding Feynman integral. In this paper, we define the c_2 invariant in momentum space and prove that it equals the c_2 invariant in parametric space for overall log-divergent graphs. Then we show that the c_2 invariant of a graph vanishes whenever it contains subdivergences. Finally, we investigate how the c_2 invariant relates to identities such as the four-term relation in knot theory.

@@ -1,0 +1,4 @@
+Paper: 12043790
+Title: Field diffeomorphisms and the algebraic structure of perturbative  expansions
+Authors: Dirk Kreimer and Andrea Velenich
+Abstract: We consider field diffeomorphisms in the context of real scalar field theories. Starting from free field theories we apply non-linear field diffeomorphisms to the fields and study the perturbative expansion for the transformed theories. We find that tree level amplitudes for the transformed fields must satisfy BCFW type recursion relations for the S-matrix to remain trivial. For the massless field theory these relations continue to hold in loop computations. In the massive field theory the situation is more subtle. A necessary condition for the Feynman rules to respect the maximal ideal and co-ideal defined by the core Hopf algebra of the transformed theory is that upon renormalization all massive tadpole integrals (defined as all integrals independent of the kinematics of external momenta) are mapped to zero.

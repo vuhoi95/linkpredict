@@ -1,0 +1,4 @@
+Paper: 11103486
+Title: Scaling Properties of Domain Wall Networks
+Authors: A. M. M. Leite and C. J. A. P. Martins
+Abstract: We revisit the cosmological evolution of domain wall networks, taking advantage of recent improvements in computing power. We carry out high-resolution field theory simulations in two, three and four spatial dimensions to study the effects of dimensionality and damping on the evolution of the network. Our results are consistent with the expected scale-invariant evolution of the network, which suggests that previous hints of deviations from this behavior may have been due to the limited dynamical range of those simulations. We also use the results of very large ($1024^3$) simulations in three cosmological epochs to provide a calibration for the velocity-dependent one-scale model for domain walls: we numerically determine the two free model parameters to have the values $c_w=0.5\pm0.2$ and $k_w=1.1\pm0.3$.

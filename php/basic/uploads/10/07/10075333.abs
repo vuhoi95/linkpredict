@@ -1,0 +1,4 @@
+Paper: 10075333
+Title: Kubo Formulae for Second-Order Hydrodynamic Coefficients
+Authors: Guy D. Moore and Kiyoumars A. Sohrabi
+Abstract: At second order in gradients, conformal relativistic hydrodynamics depends on the viscosity eta and on five additional "second-order" hydrodynamical coefficients tauPi, kappa, lambda1, lambda2, and lambda3. We derive Kubo relations for these coefficients, relating them to equilibrium, fully retarded 3-point correlation functions of the stress tensor. We show that the coefficient lambda3 can be evaluated directly by Euclidean means and does not in general vanish.

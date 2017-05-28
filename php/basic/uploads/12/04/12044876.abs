@@ -1,0 +1,4 @@
+Paper: 12044876
+Title: New Relativistic Wave Equations for Two-Particle Systems
+Authors: Guangqing Bi and Yuekai Bi
+Abstract: We seek to introduce a mathematical method to derive the relativistic wave equations for two-particle system. According to this method, if we define stationary wave functions as special solutions like $\Psi(\mathbf{r}_1,\mathbf{r}_2,t)=\psi(\mathbf{r}_1,\mathbf{r}_2)e^{-iEt/\hbar},\, \psi(\mathbf{r}_1,\mathbf{r}_2)\in\mathscr{S} (\mathbb{R}^3\times\mathbb{R}^3)$, and properly define the relativistic reduced mass $\mu_0$, then some new relativistic two-body wave equations can be derived. On this basis, we obtain the two-body Sommerfeld fine-structure formula for relativistic atomic two-body systems such as the pionium and pionic hydrogen atoms bound states, using which, we discuss the pair production and annihilation of $\pi+$ and $\pi-$.

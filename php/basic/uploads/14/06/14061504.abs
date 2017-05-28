@@ -1,0 +1,4 @@
+Paper: 14061504
+Title: 1-loop Color structures and sunny diagrams
+Authors: Barak Kol and Ruth Shir
+Abstract: Recently the space of tree level color structures for gluon scattering was determined in arXiv:1403.6837 together with its transformation properties under permutations. Here we generalize the discussion to loops, demonstrating a reduction of an arbitrary color diagram to its vacuum skeleton plus rays. For 1-loop there are no residual relations and we determine the space of color structures both diagrammatically and algebraically in terms of certain sunny diagrams. We present the generating function for the characteristic polynomials and a list of irreducible representations for $3 \le n \le 9$ external legs. Finally we present a new proof for the 1-loop shuffle relations based on the cyclic shuffle and split operations.

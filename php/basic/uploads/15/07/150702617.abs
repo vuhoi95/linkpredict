@@ -1,0 +1,4 @@
+Paper: 150702617
+Title: Yang-Baxter equations with two Planck constants
+Authors: A. Levin and M. Olshanetsky and A. Zotov
+Abstract: We consider Yang-Baxter equations arising from its associative analog and study corresponding exchange relations. They generate finite-dimensional quantum algebras which have form of coupled ${\rm GL}(N)$ Sklyanin elliptic algebras. Then we proceed to a natural generalization of the Baxter-Belavin quantum $R$-matrix to the case ${\rm Mat}(N,\mathbb C)^{\otimes 2}\otimes {\rm Mat}(M,\mathbb C)^{\otimes 2}$. It can be viewed as symmetric form of ${\rm GL}(NM)$ $R$-matrix in the sense that the Planck constant and the spectral parameter enter (almost) symmetrically. Such type (symmetric) $R$-matrices are also shown to satisfy the Yang-Baxter like quadratic and cubic equations.

@@ -1,0 +1,4 @@
+Paper: 12073611
+Title: Z/2Z-extensions of Hopf algebra module categories by their base  categories
+Authors: Alexei Davydov and Ingo Runkel
+Abstract: Starting with a self-dual Hopf algebra H in a braided monoidal category S we construct a Z/2Z-graded monoidal category C = C_0 + C_1. The degree zero component is the category Rep_S(H) of representations of H and the degree one component is the category S. The extra structure on H needed to define the associativity isomorphisms is a choice of self-duality map and cointegral, subject to certain conditions. We also describe rigid, braided and ribbon structures on C in Hopf algebraic terms. Our construction permits a uniform treatment of Tambara-Yamagami categories and categories related to symplectic fermions in conformal field theory.

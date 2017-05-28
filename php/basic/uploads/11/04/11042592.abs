@@ -1,0 +1,4 @@
+Paper: 11042592
+Title: Reducing the 4d Index to the S^3 Partition Function
+Authors: Abhijit Gadde and Wenbin Yan
+Abstract: The superconformal index of a 4d gauge theory is computed by a matrix integral arising from localization of the supersymmetric path integral on S^3 x S^1 to the saddle point. As the radius of the circle goes to zero, it is natural to expect that the 4d path integral becomes the partition function of dimensionally reduced gauge theory on S^3. We show that this is indeed the case and recover the matrix integral of Kapustin, Willet and Yaakov from the matrix integral that computes the superconformal index. Remarkably, the superconformal index of the "parent" 4d theory can be thought of as the q-deformation of the 3d partition function.

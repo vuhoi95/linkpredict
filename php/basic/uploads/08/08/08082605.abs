@@ -1,0 +1,4 @@
+Paper: 08082605
+Title: Differential Reduction Algorithms for the All-Order Epsilon Expansion of  Hypergeometric Functions
+Authors: S. A. Yost and M. Yu. Kalmykov and B. F. L. Ward
+Abstract: Hypergeometric functions provide a useful representation of Feynman diagrams occuring in precision phenomenology. In dimension regularization, the epsilon-expansion of these functions about d=4 is required. We discuss the current status of differential reduction algorithms. As an illustration, we consider the construction of the all-order epsilon-expansion of the Appell hypergeometric function about integer values of the parameters and present an explicit evaluations of the first few terms.

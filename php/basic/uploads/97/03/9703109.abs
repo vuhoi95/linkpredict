@@ -1,0 +1,4 @@
+Paper: 9703109
+Title: Parity Invariant Lattice Regularization of Three-Dimensional  Gauge-Fermion System
+Authors: Rajamani Narayanan and Jun Nishimura
+Abstract: In three dimensions, the effective action for the gauge field induced by integrating out a massless Dirac fermion is known to give either a parity-invariant or a parity-violating result, depending on the regularization scheme. We construct a lattice formulation of the massless Dirac fermion using the overlap formalism. We show that the result is parity invariant in contrast to the formulation using Wilson fermions in the massless limit. This facilitates a non-perturbative study of three-dimensional massless Dirac fermions interacting with a gauge field in a parity invariant setting with no need for fine-tuning.

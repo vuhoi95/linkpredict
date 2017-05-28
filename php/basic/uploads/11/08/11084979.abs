@@ -1,0 +1,4 @@
+Paper: 11084979
+Title: Conformal symmetry and non-relativistic second order fluid dynamics
+Authors: Jingyi Chao and Thomas Schaefer
+Abstract: We study the constraints imposed by conformal symmetry on the equations of fluid dynamics at second order in gradients of the hydrodynamic variables. At zeroth order conformal symmetry implies a constraint on the equation of state, E=2/3 P, where E is the energy density and P is the pressure. At first order, conformal symmetry implies that the bulk viscosity must vanish. We show that at second order conformal invariance requires that two-derivative terms in the stress tensor must be traceless, and that it determines the relaxation of dissipative stresses to the Navier-Stokes form. We verify these results by solving the Boltzmann equation at second order in the gradient expansion. We find that only a subset of the terms allowed by conformal symmetry appear.

@@ -1,0 +1,4 @@
+Paper: 13051321
+Title: Diagonal Limit for Conformal Blocks in d Dimensions
+Authors: Matthijs Hogervorst and Hugh Osborn and Slava Rychkov
+Abstract: Conformal blocks in any number of dimensions depend on two variables z, zbar. Here we study their restrictions to the special "diagonal" kinematics z = zbar, previously found useful as a starting point for the conformal bootstrap analysis. We show that conformal blocks on the diagonal satisfy ordinary differential equations, third-order for spin zero and fourth-order for the general case. These ODEs determine the blocks uniquely and lead to an efficient numerical evaluation algorithm. For equal external operator dimensions, we find closed-form solutions in terms of finite sums of 3F2 functions.

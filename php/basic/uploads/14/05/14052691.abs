@@ -1,0 +1,4 @@
+Paper: 14052691
+Title: Entropy of Factorized Snapshot Data for Two-Dimensional Classical Spin  Models
+Authors: Hiroaki Matsueda and Dai Ozaki
+Abstract: We reexamine the snapshot entropy of the Ising and three-states Potts models on the LxL square lattice. Focusing on the factorization of the snapshot matrix, we find that the entropy at Tc scales asymptotically as S=(c/3)lnL consistent with the entanglement entropy in one-dimensional quantum critical systems. This nontrivial consistency strongly supports that the snapshot entropy after the factorization really represents the holographic entanglement entropy. On the other hand, the anomalous scaling for the coarse-grained snpshot entropy is retained even after the factorization. These fearures are considered to originate from the fact that the largest singular value of the snapshot matrix is regulated by the factorization.

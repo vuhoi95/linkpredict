@@ -1,0 +1,4 @@
+Paper: 9912038
+Title: A Remark on the Optimal Cloning of An N-Level Quantum System
+Authors: Sergio Albeverio and Shao-Ming Fei
+Abstract: We study quantum cloning machines (QCM) that act on an unknown N-level quantum state and make M copies. We give a formula for the maximum of the fidelity of cloning and exhibit the unitary transformations that realize this optimal fidelity. We also extend the results to treat the case of M copies from $N^\prime$ ($M>N^\prime$) identical N-level quantum systems.

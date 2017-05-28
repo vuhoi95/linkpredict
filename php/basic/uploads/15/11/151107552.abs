@@ -1,0 +1,4 @@
+Paper: 151107552
+Title: Bootstrapping $O(N)$ Vector Models with Four Supercharges in $3 \leq d  \leq4$
+Authors: Shai M. Chester and Luca V. Iliesiu and Silviu S. Pufu and Ran Yacoby
+Abstract: We analyze the conformal bootstrap constraints in theories with four supercharges and a global $O(N) \times U(1)$ flavor symmetry in $3 \leq d \leq 4$ dimensions. In particular, we consider the 4-point function of $O(N)$-fundamental chiral operators $Z_i$ that have no chiral primary in the $O(N)$-singlet sector of their OPE. We find features in our numerical bounds that nearly coincide with the theory of $N+1$ chiral super-fields with superpotential $W = X \sum_{i=1}^N Z_i^2$, as well as general bounds on SCFTs where $\sum_{i=1}^N Z_i^2$ vanishes in the chiral ring.

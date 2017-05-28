@@ -1,0 +1,4 @@
+Paper: 14043597
+Title: Studying and removing effects of fixed topology
+Authors: Christopher Czaban and Arthur Dromard and Marc Wagner
+Abstract: At small lattice spacing, or when using overlap fermions, lattice QCD simulations tend to become stuck in a single topological sector. Physical observables, e.g.\ hadron masses, then differ from their full QCD counterparts by $1/V$ corrections, where $V$ is the spacetime volume. These corrections can be calculated order by order using the saddle point method. We calculate all corrections proportional to $1/V^2$ and $1/V^3$ and test the resulting equations for several models: a quantum mechanical particle on a circle, the Schwinger model and SU(2) Yang-Mills theory.

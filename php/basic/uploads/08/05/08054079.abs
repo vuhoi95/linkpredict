@@ -1,0 +1,4 @@
+Paper: 08054079
+Title: Landau levels and Riemann zeros
+Authors: German Sierra and Paul K. Townsend
+Abstract: The number $N(E)$ of complex zeros of the Riemann zeta function with positive imaginary part less than $E$ is the sum of a `smooth' function $\bar N(E)$ and a `fluctuation'. Berry and Keating have shown that the asymptotic expansion of $\bar N(E)$ counts states of positive energy less than $E$ in a `regularized' semi-classical model with classical Hamiltonian $H=xp$. For a different regularization, Connes has shown that it counts states `missing' from a continuum. Here we show how the `absorption spectrum' model of Connes emerges as the lowest Landau level limit of a specific quantum mechanical model for a charged particle on a planar surface in an electric potential and uniform magnetic field. We suggest a role for the higher Landau levels in the fluctuation part of $N(E)$.

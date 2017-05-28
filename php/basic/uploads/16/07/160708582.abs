@@ -1,0 +1,4 @@
+Paper: 160708582
+Title: Critical number of fermions in three-dimensional QED
+Authors: V. P. Gusynin and P. K. Pyatkovskiy
+Abstract: Previous analytical studies of quantum electrodynamics in $2+1$ dimensions (QED3) have shown the existence of a critical number of fermions for onset of chiral symmetry breaking, the most known being the value $N_c\approx3.28$ obtained by Nash to $1/N^2$ order in the $1/N$ expansion [16]. This analysis is reconsidered by solving the Dyson-Schwinger equations for the fermion propagator and the vertex to show that the more accurate gauge independent value is $N_c\approx2.85$, and for $N<N_c$ the chiral symmetry is dynamically broken. An estimate for the value of chiral condensate $\langle\bar\psi\psi\rangle$ is given for $N=2$. Knowing precise $N_c$ would be important for comparison between continuum studies and lattice simulations of QED3.

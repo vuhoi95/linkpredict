@@ -1,0 +1,4 @@
+Paper: 9702178
+Title: Vacuum expectation value asymptotics for second order differential  operators on manifolds with boundary
+Authors: T. P. Branson and P. B. Gilkey and D. V. Vassilevich
+Abstract: Let M be a compact Riemannian manifold with smooth boundary. We study the vacuum expectation value of an operator Q by studying Tr Qe^{-tD}, where D is an operator of Laplace type on M, and where Q is a second order operator with scalar leading symbol; we impose Dirichlet or modified Neumann boundary conditions.

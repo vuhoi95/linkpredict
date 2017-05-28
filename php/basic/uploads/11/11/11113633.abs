@@ -1,0 +1,4 @@
+Paper: 11113633
+Title: Quantum Algorithms for Quantum Field Theories
+Authors: Stephen P. Jordan and Keith S. M. Lee and John Preskill
+Abstract: Quantum field theory reconciles quantum mechanics and special relativity, and plays a central role in many areas of physics. We develop a quantum algorithm to compute relativistic scattering probabilities in a massive quantum field theory with quartic self-interactions (phi-fourth theory) in spacetime of four and fewer dimensions. Its run time is polynomial in the number of particles, their energy, and the desired precision, and applies at both weak and strong coupling. In the strong-coupling and high-precision regimes, our quantum algorithm achieves exponential speedup over the fastest known classical algorithm.

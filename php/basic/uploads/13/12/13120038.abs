@@ -1,0 +1,4 @@
+Paper: 13120038
+Title: Bounds on Operator Dimensions in 2D Conformal Field Theories
+Authors: Joshua D. Qualls and Alfred D. Shapere
+Abstract: We extend the work of Hellerman (arxiv:0902.2790) to derive an upper bound on the conformal dimension $\Delta_2$ of the next-to-lowest nontrival primary operator in unitary two-dimensional conformal field theories without chiral primary operators. The bound we find is of the same form as found for $\Delta_1$: $\Delta_2 \leq c_{tot}/12 + O(1)$. We find a similar bound on the conformal dimension $\Delta_3$, and present a method for deriving bounds on $\Delta_n$ for any $n$, under slightly modified assumptions. For asymptotically large $c_{tot}$ and fixed $n$, we show that $\Delta_n \leq \frac{c_{tot}}{12}+O(1)$. We conclude with a brief discussion of the gravitational implications of these results.

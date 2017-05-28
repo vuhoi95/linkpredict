@@ -1,0 +1,4 @@
+Paper: 14077256
+Title: The Faddeev-Popov Method Demystified
+Authors: Marco Ornigotti and Andrea Aiello
+Abstract: We discuss how to implement the Legendre transform using the Faddeev-Popov method of Quantum Field Theory. By doing this, we provide an alternate way to understand the essence of the Faddeev-Popov method, using only concepts that are very familiar to the students (such as the Legendre transform), and without needing any reference to Quantum Field Theory. Two examples of Legendre transform calculated with the Faddeev-Popov method are given to better clarify the point.

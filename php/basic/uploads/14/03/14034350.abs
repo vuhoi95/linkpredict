@@ -1,0 +1,4 @@
+Paper: 14034350
+Title: The Gluon Propagator with Two-loop Schwinger-Dyson Equations
+Authors: Joseph Meyers and Eric S. Swanson
+Abstract: Gluon, ghost, and quark propagators are computed in the Schwinger-Dyson formalism. The full set of one-loop and two-loop contributions to the gap equations are evaluated for the first time. A new and efficient method for dealing with quadratic divergences is presented and a consistent renormalization method is proposed. We find that the two-loop contribution to the propagators is subleading, good fits to lattice data are possible, and reliable vertex models are important to obtaining desired ultraviolet, infrared, and gauge-symmetric behavior.

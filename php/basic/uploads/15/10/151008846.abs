@@ -1,0 +1,4 @@
+Paper: 151008846
+Title: Berends-Giele recursions and the BCJ duality in superspace and  components
+Authors: Carlos R. Mafra and Oliver Schlotterer
+Abstract: The recursive method of Berends and Giele to compute tree-level gluon amplitudes is revisited using the framework of ten-dimensional super Yang-Mills. First we prove that the pure spinor formula to compute SYM tree amplitudes derived in 2010 reduces to the standard Berends-Giele formula from the 80s when restricted to gluon amplitudes and additionally determine the fermionic completion. Second, using BRST cohomology manipulations in superspace, alternative representations of the component amplitudes are explored and the Bern-Carrasco-Johansson relations among partial tree amplitudes are derived in a novel way. Finally, it is shown how the supersymmetric components of manifestly local BCJ-satisfying tree-level numerators can be computed in a recursive fashion.

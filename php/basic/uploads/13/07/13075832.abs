@@ -1,0 +1,4 @@
+Paper: 13075832
+Title: Multiloop Integrand Reduction for Dimensionally Regulated Amplitudes
+Authors: P. Mastrolia and E. Mirabella and G. Ossola and T. Peraro
+Abstract: We present the integrand reduction via multivariate polynomial division as a natural technique to encode the unitarity conditions of Feynman amplitudes. We derive a recursive formula for the integrand reduction, valid for arbitrary dimensionally regulated loop integrals with any number of loops and external legs, which can be used to obtain the decomposition of any integrand analytically with a finite number of algebraic operations. The general results are illustrated by applications to two-loop Feynman diagrams in QED and QCD, showing that the proposed reduction algorithm can also be seamlessly applied to integrands with denominators appearing with arbitrary powers.

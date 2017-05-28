@@ -1,0 +1,4 @@
+Paper: 9807034
+Title: Trace formulas for stochastic evolution operators: Weak noise  perturbation theory
+Authors: Predrag Cvitanovic' and C. P. Dettmann and Ronnie Mainieri and Gabor Vattay
+Abstract: Periodic orbit theory is an effective tool for the analysis of classical and quantum chaotic systems. In this paper we extend this approach to stochastic systems, in particular to mappings with additive noise. The theory is cast in the standard field theoretic formalism, and weak noise perturbation theory written in terms of Feynman diagrams. The result is a stochastic analog of the next-to-leading hbar corrections to the Gutzwiller trace formula, with long time averages calculated from periodic orbits of the deterministic system. The perturbative corrections are computed analytically and tested numerically on a simple 1-dimensional system.

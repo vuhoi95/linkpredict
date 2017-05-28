@@ -1,0 +1,4 @@
+Paper: 13051924
+Title: Solution of the NLO BFKL Equation and a Strategy for Solving the  All-Order BFKL Equation
+Authors: Giovanni A. Chirilli and Yuri V. Kovchegov
+Abstract: We derive the solution of the NLO BFKL equation by constructing its eigenfunctions perturbatively, using an expansion around the LO BFKL (conformal) eigenfunctions. This method can be used to construct a solution of the BFKL equation with the kernel calculated to an arbitrary order in the coupling constant.

@@ -1,0 +1,4 @@
+Paper: 9801281
+Title: Hamiltonian Cycles on a Random Three-coordinate Lattice
+Authors: B. Eynard and E. Guitter and C. Kristjansen
+Abstract: Consider a random three-coordinate lattice of spherical topology having 2v vertices and being densely covered by a single closed, self-avoiding walk, i.e. being equipped with a Hamiltonian cycle. We determine the number of such objects as a function of v. Furthermore we express the partition function of the corresponding statistical model as an elliptic integral.

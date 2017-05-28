@@ -1,0 +1,4 @@
+Paper: 9312031
+Title: Gravity, Non-Commutative Geometry and the Wodzicki Residue
+Authors: W. Kalau and M. Walze
+Abstract: We derive an action for gravity in the framework of non-commutative geometry by using the Wodzicki residue. We prove that for a Dirac operator $D$ on an $n$ dimensional compact Riemannian manifold with $n\geq 4$, $n$ even, the Wodzicki residue Res$(D^{-n+2})$ is the integral of the second coefficient of the heat kernel expansion of $D^{2}$. We use this result to derive a gravity action for commutative geometry which is the usual Einstein Hilbert action and we also apply our results to a non-commutative extension which, is given by the tensor product of the algebra of smooth functions on a manifold and a finite dimensional matrix algebra. In this case we obtain gravity with a cosmological constant.

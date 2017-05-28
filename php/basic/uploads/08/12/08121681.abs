@@ -1,0 +1,4 @@
+Paper: 08121681
+Title: Hadron Spectroscopy with Dynamical Chirally Improved Fermions
+Authors: Christof Gattringer and Christian Hagen and C. B. Lang and Markus Limmer and Daniel Mohler and Andreas Schäfer
+Abstract: We simulate two dynamical, mass degenerate light quarks on 16^3x32 lattices with a spatial extent of 2.4 fm using the Chirally Improved Dirac operator. The simulation method, the implementation of the action and signals of equilibration are discussed in detail. Based on the eigenvalues of the Dirac operator we discuss some qualitative features of our approach. Results for ground state masses of pseudoscalar and vector mesons as well as for the nucleon and delta baryons are presented.

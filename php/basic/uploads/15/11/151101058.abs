@@ -1,0 +1,4 @@
+Paper: 151101058
+Title: Syzygies Probing Scattering Amplitudes
+Authors: Gang Chen and Junyu Liu and Ruofei Xie and Hao Zhang and Yehao Zhou
+Abstract: We propose a new efficient algorithm to obtain the locally minimal generating set of the syzygies for an ideal, i.e. a generating set whose proper subsets cannot be generating sets. Syzygy is a concept widely used in the current study of scattering amplitudes. This new algorithm can deal with more syzygies effectively because a new generation of syzygies is obtained in each step and the irreducibility of this generation is also verified in the process. This efficient algorithm can also be applied in getting the syzygies for the modules. We also show a typical example to illustrate the potential application of this method in scattering amplitudes, especially the Integral-By-Part(IBP) relations of the characteristic two-loop diagrams in the Yang-Mills theory.

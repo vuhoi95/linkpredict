@@ -1,0 +1,4 @@
+Paper: 9210150
+Title: Bicovariant Quantum Algebras and Quantum Lie Algebras
+Authors: Peter Schupp and Paul Watts and Bruno Zumino
+Abstract: A bicovariant calculus of differential operators on a quantum group is constructed in a natural way, using invariant maps from \fun\ to \uqg\ , given by elements of the pure braid group. These operators --- the `reflection matrix' $Y \equiv L^+ SL^-$ being a special case --- generate algebras that linearly close under adjoint actions, i.e. they form generalized Lie algebras. We establish the connection between the Hopf algebra formulation of the calculus and a formulation in compact matrix form which is quite powerful for actual computations and as applications we find the quantum determinant and an orthogonality relation for $Y$ in $SO_q(N)$.

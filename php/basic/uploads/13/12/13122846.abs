@@ -1,0 +1,4 @@
+Paper: 13122846
+Title: The local potential approximation in the background field formalism
+Authors: I. Hamzaan Bridle and Juergen A. Dietz and Tim R. Morris
+Abstract: Working within the familiar local potential approximation, and concentrating on the example of a single scalar field in three dimensions, we show that the commonly used approximation method of identifying the total and background fields, leads to pathologies in the resulting fixed point structure and the associated spaces of eigenoperators. We then show how a consistent treatment of the background field through the corresponding modified shift Ward identity, can cure these pathologies, restoring universality of physical quantities with respect to the choice of dependence on the background field, even within the local potential approximation. Along the way we point out similarities to what has been previously found in the f(R) approximation in asymptotic safety for gravity.

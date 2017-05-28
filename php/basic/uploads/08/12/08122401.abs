@@ -1,0 +1,4 @@
+Paper: 08122401
+Title: A purely algebraic construction of a gauge and renormalization group  invariant scalar glueball operator
+Authors: D. Dudal and S. P. Sorella and N. Vandersickel and H. Verschelde
+Abstract: This paper presents a complete algebraic proof of the renormalizability of the gauge invariant $d=4$ operator $F_{\mu\nu}^2(x)$ to all orders of perturbation theory in pure Yang-Mills gauge theory, whereby working in the Landau gauge. This renormalization is far from being trivial as mixing occurs with other $d=4$ gauge variant operators, which we identify explicitly. We determine the mixing matrix $Z$ to all orders in perturbation theory by using only algebraic arguments and consequently we can uncover a renormalization group invariant by using the anomalous dimension matrix $\Gamma$ derived from $Z$. We also present a future plan for calculating the mass of the lightest scalar glueball with the help of the framework we have set up.

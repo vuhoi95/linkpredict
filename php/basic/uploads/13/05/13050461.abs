@@ -1,0 +1,4 @@
+Paper: 13050461
+Title: The Dirac Quantum Cellular Automaton in one dimension: Zitterbewegung  and scattering from potential
+Authors: Alessandro Bisio and Giacomo Mauro D'Ariano and Alessandro Tosini
+Abstract: We study the dynamical behaviour of the quantum cellular automaton of Refs. [1, 2], which reproduces the Dirac dynamics in the limit of small wavevectors and masses. We present analytical evaluations along with computer simulations, showing how the automaton exhibits typical Dirac dynamical features, as the Zitterbewegung and the scattering behaviour from potential that gives rise to the so-called Klein paradox. The motivation is to show concretely how pure processing of quantum information can lead to particle mechanics as an emergent feature, an issue that has been the focus of solid-state, optical and atomic-physics quantum simulator.

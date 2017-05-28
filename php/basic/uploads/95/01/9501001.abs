@@ -1,0 +1,4 @@
+Paper: 9501001
+Title: Lie-algebraic discretization of differential equations
+Authors: Yuri Smirnov and Alexander Turbiner
+Abstract: A certain representation for the Heisenberg algebra in finite-difference operators is established. The Lie-algebraic procedure of discretization of differential equations with isospectral property is proposed. Using $sl_2$-algebra based approach, (quasi)-exactly-solvable finite-difference equations are described. It is shown that the operators having the Hahn, Charlier and Meixner polynomials as the eigenfunctions are reproduced in present approach as some particular cases. A discrete version of the classical orthogonal polynomials (like Hermite, Laguerre, Legendre and Jacobi ones) is introduced.

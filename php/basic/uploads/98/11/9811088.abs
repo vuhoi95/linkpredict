@@ -1,0 +1,4 @@
+Paper: 9811088
+Title: Causal Set Dynamics: A Toy Model
+Authors: A. Criscuolo and H. Waelbroeck
+Abstract: We construct a quantum measure on the power set of non-cyclic oriented graphs of N points, drawing inspiration from 1-dimensional directed percolation. Quantum interference patterns lead to properties which do not appear to have any analogue in classical percolation. Most notably, instead of the single phase transition of classical percolation, the quantum model displays two distinct crossover points. Between these two points, spacetime questions such as "does the network percolate" have no definite or probabilistic answer.

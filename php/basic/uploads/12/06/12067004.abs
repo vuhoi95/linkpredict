@@ -1,0 +1,4 @@
+Paper: 12067004
+Title: Information geometric approach to the renormalisation group
+Authors: Cédric Bény and Tobias J. Osborne
+Abstract: We propose a general formulation of the renormalisation group as a family of quantum channels which connect the microscopic physical world to the observable world at some scale. By endowing the set of quantum states with an operationally motivated information geometry, we induce the space of Hamiltonians with a corresponding metric geometry. The resulting structure allows one to quantify information loss along RG flows in terms of the distinguishability of thermal states. In particular, we introduce a family of functions, expressible in terms of two-point correlation functions, which are non increasing along the flow. Among those, we study the speed of the flow, and its generalization to infinite lattices.

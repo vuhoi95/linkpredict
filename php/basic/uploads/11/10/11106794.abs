@@ -1,0 +1,4 @@
+Paper: 11106794
+Title: Decay properties of Klein-Gordon fields on Kerr-AdS spacetimes
+Authors: Gustav Holzegel and Jacques Smulevici
+Abstract: This paper investigates the decay properties of solutions to the massive linear wave equation $\Box_g \psi + \frac{{\alpha}}{l^2} \psi =0$ for $g$ the metric of a Kerr-AdS spacetime satisfying $|a|l<r_+^2$ and $\alpha<9/4$ satisfying the Breitenlohner Freedman bound. We prove that the non-degenerate energy of $\psi$ with respect to an appropriate foliation of spacelike slices decays like $(\log t^\star)^{-2}$. Our estimates are expected to be sharp from heuristic and numerical arguments in the physics literature suggesting that general solutions will only decay logarithmically. The underlying reason for the slow decay rate can be traced back to a stable trapping phenomenon for asymptotically anti de Sitter black holes which is in turn a consequence of the reflecting boundary conditions for $\psi$ at null-infinity.

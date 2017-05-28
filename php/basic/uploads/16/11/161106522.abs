@@ -1,0 +1,4 @@
+Paper: 161106522
+Title: Composite Operators in Asymptotic Safety
+Authors: Carlo Pagani and Martin Reuter
+Abstract: We study the role of composite operators in the Asymptotic Safety program for quantum gravity. By including in the effective average action an explicit dependence on new sources we are able to keep track of operators which do not belong to the exact theory space and/or are normally discarded in a truncation. Typical examples are geometric operators such as volumes, lengths, or geodesic distances. We show that this set-up allows to investigate the scaling properties of various interesting operators via a suitable exact renormalization group equation. We test our framework in several settings, including Quantum Einstein Gravity, the conformally reduced Einstein-Hilbert truncation, and two dimensional quantum gravity. Finally, we briefly argue that our construction paves the way to approach observables in the Asymptotic Safety program.

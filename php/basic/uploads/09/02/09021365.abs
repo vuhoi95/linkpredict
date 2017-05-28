@@ -1,0 +1,4 @@
+Paper: 09021365
+Title: PT symmetry and necessary and sufficient conditions for the reality of  energy eigenvalues
+Authors: Carl M. Bender and Philip D. Mannheim
+Abstract: Despite its common use in quantum theory, the mathematical requirement of Dirac Hermiticity of a Hamiltonian is sufficient to guarantee the reality of energy eigenvalues but not necessary. By establishing three theorems, this paper gives physical conditions that are both necessary and sufficient. First, it is shown that if the secular equation is real, the Hamiltonian is necessarily PT symmetric. Second, if a linear operator C that obeys the two equations [C,H]=0 and C^2=1 is introduced, then the energy eigenvalues of a PT-symmetric Hamiltonian that is diagonalizable are real only if this C operator commutes with PT. Third, the energy eigenvalues of PT-symmetric Hamiltonians having a nondiagonalizable, Jordan-block form are real. These theorems hold for matrix Hamiltonians of any dimensionality.

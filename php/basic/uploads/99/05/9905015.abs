@@ -1,0 +1,4 @@
+Paper: 9905015
+Title: Wilson Fermions on a Randomly Triangulated Manifold
+Authors: Z. Burda and J. Jurkiewicz and A. Krzywicki
+Abstract: A general method of constructing the Dirac operator for a randomly triangulated manifold is proposed. The fermion field and the spin connection live, respectively, on the nodes and on the links of the corresponding dual graph. The construction is carried out explicitly in 2-d, on an arbitrary orientable manifold without boundary. It can be easily converted into a computer code. The equivalence, on a sphere, of Majorana fermions and Ising spins in 2-d is rederived. The method can, in principle, be extended to higher dimensions.

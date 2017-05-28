@@ -1,0 +1,4 @@
+Paper: 13032931
+Title: Symmetry-surfing the moduli space of Kummer K3s
+Authors: Anne Taormina and Katrin Wendland
+Abstract: A maximal subgroup of the Mathieu group M24 arises as the combined holomorphic symplectic automorphism group of all Kummer surfaces whose Kaehler class is induced from the underlying complex torus. As a subgroup of M24, this group is the stabilizer group of an octad in the Golay code. To meaningfully combine the symmetry groups of distinct Kummer surfaces, we introduce the concepts of Niemeier markings and overarching maps between pairs of Kummer surfaces. The latter induce a prescription for symmetry-surfing the moduli space, while the former can be seen as a first step towards constructing a vertex algebra that governs the elliptic genus of K3 in an M24-compatible fashion. We thus argue that a geometric approach from K3 to Mathieu Moonshine may bear fruit.

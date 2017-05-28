@@ -1,0 +1,4 @@
+Paper: 12021678
+Title: Variable transformation defects
+Authors: Nicolas Behr and Stefan Fredenhagen
+Abstract: We investigate defects between supersymmetric Landau-Ginzburg models whose superpotentials are related by a variable transformation. It turns out that there is one natural defect, which can then be used to relate boundary conditions and defects in the different models. In particular this defect can be used to relate Grassmannian Kazama-Suzuki models and minimal models, and one can generate rational boundary conditions in the Kazama-Suzuki models from those in minimal models. The defects that appear here are closely related to the defects that are used in Khovanov-Rozansky link homology.

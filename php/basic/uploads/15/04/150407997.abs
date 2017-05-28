@@ -1,0 +1,4 @@
+Paper: 150407997
+Title: Bootstrapping the O(N) Archipelago
+Authors: Filip Kos and David Poland and David Simmons-Duffin and Alessandro Vichi
+Abstract: We study 3d CFTs with an $O(N)$ global symmetry using the conformal bootstrap for a system of mixed correlators. Specifically, we consider all nonvanishing scalar four-point functions containing the lowest dimension $O(N)$ vector $\phi_i$ and the lowest dimension $O(N)$ singlet $s$, assumed to be the only relevant operators in their symmetry representations. The constraints of crossing symmetry and unitarity for these four-point functions force the scaling dimensions $(\Delta_\phi, \Delta_s)$ to lie inside small islands. We also make rigorous determinations of current two-point functions in the $O(2)$ and $O(3)$ models, with applications to transport in condensed matter systems.

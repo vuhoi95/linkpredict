@@ -1,0 +1,4 @@
+Paper: 151002804
+Title: Numerical Methods for Finding Stationary Gravitational Solutions
+Authors: Oscar J. C. Dias and Jorge E. Santos and Benson Way
+Abstract: The wide applications of higher dimensional gravity and gauge/gravity duality have fuelled the search for new stationary solutions of the Einstein equation (possibly coupled to matter). In this topical review, we explain the mathematical foundations and give a practical guide for the numerical solution of gravitational boundary value problems. We present these methods by way of example: resolving asymptotically flat black rings, singly-spinning lumpy black holes in anti-de Sitter (AdS), and the Gregory-Laflamme zero modes of small rotating black holes in AdS$_5\times S^5$. We also include several tools and tricks that have been useful throughout the literature.

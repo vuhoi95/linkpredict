@@ -1,0 +1,4 @@
+Paper: 9809173
+Title: Distribution of complex eigenvalues for symplectic ensembles of  non-Hermitian matrices
+Authors: A. V. Kolesnikov and K. B. Efetov
+Abstract: Symplectic ensemble of disordered non-Hermitian Hamiltonians is studied. Starting from a model with an imaginary magnetic field, we derive a proper supermatrix $\sigma $-model. The zero-dimensional version of this model corresponds to a symplectic ensemble of weakly non-Hermitian matrices. We derive analytically an explicit expression for the density of complex eigenvalues. This function proves to differ qualitatively from those known for the unitary and orthogonal ensembles. In contrast to these cases, a {\it depletion} of eigenvalues near the real axis occurs. The result about the depletion is in agreement with a previous numerical study performed for QCD models.

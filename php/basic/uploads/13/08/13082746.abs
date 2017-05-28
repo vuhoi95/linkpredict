@@ -1,0 +1,4 @@
+Paper: 13082746
+Title: On the renormalization of the Gibbons-Hawking boundary term
+Authors: Ted Jacobson and Alejandro Satz
+Abstract: The bulk (Einstein-Hilbert) and boundary (Gibbons-Hawking) terms in the gravitational action are generally renormalized differently when integrating out quantum fluctuations. The former is affected by nonminimal couplings, while the latter is affected by boundary conditions. We use the heat kernel method to analyze this behavior for a nonminimally coupled scalar field, the Maxwell field, and the graviton field. Allowing for Robin boundary conditions, we examine in which cases the renormalization preserves the ratio of boundary and bulk terms required for the effective action to possess a stationary point. The implications for field theory and black hole entropy computations are discussed.

@@ -1,0 +1,4 @@
+Paper: 14014548
+Title: Nonlocal-in-time action for the fourth post-Newtonian conservative  dynamics of two-body systems
+Authors: Thibault Damour and Piotr Jaranowski and Gerhard Schäfer
+Abstract: We complete the analytical determination, at the 4th post-Newtonian (4PN) approximation, of the conservative dynamics of gravitationally interacting two-point-mass systems. This completion is obtained by resolving the infra-red ambiguity which had blocked a previous 4PN calculation [P.Jaranowski and G.Sch\"afer, Phys. Rev. D 87, 081503(R) (2013)] by taking into account the 4PN breakdown of the usual near-zone expansion due to infinite-range tail-transported temporal correlations found long ago [L.Blanchet and T.Damour, Phys. Rev. D 37, 1410 (1988)]. This leads to a Poincar\'e-invariant 4PN-accurate effective action for two masses, which mixes instantaneous interaction terms (described by a usual Hamiltonian) with a (time-symmetric) nonlocal-in-time interaction.

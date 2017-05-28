@@ -1,0 +1,4 @@
+Paper: 9509007
+Title: On Orthogonal and Symplectic Matrix Ensembles
+Authors: Craig A. Tracy and Harold Widom
+Abstract: The focus of this paper is on the probability, $E_\beta(0;J)$, that a set $J$ consisting of a finite union of intervals contains no eigenvalues for the finite $N$ Gaussian Orthogonal ($\beta=1$) and Gaussian Symplectic ($\beta=4$) Ensembles and their respective scaling limits both in the bulk and at the edge of the spectrum. We show how these probabilities can be expressed in terms of quantities arising in the corresponding unitary ($\beta=2$) ensembles. Our most explicit new results concern the distribution of the largest eigenvalue in each of these ensembles. In the edge scaling limit we show that these largest eigenvalue distributions are given in terms of a particular Painlev\'e II function.

@@ -1,0 +1,4 @@
+Paper: 160107784
+Title: Probabilities and signalling in quantum field theory
+Authors: Robert Dickinson and Jeff Forshaw and Peter Millington
+Abstract: We present an approach to computing probabilities in quantum field theory for a wide class of source-detector models. The approach works directly with probabilities and not with squared matrix elements, and the resulting probabilities can be written in terms of expectation values of nested commutators and anti-commutators. We present results that help in the evaluation of these, including an expression for the vacuum expectation values of general nestings of commutators and anti-commutators in scalar field theory. This approach allows one to see clearly how faster-than-light signalling is prevented, because it leads to a diagrammatic expansion in which the retarded propagator plays a prominent role. We illustrate the formalism using the simple case of the much-studied Fermi two-atom problem.

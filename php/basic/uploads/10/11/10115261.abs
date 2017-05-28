@@ -1,0 +1,4 @@
+Paper: 10115261
+Title: A priori estimates for high frequency scattering by obstacles of  arbitrary shape
+Authors: Evgeny Lakshtanov and Boris Vainberg
+Abstract: High frequency estimates for the Dirichlet-to-Neumann and Neumann-to-Dirichlet operators are obtained for the Helmholtz equation in the exterior of bounded obstacles. These a priori estimates are used to study the scattering of plane waves by an arbitrary bounded obstacle and to prove that the total cross section of the scattered wave does not exceed four geometrical cross sections of the obstacle in the limit as the wave number $k\to \infty$. This bound of the total cross section is sharp.

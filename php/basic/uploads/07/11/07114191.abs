@@ -1,0 +1,4 @@
+Paper: 07114191
+Title: Notes on the Hamiltonian formulation of 3D Yang-Mills theory
+Authors: Masafumi Fukuma and Ken-Ichi Katayama and Takao Suyama
+Abstract: Three-dimensional Yang-Mills theory is investigated in the Hamiltonian formalism based on the Karabali-Nair variable. A new algorithm is developed to obtain the renormalized Hamiltonian by identifying local counterterms in Lagrangian with the use of fictitious holomorphic symmetry existing in the framework with the KN variable. Our algorithm is totally algebraic and enables one to calculate the ground state wave functional recursively in gauge potentials. In particular, the Gaussian part thus calculated is shown to coincide with that obtained by Leigh et al. Higher-order corrections to the Gaussian part are also discussed.

@@ -1,0 +1,4 @@
+Paper: 9408124
+Title: Search for Scaling Dimensions for Random Surfaces with c=1
+Authors: J. Ambjorn P. Bialas and Z. Burda and J. Jurkiewicz and B. Petersson
+Abstract: We study numerically the fractal structure of the intrinsic geometry of random surfaces coupled to matter fields with $c=1$. Using baby universe surgery it was possible to simulate randomly triangulated surfaces made of 260.000 triangles. Our results are consistent with the theoretical prediction $d_H = 2+\sqrt{2}$ for the intrinsic Hausdorff dimension.

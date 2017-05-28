@@ -1,0 +1,4 @@
+Paper: 14033225
+Title: Cusps and pseudo-cusps in strings with Y-junctions
+Authors: Thomas Elghozi and William Nelson and Mairi Sakellariadou
+Abstract: We study the occurrence of cuspy events on a light string stretched between two Y-junctions with fixed heavy strings. We first present an analytic study and give a solid criterion to discriminate between cuspy and non-cuspy string configurations. We then describe a numerical code, built to test this analysis. Our numerical investigation allows us to look at the correlations between string network's parameters and the occurrence of cuspy phenomena. We show that the presence of large amplitude waves on the light string leads to cuspy events. We then relate the occurrence of cuspy events to features like the number of vibration modes on the string or the string's root-mean-square velocity.

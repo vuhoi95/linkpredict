@@ -1,0 +1,4 @@
+Paper: 12086477
+Title: Quantization of gauge fields, graph polynomials and graph cohomology
+Authors: Dirk Kreimer and Matthias Sars and Walter D. van Suijlekom
+Abstract: We review quantization of gauge fields using algebraic properties of 3-regular graphs. We derive the Feynman integrand at n loops for a non-abelian gauge theory quantized in a covariant gauge from scalar integrands for connected 3-regular graphs, obtained from the two Symanzik polynomials. The transition to the full gauge theory amplitude is obtained by the use of a third, new, graph polynomial, the corolla polynomial. This implies effectively a covariant quantization without ghosts, where all the relevant signs of the ghost sector are incorporated in a double complex furnished by the corolla polynomial -we call it cycle homology- and by graph homology.

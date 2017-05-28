@@ -1,0 +1,4 @@
+Paper: 150802676
+Title: Scalar-Vector Bootstrap
+Authors: Fernando Rejon-Barrera and Daniel Robbins
+Abstract: We work out all of the details required for implementation of the conformal bootstrap program applied to the four-point function of two scalars and two vectors in an abstract conformal field theory in arbitrary dimension. This includes a review of which tensor structures make appearances, a construction of the projectors onto the required mixed symmetry representations, and a computation of the conformal blocks for all possible operators which can be exchanged. These blocks are presented as differential operators acting upon the previously known scalar conformal blocks. Finally, we set up the bootstrap equations which implement crossing symmetry. Special attention is given to the case of conserved vectors, where several simplifications occur.

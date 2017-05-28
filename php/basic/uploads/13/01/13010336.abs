@@ -1,0 +1,4 @@
+Paper: 13010336
+Title: Entanglement Entropy of a Massive Fermion on a Torus
+Authors: Christopher P. Herzog and Tatsuma Nishioka
+Abstract: The Renyi entropies of a massless Dirac fermion on a circle with chemical potential are calculated analytically at nonzero temperature by using the bosonization method. The bosonization of a massive Dirac fermion to the sine-Gordon model lets us obtain the small mass corrections to the entropies. We numerically compute the Renyi entropies by putting a massive fermion on the lattice and find agreement between the analytic and numerical results. In the presence of a mass gap, we show that corrections to Renyi and entanglement entropies in the limit m >> T scale as exp(-m/T). We also show that when there is ground state degeneracy in the gapless case, the limits m to zero and T to zero do not commute.

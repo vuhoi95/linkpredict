@@ -1,0 +1,4 @@
+Paper: 13080341
+Title: Spin 1/2 quasinormal mode frequencies in Schwarzschild-AdS spacetime
+Authors: Peter Arnold and Phillip Szepietowski
+Abstract: We find the asymptotic formula for quasinormal mode frequencies omega_n of the Dirac equation in a Schwarzschild-AdS_D background in space-time dimension D > 3, in the large black-hole limit appropriate to many applications of the AdS/CFT correspondence. By asymptotic, we mean large overtone number n with everything else held fixed, and we find the O(n^0) correction to the known leading O(n) behavior of omega_n. The result has the schematic form omega_n =~ n Delta(omega) + A ln(n) + B, where Delta(omega) and A are constants and B depends logarithmically on the (D-2)-dimensional spatial momentum k parallel to the horizon. We show that the asymptotic result agrees well with exact quasinormal mode frequencies computed numerically.

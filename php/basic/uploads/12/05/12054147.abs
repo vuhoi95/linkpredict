@@ -1,0 +1,4 @@
+Paper: 12054147
+Title: PALP - a User Manual
+Authors: Andreas P. Braun and Johanna Knapp and Emanuel Scheidegger and Harald Skarke and Nils-Ole Walliser
+Abstract: This article provides a complete user's guide to version 2.1 of the toric geometry package PALP by Maximilian Kreuzer and others. In particular, previously undocumented applications such as the program nef.x are discussed in detail. New features of PALP 2.1 include an extension of the program mori.x which can now compute Mori cones and intersection rings of arbitrary dimension and can also take specific triangulations of reflexive polytopes as input. Furthermore, the program nef.x is enhanced by an option that allows the user to enter reflexive Gorenstein cones as input. The present documentation is complemented by a Wiki which is available online.

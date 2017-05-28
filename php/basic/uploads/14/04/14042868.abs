@@ -1,0 +1,4 @@
+Paper: 14042868
+Title: Fermion-Fermion Scattering in Quantum Field Theory with Superconducting  Circuits
+Authors: L. García-Álvarez and J. Casanova and A. Mezzacapo and I. L. Egusquiza and L. Lamata and G. Romero and E. Solano
+Abstract: We propose an analog-digital quantum simulation of fermion-fermion scattering mediated by a continuum of bosonic modes within a circuit quantum electrodynamics scenario. This quantum technology naturally provides strong coupling of superconducting qubits with a continuum of electromagnetic modes in an open transmission line. In this way, we propose qubits to efficiently simulate fermionic modes via digital techniques, while we consider the continuum complexity of an open transmission line to simulate the continuum complexity of bosonic modes in quantum field theories. Therefore, we believe that the complexity-simulating-complexity concept should become a leading paradigm in any effort towards scalable quantum simulations.

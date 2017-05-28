@@ -1,0 +1,4 @@
+Paper: 160401719
+Title: Exorcising the Ostrogradsky ghost in coupled systems
+Authors: Remko Klein and Diederik Roest
+Abstract: The Ostrogradsky theorem implies that higher-derivative terms of a single mechanical variable are either trivial or lead to additional, ghost-like degrees of freedom. In this letter we systematically investigate how the introduction of additional variables can remedy this situation. Employing a Lagrangian analysis, we identify conditions on the Lagrangian to ensure the existence of primary and secondary constraints that together imply the absence of Ostrogradsky ghosts. We also show the implications of these conditions for the structure of the equations of motion as well as possible redefinitions of the variables. We discuss applications to analogous higher-derivative field theories such as multi-Galileons and beyond Horndeski.

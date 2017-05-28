@@ -1,0 +1,4 @@
+Paper: 9405057
+Title: The Fermi Edge Singularity and Boundary Condition Changing Operators
+Authors: Ian Affleck and Andreas W. W. Ludwig
+Abstract: The boundary conformal field theory approach to quantum impurity problems is used to study the Fermi edge singularity, occuring in the X-ray adsorption probablility. The deep-hole creation operator, in the effective low-energy theory, changes the boundary condition on the conduction electrons. By a conformal mapping, the dimension of such an operator is related to the groundstate energy for a finite system with different boundary conditions at the two ends. The Fermi edge singularity is solved using this method, for the Luttinger liquid including back-scattering and for the multi-channel Kondo problem.

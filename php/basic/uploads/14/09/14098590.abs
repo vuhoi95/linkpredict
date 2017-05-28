@@ -1,0 +1,4 @@
+Paper: 14098590
+Title: Chiral SU(2)_k currents as local operators in vertex models and spin  chains
+Authors: R. Bondesan and J. Dubail and A. Faribault and Y. Ikhlef
+Abstract: The six-vertex model and its spin-$S$ descendants obtained from the fusion procedure are well-known lattice discretizations of the SU$(2)_k$ WZW models, with $k=2S$. It is shown that, in these models, it is possible to exhibit a local observable on the lattice that behaves as the chiral current $J^a(z)$ in the continuum limit. The observable is built out of generators of the su$(2)$ Lie algebra acting on a small (finite) number of lattice sites. The construction works also for the multi-critical quantum spin chains related to the vertex models, and is verified numerically for $S=1/2$ and $S=1$ using Bethe Ansatz and form factors techniques.

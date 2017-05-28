@@ -1,0 +1,4 @@
+Paper: 10062028
+Title: CFT and topological recursion
+Authors: Ivan Kostov and Nicolas Orantin
+Abstract: We study the quasiclassical expansion associated with a complex curve. In a more specific context this is the 1/N expansion in U(N)-invariant matrix integrals. We compare two approaches, the CFT approach and the topological recursion, and show their equivalence. The CFT approach reformulates the problem in terms of a conformal field theory on a Riemann surface, while the topological recursion is based on a recurrence equation for the observables representing symplectic invariants on the complex curve. The two approaches lead to two different graph expansions, one of which can be obtained as a partial resummation of the other.

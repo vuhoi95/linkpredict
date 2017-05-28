@@ -1,0 +1,4 @@
+Paper: 10115720
+Title: On the better behaved version of the GKZ hypergeometric system
+Authors: Lev A. Borisov and R. Paul Horja
+Abstract: We consider a version of the generalized hypergeometric system introduced by Gelfand, Kapranov and Zelevinski (GKZ) suited for the case when the underlying lattice is replaced by a finitely generated abelian group. In contrast to the usual GKZ hypergeometric system, the rank of the better behaved GKZ hypergeometric system is always the expected one. We give largely self-contained proofs of many properties of this system. The discussion is intimately related to the study of the variations of Hodge structures of hypersurfaces in algebraic tori.

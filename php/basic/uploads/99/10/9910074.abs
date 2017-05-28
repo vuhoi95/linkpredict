@@ -1,0 +1,4 @@
+Paper: 9910074
+Title: Particle Propagator in Elementary Quantum Mechanics: a New Path Integral  Derivation
+Authors: S. Ansoldi and A. Aurilia and E. Spallucci
+Abstract: This paper suggests a new way to compute the path integral for simple quantum mechanical systems. The new algorithm originated from previous research in string theory. However, its essential simplicity is best illustrated in the case of a free non relativistic particle, discussed here, and can be appreciated by most students taking an introductory course in Quantum Mechanics. Indeed, the emphasis is on the role played by the {\it entire family of classical trajectories} in terms of which the path integral is computed exactly using a functional representation of the Dirac delta-distribution. We argue that the new algorithm leads to a deeper insight into the connection between classical and quantum systems, especially those encountered in high energy physics.

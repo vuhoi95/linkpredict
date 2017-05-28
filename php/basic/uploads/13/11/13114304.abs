@@ -1,0 +1,4 @@
+Paper: 13114304
+Title: Finite-Temperature Spectral Functions from the Functional  Renormalization Group
+Authors: Ralf-Arno Tripolt and Nils Strodthoff and Lorenz von Smekal and Jochen Wambach
+Abstract: We present a method to obtain spectral functions at finite temperature from the Functional Renormalization Group. Our method is based on a thermodynamically consistent truncation of the flow equations for 2-point functions with analytically continued frequency components in the originally Euclidean external momenta. For the uniqueness of this continuation at finite temperature we furthermore implement the physical Baym-Mermin boundary conditions. Results are presented for mesonic spectral functions obtained from a two-flavor quark-meson model.

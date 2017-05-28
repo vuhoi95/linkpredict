@@ -1,0 +1,4 @@
+Paper: 150105945
+Title: Conformal Correlation Functions in the Brownian Loop Soup
+Authors: Federico Camia and Alberto Gandolfi and Matthew Kleban
+Abstract: We define and study a set of operators that compute statistical properties of the Brownian Loop Soup, a conformally invariant gas of random Brownian loops (Brownian paths constrained to begin and end at the same point) in two dimensions. We prove that the correlation functions of these operators have many of the properties of conformal primaries in a conformal field theory, and compute their conformal dimension. The dimensions are real and positive, but have the novel feature that they vary continuously as a periodic function of a real parameter. We comment on the relation of the Brownian Loop Soup to the free field, and use this relation to establish that the central charge of the Loop Soup is twice its intensity.

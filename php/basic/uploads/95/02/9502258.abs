@@ -1,0 +1,4 @@
+Paper: 9502258
+Title: Chiral Condensate, Master Field and all that in $QCD_2 (N\to\infty)$
+Authors: Boris Chibisov and Ariel R. Zhitnitsky
+Abstract: We discuss the various aspects of two-dimensional $QCD_{2}(N\rightarrow\infty)$ (the 't Hooft model\cite{Hooft}). Our main interest (motivated by the corresponding analysis in the four dimensional QCD) is the vacuum structure of the theory. We use the very general methods in the analysis, such as dispersion relations and duality in order to relate the known spectrum of $QCD_2$ to the different vacuum characteristics. We explicitly calculate (in terms of physical parameters like masses and matrix elements) the chiral condensate as well as the mixed vacuum condensates: $$\la 0|\bar{q}(g\epsilon_{\mu\nu} G_{\mu\nu})^nq |0\ra \sim M_{eff}^{2n}\la 0|\bar{q} q |0\ra .$$ We interpret the factorization property for the mixed vacuum condensates as a reminiscent of the master field at large $N$.

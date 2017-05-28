@@ -1,0 +1,4 @@
+Paper: 151205237
+Title: Feynman diagrams and their algebraic lattices
+Authors: Michael Borinsky and Dirk Kreimer
+Abstract: We present the lattice structure of Feynman diagram renormalization in physical QFTs from the viewpoint of Dyson-Schwinger-Equations and the core Hopf algebra of Feynman diagrams. The lattice structure encapsules the nestedness of diagrams. This structure can be used to give explicit expressions for the counterterms in zero-dimensional QFTs using the lattice-Moebius function. Different applications for the tadpole-free quotient, in which all appearing elements correspond to semimodular lattices, are discussed.

@@ -1,0 +1,4 @@
+Paper: 08010940
+Title: Diagonal Representation for a Generic Matrix Valued Quantum Hamiltonian
+Authors: Pierre Gosselin and Herve Mohrbach
+Abstract: A general method to derive the diagonal representation for a generic matrix valued quantum Hamiltonian is proposed. In this approach new mathematical objects like non-commuting operators evolving with the Planck constant promoted as a running variable are introduced. This method leads to a formal compact expression for the diagonal Hamiltonian which can be expanded in a power series of the Planck constant. In particular, we provide an explicit expression for the diagonal representation of a generic Hamiltonian to the second order in the Planck constant. This last result is applied, as a physical illustration, to Dirac electrons and neutrinos in external fields.

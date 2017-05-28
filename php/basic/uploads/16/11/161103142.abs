@@ -1,0 +1,4 @@
+Paper: 161103142
+Title: Orbifolds and Exact Solutions of Strongly-Coupled Matrix Models
+Authors: Clay Cordova and Ben Heidenreich and Alexandr Popolitov and Shamil Shakirov
+Abstract: We find an exact solution to strongly-coupled matrix models with a single-trace monomial potential. Our solution yields closed form expressions for the partition function as well as averages of Schur functions. The results are fully factorized into a product of terms linear in the rank of the matrix and the parameters of the model. We extend our formulas to include both logarthmic and finite-difference deformations, thereby generalizing the celebrated Selberg and Kadell integrals. We conjecture a formula for correlators of two Schur functions in these models, and explain how our results follow from a general orbifold-like procedure that can be applied to any one-matrix model with a single-trace potential.

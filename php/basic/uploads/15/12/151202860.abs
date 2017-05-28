@@ -1,0 +1,4 @@
+Paper: 151202860
+Title: The Q-cut Representation of One-loop Integrands and Unitarity Cut Method
+Authors: Rijun Huang and Qingjun Jin and Junjie Rao and Kang Zhou and Bo Feng
+Abstract: Recently, a new construction for complete loop integrands of massless field theories has been proposed, with on-shell tree-level amplitudes delicately incorporated into its algorithm. This new approach reinterprets integrands in a novel form, namely the Q-cut representation. In this paper, by deriving one-loop integrands as examples, we elaborate in details the technique of this new representation, e.g., the summation over all possible Q-cuts as well as helicity states for the non-scalar internal particle in the loop. Moreover, we show that the integrand in the Q-cut representation naturally reduces to the integrand in the traditional unitarity cut method for each given cut channel, providing a cross-check for the new approach.

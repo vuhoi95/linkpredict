@@ -1,0 +1,4 @@
+Paper: 12064786
+Title: New Ways to Determine Low-Energy Constants with Wilson Fermions
+Authors: P. H. Damgaard and U. M. Heller and K. Splittorff
+Abstract: We show how the leading physical and Wilson low-energy constants associated with Wilson fermions in lattice gauge theory can be determined individually by using spectral information of the Wilson Dirac operator with fixed index at finite volume. The methods are demonstrated in simulations with leading-order improved Wilson fermions. In addition to the expected suppression of the leading term in Wilson chiral perturbation theory we observe a substantial reduction also of the higher-order Wilson low-energy constants.

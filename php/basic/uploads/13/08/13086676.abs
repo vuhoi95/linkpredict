@@ -1,0 +1,4 @@
+Paper: 13086676
+Title: Critical points and number of master integrals
+Authors: Roman N. Lee and Andrei A. Pomeransky
+Abstract: We consider the question about the number of master integrals for a multiloop Feynman diagram. We show that, for a given set of denominators, this number is totally determined by the critical points of the polynomials entering either of the two representations: the parametric representation and the Baikov representation. In particular, for the parametric representation the corresponding polynomial is just the sum of Symanzik polynomials. The relevant topological invariant is the sum of the Milnor numbers of the proper critical points. We present a Mathematica package Mint to automatize the counting of the master integrals.

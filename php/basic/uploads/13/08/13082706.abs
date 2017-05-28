@@ -1,0 +1,4 @@
+Paper: 13082706
+Title: Heat kernel for flat generalized Laplacians with anisotropic scaling
+Authors: A. Mamiya and A. Pinzul
+Abstract: We calculate the closed analytic form of the solution of heat kernel equation for the anisotropic generalizations of flat Laplacian. We consider a UV as well as UV/IR interpolating generalizations. In all cases, the result can be expressed in terms of Fox-Wright psi-functions. We perform different consistency checks, analytically reproducing some of the previous numerical or qualitative results, such as spectral dimension flow. Our study should be considered as a first step towards the construction of a heat kernel for curved Ho\v{r}ava-Lifshitz geometries, which is an essential ingredient in the spectral action approach to the construction of the Ho\v{r}ava-Lifshitz gravity.

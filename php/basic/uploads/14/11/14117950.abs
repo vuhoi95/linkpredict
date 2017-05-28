@@ -1,0 +1,4 @@
+Paper: 14117950
+Title: Connecting Entanglement in Time and Space: Improving the Folding  Algorithm
+Authors: M. B. Hastings and R. Mahajan
+Abstract: The "folding algorithm"\cite{fold1} is a matrix product state algorithm for simulating quantum systems that involves a spatial evolution of a matrix product state. Hence, the computational effort of this algorithm is controlled by the temporal entanglement. We show that this temporal entanglement is, in many cases, equal to the spatial entanglement of a modified Hamiltonian. This inspires a modification to the folding algorithm, that we call the "hybrid algorithm". We find that this leads to improved accuracy for the same numerical effort. We then use these algorithms to study relaxation in a transverse plus parallel field Ising model, finding persistent quasi-periodic oscillations for certain choices of initial conditions.

@@ -1,0 +1,4 @@
+Paper: 11050794
+Title: hbar-Dependent KP hierarchy
+Authors: Kanehisa Takasaki and Takashi Takebe
+Abstract: This is a summary of a recursive construction of solutions of the hbar-dependent KP hierarchy. We give recursion relations for the coefficients X_n of an hbar-expansion of the operator X = X_0 + \hbar X_1 + \hbar^2 X_2 + ... for which the dressing operator W is expressed in the exponential form W = \exp(X/\hbar). The asymptotic behaviours of (the logarithm of) the wave function and the tau function are also considered.

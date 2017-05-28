@@ -1,0 +1,4 @@
+Paper: 10012725
+Title: The Scalar Curvature of a Causal Set
+Authors: Dionigi M. T. Benincasa and Fay Dowker
+Abstract: A one parameter family of retarded linear operators on scalar fields on causal sets is introduced. When the causal set is well-approximated by 4 dimensional Minkowski spacetime, the operators are Lorentz invariant but nonlocal, are parametrised by the scale of the nonlocality and approximate the continuum scalar D'Alembertian, $\Box$, when acting on fields that vary slowly on the nonlocality scale. The same operators can be applied to scalar fields on causal sets which are well-approximated by curved spacetimes in which case they approximate $\Box - {{1/2}}R$ where $R$ is the Ricci scalar curvature. This can used to define an approximately local action functional for causal sets.

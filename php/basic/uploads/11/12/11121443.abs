@@ -1,0 +1,4 @@
+Paper: 11121443
+Title: Coherent states for a 2-sphere with a magnetic field
+Authors: Brian C. Hall and Jeffrey J. Mitchell
+Abstract: We consider a particle moving on a 2-sphere in the presence of a constant magnetic field. Building on earlier work in the nonmagnetic case, we construct coherent states for this system. The coherent states are labeled by points in the associated phase space, the (co)tangent bundle of S^2. They are constructed as eigenvectors for certain annihilation operators and expressed in terms of a certain heat kernel. These coherent states are not of Perelomov type, but rather are constructed according to the "complexifier" approach of T. Thiemann. We describe the Segal--Bargmann representation associated to the coherent states, which is equivalent to a resolution of the identity.

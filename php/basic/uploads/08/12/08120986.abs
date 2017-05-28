@@ -1,0 +1,4 @@
+Paper: 08120986
+Title: Module categories for permutation modular invariants
+Authors: Till Barmeier and Jurgen Fuchs and Ingo Runkel and Christoph Schweigert
+Abstract: We show that a braided monoidal category C can be endowed with the structure of a right (and left) module category over C \times C. In fact, there is a family of such module category structures, and they are mutually isomorphic if and only if C allows for a twist. For the case that C is premodular we compute the internal End of the tensor unit of C, and we show that it is an Azumaya algebra if C is modular. As an application to two-dimensional rational conformal field theory, we show that the module categories describe the permutation modular invariant for models based on the product of two identical chiral algebras. It follows in particular that all permutation modular invariants are physical.

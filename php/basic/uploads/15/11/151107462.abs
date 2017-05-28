@@ -1,0 +1,4 @@
+Paper: 151107462
+Title: Quantum Corrections to Holographic Mutual Information
+Authors: Cesar Agón and Thomas Faulkner
+Abstract: We compute the leading contribution to the mutual information (MI) of two disjoint spheres in the large distance regime for arbitrary conformal field theories (CFT) in any dimension. This is achieved by refining the operator product expansion method introduced by Cardy \cite{Cardy:2013nua}. For CFTs with holographic duals the leading contribution to the MI at long distances comes from bulk quantum corrections to the Ryu-Takayanagi area formula. According to the FLM proposal\cite{Faulkner:2013ana} this equals the bulk MI between the two disjoint regions spanned by the boundary spheres and their corresponding minimal area surfaces. We compute this quantum correction and provide in this way a non-trivial check of the FLM proposal.

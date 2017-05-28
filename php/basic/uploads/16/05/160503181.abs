@@ -1,0 +1,4 @@
+Paper: 160503181
+Title: QCDLoop: a comprehensive framework for one-loop scalar integrals
+Authors: Stefano Carrazza and R. Keith Ellis and Giulia Zanderighi
+Abstract: We present a new release of the QCDLoop library based on a modern object-oriented framework. We discuss the available new features such as the extension to the complex masses, the possibility to perform computations in double and quadruple precision simultaneously, and useful caching mechanisms to improve the computational speed. We benchmark the performance of the new library, and provide practical examples of phenomenological implementations by interfacing this new library to Monte Carlo programs.

@@ -1,0 +1,4 @@
+Paper: 13103379
+Title: Pure Spinor b-ghost in a Super-Maxwell Background
+Authors: Ilya Bakhmatov and Nathan Berkovits
+Abstract: In the pure spinor formalism for the superstring, the b-ghost is a composite operator satisfying {Q,b}=T where Q is the pure spinor BRST operator and T is the holomorphic stress tensor. The b-ghost is holomorphic in a flat target-space background, but it is not holomorphic in a generic curved target-space background and instead satisfies $\bar\partial b$ = [Q, \Omega] for some \Omega. In this paper, \Omega\ is explicitly constructed for the case of an open superstring in a super-Maxwell background.

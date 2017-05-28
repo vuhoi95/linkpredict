@@ -1,0 +1,4 @@
+Paper: 11030974
+Title: String Quantization and the Shuffle Hopf Algebra
+Authors: Dorothea Bahns and Jasmin D. A. Meinecke
+Abstract: The Poisson algebra $\mathfrak h$ of invariants of the Nambu-Goto string, which was first introduced by K. Pohlmeyer in 1982, is described using the Shuffle Hopf algebra. In particular, an underlying auxiliary Lie algebra is reformulated in terms of the image of the first Eulerian idempotent of the Shuffle Hopf algebra. This facilitates the comparison of different approaches to the quantization of $\mathfrak h$.

@@ -1,0 +1,4 @@
+Paper: 13077722
+Title: The concept of quasi-integrability
+Authors: L. A. Ferreira and G. Luchini and Wojtek J. Zakrzewski
+Abstract: We show that certain field theory models, although non-integrable according to the usual definition of integrability, share some of the features of integrable theories for certain configurations. Here we discuss our attempt to define a "quasi-integrable theory", through a concrete example: a deformation of the (integrable) sine-Gordon potential. The techniques used to describe and define this concept are both analytical and numerical. The zero-curvature representation and the abelianisation procedure commonly used in integrable field theories are adapted to this new case and we show that they produce asymptotically conserved charges that can then be observed in the simulations of scattering of solitons.

@@ -1,0 +1,4 @@
+Paper: 11120909
+Title: Simulating a CP-violating topological term in gauge theories
+Authors: Haralambos Panagopoulos and Ettore Vicari
+Abstract: We present recent results on the theta-dependence of four-dimensional SU(N) gauge theories, where theta is the coefficient of the CP-violating topological term in the Lagrangian. In particular, we study the scaling behavior of these theories, by Monte Carlo simulations at imaginary theta. The numerical results provide good evidence of scaling in the continuum limit. The imaginary theta dependence of the ground-state energy turns out to be well described by the first few terms of related expansions around theta=0, providing accurate estimates of the first few coefficients, up to O(theta^6).

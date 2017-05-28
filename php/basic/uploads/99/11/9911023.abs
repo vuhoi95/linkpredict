@@ -1,0 +1,4 @@
+Paper: 9911023
+Title: On Rigidly Scalar-Flat Manifolds
+Authors: Boris Botvinnik and Brett McInnes
+Abstract: Witten and Yau (hep-th/9910245) have recently considered a generalisation of the AdS/CFT correspondence, and have shown that the relevant manifolds have certain physically desirable properties when the scalar curvature of the boundary is positive. It is natural to ask whether similar results hold when the scalar curvature is zero. With this motivation, we study compact scalar flat manifolds which do not accept a positive scalar curvature metric. We call these manifolds rigidly scalar-flat. We study this class of manifolds in terms of special holonomy groups. In particular, we prove that if, in addition, a rigidly scalar flat manifold $M$ is $Spin$ with $\dim M\geq 5$, then $M$ either has a finite cyclic fundamental group, or it must be a counter example to Gromov-Lawson-Rosenberg conjecture.

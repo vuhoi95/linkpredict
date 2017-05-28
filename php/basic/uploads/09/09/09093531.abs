@@ -1,0 +1,4 @@
+Paper: 09093531
+Title: Proving AGT relations in the large-c limit
+Authors: A. Mironov and A. Morozov
+Abstract: In the limit of large central charge $c$ the 4-point Virasoro conformal block becomes a hypergeometric function. It is represented by a sum of chiral Nekrasov functions, which can also be explicitly evaluated. In this way the known proof of the AGT relation is extended from special to generic set of external states, but in the special limit of c=\infty.

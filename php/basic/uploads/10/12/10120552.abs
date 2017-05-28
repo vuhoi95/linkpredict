@@ -1,0 +1,4 @@
+Paper: 10120552
+Title: Top Quark Amplitudes with an Anomalous Magnetic Moment
+Authors: Andrew J. Larkoski and Michael E. Peskin
+Abstract: The anomalous magnetic moment of the top quark may be measured during the first run of the LHC at 7 TeV. For these measurements, it will be useful to have available tree amplitudes with ttbar and arbitrarily many photons and gluons, including both QED and color anomalous magnetic moments. In this paper, we present a method for computing these amplitudes using the Britto-Cachazo-Feng-Witten (BCFW) recursion formula. Because we deal with an effective theory with higher-dimension couplings, there are roadblocks to a direct computation with the BCFW method. We evade these by using an auxiliary scalar theory to compute a subset of the amplitudes.

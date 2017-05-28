@@ -1,0 +1,4 @@
+Paper: 151202926
+Title: All three-loop four-point correlators of half-BPS operators in planar  N=4 SYM
+Authors: Dmitry Chicherin and James Drummond and Paul Heslop and Emery Sokatchev
+Abstract: We obtain the planar correlation function of four half-BPS operators of arbitrary weights, up to three loops. Our method exploits only elementary properties of the integrand of the planar correlator, such as its symmetries and singularity structure. This allows us to write down a general ansatz for the integrand. The coefficients in the ansatz are fixed by means of a powerful light-cone OPE relation between correlators with different weights. Our result is formulated in terms of a limited number of functions built from known one-, two- and three-loop conformal integrals. These results are useful for checking recent integrability predictions for the OPE structure constants.

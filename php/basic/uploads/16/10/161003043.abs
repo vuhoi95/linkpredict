@@ -1,0 +1,4 @@
+Paper: 161003043
+Title: Eigenvalue conjecture and colored Alexander polynomials
+Authors: A. Mironov and A. Morozov
+Abstract: We connect two important conjectures in the theory of knot polynomials. The first one is the property Al_R(q) = Al_{[1]}(q^{|R|}) for all single hook Young diagrams R, which is known to hold for all knots. The second conjecture claims that all the mixing matrices U_{i} in the relation {\cal R}_i = U_i{\cal R}_1U_i^{-1} between the i-th and the first generators {\cal R}_i of the braid group are universally expressible through the eigenvalues of {\cal R}_1. Since the above property of Alexander polynomials is very well tested, this relation provides a new support to the eigenvalue conjecture, especially for i>2, when its direct check by evaluation of the Racah matrices and their convolutions is technically difficult.

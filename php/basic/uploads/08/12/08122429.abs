@@ -1,0 +1,4 @@
+Paper: 08122429
+Title: Matrix Factorizations, Massey Products and F-Terms for Two-Parameter  Calabi-Yau Hypersurfaces
+Authors: Johanna Knapp and Emanuel Scheidegger
+Abstract: We discuss B-type tensor product branes in mirrors of two-parameter Calabi-Yau hypersurfaces, using the language of matrix factorizations. We determine the open string moduli of the branes at the Gepner point. By turning on both bulk and boundary moduli we then deform the brane away from the Gepner point. Using the deformation theory of matrix factorizations we compute Massey products. These contain the information about higher order deformations and obstructions. The obstructions are encoded in the F-term equations, which we obtain from the Massey product algorithm. We show that the F-terms can be integrated to an effective superpotential. Our results provide an ingredient for open/closed mirror symmetry for these hypersurfaces.

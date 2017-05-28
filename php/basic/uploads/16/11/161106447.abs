@@ -1,0 +1,4 @@
+Paper: 161106447
+Title: Topological Design of Protocols
+Authors: Arthur Jaffe and Zhengwei Liu and Alex Wozniakowski
+Abstract: We give a topological simulation for tensor networks that we call the two-string model. In this approach we give a new way to design protocols, and we discover a new multipartite quantum communication protocol. We introduce the notion of topologically compressed transformations. Our new protocol can implement multiple, non-local compressed transformations among multi-parties using one multipartite resource state.

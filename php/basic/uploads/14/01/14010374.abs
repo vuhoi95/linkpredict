@@ -1,0 +1,4 @@
+Paper: 14010374
+Title: Conformal symmetry of JIMWLK Evolution at NLO
+Authors: Alex Kovner and Michael Lublinsky and Yair Mulian
+Abstract: We construct the Next to Leading Order JIMWLK Hamiltonian for high energy evolution in ${\cal N}=4$ SUSY theory, and show that it possesses conformal invariance, even though it is derived using sharp cutoff on rapidity variable. The conformal transformation properties of Wilson lines are not quite the naive ones, but at NLO acquire an additional anomalous piece. We construct explicitly the inversion symmetry generator. We also show how to construct for every operator $O$, including the Hamiltonian itself, its "conformal extension" $\cal O$, such that it transforms under the inversion in the naive way.

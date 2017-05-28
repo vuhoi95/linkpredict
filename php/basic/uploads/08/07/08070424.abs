@@ -1,0 +1,4 @@
+Paper: 08070424
+Title: Conjecture on the analyticity of PT-symmetric potentials and the reality  of their spectra
+Authors: Carl M Bender and Daniel W Hook and Lawrence R Mead
+Abstract: The spectrum of the Hermitian Hamiltonian $H=p^2+V(x)$ is real and discrete if the potential $V(x)\to\infty$ as $x\to\pm\infty$. However, if $V(x)$ is complex and PT-symmetric, it is conjectured that, except in rare special cases, $V(x)$ must be analytic in order to have a real spectrum. This conjecture is demonstrated by using the potential $V(x)=(ix)^a|x|^b$, where $a,b$ are real.

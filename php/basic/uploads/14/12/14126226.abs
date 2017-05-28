@@ -1,0 +1,4 @@
+Paper: 14126226
+Title: Boundary States as Holographic Duals of Trivial Spacetimes
+Authors: Masamichi Miyaji and Shinsei Ryu and Tadashi Takayanagi and Xueda Wen
+Abstract: We study real-space quantum entanglement included in conformally invariant boundary states in conformal field theories (CFTs). First, we argue that boundary states essentially have no real-space entanglement by computing the entanglement entropy when we bipartite the system into two spatial regions. From the viewpoint of holography, this shows that boundary states are dual to trivial spacetimes of zero spactime volume. Next, we point out that a continuous multiscale entanglement renormalization ansatz (cMERA) for any CFTs can be formulated by employing a boundary state as its infrared unentangled state with an appropriate regularization. Exploiting this idea, we propose an approximation scheme of cMERA construction for general CFTs.

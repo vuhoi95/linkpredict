@@ -1,0 +1,4 @@
+Paper: 12103079
+Title: Geometry of Lax pairs: particle motion and Killing-Yano tensors
+Authors: Marco Cariglia and Valeri P. Frolov and Pavel Krtous and David Kubiznak
+Abstract: A geometric formulation of the Lax pair equation on a curved manifold is studied using phase space formalism. The corresponding (covariantly conserved) Lax tensor is defined and the method of generation of constants of motion from it is discussed. It is shown that when the Hamilton equations of motion are used, the conservation of the Lax tensor translates directly to the well known Lax pair equation, with one matrix identified with components of the Lax tensor and the other matrix constructed from the (metric) connection. A generalization to Clifford objects is also discussed. Nontrivial examples of Lax tensors for geodesic and charged particle motion are found in spacetimes admitting hidden symmetry of Killing--Yano tensors.

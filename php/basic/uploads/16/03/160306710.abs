@@ -1,0 +1,4 @@
+Paper: 160306710
+Title: Lax representation of the hyperbolic van Diejen dynamics with two  coupling parameters
+Authors: B. G. Pusztai and T. F. Gorbe
+Abstract: In this paper, we construct a Lax pair for the classical hyperbolic van Diejen system with two independent coupling parameters. Built upon this construction, we show that the dynamics can be solved by a projection method, which in turn allows us to initiate the study of the scattering properties. As a consequence, we prove the equivalence between the first integrals provided by the eigenvalues of the Lax matrix and the family of van Diejen's commuting Hamiltonians. Also, at the end of the paper, we propose a candidate for the Lax matrix of the hyperbolic van Diejen system with three independent coupling constants.

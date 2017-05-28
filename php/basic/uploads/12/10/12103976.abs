@@ -1,0 +1,4 @@
+Paper: 12103976
+Title: A perturbative probabilistic approach to quantum many-body systems
+Authors: Andrea Di Stefano and Massimo Ostilli and Carlo Presilla
+Abstract: In the probabilistic approach to quantum many-body systems, the ground-state energy is the solution of a nonlinear scalar equation written either as a cumulant expansion or as an expectation with respect to a probability distribution of the potential and hopping (amplitude and phase) values recorded during an infinitely lengthy evolution. We introduce a perturbative expansion of this probability distribution which conserves, at any order, a multinomial-like structure, typical of uncorrelated systems, but includes, order by order, the statistical correlations provided by the cumulant expansion. The proposed perturbative scheme is successfully tested in the case of pseudo spin 1/2 hard-core boson Hubbard models also when affected by a phase problem due to an applied magnetic field.

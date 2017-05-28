@@ -1,0 +1,4 @@
+Paper: 9502063
+Title: Three-dimensional Folding of the Triangular Lattice
+Authors: M. Bowick and P. Di Francesco and O. Golinelli and E. Guitter
+Abstract: We study the folding of the regular triangular lattice in three dimensional embedding space, a model for the crumpling of polymerised membranes. We consider a discrete model, where folds are either planar or form the angles of a regular octahedron. These "octahedral" folding rules correspond simply to a discretisation of the 3d embedding space as a Face Centred Cubic lattice. The model is shown to be equivalent to a 96--vertex model on the triangular lattice. The folding entropy per triangle ${\rm ln} q_{3d}$ is evaluated numerically to be $q_{3d}=1.43(1)$. Various exact bounds on $q_{3d}$ are derived.

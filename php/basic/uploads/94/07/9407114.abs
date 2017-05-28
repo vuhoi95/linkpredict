@@ -1,0 +1,4 @@
+Paper: 9407114
+Title: Lattices of matrices (revised)
+Authors: E. Brézin and A. Zee
+Abstract: We study a new class of matrix models, formulated on a lattice. On each site are $N$ states with random energies governed by a Gaussian random matrix Hamiltonian. The states on different sites are coupled randomly. We calculate the density of and correlation between the eigenvalues of the total Hamiltonian in the large $N$ limit. We find that this correlation exhibits the same type of universal behavior we discovered recently. Several derivations of this result are given. This class of random matrices allows us to model the transition between the ''localized" and ''extended" regimes within the limited context of random matrix theory.

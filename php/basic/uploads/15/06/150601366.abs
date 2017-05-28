@@ -1,0 +1,4 @@
+Paper: 150601366
+Title: The BFSS model on the lattice
+Authors: Veselin G. Filev and Denjoe O'Connor
+Abstract: We study the maximally supersymmetric BFFS model at finite temperature and its bosonic relative. For the bosonic model in $p+1$ dimensions, we find that it effectively reduces to a system of gauged Gaussian matrix models. The effective model captures the low temperature regime of the model including the phase transition. The mass becomes $p^{1/3}\lambda^{1/3}$ for large $p$, with $\lambda$ the 'tHooft coupling. For $p=9$ simulations of the model give $m=(1.90\pm.01)\lambda^{1/3}$, which is also the mass gap of the Hamiltonian. We argue that there is no `sign' problem in the maximally supersymmetric BFSS model and perform detailed simulations of several observables finding excellent agreement with AdS/CFT predictions when $1/\alpha'$ corrections are included.

@@ -1,0 +1,4 @@
+Paper: 9403003
+Title: Correlations and Renormalization in Lattice Gases
+Authors: Bruce M. Boghosian and Washington Taylor
+Abstract: A complete formulation is given of an exact kinetic theory for lattice gases. This kinetic theory makes possible the calculation of corrections to the usual Boltzmann / Chapman-Enskog analysis of lattice gases due to the buildup of correlations. It is shown that renormalized transport coefficients can be calculated perturbatively by summing terms in an infinite series. A diagrammatic notation for the terms in this series is given, in analogy with the diagrammatic expansions of continuum kinetic theory and quantum field theory. A closed-form expression for the coefficients associated with the vertices of these diagrams is given. This method is applied to several standard lattice gases, and the results are shown to correctly predict experimentally observed deviations from the Boltzmann analysis.

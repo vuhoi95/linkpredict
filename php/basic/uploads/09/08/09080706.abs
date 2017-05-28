@@ -1,0 +1,4 @@
+Paper: 09080706
+Title: Superqubits
+Authors: L. Borsten and D. Dahanayake and M. J. Duff and W. Rubens
+Abstract: We provide a supersymmetric generalization of n quantum bits by extending the local operations and classical communication entanglement equivalence group [SU(2)]^n to the supergroup [uOSp(1|2)]^n and the stochastic local operations and classical communication equivalence group [SL(2,C)]^n to the supergroup [OSp(1|2)]^n. We introduce the appropriate supersymmetric generalizations of the conventional entanglement measures for the cases of $n=2$ and $n=3$. In particular, super-Greenberger-Horne-Zeilinger states are characterized by a nonvanishing superhyperdeterminant.

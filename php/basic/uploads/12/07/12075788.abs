@@ -1,0 +1,4 @@
+Paper: 12075788
+Title: First constraints on the running of non-Gaussianity
+Authors: Adam Becker and Dragan Huterer
+Abstract: We use data from the WMAP temperature maps to constrain a scale-dependent generalization of the popular 'local' model for primordial non-Gaussianity. In the model where the parameter fNL is allowed to run with scale k, fNL(k) = fNL* (k/k_piv)^n, we constrain the running to be n = 0.30(+1.9)(-1.2) at 95% confidence, marginalized over the amplitude fNL*. The constraints depend somewhat on the prior probabilities assigned to the two parameters. In the near future, constraints from a combination of Planck and large-scale structure surveys are expected to improve this limit by about an order of magnitude and usefully constrain classes of inflationary models.

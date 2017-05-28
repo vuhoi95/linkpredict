@@ -1,0 +1,4 @@
+Paper: 12013876
+Title: One step beyond: The excursion set approach with correlated steps
+Authors: Marcello Musso and Ravi K. Sheth
+Abstract: We provide a simple formula that accurately approximates the first crossing distribution of barriers having a wide variety of shapes, by random walks with a wide range of correlations between steps. Special cases of it are useful for estimating halo abundances, evolution, and bias, as well as the nonlinear counts in cells distribution. We discuss how it can be extended to allow for the dependence of the barrier on quantities other than overdensity, to construct an excursion set model for peaks, and to show why assembly and scale dependent bias are generic even at the linear level.

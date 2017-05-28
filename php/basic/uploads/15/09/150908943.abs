@@ -1,0 +1,4 @@
+Paper: 150908943
+Title: Thermodynamic entropy as a Noether invariant
+Authors: Shin-ichi Sasa and Yuki Yokokura
+Abstract: We study a classical many-particle system with an external control represented by a time-dependent extensive parameter in a Lagrangian. We show that thermodynamic entropy of the system is uniquely characterized as the Noether invariant associated with a symmetry for an infinitesimal non-uniform time translation $t\to t+\eta\hbar \beta$, where $\eta$ is a small parameter, $\hbar$ is the Planck constant, $\beta$ is the inverse temperature that depends on the energy and control parameter, and trajectories in the phase space are restricted to those consistent with quasi-static processes in thermodynamics.

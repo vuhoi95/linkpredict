@@ -1,0 +1,4 @@
+Paper: 150802870
+Title: Colored knot polynomials. HOMFLY in representation [2,1]
+Authors: A. Mironov and A. Morozov and An. Morozov and A. Sleptsov
+Abstract: This paper starts a systematic description of colored knot polynomials, beginning from the first non-(anti)symmetric representation R=[2,1]. The project involves several steps: (i) parametrization of big families of knots a la arXiv:1506.00339, (ii) evaluating Racah/mixing matrices for various numbers of strands in various representations a la arXiv:1112.2654, (iii) tabulating and collecting the results at www.knotebook.org. In this paper we discuss only representation R=[2,1] and construct all necessary ingredients that allow one to evaluate knot/links represented by three strand closed parallel braids with inserted double-fat fingers. In particular, it is used to evaluate knots from a 7-parametric family: this family contains over 80% of knots with up to 10 intersections, but does not include mutants.

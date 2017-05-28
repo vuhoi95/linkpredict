@@ -1,0 +1,4 @@
+Paper: 160405544
+Title: Jarzynski's theorem for lattice gauge theory
+Authors: Michele Caselle and Gianluca Costagliola and Alessandro Nada and Marco Panero and Arianna Toniato
+Abstract: Jarzynski's theorem is a well-known equality in statistical mechanics, which relates fluctuations in the work performed during a non-equilibrium transformation of a system, to the free-energy difference between two equilibrium ensembles. In this article, we apply Jarzynski's theorem in lattice gauge theory, for two examples of challenging computational problems, namely the calculation of interface free energies and the determination of the equation of state. We conclude with a discussion of further applications of interest in QCD and in other strongly coupled gauge theories, in particular for the Schroedinger functional and for simulations at finite density using reweighting techniques.

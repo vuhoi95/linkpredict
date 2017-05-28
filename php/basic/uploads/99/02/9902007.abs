@@ -1,0 +1,4 @@
+Paper: 9902007
+Title: IR-Divergence and Anomalous Temperature Dependence of the Condensate in  the Quenched Schwinger Model
+Authors: Stephan Dürr and Stephen R. Sharpe
+Abstract: The Schwinger model is used to study the artifacts of quenching in a controlled way. The model is solved on a finite-temperature cylinder of circumference $\beta=1/T$ with bag-inspired local boundary conditions at the two ends $x^1=0$ and $x^1=L$ which break the $\gamma_5$-invariance and thus play the role of a small quark mass. The quenched chiral condensate is found to diverge exponentially as $L\to\infty$, and to diverge (rather than melt as for $N_{\rm f}\geq1$) if the high-temperature limit $\beta\to0$ is taken at finite box-length $L$. We comment on the generalization of our results to the massive quenched theory, arguing that the condensate is finite as $L\to\infty$ and proportional to $1/m$ up to logarithms.

@@ -1,0 +1,4 @@
+Paper: 161003801
+Title: A selection rule for transitions in PT-symmetric quantum theory
+Authors: Lawrence R. Mead and David Garfinkle
+Abstract: Carl Bender and collaborators have developed a quantum theory governed by Hamiltonians that are PT-symmetric rather than Hermitian. To implement this theory, the inner product was redefined to guarantee positive norms of eigenstates of the Hamiltonian. In the general case, which includes arbitrary time-dependence in the Hamiltonian, a modification of the Schrodinger equation is necessary as shown by Gong and Wang to conserve probability. In this paper, we derive the following selection rule: transitions induced by time dependence in a PT-symmetric Hamiltonian cannot occur between normalized states of differing PT-norm. We show three examples of this selection rule in action: two matrix models and one in the continuum.

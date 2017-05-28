@@ -1,0 +1,4 @@
+Paper: 09125525
+Title: de Sitter gravity from lattice gauge theory
+Authors: Simon Catterall and Daniel Ferrante and A. Nicholson
+Abstract: We investigate a lattice model for Euclidean quantum gravity based on discretization of the Palatini formulation of General Relativity. Using Monte Carlo simulation we show that while a naive approach fails to lead to a vacuum state consistent with the emergence of classical spacetime, this problem may be evaded if the lattice action is supplemented by an appropriate counter term. In this new model we find regions of the parameter space which admit a ground state which can be interpreted as (Euclidean) de Sitter space.

@@ -1,0 +1,4 @@
+Paper: 14064167
+Title: Physics at the entangling surface
+Authors: Kantaro Ohmori and Yuji Tachikawa
+Abstract: To consider the entanglement between the spatial region $A$ and its complement in a QFT, we need to assign a Hilbert space $\mathcal{H}_A$ to the region, by making a certain choice on the boundary $\partial A$. We argue that a small physical boundary is implicitly inserted at the entangling surface. We investigate these issues in the context of 2d CFTs, and show that we can indeed read off the Cardy states of the $c=1/2$ minimal model from the entanglement entropy of the critical Ising chain.

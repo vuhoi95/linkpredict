@@ -1,0 +1,4 @@
+Paper: 160801304
+Title: Differential forms, Fukaya $A_\infty$ algebras, and Gromov-Witten axioms
+Authors: Jake P. Solomon and Sara B. Tukachinsky
+Abstract: Consider the differential forms $A^*(L)$ on a Lagrangian submanifold $L \subset X$. Following ideas of Fukaya-Oh-Ohta-Ono, we construct a family of cyclic unital curved $A_\infty$ structures on $A^*(L),$ parameterized by the cohomology of $X$ relative to $L.$ The family of $A_\infty$ structures satisfies properties analogous to the axioms of Gromov-Witten theory. Our construction is canonical up to $A_\infty$ pseudo-isotopy. We assume moduli spaces and boundary evaluation maps are regular and thus we do not use the theory of the virtual fundamental class.

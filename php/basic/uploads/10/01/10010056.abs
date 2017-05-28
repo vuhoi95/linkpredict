@@ -1,0 +1,4 @@
+Paper: 10010056
+Title: Quantum cohomology of the Springer resolution
+Authors: Alexander Braverman and Davesh Maulik and Andrei Okounkov
+Abstract: Let G denote a complex, semisimple, simply-connected group. We identify the equivariant quantum differential equation for the cotangent bundle to the flag variety of G with the affine Knizhnik-Zamolodchikov connection of Cherednik and Matsuo. This recovers Kim's description of quantum cohomology of the flag variety itself as a limiting case. A parallel result is proven for resolutions of the Slodowy slices. Extension to arbitrary symplectic resolutions is discussed.

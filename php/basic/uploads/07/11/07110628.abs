@@ -1,0 +1,4 @@
+Paper: 07110628
+Title: Pole structure and biharmonic fields in conformal QFT in four dimensions
+Authors: N. M. Nikolov and K. -H. Rehren and I. Todorov
+Abstract: Imposing Huygens' Principle in a 4D Wightman QFT puts strong constraints on its algebraic and analytic structure. These are best understood in terms of ``biharmonic fields'', whose properties reflect the presence of infinitely many conserved tensor currents. In particular, a universal third-order partial differential equation is derived for the most singular parts of connected scalar correlation functions. This PDE gives rise to novel restrictions on the pole structure of higher correlation functions. An example of a six-point function is presented that cannot arise from free fields. This example is exploited to study the locality properties of biharmonic fields.

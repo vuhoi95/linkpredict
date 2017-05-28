@@ -1,0 +1,4 @@
+Paper: 08095094
+Title: Free Fermionic Heterotic Model Building and Root Systems
+Authors: M. Robinson and G. Cleaver and M. Hunziker
+Abstract: We consider an alternative derivation of the GSO Projection in the free fermionic construction of the weakly coupled heterotic string in terms of root systems, as well as the interpretation of the GSO Projection in this picture. We then present an algorithm to systematically and efficiently generate input sets (i.e. basis vectors) in order to study Landscape statistics with minimal computational cost. For example, the improvement at order 6 is approximately 10^{-13} over a traditional brute force approach, and improvement increases with order. We then consider an example of statistics on a relatively simple class of models.

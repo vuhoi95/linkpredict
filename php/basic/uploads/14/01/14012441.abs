@@ -1,0 +1,4 @@
+Paper: 14012441
+Title: Comparison of the gradient flow with cooling in $SU(3)$ pure gauge  theory
+Authors: Claudio Bonati and Massimo D'Elia
+Abstract: The gradient (Wilson) flow has been introduced recently in order to provide a solid theoretical framework for the smoothing of ultraviolet noise in lattice gauge configurations. It is interesting to ask how it compares with other, more heuristic and numerically cheaper smoothing techniques, such as standard cooling. In this study we perform such a comparison, focusing on observables related to topology. We show that, already for moderately small lattice spacings, standard cooling and the gradient flow lead to equivalent results, both for average quantities and configuration by configuration.

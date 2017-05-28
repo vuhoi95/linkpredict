@@ -1,0 +1,4 @@
+Paper: 9803028
+Title: More on Lattice BRST Invariance
+Authors: Wolfgang Bock and Maarten F. L. Golterman and Yigal Shamir
+Abstract: In the gauge-fixing approach to (chiral) lattice gauge theories, the action in the U(1) case implicitly contains a free ghost term, in accordance with the continuum abelian theory. On the lattice there is no BRST symmetry and, without fermions, the partition function is strictly positive. Recently, Neuberger pointed out in hep-lat/9801029 that a different choice of the ghost term would lead to a BRST-invariant lattice model, which is ill-defined nonperturbatively. We show that such a lattice model is inconsistent already in perturbation theory, and clearly different from the gauge-fixing approach.

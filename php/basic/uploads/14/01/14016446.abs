@@ -1,0 +1,4 @@
+Paper: 14016446
+Title: Cluster Polylogarithms for Scattering Amplitudes
+Authors: John Golden and Miguel F. Paulos and Marcus Spradlin and Anastasia Volovich
+Abstract: Motivated by the cluster structure of two-loop scattering amplitudes in N=4 Yang-Mills theory we define "cluster polylogarithm functions". We find that all such functions of weight 4 are made up of a single simple building block associated to the A_2 cluster algebra. Adding the requirement of locality on generalized Stasheff polytopes, we find that these A_2 building blocks arrange themselves to form a unique function associated to the A_3 cluster algebra. This A_3 function manifests all of the cluster algebraic structure of the two-loop n-particle MHV amplitudes for all n, and we use it to provide an explicit representation for the most complicated part of the n=7 amplitude as an example.

@@ -1,0 +1,4 @@
+Paper: 12107244
+Title: Entanglement entropy in de Sitter space
+Authors: Juan Maldacena and Guilherme L. Pimentel
+Abstract: We compute the entanglement entropy for some quantum field theories on de Sitter space. We consider a superhorizon size spherical surface that divides the spatial slice into two regions, with the field theory in the standard vacuum state. First, we study a free massive scalar field. Then, we consider a strongly coupled field theory with a gravity dual, computing the entanglement using the gravity solution. In even dimensions, the interesting piece of the entanglement entropy is proportional to the number of e-foldings that elapsed since the spherical region was inside the horizon. In odd dimensions it is contained in a certain finite piece. In both cases the entanglement captures the long range correlations produced by the expansion.

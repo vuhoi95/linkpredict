@@ -1,0 +1,4 @@
+Paper: 11033358
+Title: Toric Methods in F-theory Model Building
+Authors: Johanna Knapp and Maximilian Kreuzer
+Abstract: In this review article we discuss recent constructions of global F-theory GUT models and explain how to make use of toric geometry to do calculations within this framework. After introducing the basic properties of global F-theory GUTs we give a self-contained review of toric geometry and introduce all the tools that are necessary to construct and analyze global F-theory models. We will explain how to systematically obtain a large class of compact Calabi-Yau fourfolds which can support F-theory GUTs by using the software package PALP.

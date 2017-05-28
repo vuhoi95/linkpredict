@@ -1,0 +1,4 @@
+Paper: 9801119
+Title: Categorical Mirror Symmetry: The Elliptic Curve
+Authors: Alexander Polishchuk and Eric Zaslow
+Abstract: We describe an isomorphism of categories conjectured by Kontsevich. If $M$ and $\widetilde{M}$ are mirror pairs then the conjectural equivalence is between the derived category of coherent sheaves on $M$ and a suitable version of Fukaya's category of Lagrangian submanifolds on $\widetilde{M}.$ We prove this equivalence when $M$ is an elliptic curve and $\widetilde{M}$ is its dual curve, exhibiting the dictionary in detail.

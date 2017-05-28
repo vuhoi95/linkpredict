@@ -1,0 +1,4 @@
+Paper: 09032595
+Title: Introduction to Integral Discriminants
+Authors: A. Morozov and Sh. Shakirov
+Abstract: The simplest partition function, associated with homogeneous symmetric forms S of degree r in n variables, is integral discriminant J_{n|r}(S) = \int e^{-S(x_1 ... x_n)} dx_1 ... dx_n. Actually, S-dependence remains the same if e^{-S} in the integrand is substituted by arbitrary function f(S), i.e. integral discriminant is a characteristic of the form S itself, and not of the averaging procedure. The aim of the present paper is to calculate J_{n|r} in a number of non-Gaussian cases. Using Ward identities -- linear differential equations, satisfied by integral discriminants -- we calculate J_{2|3}, J_{2|4}, J_{2|5} and J_{3|3}. In all these examples, integral discriminant appears to be a generalized hypergeometric function. It depends on several SL(n) invariants of S, with essential singularities controlled by the ordinary algebraic discriminant of S.

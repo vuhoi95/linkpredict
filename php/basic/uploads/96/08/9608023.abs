@@ -1,0 +1,4 @@
+Paper: 9608023
+Title: A Two-Parameter Recursion Formula For Scalar Field Theory
+Authors: Y. Meurice and G. Ordaz
+Abstract: We present a two-parameter family of recursion formulas for scalar field theory. The first parameter is the dimension $(D)$. The second parameter ($\zeta$) allows one to continuously extrapolate between Wilson's approximate recursion formula and the recursion formula of Dyson's hierarchical model. We show numerically that at fixed $D$, the critical exponent $\gamma $ depends continuously on $\zeta$. We suggest the use of the $\zeta -$independence as a guide to construct improved recursion formulas.

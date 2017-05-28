@@ -1,0 +1,4 @@
+Paper: 12040331
+Title: Numerical computation of the beta function of large N SU(N) gauge theory  coupled to an adjoint Dirac fermion
+Authors: A. Hietanen and R. Narayanan
+Abstract: We use a single site lattice in four dimensions to study the scaling of large N Yang-Mills field coupled to a single massless Dirac fermion in the adjoint representation. We use the location of the strong to weak coupling transition defined through the eigenvalues of the folded Wilson loop operator to set a scale. We do not observe perturbative scaling in the region studied in this paper. Instead, we observe that the scale changes very slowly with the bare coupling. The lowest eigenvalue of the overlap Dirac operator is another scale that shows similar behavior as a function of the lattice coupling. We speculate that this behavior is due to the beta function appoaching close to a zero.

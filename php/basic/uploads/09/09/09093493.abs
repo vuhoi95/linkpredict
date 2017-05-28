@@ -1,0 +1,4 @@
+Paper: 09093493
+Title: Feynman Diagrams and a Combination of the Integration by Parts (IBP) and  the Integration by Fractional Expansion (IBFE) Techniques
+Authors: Ivan Gonzalez and Marcelo Loewe
+Abstract: In this paper we show how to improve and extend the Integration by Fractional Expansion technique (IBFE) by applying it to certain families of scalar massive Feynman diagrams. The strategy is based on combining this method together with the Integration by Parts technique (IBP). In particular, we want to calculate certain Feynman diagrams which have a triangle loop as a subgraph. The main idea is to use IBP in this subgraph in order to simplify the topology of the original diagram in which it is immersed, using then, in a second step, the IBFE technique. The result we have obtained, after the application of both techniques, represents a simplification in the complexity of the solution, compared with having used only the IBFE technique.

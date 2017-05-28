@@ -1,0 +1,4 @@
+Paper: 160308058
+Title: Covariant variational approach to Yang-Mills Theory: effective potential  of the Polyakov loop
+Authors: Markus Quandt and Hugo Reinhardt
+Abstract: We compute the effective action of the Polyakov loop in SU(2) and SU(3) Yang-Mills theory using a previously developed covariant variational approach. The formalism is extended to background gauge and it is shown how to relate the low order Green's functions to the ones in Landau gauge studied earlier. The renormalization procedure is discussed. The self-consistent effective action is derived and evaluated using the numerical solution of the gap equation. We find a clear signal for a deconfinement phase transition at finite temperatures, which is second order for SU(2) and first order for SU(3). The critical temperatures obtained are in reasonable agreement with high precision lattice data.

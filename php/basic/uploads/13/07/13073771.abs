@@ -1,0 +1,4 @@
+Paper: 13073771
+Title: Characters of the W3 algebra
+Authors: Nicholas J. Iles and Gérard M. T. Watts
+Abstract: Traces of powers of the zero mode in the W3 Algebra have recently been found to be of interest, for example in relation to Black Hole thermodynamics, and arise as the terms in an expansion of the full characters of the algebra. We calculate the first few such powers in two cases. Firstly, we find the traces in the 3-state Potts model by using null vectors to derive modular differential equations for the traces. Secondly, we calculate the exact results for Verma module representations. We compare our two methods with each other and the result of brute-force diagonalisation for low levels and find complete agreement.

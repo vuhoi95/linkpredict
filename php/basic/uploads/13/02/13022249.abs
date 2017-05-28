@@ -1,0 +1,4 @@
+Paper: 13022249
+Title: Thirring model at finite density in 2+1 dimensions with stochastic  quantization
+Authors: Jan M. Pawlowski and Christian Zielinski
+Abstract: We consider a generalization of the Thirring model in 2+1 dimensions at finite density. We employ stochastic quantization and check for the applicability in the finite density case to circumvent the sign problem. To this end we derive analytical results in the heavy dense limit and compare with numerical ones obtained from a complex Langevin evolution. Furthermore we make use of indirect indicators to check for incorrect convergence of the underlying complex Langevin evolution. The method allows the numerical evaluation of observables at arbitrary values of the chemical potential. We evaluate the results and compare to the (0+1)-dimensional case.

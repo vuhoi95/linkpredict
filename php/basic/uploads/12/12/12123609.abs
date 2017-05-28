@@ -1,0 +1,4 @@
+Paper: 12123609
+Title: Bootstrapping gravity solutions
+Authors: Joao Aparicio and Daniel Grumiller and Esperanza Lopez and Ioannis Papadimitriou and Stefan Stricker
+Abstract: We construct an algorithm to determine all stationary axi-symmetric solutions of 3-dimensional Einstein gravity with a minimally coupled self-interacting scalar field. We holographically renormalize the theory and evaluate then the on-shell action as well as the stress tensor and scalar one-point functions. We study thermodynamics, derive two universal formulas for the entropy and prove that global AdS provides a lower bound for the mass of certain solitons. Several examples are given in detail, including the first instance of locally asymptotically flat hairy black holes and novel asymptotically AdS solutions with non-Brown-Henneaux behavior.

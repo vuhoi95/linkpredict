@@ -1,0 +1,4 @@
+Paper: 11120332
+Title: Born-Infeld with Higher Derivatives
+Authors: Wissam Chemissany and Renata Kallosh and Tomas Ortin
+Abstract: We present new models of non-linear electromagnetism which satisfy the Noether-Gaillard-Zumino current conservation and are, therefore, self-dual. The new models differ from the Born-Infeld-type models in that they deform the Maxwell theory starting with terms like $\lambda (\partial F)^{4}$. We provide a recursive algorithm to find all higher order terms in the action of the form $\lambda^{n} \partial ^{4n} F^{2n+2} $, which are necessary for the U(1) duality current conservation. We use one of these models to find a self-dual completion of the $\lambda (\partial F)^{4}$ correction to the open string action. We discuss the implication of these findings for the issue of UV finiteness of ${\cal N}=8$ supergravity.

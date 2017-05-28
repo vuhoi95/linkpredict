@@ -1,0 +1,4 @@
+Paper: 12035080
+Title: Dynamics in the Ising field theory after a quantum quench
+Authors: Dirk Schuricht and Fabian H. L. Essler
+Abstract: We study the real-time dynamics of the order parameter $<\sigma(t)>$ in the Ising field theory after a quench in the fermion mass, which corresponds to a quench in the transverse field of the corresponding transverse field Ising chain. We focus on quenches within the ordered phase. The long-time behaviour is obtained analytically by a resummation of the leading divergent terms in a form-factor expansion for $<\sigma(t)>$. Our main result is the development of a method for treating divergences associated with working directly in the field theory limit. We recover the scaling limit of the corresponding result by Calabrese et al. [Phys. Rev. Lett. \textbf{106}, 227203 (2011)], which was obtained for the lattice model. Our formalism generalizes to integrable quantum quenches in other integrable models.

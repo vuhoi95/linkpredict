@@ -1,0 +1,4 @@
+Paper: 12024303
+Title: Evaluation of Multi-Sums for Large Scale Problems
+Authors: J. Blümlein and A. Hasselhuhn and C. Schneider
+Abstract: A big class of Feynman integrals, in particular, the coefficients of their Laurent series expansion w.r.t.\ the dimension parameter $\ep$ can be transformed to multi-sums over hypergeometric terms and harmonic sums. In this article, we present a general summation method based on difference fields that simplifies these multi--sums by transforming them from inside to outside to representations in terms of indefinite nested sums and products. In particular, we present techniques that assist in the task to simplify huge expressions of such multi-sums in a completely automatic fashion. The ideas are illustrated on new calculations coming from 3-loop topologies of gluonic massive operator matrix elements containing two fermion lines, which contribute to the transition matrix elements in the variable flavor scheme.

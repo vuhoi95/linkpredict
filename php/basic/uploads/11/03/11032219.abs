@@ -1,0 +1,4 @@
+Paper: 11032219
+Title: Functional RG flow equation: regularization and coarse-graining in phase  space
+Authors: G. P. Vacca and L. Zambelli
+Abstract: Starting from the basic path integral in phase space we reconsider the functional approach to the RG flow of the one particle irreducible effective average action. On employing a balanced coarse-graining procedure for the canonical variables we obtain a functional integral with a non trivial measure which leads to a modified flow equation. We first address quantum mechanics for boson and fermion degrees of freedom and we then extend the construction to quantum field theories. For this modified flow equation we discuss the reconstruction of the bare action and the implications on the computation of the vacuum energy density.

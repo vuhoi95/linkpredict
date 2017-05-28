@@ -1,0 +1,4 @@
+Paper: 160903534
+Title: Weighted Graph Theory Representation of Quantum Information Inspired by  Lie Algebras
+Authors: Abdelilah Belhaj and Adil Belhaj and Larbi Machkouri and Moulay Brahim Sedra and Soumia Ziti
+Abstract: Borrowing ideas from the relation between simply laced Lie algebras and Dynkin diagrams, a weighted graph theory representation of quantum information is addressed. In this way, the density matrix of a quantum state can be interpreted as a signless Laplacian matrix of an associated graph. Using similarities with root systems of simply laced Lie algebras, one-qubit theory is analyzed in some details and is found to be linked to a non-oriented weighted graph having two vertices. Moreover, this one-qubit theory is generalized to n-qubits. In this representation, quantum gates correspond to graph weight operations preserving the probability condition. A speculation from string theory, via D-brane quivers, is also given.

@@ -1,0 +1,4 @@
+Paper: 12014330
+Title: Reduze 2 - Distributed Feynman Integral Reduction
+Authors: A. von Manteuffel and C. Studerus
+Abstract: Reduze is a computer program for reducing Feynman integrals to master integrals employing a variant of Laporta's reduction algorithm. This article describes version 2 of the program. New features include the distributed reduction of single topologies on multiple processor cores. The parallel reduction of different topologies is supported via a modular, load balancing job system. Fast graph and matroid based algorithms allow for the identification of equivalent topologies and integrals.

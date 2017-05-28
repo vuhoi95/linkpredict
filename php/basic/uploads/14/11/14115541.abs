@@ -1,0 +1,4 @@
+Paper: 14115541
+Title: Thermodynamics of the BMN matrix model at strong coupling
+Authors: Miguel S. Costa and Lauren Greenspan and Joao Penedones and Jorge Santos
+Abstract: We construct the black hole geometry dual to the deconfined phase of the BMN matrix model at strong 't Hooft coupling. We approach this solution from the limit of large temperature where it is approximately that of the non-extremal D0-brane geometry with a spherical $S^8$ horizon. This geometry preserves the $SO(9)$ symmetry of the matrix model trivial vacuum. As the temperature decreases the horizon becomes deformed and breaks the $SO(9)$ to the $SO(6)\times SO(3)$ symmetry of the matrix model. When the black hole free energy crosses zero the system undergoes a phase transition to the confined phase described by a Lin-Maldacena geometry. We determine this critical temperature, whose computation is also within reach of Monte Carlo simulations of the matrix model.

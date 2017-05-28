@@ -1,0 +1,4 @@
+Paper: 9904004
+Title: Recurrent procedure for the determination of the Free Energy  $ε^{2}$-expansion in the Topological String Theory
+Authors: B. A. Dubrovin and A. Ya. Maltsev
+Abstract: We present here the iteration procedure for the determination of free energy $\epsilon^{2}$-expansion using the theory of KdV - type equations. In our approach we use the conservation laws for KdV - type equations depending explicitly on times $t_{1}, t_{2}, ...$ to find the $\epsilon^{2}$-expansion of $u(x,t_{1},t_{2},...)$ after the infinite number of shifts of $u(x,0,0,...) \equiv x$ along $t_{1}, t_{2}, ...$ in recurrent form. The formulas for the free energy expansion are just obtained then as a result of quite simple integration procedure applied to $u_{n}(x)$.

@@ -1,0 +1,4 @@
+Paper: 07112271
+Title: A quantum Goldman bracket in 2+1 quantum gravity
+Authors: J. E. Nelson and R. F. Picken
+Abstract: In the context of quantum gravity for spacetimes of dimension 2+1, we describe progress in the construction of a quantum Goldman bracket for intersecting loops on surfaces. Using piecewise linear paths in R^2 (representing loops on the spatial manifold, i.e. the torus) and a quantum connection with noncommuting components, we review how holonomies and Wilson loops for two homotopic paths are related by phases in terms of the signed area between them. Paths rerouted at intersection points with other paths occur on the r.h.s. of the Goldman bracket. To better understand their nature we introduce the concept of integer points inside the parallelogram spanned by two intersecting paths, and show that the rerouted paths must necessarily pass through these integer points.

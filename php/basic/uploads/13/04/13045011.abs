@@ -1,0 +1,4 @@
+Paper: 13045011
+Title: A new integral representation for the scalar products of Bethe states  for the XXX spin chain
+Authors: Yoichi Kazama and Shota Komatsu and Takuya Nishimura
+Abstract: Based on the method of separation of variables due to Sklyanin, we construct a new integral representation for the scalar products of the Bethe states for the SU(2) XXX spin 1/2 chain obeying the periodic boundary condition. Due to the compactness of the symmetry group, a twist matrix must be introduced at the boundary in order to extract the separated variables properly. Then by deriving the integration measure and the spectrum of the separated variables, we express the inner product of an on-shell and an off-shell Bethe states in terms of a multiple contour integral involving a product of Baxter wave functions. Its form is reminiscent of the integral over the eigenvalues of a matrix model and is expected to be useful in studying the semi-classical limit of the product.

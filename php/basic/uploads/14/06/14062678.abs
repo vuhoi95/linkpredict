@@ -1,0 +1,4 @@
+Paper: 14062678
+Title: Complexity and Shock Wave Geometries
+Authors: Douglas Stanford and Leonard Susskind
+Abstract: In this paper we refine a conjecture relating the time-dependent size of an Einstein-Rosen bridge to the computational complexity of the of the dual quantum state. Our refinement states that the complexity is proportional to the spatial volume of the ERB. More precisely, up to an ambiguous numerical coefficient, we propose that the complexity is the regularized volume of the largest codimension one surface crossing the bridge, divided by $G_N l_{AdS}$. We test this conjecture against a wide variety of spherically symmetric shock wave geometries in different dimensions. We find detailed agreement.

@@ -1,0 +1,4 @@
+Paper: 11121225
+Title: Entanglement entropy of two disjoint intervals from fusion algebra of  twist fields
+Authors: M. A. Rajabpour and F. Gliozzi
+Abstract: We study the entanglement and Renyi entropies of two disjoint intervals in minimal models of conformal field theory. We use the conformal block expansion and fusion rules of twist fields to define a systematic expansion in the elliptic parameter of the trace of the n-th power of the reduced density matrix. Keeping only the first few terms we obtain an approximate expression that is easily analytically continued to n->1, leading to an approximate formula for the entanglement entropy. These predictions are checked against some known exact results as well as against existing numerical data.

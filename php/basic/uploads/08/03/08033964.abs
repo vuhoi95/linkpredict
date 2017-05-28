@@ -1,0 +1,4 @@
+Paper: 08033964
+Title: Optimizing the Reduction of One-Loop Amplitudes
+Authors: P. Mastrolia and G. Ossola and C. G. Papadopoulos and R. Pittau
+Abstract: We present an optimization of the reduction algorithm of one-loop amplitudes in terms of master integrals. It is based on the exploitation of the polynomial structure of the integrand when evaluated at values of the loop-momentum fulfilling multiple cut-conditions, as emerged in the OPP-method. The reconstruction of the polynomials, needed for the complete reduction, is rended very versatile by using a projection-technique based on the Discrete Fourier Transform. The novel implementation is applied in the context of the NLO QCD corrections to u d-bar --> W+ W- W+.

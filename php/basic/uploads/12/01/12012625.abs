@@ -1,0 +1,4 @@
+Paper: 12012625
+Title: Properties of linear integral equations related to the six-vertex model  with disorder parameter II
+Authors: Hermann Boos and Frank Göhmann
+Abstract: We study certain functions arising in the context of the calculation of correlation functions of the XXZ spin chain and of integrable field theories related with various scaling limits of the underlying six-vertex model. We show that several of these functions that are related to linear integral equations can be obtained by acting with (deformed) difference operators on a master function $\Phi$. The latter is defined in terms of a functional equation and of its asymptotic behavior. Concentrating on the so-called temperature case we show that these conditions uniquely determine the high-temperature series expansions of the master function. This provides an efficient calculation scheme for the high-temperature expansions of the derived functions as well.

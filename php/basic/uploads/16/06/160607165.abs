@@ -1,0 +1,4 @@
+Paper: 160607165
+Title: Modular data for the extended Haagerup subfactor
+Authors: Terry Gannon and Scott Morrison
+Abstract: We compute the modular data (that is, the $S$ and $T$ matrices) for the centre of the extended Haagerup subfactor. The full structure (i.e. the associativity data, also known as 6-$j$ symbols or $F$ matrices) still appears to be inaccessible. Nevertheless, starting with just the number of simple objects and their dimensions (obtained by a combinatorial argument in arXiv:1404.3955) we find that it is surprisingly easy to leverage knowledge of the representation theory of $SL (2, \mathbb Z)$ into a complete description of the modular data. We also investigate the possible character vectors associated with this modular data.

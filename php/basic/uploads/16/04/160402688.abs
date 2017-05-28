@@ -1,0 +1,4 @@
+Paper: 160402688
+Title: The 3D-index and normal surfaces
+Authors: Stavros Garoufalidis and Craig Hodgson and Neil Hoffman and Hyam Rubinstein
+Abstract: Dimofte, Gaiotto and Gukov introduced a powerful invariant, the 3D-index, associated to a suitable ideal triangulation of a 3-manifold with torus boundary components. The 3D-index is a collection of formal power series in $q^{1/2}$ with integer coefficients. Our goal is to explain how the 3D-index is a generating series of normal surfaces associated to the ideal triangulation. This shows a connection of the 3D-index with classical normal surface theory, and fulfills a dream of constructing topological invariants of 3-manifolds using normal surfaces.

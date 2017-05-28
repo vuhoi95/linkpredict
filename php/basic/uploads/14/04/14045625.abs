@@ -1,0 +1,4 @@
+Paper: 14045625
+Title: Spinning AdS Propagators
+Authors: Miguel S. Costa and Vasco Goncalves and Joao Penedones
+Abstract: We develop the embedding formalism to describe symmetric traceless tensors in Anti-de Sitter space. We use this formalism to construct the bulk-to-bulk propagator of massive spin J fields and check that it has the expected short distance and massless limits. We also and a split representation for the bulk-to-bulk propagator, by writing it as an integral over the boundary of the product of two bulk-to-boundary propagators. We exemplify the use of this representation with the computation of the conformal partial wave decomposition of Witten diagrams. In particular, we determine the Mellin amplitude associated to AdS graviton exchange between minimally coupled scalars of general dimension, including the regular part of the amplitude.

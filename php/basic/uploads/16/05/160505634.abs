@@ -1,0 +1,4 @@
+Paper: 160505634
+Title: Logarithmic Link Invariants of $\overline{U}_q^H(\mathfrak{sl}_2)$ and  Asymptotic Dimensions of Singlet Vertex Algebras
+Authors: Thomas Creutzig and Antun Milas and Matt Rupert
+Abstract: We study relationships between the restricted unrolled quantum group $\overline{U}_q^H(\mathfrak{sl}_2)$ at $2r$-th root of unity $q=e^{\pi i/r}, r \geq 2$, and the singlet vertex operator algebra $\mathcal M(r)$. We use deformable families of modules to efficiently compute $(1, 1)$-tangle invariants colored with projective modules of $\overline{U}_q^H(\mathfrak{sl}_2)$. These relate to the colored Alexander tangle invariants studied in [ADO, M1]. It follows that the regularized asymptotic dimensions of characters of $\mathcal M(r)$ coincide with the corresponding modified traces of open Hopf link invariants. We also discuss various categorical properties of $\mathcal M(r)$-mod in connection to braided tensor categories.

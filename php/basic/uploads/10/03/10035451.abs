@@ -1,0 +1,4 @@
+Paper: 10035451
+Title: Protecting the conformal symmetry via bulk renormalization on Anti  deSitter space
+Authors: Michael Duetsch and Karl-Henning Rehren
+Abstract: The problem of perturbative breakdown of conformal symmetry can be avoided, if a conformally covariant quantum field phi on d-dimensional Minkowski spacetime is viewed as the boundary limit of a quantum field Phi on d+1-dimensional anti-deSitter spacetime (AdS). We study the boundary limit in renormalized perturbation theory with polynomial interactions in AdS, and point out the differences as compared to renormalization directly on the boundary. In particular, provided the limit exists, there is no conformal anomaly. We compute explicitly the "fish diagram" on AdS_4 by differential renormalization, and calculate the anomalous dimension of the composite boundary field phi^2 with bulk interaction Phi^4.

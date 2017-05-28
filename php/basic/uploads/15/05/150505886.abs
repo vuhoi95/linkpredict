@@ -1,0 +1,4 @@
+Paper: 150505886
+Title: Local Integrand Representations of All Two-Loop Amplitudes in Planar SYM
+Authors: Jacob L. Bourjaily and Jaroslav Trnka
+Abstract: We use generalized unitarity at the integrand-level to directly construct local, manifestly dual-conformally invariant formulae for all two-loop scattering amplitudes in planar, maximally supersymmetric Yang-Mills theory (SYM). This representation separates contributions into manifestly finite and manifestly divergent terms---in a way that renders all infrared-safe observables (including ratio functions) calculable without any need for regulation. These results perfectly match the all-loop BCFW recursion relations, to which we provide a closed-form solution valid through two-loop-order. Finally, we describe and document a Mathematica package which implements these results, available as part of this work's source files on the arXiv.

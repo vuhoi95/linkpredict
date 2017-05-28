@@ -1,0 +1,4 @@
+Paper: 11013350
+Title: Evolution of domain wall networks: the PRS algorithm
+Authors: L. Sousa and P. P. Avelino
+Abstract: The Press-Ryden-Spergel (PRS) algorithm is a modification to the field theory equations of motion, parametrized by two parameters ($\alpha$ and $\beta$), implemented in numerical simulations of cosmological domain wall networks, in order to ensure a fixed comoving resolution. In this paper we explicitly demonstrate that the PRS algorithm provides the correct domain wall dynamics in $N+1$-dimensional Friedmann-Robertson-Walker (FRW) universes if $\alpha+\beta/2=N$, fully validating its use in numerical studies of cosmic domain evolution. We further show that this result is valid for generic thin featureless domain walls, independently of the Lagrangian of the model.

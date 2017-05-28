@@ -1,0 +1,4 @@
+Paper: 9810122
+Title: Improved Gaussian Approximation
+Authors: Antun Balaz and Aleksandar Belic and Aleksandar Bogojevic
+Abstract: In a recently developed approximation technique for quantum field theory the standard one-loop result is used as a seed for a recursive formula that gives a sequence of improved Gaussian approximations for the generating functional. In this paper we work with the generic $\phi^3+\phi^4$ model in $d=0$ dimensions. We compare the first, and simplest, approximation in the above sequence with the one-loop and two-loop approximations, as well as the exact results (calculated numericaly).

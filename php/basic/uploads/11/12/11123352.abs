@@ -1,0 +1,4 @@
+Paper: 11123352
+Title: Algorithmic deformation of matrix factorisations
+Authors: Nils Carqueville and Laura Dowdy and Andreas Recknagel
+Abstract: Branes and defects in topological Landau-Ginzburg models are described by matrix factorisations. We revisit the problem of deforming them and discuss various deformation methods as well as their relations. We have implemented these algorithms and apply them to several examples. Apart from explicit results in concrete cases, this leads to a novel way to generate new matrix factorisations via nilpotent substitutions, and to criteria whether boundary obstructions can be lifted by bulk deformations.

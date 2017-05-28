@@ -1,0 +1,4 @@
+Paper: 11064712
+Title: Matrix Coordinate Bethe Ansatz: Applications to XXZ and ASEP models
+Authors: N. Crampe and E. Ragoucy and D. Simon
+Abstract: We present the construction of the full set of eigenvectors of the open ASEP and XXZ models with special constraints on the boundaries. The method combines both recent constructions of coordinate Bethe Ansatz and the old method of matrix Ansatz specific to the ASEP. This "matrix coordinate Bethe Ansatz" can be viewed as a non-commutative coordinate Bethe Ansatz, the non-commutative part being related to the algebra appearing in

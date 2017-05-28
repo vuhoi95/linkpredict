@@ -1,0 +1,4 @@
+Paper: 14083040
+Title: Multi-point functions of weighted cubic maps
+Authors: Jan Ambjorn and Timothy Budd
+Abstract: We study the geodesic two- and three-point functions of random weighted cubic maps, which are obtained by assigning random edge lengths to random cubic planar maps. Explicit expressions are obtained by taking limits of recently established bivariate multi-point functions of general planar maps. We give an alternative interpretation of the two-point function in terms of an Eden model exploration process on a random planar triangulation. Finally, the scaling limits of the multi-point functions are studied, showing in particular that the two- and three-point functions of the Brownian map are recovered as the number of faces is taken to infinity.

@@ -1,0 +1,4 @@
+Paper: 12123923
+Title: Decomposing Feynman rules
+Authors: Francis Brown and Dirk Kreimer
+Abstract: We exhibit in the simple example of the Dunce's cap Feynman graph the structure of parametric renormalization on the level of integrands, and exhibit also the decomposition $\Phi^R=\Phi_{\mathrm{fin}}^{-1}(\Theta_0)\star \Phi^R_{\mathrm{\makebox{1-s}}}(S/S_0)\star\Phi_{\mathrm{fin}}(\Theta)$ into angles and scales of renormalized Feynman rules.

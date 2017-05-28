@@ -1,0 +1,4 @@
+Paper: 13111566
+Title: Quasi-exactly solvable relativistic soft-core Coulomb models
+Authors: Davids Agboola and Yao-Zhong Zhang
+Abstract: By considering a unified treatment, we present quasi exact polynomial solutions to both the Klein-Gordon and Dirac equations with the family of soft-core Coulomb potentials $V_q(r)=-Z/\left(r^q+\beta^q\right)^{1/q}$, $Z>0$, $\beta>0$, $q\geq 1$. We consider cases $q=1$ and $q=2$ and show that both cases are reducible to the same basic ordinary differential equation. A systematic and closed form solution to the basic equation is obtain using the Bethe ansatz method. For each case, the expressions for the energies and the allowed parameters are obtained analytically and the wavefunctions are derive in terms of the roots of a set of Bethe ansatz equations.

@@ -1,0 +1,4 @@
+Paper: 151109393
+Title: Renormalization Group Equation and scaling solutions for f(R) gravity in  exponential parametrization
+Authors: Nobuyoshi Ohta and Roberto Percacci and Gian Paolo Vacca
+Abstract: We employ the exponential parametrization of the metric and a "physical" gauge fixing procedure to write a functional flow equation for the gravitational effective average action in an $f(R)$ truncation. The background metric is a four-sphere and the coarse-graining procedure contains three free parameters. We look for scaling solutions, i.e. non-Gaussian fixed points for the function $f$. For a discrete set of values of the parameters, we find simple global solutions of quadratic polynomial form. For other values, global solutions can be found numerically. Such solutions can be extended in certain regions of parameter space and have two relevant directions. We discuss the merits and the shortcomings of this procedure.

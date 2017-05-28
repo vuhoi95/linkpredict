@@ -1,0 +1,4 @@
+Paper: 9703220
+Title: Tunneling in quantum wires I: Exact solution of the spin isotropic case
+Authors: F. Lesage and H. Saleur and P. Simonetti
+Abstract: We show that the problem of impurity tunneling in a Luttinger liquid of electrons with spin is solvable in the spin isotropic case ($g_\sigma=2$, $g_\rho$ arbitrary). The resulting integrable model is similar to a two channel anisotropic Kondo model, but with the impurity spin in a "cyclic representation" of the quantum algebra $su(2)_q$ associated with the anisotropy. Using exact, non-perturbative techniques we study the RG flow, and compute the DC conductance. As expected from the analysis of Kane and Fisher we find that the IR fixed point corresponds to two separate leads. We also prove an exact duality between the UV and IR expansions of the current at vanishing temperature.

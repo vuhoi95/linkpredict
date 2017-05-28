@@ -1,0 +1,4 @@
+Paper: 160707334
+Title: Exploring Perturbative Conformal Field Theory in Mellin space
+Authors: Amin A. Nizami and Arnab Rudra and Sourav Sarkar and Mritunjay Verma
+Abstract: We explore the Mellin representation of correlation functions in conformal field theories in the weak coupling regime. We provide a complete proof for a set of Feynman rules to write the Mellin amplitude for a general tree level Feynman diagram involving only scalar operators. We find a factorised form involving beta functions associated to the propagators, similar to tree level Feynman rules in momentum space for ordinary QFTs. We also briefly consider the case where a generic scalar perturbation of the free CFT breaks conformal invariance. Mellin space still has some utility and one can consider non-conformal Mellin representations. In this context, we find that the beta function corresponding to conformal propagator uplifts to a hypergeometric function.

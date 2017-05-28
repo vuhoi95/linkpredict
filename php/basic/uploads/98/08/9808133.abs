@@ -1,0 +1,4 @@
+Paper: 9808133
+Title: The Weyl Character Formula, the half-spin representations, and equal  rank subgroups
+Authors: B. Gross and B. Kostant and P. Ramond and S. Sternberg
+Abstract: Let B be a reductive Lie subalgebra of a semi-simple Lie algebra of the same rank both over the complex numbers. To each finite dimensional irreducible representation $V_\lambda$ of F we assign a multiplet of irreducible representations of B with m elements in each multiplet, where m is the index of the Weyl group of B in the Weyl group of F. We obtain a generalization of the Weyl character formula; our formula gives the character of $V_\lambda$ as a quotient whose numerator is an alternating sum of the characters in the multiplet associated to $V_\lambda$ and whose denominator is an alternating sum of the characters of the multiplet associated to the trivial representation of F.

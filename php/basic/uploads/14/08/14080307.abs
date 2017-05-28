@@ -1,0 +1,4 @@
+Paper: 14080307
+Title: On the spectral theory of one functional-difference operator from  conformal field theory
+Authors: Ludwig D. Faddeev and Leon A. Takhtajan
+Abstract: In the paper we consider a functional-difference operator $H=U+U^{-1}+V$, where $U$ and $V$ are self-adjoint Weyl operators satisfying $UV=q^{2}VU$ with $q=e^{\pi i\tau}$ and $\tau>0$. The operator $H$ has applications in the conformal field theory and in the representation theory of quantum groups. Using modular quantum dilogarithm - a $q$-deformation of the Euler's dilogarithm - we define the scattering solution and the Jost solutions, derive an explicit formula for the resolvent of the self-adjoint operator $H$ in the Hilbert space $L^{2}(\mathbb{R})$, and prove the eigenfunction expansion theorem. The latter is a $q$-deformation of the well-known Kontorovich-Lebedev transform in the theory of special functions. We also present a formulation of the scattering theory for the operator $H$.

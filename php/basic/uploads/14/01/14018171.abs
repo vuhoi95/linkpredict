@@ -1,0 +1,4 @@
+Paper: 14018171
+Title: Torus knot polynomials and susy Wilson loops
+Authors: Georgios Giasemidis and Miguel Tierz
+Abstract: We give, using an explicit expression obtained in [V. Jones, Ann. of Math. 126, 335 (1987)], a basic hypergeometric representation of the HOMFLY polynomial of $(n,m)$ torus knots, and present a number of equivalent expressions, all related by Heine's transformations. Using this result the $(m,n)\leftrightarrow (n,m)$ symmetry and the leading polynomial at large $N$ are explicit. We show the latter to be the Wilson loop of 2d Yang-Mills theory on the plane. In addition, after taking one winding to infinity, it becomes the Wilson loop in the zero instanton sector of the 2d Yang-Mills theory, which is known to give averages of Wilson loops in $\mathcal{N}$=4 SYM theory. We also give, using matrix models, an interpretation of the HOMFLY polynomial and the corresponding Jones-Rosso representation in terms of $q$-harmonic oscillators.

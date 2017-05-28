@@ -1,0 +1,4 @@
+Paper: 9703152
+Title: Almost-Hermitian Random Matrices: Crossover from Wigner-Dyson to Ginibre  eigenvalue statistics
+Authors: Yan V. Fyodorov and Boris A. Khoruzhenko and H. -J. Sommers
+Abstract: By using the method of orthogonal polynomials we analyze the statistical properties of complex eigenvalues of random matrices describing a crossover from Hermitian matrices characterized by the Wigner- Dyson statistics of real eigenvalues to strongly non-Hermitian ones whose complex eigenvalues were studied by Ginibre. Two-point statistical measures (as e.g. spectral form factor, number variance and small distance behavior of the nearest neighbor distance distribution $p(s)$) are studied in more detail. In particular, we found that the latter function may exhibit unusual behavior $p(s)\propto s^{5/2}$ for some parameter values.

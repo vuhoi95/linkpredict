@@ -1,0 +1,4 @@
+Paper: 12085750
+Title: Characteristic Classes of SL(N)-Bundles and Quantum Dynamical Elliptic  R-Matrices
+Authors: A. Levin and M. Olshanetsky and A. Smirnov and A. Zotov
+Abstract: We discuss quantum dynamical elliptic R-matrices related to arbitrary complex simple Lie group G. They generalize the known vertex and dynamical R-matrices and play an intermediate role between these two types. The R-matrices are defined by the corresponding characteristic classes describing the underlying vector bundles. The latter are related to elements of the center Z(G) of G. While the known dynamical R-matrices are related to the bundles with trivial characteristic classes, the Baxter-Belavin-Drinfeld-Sklyanin vertex R-matrix corresponds to the generator of the center Z_N of SL(N). We construct the R-matrices related to SL(N)- bundles with an arbitrary characteristic class explicitly and discuss the corresponding IRF models.

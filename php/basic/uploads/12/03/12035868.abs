@@ -1,0 +1,4 @@
+Paper: 12035868
+Title: Multi-indexed (q-)Racah Polynomials
+Authors: Satoru Odake and Ryu Sasaki
+Abstract: As the second stage of the project multi-indexed orthogonal polynomials, we present, in the framework of `discrete quantum mechanics' with real shifts in one dimension, the multi-indexed (q-)Racah polynomials. They are obtained from the (q-)Racah polynomials by multiple application of the discrete analogue of the Darboux transformations or the Crum-Krein-Adler deletion of `virtual state' vectors, in a similar way to the multi-indexed Laguerre and Jacobi polynomials reported earlier. The virtual state vectors are the `solutions' of the matrix Schr\"odinger equation with negative `eigenvalues', except for one of the two boundary points.

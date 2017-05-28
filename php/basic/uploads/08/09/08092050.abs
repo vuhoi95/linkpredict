@@ -1,0 +1,4 @@
+Paper: 08092050
+Title: Factorization of R-matrix and Baxter Q-operators for generic sl(N) spin  chains
+Authors: S. E. Derkachov and A. N. Manashov
+Abstract: We develop an approach for constructing the Baxter Q-operators for generic sl(N) spin chains. The key element of our approach is the possibility to represent a solution of the the Yang Baxter equation in the factorized form. We prove that such a representation holds for a generic sl(N) invariant R-operator and find the explicit expression for the factorizing operators. Taking trace of monodromy matrices constructed of the factorizing operators one defines a family of commuting (Baxter) operators on the quantum space of the model. We show that a generic transfer matrix factorizes into the product of N Baxter Q-operators and discuss an application of this representation for a derivation of functional relations for transfer matrices.

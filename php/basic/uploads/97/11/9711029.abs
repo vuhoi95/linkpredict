@@ -1,0 +1,4 @@
+Paper: 9711029
+Title: Probing the Region of Massless Quarks in Quenched Lattice QCD using  Wilson Fermions
+Authors: Robert G. Edwards and Urs M. Heller and Rajamani Narayanan and Robert L. Singleton Jr
+Abstract: We study the spectrum of $H(m)=\gamma_5 W(-m)$ with $W(m)$ being the Wilson-Dirac operator on the lattice with bare mass equal to $m$. The background gauge fields are generated using the SU(3) Wilson action at $\beta=5.7$ on an $8^3\times 16$ lattice. We find evidence that the spectrum of $H(m)$ is gapless for $1.02 < m < 2.0$, implying that the physical quark is massless in this whole region.

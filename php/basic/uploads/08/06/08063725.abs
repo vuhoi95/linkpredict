@@ -1,0 +1,4 @@
+Paper: 08063725
+Title: Transport Coefficients of Non-Newtonian Fluid and Causal Dissipative  Hydrodynamics
+Authors: T. Koide and T. Kodama
+Abstract: A new formula to calculate the transport coefficients of the causal dissipative hydrodynamics is derived by using the projection operator method (Mori-Zwanzig formalism) in [T. Koide, Phys. Rev. E75, 060103(R) (2007)]. This is an extension of the Green-Kubo-Nakano (GKN) formula to the case of non-Newtonian fluids, which is the essential factor to preserve the relativistic causality in relativistic dissipative hydrodynamics. This formula is the generalization of the GKN formula in the sense that it can reproduce the GKN formula in a certain limit. In this work, we extend the previous work so as to apply to more general situations.

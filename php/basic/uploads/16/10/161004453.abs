@@ -1,0 +1,4 @@
+Paper: 161004453
+Title: Note on recursion relations for the $\mathcal{Q}$-cut representation
+Authors: Bo Feng and Song He and Rijun Huang and Ming-xing Luo
+Abstract: In this note, we study the $\mathcal{Q}$-cut representation by combining it with BCFW deformation. As a consequence, the one-loop integrand is expressed in terms of a recursion relation, i.e., $n$-point one-loop integrand is constructed using tree-level amplitudes and $m$-point one-loop integrands with $m\leq n-1$. By giving explicit examples, we show that the integrand from the recursion relation is equivalent to that from Feynman diagrams or the original $\mathcal{Q}$-cut construction, up to scale free terms.

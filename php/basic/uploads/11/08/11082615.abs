@@ -1,0 +1,4 @@
+Paper: 11082615
+Title: Pair creation by time-dependent electric fields: Analytic solutions
+Authors: Iwo Bialynicki-Birula and Łukasz Rudnicki and Albert Wienczek
+Abstract: Exact analytical solutions are presented for the time evolution of the density of pairs produced in the QED vacuum by a uniform electric field that is adiabatically switched on starting at minus infinity. Pair production is described by the Dirac-Heisenberg-Wigner function introduced before [Phys. Rev. D 44, 1825 (1991)]. The explicit solution is obtained by an extension of the method of the spinorial decomposition to deal with a time-varying electric field. The main result of this work is that the pair density is an analytic function of the field strength; it can be expanded into a convergent power series. Therefore, the essential singularity present in the Schwinger formula is to be attributed to the infinitely long duration of the process of pair creation by a time-independent field.

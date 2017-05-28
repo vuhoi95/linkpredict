@@ -1,0 +1,4 @@
+Paper: 150402786
+Title: Statistics of Stationary Points of Random Finite Polynomial Potentials
+Authors: Dhagash Mehta and Matthew Niemerg and Chuang Sun
+Abstract: The stationary points (SPs) of the potential energy landscapes (PELs) of multivariate random potentials (RPs) have found many applications in many areas of Physics, Chemistry and Mathematical Biology. However, there are few reliable methods available which can find all the SPs accurately. Hence, one has to rely on indirect methods such as Random Matrix theory. With a combination of the numerical polynomial homotopy continuation method and a certification method, we obtain all the certified SPs of the most general polynomial RP for each sample chosen from the Gaussian distribution with mean 0 and variance 1. While obtaining many novel results for the finite size case of the RP, we also discuss the implications of our results on mathematics of random systems and string theory landscapes.

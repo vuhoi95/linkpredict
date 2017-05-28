@@ -1,0 +1,4 @@
+Paper: 11064088
+Title: Notes on Ding-Iohara algebra and AGT conjecture
+Authors: H. Awata and B. Feigin and A. Hoshino and M. Kanai and J. Shiraishi and S. Yanagida
+Abstract: We study the representation theory of the Ding-Iohara algebra $\calU$ to find $q$-analogues of the Alday-Gaiotto-Tachikawa (AGT) relations. We introduce the endomorphism $T(u,v)$ of the Ding-Iohara algebra, having two parameters $u$ and $v$. We define the vertex operator $\Phi(w)$ by specifying the permutation relations with the Ding-Iohara generators $x^\pm(z)$ and $\psi^\pm(z)$ in terms of $T(u,v)$. For the level one representation, all the matrix elements of the vertex operators with respect to the Macdonald polynomials are factorized and written in terms of the Nekrasov factors for the $K$-theoretic partition functions as in the AGT relations. For higher levels $m=2,3,...$, we present some conjectures, which imply the existence of the $q$-analogues of the AGT relations.

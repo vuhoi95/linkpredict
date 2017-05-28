@@ -1,0 +1,4 @@
+Paper: 13113551
+Title: FDR, an easier way to NNLO calculations: a two-loop case study
+Authors: Alice Maria Donati and Roberto Pittau
+Abstract: In this paper we illustrate the simplifications produced by FDR in NNLO computations. We show with an explicit example that - due to its four-dimensionality - FDR does not require an order-by-order renormalization and that, unlike the one-loop case, FDR and dimensional regularization (DR) generate intermediate two-loop results which are no longer linked by a simple subtraction of the ultraviolet (UV) poles in epsilon. Our case study is the two-loop amplitude for H -> gamma gamma, mediated by an infinitely heavy top loop, in the presence of gluonic corrections. We use this to elucidate how gauge invariance is preserved with no need of introducing counterterms in the Lagrangian. In addition, we discuss a possible four-dimensional approach to the infrared (IR) problem compatible with the FDR treatment of the UV infinities.

@@ -1,0 +1,4 @@
+Paper: 11072945
+Title: Path integral approach to the full Dicke model with dipole-dipole  interaction
+Authors: M. Aparicio Alcalde and J. Stephany and N. F. Svaiter
+Abstract: We consider the full Dicke spin-boson model composed by a single bosonic mode and an ensemble of $N$ identical two-level atoms with different couplings for the resonant and anti-resonant interaction terms, and incorporate a dipole-dipole interaction between the atoms. Assuming that the system is in thermal equilibrium with a reservoir at temperature $\beta^{-1}$, we compute the free energy in the thermodynamic limit $N\rightarrow\infty$ in the saddle-point approximation to the path integral and determine the critical temperature for the superradiant phase transition. In the zero temperature limit, we recover the critical coupling of the quantum phase transition, presented in the literature.

@@ -1,0 +1,4 @@
+Paper: 10093667
+Title: On multidimensional analogs of Melvin's solution for classical series of  Lie algebras
+Authors: A. A. Golubtsova and V. D. Ivashchuk
+Abstract: A multidimensional generalization of Melvin's solution for an arbitrary simple Lie algebra $\cal G$ is presented. The gravitational model contains n 2-forms and $l \geq n$ scalar fields, wheren is the rank of $\cal G$. The solution is governed by a set of n functions obeying n ordinary differential equations with certain boundary conditions. It was conjectured earlier that these functions should be polynomials (the so-called fluxbrane polynomials). A program (in Maple) for calculating of these polynomials for classical series of Lie algebras is suggested (see Appendix). The polynomials corresponding to the Lie algebra D_4 are obtained. It is conjectured that the polynomials for A_n-, B_n- and C_n-series may be obtained from polynomials for D_{n+1}-series by using certain reduction formulas.

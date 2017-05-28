@@ -1,0 +1,4 @@
+Paper: 151201296
+Title: Wrapping corrections for non-diagonal boundaries in AdS/CFT
+Authors: Zoltan Bajnok and Rafael I. Nepomechie
+Abstract: We consider an open string stretched between a Y=0 brane and a Y_theta=0 brane. The latter brane is rotated with respect to the former by an angle theta, and is described by a non-diagonal boundary S-matrix. This system interpolates smoothly between the Y-Y (theta =0) and the Y-bar Y (theta = pi/2) systems, which are described by diagonal boundary S-matrices. We use integrability to compute the energies of one-particle states at weak coupling up to leading wrapping order (4, 6 loops) as a function of the angle. The results for the diagonal cases exactly match with those obtained previously.

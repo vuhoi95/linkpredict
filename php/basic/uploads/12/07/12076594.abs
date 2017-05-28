@@ -1,0 +1,4 @@
+Paper: 12076594
+Title: Some exact results in branching and annihilating random walks
+Authors: Federico Benitez and Nicolas Wschebor
+Abstract: We present some exact results on the behavior of Branching and Annihilating Random Walks, both in the Directed Percolation and Parity Conserving universality classes. Contrary to usual perturbation theory, we perform an expansion in the branching rate around the non trivial Pure Annihilation model, whose correlation and response function we compute exactly. With this, the non-universal threshold value for having a phase transition in the simplest system belonging to the Directed Percolation universality class is found to coincide with previous Non Perturbative Renormalization Group approximate results. We also show that the Parity Conserving universality class has an unexpected RG fixed point structure, with a PA fixed point which is unstable in all dimensions of physical interest.

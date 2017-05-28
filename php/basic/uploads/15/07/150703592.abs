@@ -1,0 +1,4 @@
+Paper: 150703592
+Title: How to Recover a Qubit That Has Fallen Into a Black Hole
+Authors: Aidan Chatwin-Davies and Adam S. Jermyn and Sean M. Carroll
+Abstract: We demonstrate an algorithm for the retrieval of a qubit, encoded in spin angular momentum, that has been dropped into a no-firewall black hole. Retrieval is achieved analogously to quantum teleportation by collecting Hawking radiation and performing measurements on the black hole. Importantly, these methods only require the ability to perform measurements from outside the event horizon.

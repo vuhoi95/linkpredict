@@ -1,0 +1,4 @@
+Paper: 9905066
+Title: Monopoles from Rational Maps
+Authors: Theodora Ioannidou and Paul Sutcliffe
+Abstract: The moduli space of charge k SU(2) BPS monopoles is diffeomorphic to the moduli space of degree k rational maps between Riemann spheres. In this note we describe a numerical algorithm to compute the monopole fields and energy density from the rational map. The results for some symmetric examples are presented.

@@ -1,0 +1,4 @@
+Paper: 14125782
+Title: Time correlation functions for non-Hermitian quantum systems
+Authors: Alessandro Sergi and Konstantin G. Zloshchastiev
+Abstract: We introduce a formalism for time-dependent correlation functions for systems whose evolutions are governed by non-Hermitian Hamiltonians of general type. It turns out that one can define two different types of time correlation functions. Both these definitions seem to be physically consistent while becoming equivalent only in certain cases. Moreover, when autocorrelation functions are considered, one can introduce another function defined as the relative difference between the two definitions. We conjecture that such a function can be used to assess the positive semi-definiteness of the density operator without computing its eigenvalues. We illustrate these points by studying analytically a number of models with two energy levels.

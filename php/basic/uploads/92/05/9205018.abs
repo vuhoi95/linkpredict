@@ -1,0 +1,4 @@
+Paper: 9205018
+Title: Simulated Tempering: A New Monte Carlo Scheme
+Authors: Enzo Marinari and Giorgio Parisi
+Abstract: We propose a new global optimization method ({\em Simulated Tempering}) for simulating effectively a system with a rough free energy landscape (i.e. many coexisting states) at finite non-zero temperature. This method is related to simulated annealing, but here the temperature becomes a dynamic variable, and the system is always kept at equilibrium. We analyze the method on the Random Field Ising Model, and we find a dramatic improvement over conventional Metropolis and cluster methods. We analyze and discuss the conditions under which the method has optimal performances.

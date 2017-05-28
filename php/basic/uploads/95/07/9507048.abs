@@ -1,0 +1,4 @@
+Paper: 9507048
+Title: Quantum Spin Glasses in Finite Dimensions
+Authors: Heiko Rieger and A. Peter Young
+Abstract: The Ising spin glass model in a transverse field has a zero temperature phase transition driven solely by quantum fluctuations. This quantum phase transition occuring at a critical transverse field strength has attracted much attention recently. We report the progress that has been made via Monte Carlo simulations of the finite dimensional, short range model.

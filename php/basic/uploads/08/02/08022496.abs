@@ -1,0 +1,4 @@
+Paper: 08022496
+Title: New overlap construction of Weyl fermions
+Authors: Christof Gattringer and Markus Pak
+Abstract: In a recent article Hasenfratz and von Allmen have suggested a fixed point action for two flavors of Weyl fermions on the lattice with gauge group SU(2). The block-spin transformation they use maps the chiral and vector symmetries of the underlying vector theory onto two equations of the Ginsparg-Wilson (GW) type. We show that an overlap Dirac operator can be constructed which solves both GW equations simultaneously. We discuss the properties of this overlap operator and its projection onto lattice Weyl fermions which seems to be free of artefacts, in particular the projection operators are independent of the gauge field.

@@ -1,0 +1,4 @@
+Paper: 11013294
+Title: A finiteness bound for the EPRL/FK spin foam model
+Authors: Aleksandar Mikovic and Marko Vojinovic
+Abstract: We show that the EPRL/FK spin foam model of quantum gravity has an absolutely convergent partition function if the vertex amplitude is divided by an appropriate power $p$ of the product of dimensions of the vertex spins. This power is independent of the spin foam 2-complex and we find that $p>2$ insures the convergence of the state sum. Determining the convergence of the state sum for the values $0 \le p \le 2$ requires the knowledge of the large-spin asymptotics of the vertex amplitude in the cases when some of the vertex spins are large and other are small.

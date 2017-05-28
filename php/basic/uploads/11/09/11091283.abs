@@ -1,0 +1,4 @@
+Paper: 11091283
+Title: A geometric proof of the equality between entanglement and edge spectra
+Authors: Brian Swingle and T. Senthil
+Abstract: The bulk-edge correspondence for topological quantum liquids states that the spectrum of the reduced density matrix of a large subregion reproduces the thermal spectrum of a physical edge. This correspondence suggests an intricate connection between ground state entanglement and physical edge dynamics. We give a simple geometric proof of the bulk-edge correspondence for a wide variety of physical systems. Our unified proof relies on geometric techniques available in Lorentz invariant and conformally invariant quantum field theories. These methods were originally developed in part to understand the physics of black holes, and we now apply them to determine the local structure of entanglement in quantum many-body systems.

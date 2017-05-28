@@ -1,0 +1,4 @@
+Paper: 10062387
+Title: New stability results for Einstein scalar gravity
+Authors: Thomas Faulkner and Gary T. Horowitz and Matthew M. Roberts
+Abstract: We consider asymptotically anti de Sitter gravity coupled to a scalar field with mass slightly above the Breitenlohner-Freedman bound. This theory admits a large class of consistent boundary conditions characterized by an arbitrary function $W$. An important open question is to determine which $W$ admit stable ground states. It has previously been shown that the total energy is bounded from below if $W$ is bounded from below and the bulk scalar potential $V(\phi)$ admits a suitable superpotential. We extend this result and show that the energy remains bounded even in some cases where $W$ can become arbitrarily negative. As one application, this leads to the possibility that in gauge/gravity duality, one can add a double trace operator with negative coefficient to the dual field theory and still have a stable vacuum.

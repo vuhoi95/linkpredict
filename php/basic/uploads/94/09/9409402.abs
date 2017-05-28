@@ -1,0 +1,4 @@
+Paper: 9409402
+Title: General Effective Actions
+Authors: Eric D'Hoker and Steven Weinberg
+Abstract: We investigate the structure of the most general actions with symmetry group $G$, spontaneously broken down to a subgroup $H$. We show that the only possible terms in the Lagrangian density that, although not $G$-invariant, yield $G$-invariant terms in the action, are in one to one correspondence with the generators of the fifth cohomology classes. For the special case of $G=SU(N)_L \times SU(N)_R$ broken down to the diagonal subgroup $H=SU(N)_V$, there is just one such term for $N\geq 3$, which for $N=3$ is the original Wess-Zumino-Witten term.

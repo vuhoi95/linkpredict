@@ -1,0 +1,4 @@
+Paper: 11125164
+Title: Asymptotic scattering and duality in the one-dimensional three-state  quantum Potts model on a lattice
+Authors: Akos Rapp and Peter Schmitteckert and Gabor Takacs and Gergely Zarand
+Abstract: We determine numerically the single-particle and the two-particle spectrum of the three-state quantum Potts model on a lattice by using the density matrix renormalization group method, and extract information on the asymptotic (small momentum) S-matrix of the quasiparticles. The low energy part of the finite size spectrum can be understood in terms of a simple effective model introduced in a previous work, and is consistent with an asymptotic S-matrix of an exchange form below a momentum scale $p^*$. This scale appears to vanish faster than the Compton scale, $mc$, as one approaches the critical point, suggesting that a dangerously irrelevant operator may be responsible for the behavior observed on the lattice.

@@ -1,0 +1,4 @@
+Paper: 07112455
+Title: Physical boundary state for the quantum tetrahedron
+Authors: Etera R. Livine and Simone Speziale
+Abstract: We consider stability under evolution as a criterion to select a physical boundary state for the spinfoam formalism. As an example, we apply it to the simplest spinfoam defined by a single quantum tetrahedron and solve the associated eigenvalue problem at leading order in the large spin limit. We show that this fixes uniquely the free parameters entering the boundary state. Remarkably, the state obtained this way gives a correlation between edges which runs at leading order with the inverse distance between the edges, in agreement with the linearized continuum theory. Finally, we give an argument why this correlator represents the propagation of a pure gauge, consistently with the absence of physical degrees of freedom in 3d general relativity.

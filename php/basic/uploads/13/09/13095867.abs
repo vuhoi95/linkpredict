@@ -1,0 +1,4 @@
+Paper: 13095867
+Title: Flag algebras and the stable coefficients of the Jones polynomial
+Authors: Stavros Garoufalidis and Sergey Norin and Thao Vuong
+Abstract: We study the structure of the stable coefficients of the Jones polynomial of an alternating link. We start by identifying the first four stable coefficients with polynomial invariants of a (reduced) Tait graph of the link projection. This leads us to introduce a free polynomial algebra of invariants of graphs whose elements give invariants of alternating links which strictly refine the first four stable coefficients. We conjecture that all stable coefficients are elements of this algebra, and give experimental evidence for the fifth and sixth stable coefficient. We illustrate our results in tables of all alternating links with at most 10 crossings and all irreducible planar graphs with at most 6 vertices.

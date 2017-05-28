@@ -1,0 +1,4 @@
+Paper: 13031157
+Title: Massive non-planar two-loop four-point integrals with SecDec 2.1
+Authors: Sophia Borowka and Gudrun Heinrich
+Abstract: We present numerical results for massive non-planar two-loop box integrals entering heavy quark pair production at NNLO, some of which are not known analytically yet. The results have been obtained with the program SecDec 2.1, based on sector decomposition and contour deformation, in combination with new types of transformations. Among the new features of version 2.1 is also the possibility to evaluate contracted tensor integrals, with no limitation on the rank.

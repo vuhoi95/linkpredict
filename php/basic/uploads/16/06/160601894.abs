@@ -1,0 +1,4 @@
+Paper: 160601894
+Title: Hofstadter's Butterfly in Quantum Geometry
+Authors: Yasuyuki Hatsuda and Hosho Katsura and Yuji Tachikawa
+Abstract: We point out that the recent conjectural solution to the spectral problem for the Hamiltonian $H=e^{x}+e^{-x}+e^{p}+e^{-p}$ in terms of the refined topological invariants of a local Calabi-Yau geometry has an intimate relation with two-dimensional non-interacting electrons moving in a periodic potential under a uniform magnetic field. In particular, we find that the quantum A-period, determining the relation between the energy eigenvalue and the Kahler modulus of the Calabi-Yau, can be found explicitly when the quantum parameter $q=e^{i\hbar}$ is a root of unity, that its branch cuts are given by Hofstadter's butterfly, and that its imaginary part counts the number of states of the Hofstadter Hamiltonian. The modular double operation, exchanging $\hbar$ and $4\pi^2/\hbar$, plays an important role.

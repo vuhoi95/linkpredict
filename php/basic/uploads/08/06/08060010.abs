@@ -1,0 +1,4 @@
+Paper: 08060010
+Title: A symplectic map between hyperbolic and complex Teichmüller theory
+Authors: Kirill Krasnov and Jean-Marc Schlenker
+Abstract: Let $S$ be a closed, orientable surface of genus at least 2. The cotangent bundle of the "hyperbolic'' Teichm\"uller space of $S$ can be identified with the space $\CP$ of complex projective structures on $S$ through measured laminations, while the cotangent bundle of the "complex'' Teichm\"uller space can be identified with $\CP$ through the Schwarzian derivative. We prove that the resulting map between the two cotangent spaces, although not smooth, is symplectic. The proof uses a variant of the renormalized volume defined for hyperbolic ends.

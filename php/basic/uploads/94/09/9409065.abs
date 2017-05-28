@@ -1,0 +1,4 @@
+Paper: 9409065
+Title: Space of second order linear differential operators as a module over the  Lie algebra of vector fields
+Authors: C. Duval and V. Ovsienko
+Abstract: The space of linear differential operators on a smooth manifold $M$ has a natural one-parameter family of $Diff(M)$ (and $Vect(M)$)-module structures, defined by their action on the space of tensor-densities. It is shown that, in the case of second order differential operators, the $Vect(M)$-module structures are equivalent for any degree of tensor-densities except for three critical values: $\{0,{1\over 2},1\}$. Second order analogue of the Lie derivative appears as an intertwining operator between the spaces of second order differential operators on tensor-densities.

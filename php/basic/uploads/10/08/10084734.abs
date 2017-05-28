@@ -1,0 +1,4 @@
+Paper: 10084734
+Title: Noncompact sl(N) spin chains: BGG-resolution, Q-operators and  alternating sum representation for finite dimensional transfer matrices
+Authors: S. E. Derkachov and A. N. Manashov
+Abstract: We study properties of transfer matrices in the sl(N) spin chain models. The transfer matrices with an infinite dimensional auxiliary space are factorized into the product of N commuting Baxter Q-operators. We consider the transfer matrices with auxiliary spaces of a special type (including the finite dimensional ones). It is shown that they can be represented as the alternating sum over the transfer matrices with infinite dimensional auxiliary spaces. We show that certain combinations of the Baxter Q-operators can be identified with the Q-functions which appear in the Nested Bethe Ansatz.

@@ -1,0 +1,4 @@
+Paper: 9610038
+Title: Continuum limit of finite temperature $λφ^4_3$ from lattice  Monte Carlo
+Authors: G. Bimonte and D. Iñiguez and A. Tarancón and C. L. Ullod
+Abstract: The $\phi^4_3$ model at finite temperature is simulated on the lattice. For fixed $N_t$ we compute the transition line for $N_s \to \infty$ by means of Finite Size Scaling techniques. The crossings of a Renormalization Group trajectory with the transition lines of increasing $N_t$ give a well defined limit for the critical temperature in the continuum. By considering different RG trajectories, we compute $T^c/g$ as a function of the renormalized parameters.

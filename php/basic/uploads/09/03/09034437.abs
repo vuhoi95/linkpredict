@@ -1,0 +1,4 @@
+Paper: 09034437
+Title: Local bulk S-matrix elements and CFT singularities
+Authors: Michael Gary and Steven B. Giddings and Joao Penedones
+Abstract: We give a procedure for deriving certain bulk S-matrix elements from corresponding boundary correlators. These are computed in the plane wave limit, via an explicit construction of certain boundary sources that give bulk wavepackets. A critical role is played by a specific singular behavior of the lorentzian boundary correlators. It is shown in examples how correlators derived from the bulk supergravity exhibit the appropriate singular structure, and reproduce the corresponding S-matrix elements. This construction thus provides a nontrivial test for whether a given boundary conformal field theory can reproduce bulk physics, and where it does, supplies a prescription to extract bulk S-matrix elements in the plane wave limit.

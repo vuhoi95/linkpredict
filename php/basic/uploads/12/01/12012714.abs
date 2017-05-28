@@ -1,0 +1,4 @@
+Paper: 12012714
+Title: How I Learned to Stop Worrying and Love QFT
+Authors: Mario Flory and Robert C. Helling and Constantin Sluka
+Abstract: Lecture notes of a block course explaining why quantum field theory might be in a better mathematical state than one gets the impression from the typical introduction to the topic. It is explained how to make sense of a perturbative expansion that fails to converge and how to express Feynman loop integrals and their renormalization using the language of distribtions rather than divergent, ill-defined integrals.

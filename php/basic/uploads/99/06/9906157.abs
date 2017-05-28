@@ -1,0 +1,4 @@
+Paper: 9906157
+Title: Algebra Structures on Hom(C,L)
+Authors: G. Barnich and R. Fulp and T. Lada and J. Stasheff
+Abstract: We consider the space of linear maps from a coassociative coalgebra C into a Lie algebra L. Unless C has a cocommutative coproduct, the usual symmetry properties of the induced bracket on Hom(C,L) fail to hold. We define the concept of twisted domain (TD) algebras in order to recover the symmetries and also construct a modified Chevalley-Eilenberg complex in order to define the cohomology of such algebras.

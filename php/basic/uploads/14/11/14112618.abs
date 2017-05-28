@@ -1,0 +1,4 @@
+Paper: 14112618
+Title: Toolbox for multiloop Feynman diagrams calculations using $R^{*}$  operation
+Authors: Dmitrii Batkovich and Mikhail Kompaniets
+Abstract: We present the toolbox for analytical calculation of UV-counterterm of Feynman diagrams. It combines the power of $R^{*\prime}$-operation with modern analytical methods. Written in pure Python our toolbox can be easily used and extended.

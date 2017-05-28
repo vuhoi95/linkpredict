@@ -1,0 +1,4 @@
+Paper: 9909168
+Title: Combinatorial and topological approach to the 3D Ising model
+Authors: Tullio Regge and Riccardo Zecchina
+Abstract: We extend the planar Pfaffian formalism for the evaluation of the Ising partition function to lattices of high topological genus g. The 3D Ising model on a cubic lattice, where g is proportional to the number of sites, is discussed in detail. The expansion of the partition function is given in terms of 2^{2 g} Pfaffians classified by the oriented homology cycles of the lattice, i.e. by its spin-structures. Correct counting is guaranteed by a signature term which depends on the topological intersection of the oriented cycles through a simple bilinear formula. The role of a gauge symmetry arising in the above expansion is discussed. The same formalism can be applied to the counting problem of perfect matchings over general lattices and provides a determinant expansion of the permanent of 0-1 matrices.

@@ -1,0 +1,4 @@
+Paper: 10081683
+Title: Komar energy and Smarr formula for noncommutative Schwarzschild black  hole
+Authors: Rabin Banerjee and Sunandan Gangopadhyay
+Abstract: We calculate the Komar energy $E$ for a noncommutative Schwarzschild black hole. A deformation from the conventional identity $E=2ST_H$ is found in the next to leading order computation in the noncommutative parameter $\theta$ (i.e. $\mathcal{O}(\sqrt{\theta}e^{-M^2/\theta})$) which is also consistent with the fact that the area law now breaks down. This deformation yields a nonvanishing Komar energy at the extremal point $T_{H}=0$ of these black holes. We then work out the Smarr formula, clearly elaborating the differences from the standard result $M=2ST_H$, where the mass ($M$) of the black hole is identified with the asymptotic limit of the Komar energy. Similar conclusions are also shown to hold for a deSitter--Schwarzschild geometry.

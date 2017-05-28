@@ -1,0 +1,4 @@
+Paper: 11041122
+Title: Effective field theory calculation of conservative binary dynamics at  third post-Newtonian order
+Authors: S. Foffa and R. Sturani
+Abstract: We reproduce the two-body gravitational conservative dynamics at third post-Newtonian order for spin-less sources by using the effective field theory methods for the gravitationally bound two-body system, proposed by Goldberger and Rothstein. This result has been obtained by automatizing the computation of Feynman amplitudes within a Mathematica algorithm, paving the way for higher-order computations not yet performed by traditional methods.

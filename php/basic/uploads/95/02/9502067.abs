@@ -1,0 +1,4 @@
+Paper: 9502067
+Title: Replica Theory and Large D Josephson Junction Hypercubic Models
+Authors: Enzo Marinari and Giorgio Parisi and Felix Ritort
+Abstract: We study the statistical mechanics of a $D$-dimensional array of Josephson junctions in presence of a magnetic field on a lattice of side $2$. In the high temperature region the thermodynamical properties can be computed in the limit $D \to \infty$. A conjectural form of the thermodynamic properties in the low temperature phase is obtained by assuming that they are the same of an appropriate spin glass system, based on quenched disordered couplings. Numerical simulations show that this conjecture is very accurate in one regime of the magnetic field, while it is probably slightly inaccurate in a second regime.

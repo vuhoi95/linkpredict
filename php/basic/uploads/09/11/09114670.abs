@@ -1,0 +1,4 @@
+Paper: 09114670
+Title: Multipartite Entanglement Measures and Quantum Criticality from Matrix  and Tensor Product States
+Authors: Ching-Yu Huang and Feng-Li Lin
+Abstract: We compute the multipartite entanglement measures such as the global entanglement of various one- and two-dimensional quantum systems to probe the quantum criticality based on the matrix and tensor product states (MPSs/TPSs). We use infinite time-evolving block decimation (iTEBD) method to find the ground states numerically in the form of MPSs/TPSs, and then evaluate their entanglement measures by the method of tensor renormalization group (TRG). We find these entanglement measures can characterize the quantum phase transitions by their derivative discontinuity right at the critical points in all models considered here. We also comment on the scaling behaviors of the entanglement measures by the ideas of quantum state renormalization group transformations.

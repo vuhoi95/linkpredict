@@ -1,0 +1,4 @@
+Paper: 12094786
+Title: Spectral dimension flow on continuum random multigraph
+Authors: Georgios Giasemidis and John F. Wheater and Stefan Zohren
+Abstract: We review a recently introduced effective graph approximation of causal dynamical triangulations (CDT), the multigraph ensemble. We argue that it is well suited for analytical computations and that it captures the physical degrees of freedom which are important for the reduction of the spectral dimension as observed in numerical simulations of CDT. In addition multigraph models allow us to study the relationship between the spectral dimension and the Hausdorff dimension, thus establishing a link to other approaches to quantum gravity

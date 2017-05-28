@@ -1,0 +1,4 @@
+Paper: 12051122
+Title: An Algebraic Geometry Method for Calculating DOS for 2D tight binding  models
+Authors: Koushik Ray and Siddhartha Sen
+Abstract: An algebraic geometry method is used to calculate the moments of the electron density of states as a function of the energy for lattices in the tight binding approximation. Interpreting the moments as the Mellin transform of the density allows writing down a formula for the density as an inverse Mellin transform. The method is illustrated by working out the density function for the two-dimensional square and honeycomb lattices.

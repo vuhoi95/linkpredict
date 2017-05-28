@@ -1,0 +1,4 @@
+Paper: 9801220
+Title: Simplifying Algebra in Feynman Graphs, Part II: Spinor Helicity from the  Spacecone
+Authors: Gordon Chalmers and Warren Siegel
+Abstract: Manifestly Lorentz covariant Feynman rules are given in terms of a "scalar" field for each helicity, dramatically simplifying the calculation of amplitudes with massless particles. The spinor helicity formalism is properly identified as a null complex spacelike (not lightlike) gauge, where two massless external momenta define the reference frame. Usually this gauge is applied only to external line factors; we extend this method to vertices and propagators by modifying the action itself using lightcone methods.

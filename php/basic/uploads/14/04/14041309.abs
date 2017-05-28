@@ -1,0 +1,4 @@
+Paper: 14041309
+Title: Charged Rényi Entropies in CFTs with Einstein-Gauss-Bonnet Holographic  Duals
+Authors: Georgios Pastras and Dimitrios Manolopoulos
+Abstract: We calculate the R\'enyi entropy $S_q(\mu,\lambda)$, for a spherical entangling surface in CFT's with Einstein-Gauss-Bonnet-Maxwell holographic duals. R\'enyi entropies must obey some interesting inequalities by definition. However, for Gauss-Bonnet couplings $\lambda$, larger than a specific value, but still allowed by causality, we observe a violation of the inequality $\frac{\partial}{{\partial q}}\left({\frac{{q - 1}}{q}S_q(\mu,\lambda)} \right) \ge 0$, which is related to the existence of negative entropy black holes, providing interesting restrictions in the bulk theory. Moreover, we find an interesting distinction of the behaviour of the analytic continuation of $S_q(\mu,\lambda)$ for imaginary chemical potential, between negative and non-negative $\lambda$.

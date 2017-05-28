@@ -1,0 +1,4 @@
+Paper: 09074195
+Title: A Wigner Surmise for Hermitian and Non-Hermitian Chiral Random Matrices
+Authors: G. Akemann and E. Bittner and M. J. Phillips and L. Shifrin
+Abstract: We use the idea of a Wigner surmise to compute approximate distributions of the first eigenvalue in chiral Random Matrix Theory, for both real and complex eigenvalues. Testing against known results for zero and maximal non-Hermiticity in the microscopic large-N limit we find an excellent agreement, valid for a small number of exact zero-eigenvalues. New compact expressions are derived for real eigenvalues in the orthogonal and symplectic classes, and at intermediate non-Hermiticity for the unitary and symplectic classes. Such individual Dirac eigenvalue distributions are a useful tool in Lattice Gauge Theory and we illustrate this by showing that our new results can describe data from two-colour QCD simulations with chemical potential in the symplectic class.

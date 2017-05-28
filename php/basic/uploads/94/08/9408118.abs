@@ -1,0 +1,4 @@
+Paper: 9408118
+Title: A Random Surface Theory with Non-Trivial $γ_{string}$
+Authors: J. Ambjorn and Z. Burda and J. Jurkiewicz and B. Petersson
+Abstract: We measure by Monte Carlo simulations $\g_{string}$ for a model of random surfaces embedded in three dimensional Euclidean space-time. The action of the string is the usual Polyakov action plus an extrinsic curvature term. The system undergoes a phase transition at a finite value $\l_c$ of the extrinsic curvature coupling and at the transition point the numerically measured value of $\g_{string}(\l_c) \approx 0.27\pm 0.06$. This is consistent with $\g_{string}(\l_c)=1/4$, i.e. equal to the first of the non-trivial values of $\g_{string}$ between 0 and $1/2$.

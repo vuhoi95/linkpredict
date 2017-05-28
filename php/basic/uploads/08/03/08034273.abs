@@ -1,0 +1,4 @@
+Paper: 08034273
+Title: Black hole thermodynamics from simulations of lattice Yang-Mills theory
+Authors: Simon Catterall and Toby Wiseman
+Abstract: We report on lattice simulations of 16 supercharge SU(N) Yang-Mills quantum mechanics in the 't Hooft limit. Maldacena duality conjectures that in this limit the theory is dual to IIA string theory, and in particular that the behavior of the thermal theory at low temperature is equivalent to that of certain black holes in IIA supergravity. Our simulations probe the low temperature regime for N <= 5 and the intermediate and high temperature regimes for N <= 12. We observe 't Hooft scaling and at low temperatures our results are consistent with the dual black hole prediction. The intermediate temperature range is dual to the Horowitz-Polchinski correspondence region, and our results are consistent with smooth behavior there. We include the Pfaffian phase arising from the fermions in our calculations where appropriate.

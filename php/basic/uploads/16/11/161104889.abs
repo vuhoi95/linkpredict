@@ -1,0 +1,4 @@
+Paper: 161104889
+Title: Pfaffians and nonintersecting paths in graphs with cycles: Grassmann  algebra methods
+Authors: Sylvain Carrozza and Adrian Tanasa
+Abstract: After recalling the definition of Grassmann algebra and elements of Grassmann--Berezin calculus, we use the expression of Pfaffians as Grassmann integrals to generalize a series of formulas relating generating functions of paths in digraphs to Pfaffians. We start with the celebrated Lindstr\"om-Gessel-Viennot formula, which we derive in the general case of a graph with cycles. We then make further use of Grassmann algebraic tools to prove a generalization of the results of (Stembridge 1990). Our results, which are applicable to graphs with cycles, are formulated in terms of systems of nonintersecting paths and nonintersecting cycles in digraphs.

@@ -1,0 +1,4 @@
+Paper: 10111257
+Title: N-body Simulations for f(R) Gravity using a Self-adaptive Particle-Mesh  Code
+Authors: Gong-Bo Zhao and Baojiu Li and Kazuya Koyama
+Abstract: We perform high resolution N-body simulations for f(R) gravity based on a self-adaptive particle- mesh code MLAPM. The Chameleon mechanism that recovers General Relativity on small scales is fully taken into account by self-consistently solving the non-linear equation for the scalar field. We independently confirm the previous simulation results, including the matter power spectrum, halo mass function and density profiles, obtained by Oyaizu et al. (Phys.Rev.D 78, 123524, 2008) and Schmidt et al. (Phys.Rev.D 79, 083518, 2009), and extend the resolution up to k~20 h/Mpc for the measurement of the matter power spectrum. Based on our simulation results, we discuss how the Chameleon mechanism affects the clustering of dark matter and halos on full non-linear scales.

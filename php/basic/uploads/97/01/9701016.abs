@@ -1,0 +1,4 @@
+Paper: 9701016
+Title: Quantum lattice-gas models for the many-body Schrodinger equation
+Authors: Bruce M. Boghosian and Washington Taylor
+Abstract: A general class of discrete unitary models are described whose behavior in the continuum limit corresponds to a many-body Schrodinger equation. On a quantum computer, these models could be used to simulate quantum many-body systems with an exponential speedup over analogous simulations on classical computers. On a classical computer, these models give an explicitly unitary and local prescription for discretizing the Schrodinger equation. It is shown that models of this type can be constructed for an arbitrary number of particles moving in an arbitrary number of dimensions with an arbitrary interparticle interaction.

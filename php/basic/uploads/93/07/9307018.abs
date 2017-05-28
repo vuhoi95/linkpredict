@@ -1,0 +1,4 @@
+Paper: 9307018
+Title: "The Ising model on spherical lattices: dimer versus Monte Carlo  approach"
+Authors: O. Diego and J. Gonzalez and J. Salas
+Abstract: We study, using dimer and Monte Carlo approaches, the critical properties and finite size effects of the Ising model on honeycomb lattices folded on the tetrahedron. We show that the main critical exponents are not affected by the presence of conical singularities. The finite size scaling of the position of the maxima of the specific heat does not match, however, with the scaling of the correlation length, and the thermodynamic limit is attained faster on the spherical surface than in corresponding lattices on the torus.

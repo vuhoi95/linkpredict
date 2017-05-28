@@ -1,0 +1,4 @@
+Paper: 09121652
+Title: Two Langevin equations in the Doi-Peliti formalism
+Authors: Kazunori Itakura and Jun Ohkubo and Shin-ichi Sasa
+Abstract: A system-size expansion method is incorporated into the Doi-Peliti formalism for stochastic chemical kinetics. The basic idea of the incorporation is to introduce a new decomposition of unity associated with a so-called Cole-Hopf transformation. This approach elucidates a relationship between two different Langevin equations; one is associated with a coherent-state path-integral expression and the other describes density fluctuations. A simple reaction scheme $X \rightleftarrows X+X$ is investigated as an illustrative example.

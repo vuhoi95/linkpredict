@@ -1,0 +1,4 @@
+Paper: 9709154
+Title: Lattice Chiral Fermions Through Gauge Fixing
+Authors: Wolfgang Bock and Maarten Golterman and Yigal Shamir
+Abstract: We study a concrete lattice regularization of a U(1) chiral gauge theory. We use Wilson fermions, and include a Lorentz gauge-fixing term and a gauge-boson mass counterterm. For a reduced version of the model, in which the gauge fields are constrained to the trivial orbit, we show that there are no species doublers, and that the fermion spectrum contains only the desired states in the continuum limit, namely charged left-handed (LH) fermions and neutral right-handed (RH) fermions.

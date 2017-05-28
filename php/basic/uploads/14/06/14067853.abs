@@ -1,0 +1,4 @@
+Paper: 14067853
+Title: An Index Formula for Supersymmetric Quantum Mechanics
+Authors: Clay Cordova and Shu-Heng Shao
+Abstract: We derive a localization formula for the refined index of gauged quantum mechanics with four supercharges. Our answer takes the form of a residue integral on the complexified Cartan subalgebra of the gauge group. The formula captures the dependence of the index on Fayet-Iliopoulos parameters and the presence of a generic superpotential. The residue formula provides an efficient method for computing cohomology of quiver moduli spaces. Our result has broad applications to the counting of BPS states in four-dimensional N=2 systems. In that context, the wall-crossing phenomenon appears as discontinuities in the value of the residue integral as the integration contour is varied. We present several examples illustrating the various aspects of the index formula.

@@ -1,0 +1,4 @@
+Paper: 9905001
+Title: Heat Kernel Asymptotics of Operators with Non-Laplace Principal Part
+Authors: Ivan G. Avramidi and Thomas Branson
+Abstract: We consider second-order elliptic partial differential operators acting on sections of vector bundles over a compact Riemannian manifold without boundary, working without the assumption of Laplace-like principal part $-\N^\mu\N_\mu$. Our objective is to obtain information on the asymptotic expansions of the corresponding resolvent and the heat kernel. The heat kernel and the Green's function are constructed explicitly in the leading order. The first two coefficients of the heat kernel asymptotic expansion are computed explicitly. A new semi-classical ansatz as well as the complete recursion system for the heat kernel of non-Laplace type operators is constructed. Some particular cases are studied in more detail.

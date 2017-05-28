@@ -1,0 +1,4 @@
+Paper: 11070501
+Title: PT symmetry in relativistic quantum mechanics
+Authors: Carl M. Bender and Philip D. Mannheim
+Abstract: In nonrelativistic quantum mechanics and in relativistic quantum field theory, time t is a parameter and thus the time-reversal operator T does not actually reverse the sign of t. However, in relativistic quantum mechanics the time coordinate t and the space coordinates x are treated on an equal footing and all are operators. In this paper it is shown how to extend PT symmetry from nonrelativistic to relativistic quantum mechanics by implementing time reversal as an operation that changes the sign of the time coordinate operator t. Some illustrative relativistic quantum-mechanical models are constructed whose associated Hamiltonians are non-Hermitian but PT symmetric, and it is shown that for each such Hamiltonian the energy eigenvalues are all real.

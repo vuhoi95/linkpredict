@@ -1,0 +1,4 @@
+Paper: 12105238
+Title: On memory in exponentially expanding spaces
+Authors: Daniel A. Roberts and Douglas Stanford
+Abstract: We examine the degree to which fluctuating dynamics on exponentially expanding spaces remember initial conditions. In de Sitter space, the global late-time configuration of a free scalar field always contains information about early fluctuations. By contrast, fluctuations near the boundary of Euclidean Anti-de Sitter may or may not remember conditions in the center, with a transition at \Delta=d/2. We connect these results to literature about statistical mechanics on trees and make contact with the observation by Anninos and Denef that the configuration space of a massless dS field exhibits ultrametricity. We extend their analysis to massive fields, finding that preference for isosceles triangles persists as long as \Delta_- < d/4.

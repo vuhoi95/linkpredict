@@ -1,0 +1,4 @@
+Paper: 160408502
+Title: The colored HOMFLYPT function is $q$-holonomic
+Authors: Stavros Garoufalidis and Aaron D. Lauda and Thang T. Q. Lê
+Abstract: We prove that the HOMFLYPT polynomial of a link, colored by partitions with a fixed number of rows is a $q$-holonomic function. Specializing to the case of knots colored by a partition with a single row, it proves the existence of an $(a,q)$ super-polynomial of knots in 3-space, as was conjectured by string theorists. Our proof uses skew Howe duality that reduces the evaluation of web diagrams and their ladders to a Poincare-Birkhoff-Witt computation of an auxiliary quantum group of rank the number of strings of the ladder diagram.

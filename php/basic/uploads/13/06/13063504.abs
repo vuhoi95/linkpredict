@@ -1,0 +1,4 @@
+Paper: 13063504
+Title: Massive planar and non-planar double box integrals for light Nf  contributions to gg->tt
+Authors: Andreas von Manteuffel and Cedric Studerus
+Abstract: We present the master integrals needed for the light fermionic two-loop corrections to top quark pair production in the gluon fusion channel. Via the method of differential equations we compute the results in terms of multiple polylogarithms in a Laurent series about d=4, where d is the space-time dimension. The most involved topology is a non-planar double box with one internal mass. We employ the coproduct-augmented symbol calculus and show that significant simplifications are possible for selected results using an optimised set of multiple polylogarithms.

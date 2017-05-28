@@ -1,0 +1,4 @@
+Paper: 9709089
+Title: Universal Amplitude Ratios in the 3D Ising Model
+Authors: M. Caselle and M. Hasenbusch
+Abstract: We present a high precision Monte Carlo study of various universal amplitude ratios of the three dimensional Ising spin model. Using state of the art simulation techniques we studied the model close to criticality in both phases. Great care was taken to control systematic errors due to finite size effects and correction to scaling terms. We obtain $C_+/C_-=4.75(3)$, $f_{+,2nd}/f_{-,2nd}=1.95(2)$ and $u^*=14.3(1)$. Our results are compatible with those obtained by field theoretic methods applied to the $\phi^4$ theory and high and low temperature series expansions of the Ising model.

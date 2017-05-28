@@ -1,0 +1,4 @@
+Paper: 13113167
+Title: The Nahm Pole Boundary Condition
+Authors: Rafe Mazzeo and Edward Witten
+Abstract: The Nahm pole boundary condition for certain gauge theory equations in four and five dimensions is defined by requiring that a solution should have a specified singularity along the boundary. In the present paper, we show that this boundary condition is elliptic and has regularity properties analogous to more standard elliptic boundary conditions. We also establish a uniqueness theorem for the solution of the relevant equations on a half-space with Nahm pole boundary conditions. These results are expected to have a generalization involving knots, with applications to the Jones polynomial and Khovanov homology.

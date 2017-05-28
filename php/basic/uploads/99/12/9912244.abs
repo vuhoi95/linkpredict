@@ -1,0 +1,4 @@
+Paper: 9912244
+Title: Exact dynamical structure factor of the degenerate Haldane-Shastry model
+Authors: Takashi Yamamoto and Yasuhiro Saiga and Mitsuhiro Arikawa and Yoshio Kuramoto
+Abstract: The dynamical structure factor $S(q,\omega)$ of the K-component (K = 2,3,4) spin chain with the 1/r^2 exchange is derived exactly at zero temperature for arbitrary size of the system. The result is interpreted in terms of a free quasi-particle picture which is generalization of the spinon picture in the SU(2) case; the excited states consist of K quasi-particles each of which is characterized by a set of K-1 quantum numbers. Divergent singularities of $S(q,\omega)$ at the spectral edges are derived analytically. The analytic result is checked numerically for finite systems.

@@ -1,0 +1,4 @@
+Paper: 09024797
+Title: Quantum algorithm for the Laughlin wave function
+Authors: J. I. Latorre and V. Picó and A. Riera
+Abstract: We construct a quantum algorithm that creates the Laughlin state for an arbitrary number of particles $n$ in the case of filling fraction one. This quantum circuit is efficient since it only uses $n(n-1)/2$ local qudit gates and its depth scales as $2n-3$. We further prove the optimality of the circuit using permutation theory arguments and we compute exactly how entanglement develops along the action of each gate. Finally, we discuss its experimental feasibility decomposing the qudits and the gates in terms of qubits and two qubit-gates as well as the generalization to arbitrary filling fraction.

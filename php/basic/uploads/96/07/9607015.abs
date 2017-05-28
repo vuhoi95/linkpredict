@@ -1,0 +1,4 @@
+Paper: 9607015
+Title: Master Spaces for stable pairs
+Authors: Christian Okonek and Alexander Schmitt and Andrei Teleman
+Abstract: We construct master spaces for oriented torsion free sheaves coupled with morphisms into a fixed reference sheaf. These spaces are projective varieties endowed with a natural $\C^*$-action. The fixed point set of this action contains the moduli space of semistable oriented torsion free sheaves and the quot scheme associated with the given data. In the case of curves with trivial reference sheaf, our master spaces compactify the moduli spaces constructed by Bertram, Daskalopoulos and Wentworth. In the 2-dimensional case with trivial rank 1 reference sheaf, master spaces provide algebraic analoga of compactified moduli spaces of twisted quaternionic monopoles.

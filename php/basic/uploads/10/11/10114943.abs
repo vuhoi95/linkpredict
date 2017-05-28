@@ -1,0 +1,4 @@
+Paper: 10114943
+Title: Non-equilibrium time evolution of bosons from the functional  renormalization group
+Authors: Thomas Kloss and Peter Kopietz
+Abstract: We develop a functional renormalization group approach to obtain the time evolution of the momentum distribution function of interacting bosons out of equilibrium. Using an external out-scattering rate as flow parameter, we derive formally exact renormalization group flow equations for the non-equilibrium self-energies in the Keldysh basis. A simple perturbative truncation of these flow equations leads to an approximate solution of the quantum Boltzmann equation which does not suffer from secular terms and gives accurate results even for long times. We demonstrate this explicitly within a simple exactly solvable toy model describing a quartic oscillator with off-diagonal pairing terms.

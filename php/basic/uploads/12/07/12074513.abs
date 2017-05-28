@@ -1,0 +1,4 @@
+Paper: 12074513
+Title: From Baxter Q-Operators to Local Charges
+Authors: Rouven Frassek and Carlo Meneghelli
+Abstract: We discuss how the shift operator and the Hamiltonian enter the hierarchy of Baxter Q-operators in the example of gl(n) homogeneous spin-chains. Building on the construction that was recently carried out by the authors and their collaborators, we find that a reduced set of Q-operators can be used to obtain local charges. The mechanism relies on projection properties of the corresponding R-operators on a highest/lowest weight state of the quantum space. It is intimately related to the ordering of the oscillators in the auxiliary space. Furthermore, we introduce a diagrammatic language that makes these properties manifest and the results transparent. Our approach circumvents the paradigm of constructing the transfer matrix with equal representations in quantum and auxiliary space and underlines the strength of the Q-operator construction.

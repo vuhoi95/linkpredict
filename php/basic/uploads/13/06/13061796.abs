@@ -1,0 +1,4 @@
+Paper: 13061796
+Title: Self-consistent tight-binding description of Dirac points moving and  merging in two dimensional optical lattices
+Authors: Julen Ibañez-Azpiroz and Asier Eiguren and Aitor Bergara and Giulio Pettini and Michele Modugno
+Abstract: We present an accurate ab initio tight-binding model, capable of describing the dynamics of Dirac points in tunable honeycomb optical lattices following a recent experimental realization [L. Tarruell et al., Nature 483, 302 (2012)]. Our scheme is based on first-principle maximally localized Wannier functions for composite bands. The tunneling coefficients are calculated for different lattice configurations, and the spectrum properties are well reproduced with high accuracy. In particular, we show which tight binding description is needed in order to accurately reproduce the position of Dirac points and the dispersion law close to their merging, for different laser intensities.

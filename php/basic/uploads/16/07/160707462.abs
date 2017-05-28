@@ -1,0 +1,4 @@
+Paper: 160707462
+Title: Entanglement Entropy of Periodic Sublattices
+Authors: Temple He and Javier M. Magan and Stefan Vandoren
+Abstract: We study the entanglement entropy (EE) of Gaussian systems on a lattice with periodic boundary conditions, both in the vacuum and at nonzero temperatures. By restricting the reduced subsystem to periodic sublattices, we can compute the entanglement spectrum and EE exactly. We illustrate this for a free (1+1)-dimensional massive scalar field at a fixed temperature. Consistent with previous literature, we demonstrate that for a sufficiently large periodic sublattice the EE grows extensively, even in the vacuum. Furthermore, the analytic expression for the EE allows us probe its behavior both in the massless limit and in the continuum limit at any temperature.

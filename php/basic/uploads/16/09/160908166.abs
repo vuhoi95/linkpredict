@@ -1,0 +1,4 @@
+Paper: 160908166
+Title: A Mode-Sum Prescription for Vacuum Polarization in Odd Dimensions
+Authors: Peter Taylor and Cormac Breen
+Abstract: We present a new mode-sum regularization prescription for computing the vacuum polarization of a scalar field in static spherically-symmetric black hole spacetimes in odd dimensions. This is the first general and systematic approach to regularized vacuum polarization in higher dimensions. Remarkably, the regularization parameters can be computed in closed form in arbitrary dimensions and for arbitrary metric function $f(r)$. In fact, we show that in spite of the increasing severity and number of the divergences to be regularized, the method presented is mostly agnostic to the number of dimensions. Finally, as an explicit example of our method, we show plots for vacuum polarization in the Schwarzschild-Tangherlini spacetime for odd $d=5,...,11$.

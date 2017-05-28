@@ -1,0 +1,4 @@
+Paper: 150302067
+Title: Liouville theory with a central charge less than one
+Authors: Sylvain Ribault and Raoul Santachiara
+Abstract: We determine the spectrum and correlation functions of Liouville theory with a central charge less than (or equal) one. This completes the definition of Liouville theory for all complex values of the central charge. The spectrum is always spacelike, and there is no consistent timelike Liouville theory. We also study the non-analytic conformal field theories that exist at rational values of the central charge. Our claims are supported by numerical checks of crossing symmetry. We provide Python code for computing Virasoro conformal blocks, and correlation functions in Liouville theory and (generalized) minimal models.

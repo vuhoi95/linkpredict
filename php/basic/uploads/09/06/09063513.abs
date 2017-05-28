@@ -1,0 +1,4 @@
+Paper: 09063513
+Title: Coulomb interaction at the metal-insulator critical point in graphene
+Authors: Vladimir Juricic and Igor F. Herbut and Gordon W. Semenoff
+Abstract: We compute the renormalization group flow of the long-ranged electron-electron interaction at the Gross-Neveu quantum critical point between the semimetal and the excitonic insulator in graphene, perturbatively in the small parameter $\epsilon=d-1$, with $d$ as the spatial dimension. The $O(\epsilon)$ correction to the usual beta-function makes the long-range interaction only more irrelevant at the critical than at the Gaussian fixed point. A weak long-range tail of the Coulomb interaction is found to be marginally irrelevant also in arbitrary dimension when the number of Dirac fermions is large. Its ultimate irrelevancy notwithstanding, it is shown that the metal-insulator transition may still be induced by increasing only the long-range tail of the Coulomb interaction.

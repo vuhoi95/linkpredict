@@ -1,0 +1,4 @@
+Paper: 14022476
+Title: On the Phase Structure of Commuting Matrix Models
+Authors: Veselin G. Filev and Denjoe O'Connor
+Abstract: We perform a systematic study of commutative $SO(p)$ invariant matrix models with quadratic and quartic potentials in the large $N$ limit. We find that the physics of these systems depends crucially on the number of matrices with a critical r\^ole played by $p=4$. For $p\leq4$ the system undergoes a phase transition accompanied by a topology change transition. For $p> 4$ the system is always in the topologically non-trivial phase and the eigenvalue distribution is a Dirac delta function spherical shell. We verify our analytic work with Monte Carlo simulations.

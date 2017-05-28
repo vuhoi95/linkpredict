@@ -1,0 +1,4 @@
+Paper: 13074788
+Title: Renormalized volume and the evolution of APEs
+Authors: Eric Bahuaud and Rafe Mazzeo and Eric Woolgar
+Abstract: We study the evolution of the renormalized volume functional for asymptotically Poincare-Einstein metrics (M,g) which are evolving by normalized Ricci flow. In particular, we prove that the time derivative of the renormalized volume along the flow is the negative integral of scal(g(t)) + n(n-1) over the manifold. This implies that if scal(g(0))+n(n-1) is non-negative at t=0, then the renormalized volume decreases monotonically. We also discuss how, when n=4, our results describe the Hawking-Page phase transition. Differences in renormalized volumes give rigorous meaning to the Hawking-Page difference of actions and describe the free energy liberated in the transition.

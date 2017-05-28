@@ -1,0 +1,4 @@
+Paper: 10024214
+Title: Constructing Infrared Finite Propagators in Inflating Space-time
+Authors: Jason Kumar and Louis Leblond and Arvind Rajaraman
+Abstract: The usual (Bunch-Davies) Feynman propagator of a massless field is not well defined in an expanding universe due to the presence of infrared divergences. We propose a new propagator which yields infrared finite answers to any correlation function. The key point is that in a de Sitter spacetime there is an ambiguity in the zero-mode of the propagator. This ambiguity can be used to cancel the apparent divergences which arise in some loop calculations in eternally (or semi-eternally) inflating spacetime. We refer to this process as zero-mode modification. The residual ambiguity is fixed by observational measurement. We also discuss the application of this method to calculations involving the graviton propagator.

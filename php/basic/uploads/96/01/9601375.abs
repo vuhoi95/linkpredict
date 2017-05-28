@@ -1,0 +1,4 @@
+Paper: 9601375
+Title: Wilson Renormalization Group formulation of Real Time thermal field  theories
+Authors: Marco D'Attanasio and Massimo Pietroni
+Abstract: We apply Renormalization Group techniques to the Real Time formulation of thermal field theory. Due to the separation between the $T=0$ and the $T\neq 0$ parts of the propagator in this formalism, one can derive exact evolution equations for the Green functions describing the effect of integrating out thermal fluctuations of increasing wavelengths, the initial conditions being the renormalized Green functions of the $T=0$ theory. As a first application, we study the phase transition for the real scalar theory, computing the order of the transition, the critical temperature, and critical exponents, in different approximations to the evolution equations for the scalar potential.

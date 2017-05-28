@@ -1,0 +1,4 @@
+Paper: 12075066
+Title: Exact ABJM Partition Function from TBA
+Authors: Pavel Putrov and Masahito Yamazaki
+Abstract: We report on the exact computation of the S^3 partition function of U(N)_k\times U(N)_{-k} ABJM theory for k=1, N=1,...,19. The result is a polynomial in \pi^{-1} with rational coefficients. As an application of our results we numerically determine the coefficient of the membrane 1-instanton correction to the partition function.

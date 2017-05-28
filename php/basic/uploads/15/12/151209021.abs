@@ -1,0 +1,4 @@
+Paper: 151209021
+Title: Complex Saddles in Two-dimensional Gauge Theory
+Authors: P. V. Buividovich and Gerald V. Dunne and S. N. Valgushev
+Abstract: We study numerically the saddle point structure of two-dimensional (2D) lattice gauge theory, represented by the Gross-Witten-Wadia unitary matrix model. The saddle points are in general complex-valued, even though the original integration variables and action are real. We confirm the trans-series/instanton gas structure in the weak-coupling phase, and identify a new complex-saddle interpretation of non-perturbative effects in the strong-coupling phase. In both phases, eigenvalue tunneling refers to eigenvalues moving off the real interval, into the complex plane, and the weak-to-strong coupling phase transition is driven by saddle condensation.

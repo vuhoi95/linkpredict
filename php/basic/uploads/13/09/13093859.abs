@@ -1,0 +1,4 @@
+Paper: 13093859
+Title: Flux tube widening in compact U (1) lattice gauge theory computed at T <  Tc with the multilevel method and GPUs
+Authors: A. Amado and N. Cardoso and P. Bicudo
+Abstract: We utilize Polyakov loop correlations to study d=3+1 compact U (1) flux tubes and the static electron-positron potential in lattice gauge theory. With the plaquette field operator, in U(1) lattice gauge theory, we probe directly the components of the electric and magnetic fields. In order to improve the signal-to-noise ratio in the confinement phase, we apply the L\"uscher-Weiss multilevel algorithm. Our code is written in CUDA, and we run it in NVIDIA FERMI generation GPUs, in order to achieve the necessary efficiency for our computations. We measure in detail the quantum widening of the flux tube, as a function of the intercharge distance and at different finite temperatures T < Tc . Our results are compatible with the Effective String Theory.

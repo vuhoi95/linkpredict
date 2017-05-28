@@ -1,0 +1,4 @@
+Paper: 10070601
+Title: Analysis of correlation functions in Toda theory and AGT-W relation for  SU(3) quiver
+Authors: Shoichi Kanno and Yutaka Matsuo and Shotaro Shiba
+Abstract: We give some evidences of the AGT-W relation between SU(3) quiver gauge theories and A_2 Toda theory. In particular, we derive the explicit form of 5-point correlation functions in the lower orders and confirm the agreement with Nekrasov's partition function for SU(3)xSU(3) quiver gauge theory. The algorithm to derive the correlation functions can be applied to general n-point function in A_2 Toda theory which will be useful to establish the relation for more generic quivers. Partial analysis is also given for SU(3)xSU(2) case and we comment on some technical issues which need clarification before establishing the relation.

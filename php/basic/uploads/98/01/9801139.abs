@@ -1,0 +1,4 @@
+Paper: 9801139
+Title: Compact parity conserving percolation in one-dimension
+Authors: Nora Menyhard and Geza Odor
+Abstract: Compact directed percolation is known to appear at the endpoint of the directed percolation critical line of the Domany-Kinzel cellular automaton in 1+1 dimension. Equivalently, such transition occurs at zero temperature in a magnetic field H, upon changing the sign of H, in the one-dimensional Glauber-Ising model with well known exponents characterising spin-cluster growth. We have investigated here numerically these exponents in the non-equilibrium generalization (NEKIM) of the Glauber model in the vicinity of the parity-conserving phase transition point of the kinks. Critical fluctuations on the level of kinks are found to affect drastically the characteristic exponents of spreading of spins while the hyperscaling relation holds in its form appropriate for compact clusters.

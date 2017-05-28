@@ -1,0 +1,4 @@
+Paper: 9912193
+Title: Exact electronic Green functions in a Luttinger liquid with long-range  interactions
+Authors: Aníbal Iucci and Carlos Naón
+Abstract: We compute the 2-point (equal-time) electronic Green function in a Tomonaga-Luttinger system with long-range electron-electron interactions. We obtain an analytical expression for a "super long-range" potential of the form $V(x)=\frac{e^2d^{-\epsilon}}{|x|^{1-\epsilon}}$. As a consistency check of our computational technique we also consider the particular case of a Coulomb potential. Our result confirms the $\exp-C(logx)^{3/2}$ long-distance behavior first obtained by Schulz.

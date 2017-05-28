@@ -1,0 +1,4 @@
+Paper: 160603103
+Title: Scattering with partial information
+Authors: Daniel Carney and Laurent Chaurette and Gordon Semenoff
+Abstract: We study relativistic scattering when one only has access to a subset of the particles, using the language of quantum measurement theory. We give an exact, non-perturbative formula for the von Neumann entanglement entropy of an apparatus particle scattered off an arbitrary set of system particles, in either the elastic or inelastic regime, and show how to evaluate it perturbatively. We give general formulas for the late-time expectation values of apparatus observables. Some simple example applications are included: in particular, a protocol to verify preparation of coherent superpositions of spatially localized system states using position-space information in the outgoing apparatus state, at lowest order in perturbation theory in a weak apparatus-system coupling.

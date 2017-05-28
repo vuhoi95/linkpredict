@@ -1,0 +1,4 @@
+Paper: 13017646
+Title: Conformally invariant formalism for the electromagnetic field with  currents in Robertson-Walker spaces
+Authors: E. Huguet and J. Renaud
+Abstract: We show that the Laplace-Beltrami equation $\square_6 a =j$ in $(\setR^6,\eta)$, $\eta := \mathrm{diag}(+----+)$, leads under very moderate assumptions to both the Maxwell equations and the conformal Eastwood-Singer gauge condition on conformally flat spaces including the spaces with a Robertson-Walker metric. This result is obtained through a geometric formalism which gives, as byproduct, simplified calculations. In particular, we build an atlas for all the conformally flat spaces considered which allows us to fully exploit the Weyl rescalling to Minkowski space.

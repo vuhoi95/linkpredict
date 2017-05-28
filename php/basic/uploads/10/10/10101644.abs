@@ -1,0 +1,4 @@
+Paper: 10101644
+Title: On possible Chern Classes of stable Bundles on Calabi-Yau threefolds
+Authors: Bjorn Andreas and Gottfried Curio
+Abstract: Supersymmetric heterotic string models, built from a Calabi-Yau threefold $X$ endowed with a stable vector bundle $V$, usually lead to an anomaly mismatch between $c_2(V)$ and $c_2(X)$; this leads to the question whether the difference can be realized by a further bundle in the hidden sector. In math.AG/0604597 a conjecture is stated which gives sufficient conditions on cohomology classes on $X$ to be realized as the Chern classes of a stable reflexive sheaf $V$; a weak version of this conjecture predicts the existence of such a $V$ if $c_2(V)$ is of a certain form. In this note we prove that on elliptically fibered $X$ infinitely many cohomology classes $c\in H^4(X, {\bf Z})$ exist which are of this form and for each of them a stable SU(n) vector bundle with $c=c_2(V)$ exists.

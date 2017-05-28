@@ -1,0 +1,4 @@
+Paper: 9903017
+Title: On the complete integrability of the discrete Nahm equations
+Authors: Michael K. Murray and Michael A. Singer
+Abstract: The discrete Nahm equations, a system of matrix valued difference equations, arose in the work of Braam and Austin on half-integral mass hyperbolic monopoles. We show that the discrete Nahm equations are completely integrable in a natural sense: to any solution we can associate a spectral curve and a holomorphic line-bundle over the spectral curve, such that the discrete-time DN evolution corresponds to walking in the Jacobian of the spectral curve in a straight line through the line-bundle with steps of a fixed size. Some of the implications for hyperbolic monopoles are also discussed.

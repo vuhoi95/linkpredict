@@ -1,0 +1,4 @@
+Paper: 161108077
+Title: Gauge cooling for the singular-drift problem in the complex Langevin  method --- an application to finite density QCD
+Authors: Keitaro Nagata and Hideo Matsufuru and Jun Nishimura and Shinji Shimasaki
+Abstract: We study full QCD at finite density and low temperature with light quark mass using the complex Langevin method. Since the singular drift problem turns out to be mild on a $4^3 \times 8$ lattice we use, the gauge cooling is performed only to control the unitarity norm in this exploratory study. We report on our preliminary data obtained from the complex Langevin simulation up to certain Langevin time. While the data are still noisy due to lack of statistics, the onset of the baryon number density seems to occur at larger $\mu$ than half the pion mass, which is the value for the phase quenched QCD. The validity of our simulation is tested by the recently proposed criterion based on the probability distribution of the drift term.

@@ -1,0 +1,4 @@
+Paper: 9406018
+Title: Failure of the Regge approach in two dimensional quantum gravity
+Authors: Wolfgang Bock and Jeroen C. Vink
+Abstract: Regge's method for regularizing euclidean quantum gravity is applied to two dimensional gravity. We use two different strategies to simulate the Regge path integral at a fixed value of the total area: A standard Metropolis simulation combined with a histogramming method and a direct simulation using a Hybrid Monte Carlo algorithm. Using topologies with genus zero and two and a scale invariant integration measure, we show that the Regge method does not reproduce the value of the string susceptibility of the continuum model. We show that the string susceptibility depends strongly on the choice of the measure in the path integral. We argue that the failure of the Regge approach is due to spurious contributions of reparametrization degrees of freedom to the path integral.

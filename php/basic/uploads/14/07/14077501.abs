@@ -1,0 +1,4 @@
+Paper: 14077501
+Title: Interaction corrections to the minimal conductivity of graphene via  dimensional regularization
+Authors: S. Teber and A. V. Kotikov
+Abstract: We compute the two-loop interaction correction to the minimal conductivity of disorder-free intrinsic graphene with the help of dimensional regularization. The calculation is done in two different ways: via density-density and via current-current correlation functions. Upon properly renormalizing the perturbation theory, in both cases, we find that: $\sigma = \sigma_0\,( 1 + \al\,(19-6\pi)/12) \approx \sigma_0 \,(1 + 0.01\, \al)$, where $\al = e^2 / (4 \pi \hbar v)$ is the renormalized fine structure constant and $\sigma_0 = e^2 / (4 \hbar)$. Our results are consistent with experimental uncertainties and resolve a theoretical dispute.

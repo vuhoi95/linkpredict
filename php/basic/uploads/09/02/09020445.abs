@@ -1,0 +1,4 @@
+Paper: 09020445
+Title: Numerical Evaluation of Gauge Invariants for $a$-gauge Solutions in Open  String Field Theory
+Authors: Isao Kishimoto and Tomohiko Takahashi
+Abstract: We evaluate gauge invariants (vacuum energy and gauge invariant overlap) for numerical classical solutions in cubic open string field theory under Asano-Kato's $a$-gauge fixing condition. We propose an efficient iterative procedure for solving the equations of motion so that the BRST invariance of the solutions is numerically ensured. The resulting gauge invariants are numerically stable and almost equal to those of Schnabl's tachyon vacuum solution in the well-defined region of a gauge parameter. These results provide further evidence that the numerical and analytical solutions are gauge equivalent.

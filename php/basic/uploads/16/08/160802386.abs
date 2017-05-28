@@ -1,0 +1,4 @@
+Paper: 160802386
+Title: An Analytic Approach to Sunset Diagrams in Chiral Perturbation Theory:  Theory and Practice
+Authors: B. Ananthanarayan and Johan Bijnens and Shayan Ghosh and Aditya Hebbar
+Abstract: We demonstrate the use of several code implementations of the Mellin-Barnes method available in the public domain to derive analytic expressions for the sunset diagrams that arise in the two-loop contribution to the pion mass and decay constant in three-flavoured chiral perturbation theory. We also provide results for all possible two-mass configurations of the sunset integral, and derive a new one-dimensional integral representation for the one mass sunset integral with arbitrary external momentum. Thoroughly annotated Mathematica notebooks are provided as ancillary files, which may serve as pedagogical supplements to the methods described in this paper.

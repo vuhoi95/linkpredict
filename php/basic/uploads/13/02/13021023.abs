@@ -1,0 +1,4 @@
+Paper: 13021023
+Title: On Genera of Curves from High-loop Generalized Unitarity Cuts
+Authors: Rijun Huang and Yang Zhang
+Abstract: Generalized unitarity cut of a Feynman diagram generates an algebraic system of polynomial equations. At high-loop levels, these equations may define a complex curve or a (hyper-)surface with complicated topology. We study the curve cases, i.e., a 4-dimensional L-loop diagram with (4L-1) cuts. The topology of a complex curve is classified by its genus. Hence in this paper, we use computational algebraic geometry to calculate the genera of curves from two and three-loop unitarity cuts. The global structure of degenerate on-shell equations under some specific kinematic configurations is also sketched. The genus information can also be used to judge if a unitary cut solution could be rationally parameterized.

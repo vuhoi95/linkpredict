@@ -1,0 +1,4 @@
+Paper: 10126021
+Title: Oscillator Construction of su(n|m) Q-Operators
+Authors: Rouven Frassek and Tomasz Lukowski and Carlo Meneghelli and Matthias Staudacher
+Abstract: We generalize our recent explicit construction of the full hierarchy of Baxter Q-operators of compact spin chains with su(n) symmetry to the supersymmetric case su(n|m). The method is based on novel degenerate solutions of the graded Yang-Baxter equation, leading to an amalgam of bosonic and fermionic oscillator algebras. Our approach is fully algebraic, and leads to the exact solution of the associated compact spin chains while avoiding Bethe ansatz techniques. It furthermore elucidates the algebraic and combinatorial structures underlying the system of nested Bethe equations. Finally, our construction naturally reproduces the representation, due to Z. Tsuboi, of the hierarchy of Baxter Q-operators in terms of hypercubic Hasse diagrams.

@@ -1,0 +1,4 @@
+Paper: 13095621
+Title: Five-loop numerical evaluation of critical exponents of the $\varphi^4$  theory
+Authors: L. Ts. Adzhemyan and M. V. Kompaniets
+Abstract: We present a new approach to calculation of anomalous dimensions in the framework of $\epsilon$-expansion and renormalization group method. This approach allows one to skip the calculation of renormalization constants and express anomalous dimensions in terms of renormalized diagrams, which are presented in a form suitable for numerical calculations. This approach can be easily automated and extended to a wide range of models. The power of this approach is illustrated on 5 loop calculations of beta-function and anomalous dimensions in $\phi^4$ model.

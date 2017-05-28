@@ -1,0 +1,4 @@
+Paper: 14015773
+Title: Ghosts in Keldysh-Schwinger Formalism
+Authors: Alina Czajka and Stanislaw Mrowczynski
+Abstract: We discuss how to introduce Faddeev-Popov ghosts to the Keldysh-Schwinger formalism describing equilibrium and non-equilibrium statistical systems of quantum fields such as the quark-gluon plasma which is considered. The plasma is assumed to be homogeneous in a coordinate space but the momentum distribution of plasma constituents is arbitrary. Using the technique of generating functional, we derive the Slavnov-Taylor identities and one of them expresses the ghost Green's function, which we look for, through the gluon one. As an application, the Green's function of ghosts is used to compute the gluon polarization tensor in the hard loop approximation which appears to be automatically transverse, as required by the gauge invariance.

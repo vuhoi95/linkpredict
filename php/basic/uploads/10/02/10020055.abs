@@ -1,0 +1,4 @@
+Paper: 10020055
+Title: Quantum corrections from a path integral over reparametrizations
+Authors: Yuri Makeenko and Poul Olesen
+Abstract: We study the path integral over reparametrizations that has been proposed as an ansatz for the Wilson loops in the large-$N$ QCD and reproduces the area law in the classical limit of large loops. We show that a semiclassical expansion for a rectangular loop captures the L\"uscher term associated with $d=26$ dimensions and propose a modification of the ansatz which reproduces the L\"uscher term in other dimensions, which is observed in lattice QCD. We repeat the calculation for an outstretched ellipse advocating the emergence of an analog of the L\"uscher term and verify this result by a direct computation of the determinant of the Laplace operator and the conformal anomaly.

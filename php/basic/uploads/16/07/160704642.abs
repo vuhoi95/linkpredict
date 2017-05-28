@@ -1,0 +1,4 @@
+Paper: 160704642
+Title: Qubit Transport Model for Unitary Black Hole Evaporation without  Firewalls
+Authors: Kento Osuga and Don N. Page
+Abstract: We give an explicit toy qubit transport model for transferring information from the gravitational field of a black hole to the Hawking radiation by a continuous unitary transformation of the outgoing radiation and the black hole gravitational field. The model has no firewalls or other drama at the event horizon and fits the set of six physical constraints that Giddings has proposed for models of black hole evaporation. It does utilize nonlocal qubits for the gravitational field but assumes that the radiation interacts locally with these nonlocal qubits, so in some sense the nonlocality is confined to the gravitational sector. Although the qubit model is too crude to be quantitively correct for the detailed spectrum of Hawking radiation, it fits qualitatively with what is expected.

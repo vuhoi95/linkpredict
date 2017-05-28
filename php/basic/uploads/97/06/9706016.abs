@@ -1,0 +1,4 @@
+Paper: 9706016
+Title: Inverse versus direct cascades in turbulent advection
+Authors: M. Chertkov and I. Kolokolov and M. Vegrassola
+Abstract: A model of scalar turbulent advection in compressible flow is analytically investigated. It is shown that, depending on the dimensionality $d$ of space and the degree of compressibility of the smooth advecting velocity field, the cascade of the scalar is direct or inverse. If $d>4$, the cascade is always direct. For small enough degree of compressibility, the cascade is direct again. Otherwise it is inverse, i.e. very large scales are excited. The dynamical hint for the direction of the cascade is the sign of the Lyapunov exponent for particles separation. Positive Lyapunov exponents are associated to direct cascade and Gaussianity at small scales. Negative Lyapunov exponents lead to inverse cascade, Gaussianity at large scales and strong intermittency at small scales.

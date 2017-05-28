@@ -1,0 +1,4 @@
+Paper: 11065453
+Title: Return probability for the loop-erased random walk and mean height in  sandpile : a proof
+Authors: V. S. Poghosyan and V. B. Priezzhev and P. Ruelle
+Abstract: Single site height probabilities in the Abelian sandpile model, and the corresponding mean height $<h>$, are directly related to the probability $P_{\rm ret}$ that a loop erased random walk passes through a nearest neighbour of the starting site (return probability). The exact values of these quantities on the square lattice have been conjectured, in particular $<h> = 25/8$ and $P_{\rm ret} = 5/16$. We provide a rigourous proof of this conjecture by using a {\it local} monomer-dimer formulation of these questions.

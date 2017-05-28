@@ -1,0 +1,4 @@
+Paper: 14103503
+Title: Universal Asymptotic Eigenvalue Distribution of Large $N$ Random  Matrices --- A Direct Diagrammatic Proof to Marchenko-Pastur Law ---
+Authors: Xiaochuan Lu and Hitoshi Murayama
+Abstract: In random matrix theory, Marchenko-Pastur law states that random matrices with independent and identically distributed entries have a universal asymptotic eigenvalue distribution under large dimension limit, regardless of the choice of entry distribution. This law provides useful insight for physics research, because the large $N$ limit proved to be a very useful tool in various theoretical models. We present an alternative proof of Marchenko- Pastur law using Feynman diagrams, which is more familiar to the physics community. We also show that our direct diagrammatic approach can readily generalize to six types of restricted random matrices, which are not all covered by the original Marchenko-Pastur law.

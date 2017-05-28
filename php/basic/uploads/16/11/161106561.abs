@@ -1,0 +1,4 @@
+Paper: 161106561
+Title: Latest results from lattice N=4 supersymmetric Yang--Mills
+Authors: David Schaich and Simon Catterall and Poul H. Damgaard and Joel Giedt
+Abstract: We present some of the latest results from our numerical investigations of N=4 supersymmetric Yang--Mills theory formulated on a space-time lattice. Based on a construction that exactly preserves a single supersymmetry at non-zero lattice spacing, we recently developed an improved lattice action that is now being employed in large-scale calculations. Here we update our studies of the static potential using this new action, also applying tree-level lattice perturbation theory to improve the analysis of the potential itself. Considering relatively weak couplings, we obtain results for the Coulomb coefficient that are consistent with continuum perturbation theory.

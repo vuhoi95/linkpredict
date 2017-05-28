@@ -1,0 +1,4 @@
+Paper: 160707685
+Title: Quantisation of Kadomtsev-Petviashvili equation
+Authors: Karol K Kozlowski and Evgeny Sklyanin and Alessandro Torrielli
+Abstract: A quantisation of the KP equation on a cylinder is proposed that is equivalent to an infinite system of non-relativistic one-dimensional bosons carrying masses $m=1,2,\ldots$ The Hamiltonian is Galilei-invariant and includes the split $\Psi^\dagger_{m_1}\Psi^\dagger_{m_2}\Psi_{m_1+m_2}$ and merge $\Psi^\dagger_{m_1+m_2}\Psi_{m_1}\Psi_{m_2}$ terms for all combinations of particles with masses $m_1$, $m_2$ and $m_1+m_2$, with a special choice of coupling constants. The Bethe eigenfunctions for the model are constructed. The consistency of the coordinate Bethe Ansatz, and therefore, the quantum integrability of the model is verified up to the mass $M=8$ sector.

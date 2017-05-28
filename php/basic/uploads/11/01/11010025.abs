@@ -1,0 +1,4 @@
+Paper: 11010025
+Title: Non-Adiabatic Solution to the Time Dependent Quantum Harmonic Oscillator
+Authors: C. A. M. de Melo and B. M. Pimentel and J. A. Ramirez
+Abstract: Using Schwinger Variational Principle we solve the problem of quantum harmonic oscillator with time dependent frequency. Here, we do not take the usual approach which implicitly assumes an adiabatic behavior for the frequency. Instead, we propose a new solution where the frequency only needs continuity in its first derivative or to have a finite set of removable discontinuities.

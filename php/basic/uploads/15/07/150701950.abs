@@ -1,0 +1,4 @@
+Paper: 150701950
+Title: Hedgehog Bases for A_n Cluster Polylogarithms and An Application to  Six-Point Amplitudes
+Authors: Daniel E. Parker and Adam Scherlis and Marcus Spradlin and Anastasia Volovich
+Abstract: Multi-loop scattering amplitudes in N=4 Yang-Mills theory possess cluster algebra structure. In order to develop a computational framework which exploits this connection, we show how to construct bases of Goncharov polylogarithm functions, at any weight, whose symbol alphabet consists of cluster coordinates on the $A_n$ cluster algebra. Using such a basis we present a new expression for the 2-loop 6-particle NMHV amplitude which makes some of its cluster structure manifest.

@@ -1,0 +1,4 @@
+Paper: 12025984
+Title: FlowPy - a numerical solver for functional renormalization group  equations
+Authors: Thomas Fischbacher and Franziska Synatschke-Czerwonka
+Abstract: FlowPy is a numerical toolbox for the solution of partial differential equations encountered in Functional Renormalization Group equations. This toolbox compiles flow equations to fast machine code and is able to handle coupled systems of flow equations with full momentum dependence, which furthermore may be given implicitly.

@@ -1,0 +1,4 @@
+Paper: 160300719
+Title: Four Loop Scattering in the Nambu-Goto Theory
+Authors: Peter Conkey and Sergei Dubovsky
+Abstract: We initiate the study of multiloop scattering amplitudes in the Nambu-Goto theory on the worldsheet of a non-critical string. We start with a brute force calculation of two loop four particle scattering. Somewhat surprisingly, even though non-trivial UV counterterms are present at this order, on-shell amplitudes remain polynomial in the momenta of colliding particles. We show that this can be understood as a consequence of existence of certain close by (semi)integrable models. Furthermore, these arguments can be extended to obtain the answer for three and four loop scattering, bypassing the brute force calculation. The resulting amplitudes develop non-polynomial (logarithmic) dependence on the momenta starting at three loops.

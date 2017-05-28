@@ -1,0 +1,4 @@
+Paper: 9508013
+Title: Quantum Lie algebras associated to $U_q(gl_n)$ and $U_q(sl_n)$
+Authors: Gustav W. Delius and Mark D. Gould and Andreas Hüffmann and Yao-Zhong Zhang
+Abstract: Quantum Lie algebras $\qlie{g}$ are non-associative algebras which are embedded into the quantized enveloping algebras $U_q(g)$ of Drinfeld and Jimbo in the same way as ordinary Lie algebras are embedded into their enveloping algebras. The quantum Lie product on $\qlie{g}$ is induced by the quantum adjoint action of $U_q(g)$. We construct the quantum Lie algebras associated to $U_q(gl_n)$ and $U_q(sl_n)$. We determine the structure constants and the quantum root systems, which are now functions of the quantum parameter $q$. They exhibit an interesting duality symmetry under $q\leftrightarrow 1/q$.

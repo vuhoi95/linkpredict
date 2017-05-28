@@ -1,0 +1,4 @@
+Paper: 12094644
+Title: Quantum criticality of reconstructing Fermi surfaces in  antiferromagnetic metals
+Authors: Junhyun Lee and Philipp Strack and Subir Sachdev
+Abstract: We present a functional renormalization group analysis of a quantum critical point in two-dimensional metals involving Fermi surface reconstruction due to the onset of spin-density wave order. Its critical theory is controlled by a fixed point in which the order parameter and fermionic quasiparticles are strongly coupled and acquire spectral functions with a common dynamic critical exponent. We obtain results for critical exponents and for the variation in the quasiparticle spectral weight around the Fermi surface. Our analysis is implemented on a two-band variant of the spin-fermion model which will allow comparison with sign-problem-free quantum Monte Carlo simulations.

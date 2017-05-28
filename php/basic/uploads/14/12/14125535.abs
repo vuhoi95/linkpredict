@@ -1,0 +1,4 @@
+Paper: 14125535
+Title: Elliptic multiple zeta values and one-loop superstring amplitudes
+Authors: Johannes Broedel and Carlos R. Mafra and Nils Matthes and Oliver Schlotterer
+Abstract: We investigate iterated integrals on an elliptic curve, which are a natural genus-one generalization of multiple polylogarithms. These iterated integrals coincide with the multiple elliptic polylogarithms introduced by Brown and Levin when constrained to the real line. At unit argument they reduce to an elliptic analogue of multiple zeta values, whose network of relations we start to explore. A simple and natural application of this framework are one-loop scattering amplitudes in open superstring theory. In particular, elliptic multiple zeta values are a suitable language to express their low energy limit. Similar to the techniques available at tree-level, our formalism allows to completely automatize the calculation.

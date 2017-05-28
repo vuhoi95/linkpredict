@@ -1,0 +1,4 @@
+Paper: 11123526
+Title: Regularized path integrals and anomalies -- U(1) chiral gauge theory
+Authors: Christoph Kopper and Benjamin Lévêque
+Abstract: We analyse the origin of the Adler anomaly of chiral U(1) gauge theory within the framework of regularized path integrals. Momentum or position space regulators allow for mathematically well-defined path integrals but violate local gauge symmetry. It is known how (nonanomalous) gauge symmetry can be recovered in the renormalized theory in this case [1]. Here we analyse U(1) chiral gauge theory to show how the appearance of anomalies manifests itself in such a context. We show that the three-photon amplitude leads to a violation of the Slavnov-Taylor-Identities which cannot be restored on taking the UV limit in the renormalized theory. We point out that this fact is related to the nonanalyticity of this amplitude in the infrared region.

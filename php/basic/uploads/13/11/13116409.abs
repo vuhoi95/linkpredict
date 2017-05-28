@@ -1,0 +1,4 @@
+Paper: 13116409
+Title: Gravitino and other spin-3/2 quasinormal modes in Schwarzschild-AdS  spacetime
+Authors: Peter Arnold and Phillip Szepietowski and Diana Vaman
+Abstract: We investigate quasinormal mode frequencies $\omega_n$ of gravitinos and generic massive spin-3/2 fields in a Schwarzschild-AdS$_D$ background in spacetime dimension $D>3$, in the black brane (large black hole) limit appropriate to many applications of the AdS/CFT correspondence. First, we find asymptotic formulas for $\omega_n$ in the limit of large overtone number $n$. Asymptotically, $\omega_n \simeq n \Delta\omega + O(\ln n) + O(n^0)$, where $\Delta\omega$ is a known constant, and here we compute the $O(\ln n)$ and $O(n^0)$ corrections to the leading $O(n)$ behavior. Then we compare to numerical calculations of exact quasinormal mode frequencies. Along the way, we also improve the reach and accuracy of an earlier, similar analysis of spin-1/2 fields.

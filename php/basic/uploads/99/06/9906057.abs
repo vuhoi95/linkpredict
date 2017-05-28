@@ -1,0 +1,4 @@
+Paper: 9906057
+Title: Complex Square Well --- A New Exactly Solvable Quantum Mechanical Model
+Authors: Carl M. Bender and Stefan Boettcher and H. F. Jones and Van M. Savage
+Abstract: Recently, a class of PT-invariant quantum mechanical models described by the non-Hermitian Hamiltonian $H=p^2+x^2(ix)^\epsilon$ was studied. It was found that the energy levels for this theory are real for all $\epsilon\geq0$. Here, the limit as $\epsilon\to\infty$ is examined. It is shown that in this limit, the theory becomes exactly solvable. A generalization of this Hamiltonian, $H=p^2+x^{2M}(ix)^\epsilon$ (M=1,2,3,...) is also studied, and this PT-symmetric Hamiltonian becomes exactly solvable in the large-\epsilon limit as well. In effect, what is obtained in each case is a complex analog of the Hamiltonian for the square well potential. Expansions about the large-\epsilon limit are obtained.

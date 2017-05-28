@@ -1,0 +1,4 @@
+Paper: 11053122
+Title: Critical behavior of colored tensor models in the large N limit
+Authors: Valentin Bonzom and Razvan Gurau and Aldo Riello and Vincent Rivasseau
+Abstract: Colored tensor models have been recently shown to admit a large N expansion, whose leading order encodes a sum over a class of colored triangulations of the D-sphere. The present paper investigates in details this leading order. We show that the relevant triangulations proliferate like a species of colored trees. The leading order is therefore summable and exhibits a critical behavior, independent of the dimension. A continuum limit is reached by tuning the coupling constant to its critical value while inserting an infinite number of pairs of D-simplices glued together in a specific way. We argue that the dominant triangulations are branched polymers.

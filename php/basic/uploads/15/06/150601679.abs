@@ -1,0 +1,4 @@
+Paper: 150601679
+Title: Positivity, negativity, and entanglement
+Authors: Eric Perlmutter and Mukund Rangamani and Massimiliano Rota
+Abstract: We explore properties of the universal terms in the entanglement entropy and logarithmic negativity in 4d CFTs, aiming to clarify the ways in which they behave like the analogous entanglement measures in quantum mechanics. We show that, unlike entanglement entropy in finite-dimensional systems, the sign of the universal part of entanglement entropy is indeterminate. In particular, if and only if the central charges obey $a>c$, the entanglement across certain classes of entangling surfaces can become arbitrarily negative, depending on the geometry and topology of the surface. The negative contribution is proportional to the product of $a-c$ and the genus of the surface. Similarly, we show that in $a>c$ theories, the logarithmic negativity does not always exceed the entanglement entropy.

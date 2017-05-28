@@ -1,0 +1,4 @@
+Paper: 150407209
+Title: Conformal invariance in three dimensional percolation
+Authors: G. Gori and A. Trombettoni
+Abstract: The aim of the paper is to present numerical results supporting the presence of conformal invariance in three dimensional statistical mechanics models at criticality and to elucidate the geometric aspects of universality. As a case study we study three dimensional percolation at criticality in bounded domains. Both on discrete and continuous models of critical percolation, we test by numerical experiments the invariance of quantities in finite domains under conformal transformations focusing on crossing probabilities. Our results show clear evidence of the onset of conformal invariance in finite realizations especially for the continuum percolation models. Finally we propose a simple analytical function approximating the crossing probability among two spherical caps on the surface of a sphere and confront it with the numerical results.

@@ -1,0 +1,4 @@
+Paper: 9805024
+Title: Bounds on negative energy densities in flat spacetime
+Authors: C. J. Fewster and S. P. Eveson
+Abstract: We generalise results of Ford and Roman which place lower bounds -- known as quantum inequalities -- on the renormalised energy density of a quantum field averaged against a choice of sampling function. Ford and Roman derived their results for a specific non-compactly supported sampling function; here we use a different argument to obtain quantum inequalities for a class of smooth, even and non-negative sampling functions which are either compactly supported or decay rapidly at infinity. Our results hold in $d$-dimensional Minkowski space ($d\ge 2$) for the free real scalar field of mass $m\ge 0$. We discuss various features of our bounds in 2 and 4 dimensions. In particular, for massless field theory in 2-dimensional Minkowski space, we show that our quantum inequality is weaker than Flanagan's optimal bound by a factor of 3/2.

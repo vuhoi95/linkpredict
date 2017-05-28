@@ -1,0 +1,4 @@
+Paper: 13031389
+Title: A toolkit for defect computations in Landau-Ginzburg models
+Authors: Nils Carqueville and Daniel Murfet
+Abstract: We review the results of arXiv:1208.1481 on orientation reversal and duality for defects in topological Landau-Ginzburg models, with the intention of providing an easily accessible toolkit for computations. As an example we include a proof of the main result on adjunctions in a special case, using Pauli matrices. We also explain how to compute arbitrary correlators of defect-decorated planar worldsheets, and briefly discuss the relation to generalised orbifolds.

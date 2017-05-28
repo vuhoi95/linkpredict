@@ -1,0 +1,4 @@
+Paper: 9608113
+Title: Towards Highly Improved Quark Actions
+Authors: M. G. Alford and T. R. Klassen and G. P. Lepage
+Abstract: We describe two ideas useful in the construction of highly improved quark actions for simulations on coarse lattices: (1) Field transformations to solve the doubler problem without destroying tree-level improvement for on- or off-shell quantities. (2) Anisotropic lattices with smaller temporal than spatial lattice spacing. We present first simulation results for the quenched light hadron and charmonium spectra obtained with a D234 action on anisotropic lattices.

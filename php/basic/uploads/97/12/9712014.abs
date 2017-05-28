@@ -1,0 +1,4 @@
+Paper: 9712014
+Title: The Quantum Inverse Scattering Method for Hubbard-like Models
+Authors: M. J. Martins and P. B. Ramos
+Abstract: This work is concerned with various aspects of the formulation of the quantum inverse scattering method for the one-dimensional Hubbard model. We first establish the essential tools to solve the eigenvalue problem for the transfer matrix of the classical ``covering'' Hubbard model within the algebraic Bethe Ansatz framework. The fundamental commutation rules exhibit a hidden 6-vertex symmetry which plays a crucial role in the whole algebraic construction. Next we apply this formalism to study the SU(2) highest weights properties of the eigenvectors and the solution of a related coupled spin model with twisted boundary conditions. The machinery developed in this paper is applicable to many other models, and as an example we present the algebraic solution of the Bariev XY coupled model.

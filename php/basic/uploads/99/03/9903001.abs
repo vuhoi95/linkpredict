@@ -1,0 +1,4 @@
+Paper: 9903001
+Title: The non-linear Schrödinger equation and the conformal properties of  non-relativistic space-time
+Authors: P. A. Horvathy and J. -C. Yera
+Abstract: The cubic non-linear Schr\"odinger equation where the coefficient of the nonlinear term is a function $F(t,x)$ only passes the Painlev\'e test of Weiss, Tabor, and Carnevale only for $F=(a+bt)^{-1}$, where $a$ and $b$ are constants. This is explained by transforming the time-dependent system into the constant-coefficient NLS by means of a time-dependent non-linear transformation, related to the conformal properties of non-relativistic space-time. A similar argument explains the integrability of the NLS in a uniform force field or in an oscillator background.

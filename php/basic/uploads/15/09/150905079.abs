@@ -1,0 +1,4 @@
+Paper: 150905079
+Title: Monte Carlo studies of dynamical compactification of extra dimensions in  a model of nonperturbative string theory
+Authors: Konstantinos N. Anagnostopoulos and Takehiro Azuma and Jun Nishimura
+Abstract: The IIB matrix model has been proposed as a non-perturbative definition of superstring theory. In this work, we study the Euclidean version of this model in which extra dimensions can be dynamically compactified if a scenario of spontaneously breaking the SO(10) rotational symmetry is realized. Monte Carlo calculations of the Euclidean IIB matrix model suffer from a very strong complex action problem due to the large fluctuations of the complex phase of the Pfaffian which appears after integrating out the fermions. We employ the factorization method in order to achieve effective sampling. We report on preliminary results that can be compared with previous studies of the rotational symmetry breakdown using the Gaussian expansion method.

@@ -1,0 +1,4 @@
+Paper: 12072562
+Title: Inner products of Bethe states as partial domain wall partition  functions
+Authors: Ivan Kostov and Yutaka Matsuo
+Abstract: We study the inner product of Bethe states in the inhomogeneous periodic XXX spin-1/2 chain of length L, which is given by the Slavnov determinant formula. We show that the inner product of an on-shell M-magnon state with a generic M-magnon state is given by the same expression as the inner product of a 2M-magnon state with a vacuum descendent. The second inner product is proportional to the partition function of the six-vertex model on a rectangular Lx2M grid, with partial domain-wall boundary conditions.

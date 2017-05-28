@@ -1,0 +1,4 @@
+Paper: 151007637
+Title: A tensor network quotient takes the vacuum to the thermal state
+Authors: Bartlomiej Czech and Glen Evenbly and Lampros Lamprou and Samuel McCandlish and Xiao-Liang Qi and James Sully and Guifre Vidal
+Abstract: In 1+1-dimensional conformal field theory, the thermal state on a circle is related to a certain quotient of the vacuum on a line. We explain how to take this quotient in the MERA tensor network representation of the vacuum and confirm the validity of the construction in the critical Ising model. This result suggests that the tensors comprising MERA can be interpreted as performing local scale transformations, so that adding or removing them emulates conformal maps. In this sense, the optimized MERA recovers local conformal invariance, which is explicitly broken by the choice of lattice. Our discussion also informs the dialogue between tensor networks and holographic duality.

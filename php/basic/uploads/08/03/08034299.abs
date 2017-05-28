@@ -1,0 +1,4 @@
+Paper: 08034299
+Title: Nested Topological Order
+Authors: H. Bombin and M. A. Martin-Delgado
+Abstract: We introduce the concept of nested topological order in a class of exact quantum lattice Hamiltonian models with non-abelian discrete gauge symmetry. The topological order present in the models can be partially destroyed by introducing a gauge symmetry reduction mechanism. When symmetry is reduced in several islands only, this imposes boundary conditions to the rest of the system giving rise to topological ground state degeneracy. This degeneracy is related to the existence of topological fluxes in between islands or, alternatively, hidden charges at islands. Additionally, island deformations give rise to an extension of topological quantum computation beyond quasiparticles.

@@ -1,0 +1,4 @@
+Paper: 12093971
+Title: NumExp: Numerical epsilon expansion of hypergeometric functions
+Authors: Zhi-Wei Huang and Jueping Liu
+Abstract: It is demonstrated that the well-regularized hypergeometric functions can be evaluated directly and numerically. The package NumExp is presented for expanding hypergeometric functions and/or other transcendental functions in a small regularization parameter. The hypergeometric function is expressed as a Laurent series in the regularization parameter and the coefficients are evaluated numerically by using the multi-precision finite difference method. This elaborate expansion method works for a wide variety of hypergeometric functions, which are needed in the context of dimensional regularization for loop integrals. The divergent and finite parts can be extracted from the final result easily and simultaneously. In addition, there is almost no restriction on the parameters of hypergeometric functions.

@@ -1,0 +1,4 @@
+Paper: 08074122
+Title: Tree Quantum Field Theory
+Authors: R. Gurau and J. Magnen and V. Rivasseau
+Abstract: We propose a new formalism for quantum field theory which is neither based on functional integrals, nor on Feynman graphs, but on marked trees. This formalism is constructive, i.e. it computes correlation functions through convergent rather than divergent expansions. It applies both to Fermionic and Bosonic theories. It is compatible with the renormalization group, and it allows to define non-perturbatively {\it differential} renormalization group equations. It accommodates any general stable polynomial Lagrangian. It can equally well treat noncommutative models or matrix models such as the Grosse-Wulkenhaar model. Perhaps most importantly it removes the space-time background from its central place in QFT, paving the way for a nonperturbative definition of field theory in noninteger dimension.

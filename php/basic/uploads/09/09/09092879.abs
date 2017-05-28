@@ -1,0 +1,4 @@
+Paper: 09092879
+Title: Probing the Space of Toric Quiver Theories
+Authors: Joseph Hewlett and Yang-Hui He
+Abstract: We demonstrate a practical and efficient method for generating toric Calabi-Yau quiver theories, applicable to both D3 and M2 brane world-volume physics. A new analytic method is presented at low order parametres and an algorithm for the general case is developed which has polynomial complexity in the number of edges in the quiver. Using this algorithm, carefully implemented, we classify the quiver diagram and assign possible superpotentials for various small values of the number of edges and nodes. We examine some preliminary statistics on this space of toric quiver theories.

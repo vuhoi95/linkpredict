@@ -1,0 +1,4 @@
+Paper: 14105973
+Title: Holographic Interpolation between $a$ and $F$
+Authors: Teruhiko Kawano and Yuki Nakaguchi and Tatsuma Nishioka
+Abstract: An interpolating function $\tilde F$ between the $a$-anomaly coefficient in even dimensions and the free energy on an odd-dimensional sphere has been proposed recently and is conjectured to monotonically decrease along any renormalization group flow in continuous dimension $d$. We examine $\tilde F$ in the large-$N$ CFT's in $d$ dimensions holographically described by the Einstein-Hilbert gravity in the AdS$_{d+1}$ space. We show that $\tilde F$ is a smooth function of $d$ and correctly interpolates the $a$ coefficients and the free energies. The monotonicity of $\tilde F$ along an RG flow follows from the analytic continuation of the holographic $c$-theorem to continuous $d$, which completes the proof of the conjecture.

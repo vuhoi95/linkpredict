@@ -1,0 +1,4 @@
+Paper: 150308499
+Title: Gauge/gravity duality and lattice simulations of one dimensional SYM  with sixteen supercharges
+Authors: Daisuke Kadoh and Syo Kamata
+Abstract: We study the gauge/gravity duality for supersymmetric SU(N) Yang-Mills theory in 1+0 dimension with sixteen supercharges using lattice simulations. The conjectured duality states that the gravity side is described by N D0-branes in type IIA superstring at large N, and the thermal gauge theory reproduces the black hole thermodynamics at low temperature. In this paper, we explain the Sugino lattice action used in the simulations in detail, and examine the supersymmetric Ward-Takahashi identity to confirm the restoration of supersymmetry in the continuum limit. We also estimate the internal energy of the black hole from the lattice results for N=14,32, and find that it smoothly approaches the prediction of the gravity side as the temperature decreases.

@@ -1,0 +1,4 @@
+Paper: 9512190
+Title: Numerical Computation of the Effective Potential and Renormalization
+Authors: G. Palma and L. Vergara
+Abstract: We present a novel way to compute the one-loop ring-improved effective potential numerically, which avoids the spurious appearence of complex expressions and at the same time is free from the renormalization ambiguities of the self-consistent approaches, based on the direct application of Schwinger-Dyson type equations to the masses.

@@ -1,0 +1,4 @@
+Paper: 14045635
+Title: Proof of a Quantum Bousso Bound
+Authors: Raphael Bousso and Horacio Casini and Zachary Fisher and Juan Maldacena
+Abstract: We prove the generalized Covariant Entropy Bound, $\Delta S\leq (A-A')/4G\hbar$, for light-sheets with initial area $A$ and final area $A'$. The entropy $\Delta S$ is defined as a difference of von Neumann entropies of an arbitrary state and the vacuum, with both states restricted to the light-sheet under consideration. The proof applies to free fields, in the limit where gravitational backreaction is small. We do not assume the null energy condition. In regions where it is violated, we find that the bound is protected by the defining property of light-sheets: that their null generators are nowhere expanding.

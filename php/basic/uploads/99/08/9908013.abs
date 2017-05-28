@@ -1,0 +1,4 @@
+Paper: 9908013
+Title: Knots, Feynman Diagrams and Matrix Models
+Authors: Martin Grothaus and Ludwig Streit and Igor V. Volovich
+Abstract: An U(N)-invariant matrix model with d matrix variables is studied. It was shown that in the limit $N\to \infty $ and $d\to 0$ the model describes the knot diagrams. We realize the free partition function of the matrix model as the generalized expectation of a Hida distribution $\Phi_{N,d}$. This enables us to give a mathematically rigorous meaning to the partition function with interaction. For the generalized function $\Phi_{N,d}$ we prove a Wick theorem and we derive explicit formulas for the propagators.

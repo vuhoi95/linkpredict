@@ -1,0 +1,4 @@
+Paper: 150503755
+Title: Bulk equations of motion from CFT correlators
+Authors: Daniel Kabat and Gilad Lifschytz
+Abstract: To O(1/N) we derive, purely from CFT data, the bulk equations of motion for interacting scalar fields and for scalars coupled to gauge fields and gravity. We first uplift CFT operators to mimic local AdS fields by imposing bulk microcausality. This requires adding an infinite tower of smeared higher-dimension double-trace operators to the CFT definition of a bulk field, with coefficients that we explicitly compute. By summing the contribution of the higher-dimension operators we derive the equations of motion satisfied by these uplifted CFT operators and show that we precisely recover the expected bulk equations of motion. We exhibit the freedom in the CFT construction which corresponds to bulk field redefinitions.

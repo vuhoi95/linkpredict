@@ -1,0 +1,4 @@
+Paper: 11041168
+Title: Longitudinal Rescaling of Quantum Electrodynamics
+Authors: Axel Cortes Cubero and Peter Orland
+Abstract: We investigate quantum longitudinal rescaling of electrodynamics, transforming coordinates as $x^{0,3}\to\lambda x^{0,3}$ and $x^{1,2}\to x^{1,2}$, to one loop. We do this by an aspherical Wilsonian renormalization, which was applied earlier to pure Yang-Mills theory. We find the anomalous powers of $\lambda$ in the renormalized couplings. Our result is only valid for $\lambda \lesssim 1$, because perturbation theory breaks down for $\lambda \ll 1$.

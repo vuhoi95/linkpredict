@@ -1,0 +1,4 @@
+Paper: 151001377
+Title: Monte Carlo simulations of random non-commutative geometries
+Authors: John W. Barrett and Lisa Glaser
+Abstract: Random non-commutative geometries are introduced by integrating over the space of Dirac operators that form a spectral triple with a fixed algebra and Hilbert space. The cases with the simplest types of Clifford algebra are investigated using Monte Carlo simulations to compute the integrals. Various qualitatively different types of behaviour of these random Dirac operators are exhibited. Some features are explained in terms of the theory of random matrices but other phenomena remain mysterious. Some of the models with a quartic action of symmetry-breaking type display a phase transition. Close to the phase transition the spectrum of a typical Dirac operator shows manifold-like behaviour for the eigenvalues below a cut-off scale.

@@ -1,0 +1,4 @@
+Paper: 9706136
+Title: Integrable su(3) spin chain combining different representations
+Authors: J. Abad and M. Ríos
+Abstract: The general expression for the local matrix $t(\theta)$ of a quantum chain with the site space in any representation of su(3) is obtained. This is made by generalizing $t(\theta)$ from the fundamental representation and imposing the fulfillment of the Yang-Baxter equation. Then, a non-homogeneous spin chain combining different representations of su(3) is solved by developing a method inspired in the nested Bethe ansatz. The solution for the eigenvalues of the trace of the monodromy matrix is given as two coupled Bethe equations. A conjecture about the solution of a chain with the site states in different representations of su(n) is presented. The thermodynamic limit of the ground state is calculated.

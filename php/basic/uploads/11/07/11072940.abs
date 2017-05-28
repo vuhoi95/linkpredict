@@ -1,0 +1,4 @@
+Paper: 11072940
+Title: Holographic Mutual Information is Monogamous
+Authors: Patrick Hayden and Matthew Headrick and Alexander Maloney
+Abstract: We identify a special information-theoretic property of quantum field theories with holographic duals: the mutual informations among arbitrary disjoint spatial regions A,B,C obey the inequality I(A:BC) >= I(A:B)+I(A:C), provided entanglement entropies are given by the Ryu-Takayanagi formula. Inequalities of this type are known as monogamy relations and are characteristic of measures of quantum entanglement. This suggests that correlations in holographic theories arise primarily from entanglement rather than classical correlations. We also show that the Ryu-Takayanagi formula is consistent with all known general inequalities obeyed by the entanglement entropy, including an infinite set recently discovered by Cadney, Linden, and Winter; this constitutes strong evidence in favour of its validity.

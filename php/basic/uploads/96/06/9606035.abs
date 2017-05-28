@@ -1,0 +1,4 @@
+Paper: 9606035
+Title: The Canonical Form of the Rabi Hamiltonian
+Authors: Marek Szopa and Geert Mys and Arnout Ceulemans
+Abstract: The Rabi Hamiltonian, describing the coupling of a two-level system to a single quantized boson mode, is studied in the Bargmann-Fock representation. The corresponding system of differential equations is transformed into a canonical form in which all regular singularities between zero and infinity have been removed. The canonical or Birkhoff-transformed equations give rise to a two-dimensional eigenvalue problem, involving the energy and a transformational parameter which affects the coupling strength. The known isolated exact solutions of the Rabi Hamiltonian are found to correspond to the uncoupled form of the canonical system.

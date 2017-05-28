@@ -1,0 +1,4 @@
+Paper: 160605444
+Title: Short interval expansion of Rényi entropy on torus
+Authors: Bin Chen and Jun-Bao Wu and Jia-ju Zhang
+Abstract: We investigate the short interval expansion of the R\'enyi entropy for two-dimensional conformal field theory (CFT) on a torus. We require the length of the interval $\ell$ to be small with respect to the spatial and temporal sizes of the torus. The operator product expansion of the twist operators allows us to compute the short interval expansion of the R\'enyi entropy at any temperature. In particular, we pay special attention to the large $c$ CFTs dual to the AdS$_3$ gravity and its cousins. At both low and high temperature limits, we read the R\'enyi entropies to order $\ell^6$, and find good agreements with holographic results. Moreover, the expansion allows us to read $1/c$ contribution, which is hard to get by expanding the thermal density matrix. We generalize the study to the case with the chemical potential as well.

@@ -1,0 +1,4 @@
+Paper: 11056337
+Title: AdS/CFT beyond the unitarity bound
+Authors: Tomas Andrade and Donald Marolf
+Abstract: Scalars in AdS${}_{d+1}$ with squared masses in the Breitenlohner-Freedman window $-d^2/4 \le m^2 < -d^2/4 +1$ (in units with the AdS scale $\ell$ set to 1) are known to enjoy a variety of boundary conditions. For larger masses $m^2 > -d^2/4 +1$, unitarity bounds in possible dual CFTs suggest that such general boundary conditions should lead to ghosts. We show that this is not always the case as, for conformally-invariant boundary conditions in Poincar\'e AdS that would naively violate unitarity bounds, the system is generically ghost-free. Conflicts with unitarity bounds are avoided due to the presence of unexpected pure gauge modes and an associated infrared divergence. The expected ghosts appear when the IR divergence is removed either by deforming these boundary conditions or considering global AdS.

@@ -1,0 +1,4 @@
+Paper: 12085761
+Title: Generalized uncertainty principles and quantum field theory
+Authors: Viqar Husain and Dawood Kothawala and Sanjeev S. Seahra
+Abstract: Quantum mechanics with a generalized uncertainty principle arises through a representation of the commutator $[\hat{x}, \hat{p}] = i f(\hat{p})$. We apply this deformed quantization to free scalar field theory for $f_\pm =1\pm \beta p^2$. The resulting quantum field theories have a rich fine scale structure. For small wavelength modes, the Green's function for $f_+$ exhibits a remarkable transition from Lorentz to Galilean invariance, whereas for $f_-$ such modes effectively do not propagate. For both cases Lorentz invariance is recovered at long wavelengths.

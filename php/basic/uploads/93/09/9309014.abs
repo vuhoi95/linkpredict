@@ -1,0 +1,4 @@
+Paper: 9309014
+Title: Perturbative analysis for Kaplan's lattice chiral fermions
+Authors: S. Aoki and H. Hirose
+Abstract: Perturbation theory for lattice fermions with domain wall mass terms is developed and is applied to investigate the chiral Schwinger model formulated on the lattice by Kaplan's method. We calculate the effective action for gauge fields to one loop, and find that it contains a longitudinal component even for anomaly-free cases. From the effective action we obtain gauge anomalies and Chern-Simons current without ambiguity. We also show that the current corresponding to the fermion number has a non-zero divergence and it flows off the wall into the extra dimension. Similar results are obtained for a proposal by Shamir, who used a constant mass term with free boundaries instead of domain walls.

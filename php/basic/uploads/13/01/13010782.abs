@@ -1,0 +1,4 @@
+Paper: 13010782
+Title: Recipe theorem for the Tutte polynomial for matroids, renormalization  group-like approach
+Authors: Gérard H. E. Duchamp and Nguyen Hoang-Nghia and Thomas Krajewski and Adrian Tanasa
+Abstract: Using a quantum field theory renormalization group-like differential equation, we give a new proof of the recipe theorem for the Tutte polynomial for matroids. The solution of such an equation is in fact given by some appropriate characters of the Hopf algebra of isomorphic classes of matroids, characters which are then related to the Tutte polynomial for matroids. This Hopf algebraic approach also allows to prove, in a new way, a matroid Tutte polynomial convolution formula appearing in W. Kook {\it et. al., J. Comb. Series} {\bf B 76} (1999).

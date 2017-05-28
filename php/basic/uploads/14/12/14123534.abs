@@ -1,0 +1,4 @@
+Paper: 14123534
+Title: Entanglement and the Sign Structure of Quantum States
+Authors: Tarun Grover and Matthew P. A. Fisher
+Abstract: Many body quantum eigenstates of generic Hamiltonians at finite energy density typically satisfy "volume law" of entanglement entropy: the von Neumann entanglement entropy and the Renyi entropies for a subregion scale in proportion to its volume. Here we provide a connection between the volume law and the sign structure of eigenstates. In particular, we ask the question: can a positive wavefunction support a volume law entanglement? Remarkably, we find that a typical random positive wavefunction, exhibits a constant law for Renyi entanglement entropies $S_n$ for $n>1$, despite arbitrary large amplitude fluctuations. We also provide evidence that the modulus of the finite energy density eigenstates of generic local Hamiltonians show similar behavior.

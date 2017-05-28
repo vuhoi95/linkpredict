@@ -1,0 +1,4 @@
+Paper: 9705242
+Title: The Infrared Behavior of Gluon and Ghost Propagators in Landau Gauge QCD
+Authors: Lorenz von Smekal and Andreas Hauck and Reinhard Alkofer
+Abstract: A solvable systematic truncation scheme for the Dyson-Schwinger equations of Euclidean QCD in Landau gauge is presented. It implements the Slavnov-Taylor identities for the three-gluon and ghost-gluon vertices, whereas irreducible four-gluon couplings as well as the gluon-ghost and ghost-ghost scattering kernels are neglected. The infrared behavior of gluon and ghost propagators is obtained analytically: The gluon propagator vanishes for small spacelike momenta whereas the ghost propagator diverges stronger than a massless particle pole. The numerical solutions are compared with recent lattice data for these propagators. The running coupling of the renormalization scheme approaches a fixed point, $\alpha_c \simeq 9.5$, in the infrared.

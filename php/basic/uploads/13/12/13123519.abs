@@ -1,0 +1,4 @@
+Paper: 13123519
+Title: Large N lattice QCD and its extended strong-weak connection to the  hypersphere
+Authors: Alexander S. Christensen and Joyce C. Myers and Peter D. Pedersen
+Abstract: We calculate an effective Polyakov line action of QCD at large Nc and large Nf from a combined lattice strong coupling and hopping expansion working to second order in both, where the order is defined by the number of windings in the Polyakov line. We compare with the action, truncated at the same order, of continuum QCD on S^1 x S^d at weak coupling from one loop perturbation theory, and find that a large Nc correspondence of equations of motion found in \cite{Hollowood:2012nr} at leading order, can be extended to the next order. Throughout the paper, we review the background necessary for computing higher order corrections to the lattice effective action, in order to make higher order comparisons more straightforward.

@@ -1,0 +1,4 @@
+Paper: 14127161
+Title: Frozen Quantum Coherence
+Authors: Thomas R. Bromley and Marco Cianciaruso and Gerardo Adesso
+Abstract: We analyse under which dynamical conditions the coherence of an open quantum system is totally unaffected by noise. For a single qubit, specific measures of coherence are found to freeze under different conditions, with no general agreement between them. Conversely, for an N-qubit system with even N, we identify universal conditions in terms of initial states and local incoherent channels such that all bona fide distance-based coherence monotones are left invariant during the entire evolution. This finding also provides an insightful physical interpretation for the freezing phenomenon of quantum correlations beyond entanglement. We further obtain analytical results for distance-based measures of coherence in two-qubit states with maximally mixed marginals.

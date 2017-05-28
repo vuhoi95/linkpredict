@@ -1,0 +1,4 @@
+Paper: 9403019
+Title: On the Absence of an Exponential Bound in Four Dimensional Simplicial  Gravity
+Authors: S. Catterall and J. Kogut and R. Renken
+Abstract: We have studied a model which has been proposed as a regularisation for four dimensional quantum gravity. The partition function is constructed by performing a weighted sum over all triangulations of the four sphere. Using numerical simulation we find that the number of such triangulations containing $V$ simplices grows faster than exponentially with $V$. This property ensures that the model has no thermodynamic limit.

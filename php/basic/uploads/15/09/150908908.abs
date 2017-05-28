@@ -1,0 +1,4 @@
+Paper: 150908908
+Title: Comments on the evaluation of massless scattering
+Authors: Carlos Cardona and Chrysostomos Kalousios
+Abstract: The goal of this work is threefold. First, we give an expression of the most general five point integral on M_{0,n} in terms of Chebyshev polynomials. Second, we choose a special kinematics that transforms the polynomial form of the scattering equations to a linear system of symmetric polynomials. We then explain how this can be used to explicitly evaluate arbitrary point integrals on M_{0,n}. Third, we comment on the recently presented method of companion matrices and we show its equivalence to the elimination theory and an algorithm previously developed by one of the authors.

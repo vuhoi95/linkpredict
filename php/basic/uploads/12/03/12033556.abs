@@ -1,0 +1,4 @@
+Paper: 12033556
+Title: Towards hydrodynamics without an entropy current
+Authors: Kristan Jensen and Matthias Kaminski and Pavel Kovtun and Rene Meyer and Adam Ritz and Amos Yarom
+Abstract: We present a generating functional which describes the equilibrium thermodynamic response of a relativistic system to external sources. A variational principle gives rise to constraints on the response parameters of relativistic hydrodynamics without making use of an entropy current. Our method reproduces and extends results available in the literature. It also provides a technique for efficiently computing n-point zero-frequency hydrodynamic correlation functions without the need to solve the equations of hydrodynamics.

@@ -1,0 +1,4 @@
+Paper: 12031305
+Title: Generalized TBA and generalized Gibbs
+Authors: Jorn Mossel and Jean-Sébastien Caux
+Abstract: We consider the extension of the thermodynamic Bethe Ansatz (TBA) to cases in which additional terms involving higher conserved charges are added to the Hamiltonian, or in which a distinction is made between the Hamiltonian used for time evolution and that used for defining the density matrix. Writing down equations describing the saddle-point (pseudo-equilibrium) state of the infinite system, we prove the existence and uniqueness of solutions for Lieb-Liniger provided simple requirements are met. We show how a knowledge of the saddle-point rapidity distribution is equivalent to that of all generalized chemical potentials, and how the standard equilibrium equations for e.g. excitations are simply generalized.

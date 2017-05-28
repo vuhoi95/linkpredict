@@ -1,0 +1,4 @@
+Paper: 9805129
+Title: Fermionic representations of integrable lattice systems
+Authors: Frank Göhmann and Shuichi Murakami
+Abstract: We develop a general scheme for the use of Fermi operators within the framework of integrable systems. This enables us to read off a fermionic Hamiltonian from a given solution of the Yang-Baxter equation and to express the corresponding $L$-matrix and the generators of symmetries in terms of Fermi operators. We illustrate our approach through a number of examples. Our main example is the algebraic Bethe ansatz solution of the Hubbard model in the infinite coupling limit.

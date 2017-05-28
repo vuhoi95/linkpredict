@@ -1,0 +1,4 @@
+Paper: 12105467
+Title: A kinetic model of radiating electrons
+Authors: A. Noble and J. Gratus and D. A. Burton and D. A. Jaroszynski
+Abstract: A kinetic theory is developed to describe radiating electrons whose motion is governed by the Lorentz-Dirac equation. This gives rise to a generalized Vlasov equation coupled to an equation for the evolution of the physical submanifold of phase space. The pathological solutions of the 1-particle theory may be removed by expanding the latter equation in powers of $\tau := q^2/ 6\pi m$. The radiation-induced change in entropy is explored, and its physical origin is discussed. As a simple demonstration of the theory, the radiative damping rate of longitudinal plasma waves is calculated.

@@ -1,0 +1,4 @@
+Paper: 14074721
+Title: Nested (inverse) binomial sums and new iterated integrals for massive  Feynman diagrams
+Authors: Jakob Ablinger and Johannes Blümlein and Clemens G. Raab and Carsten Schneider
+Abstract: Nested sums containing binomial coefficients occur in the computation of massive operator matrix elements. Their associated iterated integrals lead to alphabets including radicals, for which we determined a suitable basis. We discuss algorithms for converting between sum and integral representations, mainly relying on the Mellin transform. To aid the conversion we worked out dedicated rewrite rules, based on which also some general patterns emerging in the process can be obtained.

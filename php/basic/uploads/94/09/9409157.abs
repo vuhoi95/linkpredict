@@ -1,0 +1,4 @@
+Paper: 9409157
+Title: Large N Renormalization Group Approach to Matrix Models
+Authors: S. Higuchi and C. Itoi and S. Nishigaki and N. Sakai
+Abstract: We summarize our recent results on the large N renormalization group (RG) approach to matrix models for discretized two-dimensional quantum gravity. We derive exact RG equations by solving the reparametrization identities, which reduce infinitely many induced interactions to a finite number of them. We find a nonlinear RG equation and an algorithm to obtain the fixed points and the scaling exponents. They reproduce the spectrum of relevant operators in the exact solution. The RG flow is visualized by the linear approximation.

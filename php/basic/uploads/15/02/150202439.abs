@@ -1,0 +1,4 @@
+Paper: 150202439
+Title: Functional and Local Renormalization Groups
+Authors: Alessandro Codello and Giulio D'Odorico and Carlo Pagani
+Abstract: We discuss the relation between functional renormalization group (FRG) and local renormalization group (LRG), focussing on the two dimensional case as an example. We show that away from criticality the Wess-Zumino action is described by a derivative expansion with coefficients naturally related to RG quantities. We then demonstrate that the Weyl consistency conditions derived in the LRG approach are equivalent to the RG equation for the $c$-function available in the FRG scheme. This allows us to give an explicit FRG representation of the Zamolodchikov-Osborn metric, which in principle can be used for computations.

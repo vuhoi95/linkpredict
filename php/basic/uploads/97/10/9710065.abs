@@ -1,0 +1,4 @@
+Paper: 9710065
+Title: Towards N=1 Super-Yang-Mills on the Lattice
+Authors: A. Donini and M. Guagnelli and P. Hernandez and A. Vladikas
+Abstract: We consider the lattice regularization of N=1 supersymmetric Yang--Mills theory with Wilson fermions. This formulation breaks supersymmetry at any finite lattice spacing; we discuss how Ward identities can be used to define a supersymmetric continuum limit, which coincides with the point where the gluino becomes massless. As a first step towards the understanding of the zero gluino-mass limit, we present results on the quenched low-lying spectrum of SU(2) N=1 Super-Yang--Mills, at $\beta=2.6$ on a $V=16^3 \times 32$ lattice, in the OZI approximation. Our results, in spite of the quenched and OZI approximations, are in remarkable agreement with theoretical predictions in the supersymmetric theory, for the states with masses which are not expected to get a large contribution from fermion loops.

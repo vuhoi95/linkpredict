@@ -1,0 +1,4 @@
+Paper: 150608809
+Title: Generation of a Novel Exactly Solvable Potential
+Authors: Jonathan Bougie and Asim Gangopadhyaya and Jeffry V. Mallow and Constantin Rasinariu
+Abstract: We report a new shape invariant (SI) isospectral extension of the Morse potential. Previous investigations have shown that the list of "conventional" SI superpotentials that do not depend explicitly on Planck's constant $\hbar$ is complete. Additionally, a set of "extended" superpotentials has been identified, each containing a conventional superpotential as a kernel and additional $\hbar$-dependent terms. We use the partial differential equations satisfied by all SI superpotentials to find a SI extension of Morse with novel properties. It has the same eigenenergies as Morse but different asymptotic limits, and does not conform to the standard generating structure for isospectral deformations.

@@ -1,0 +1,4 @@
+Paper: 160707126
+Title: Reflection Positive Doubles
+Authors: Arthur Jaffe and Bas Janssens
+Abstract: Here we introduce reflection positive doubles, a general framework for reflection positivity, covering a wide variety of systems in statistical physics and quantum field theory. These systems may be bosonic, fermionic, or parafermionic in nature. Within the framework of reflection positive doubles, we give necessary and sufficient conditions for reflection positivity. We use a reflection-invariant cone to implement our construction. Our characterization allows for a direct interpretation in terms of coupling constants, making it easy to check in concrete situations. We illustrate our methods with numerous examples.

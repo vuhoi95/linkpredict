@@ -1,0 +1,4 @@
+Paper: 150502840
+Title: One-shot decoupling and Page curves from a dynamical model for black  hole evaporation
+Authors: Kamil Brádler and Christoph Adami
+Abstract: One-shot decoupling is a powerful primitive in quantum information theory and was hypothesized to play a role in the black hole information paradox. We study black hole dynamics modeled by a trilinear Hamiltonian whose semiclassical limit gives rise to Hawking radiation. An explicit numerical calculation of the discretized path integral of the S-matrix shows that decoupling is exact in the continuous limit, implying that quantum information is perfectly transferred from the black hole to radiation. A striking consequence of decoupling is the emergence of an output radiation entropy profile that follows Page's prediction. We argue that information transfer and the emergence of Page curves is a robust feature of any multi-linear interaction Hamiltonian with a bounded spectrum.

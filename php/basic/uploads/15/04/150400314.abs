@@ -1,0 +1,4 @@
+Paper: 150400314
+Title: From lattice Quantum Electrodynamics to the distribution of the  algebraic areas enclosed by random walks on $Z^2$
+Authors: Thomas Epelbaum and Francois Gelis and Bin Wu
+Abstract: In the worldline formalism, scalar Quantum Electrodynamics on a 2-dimensional lattice is related to the areas of closed loops on this lattice. We exploit this relationship in order to determine the general structure of the moments of the algebraic areas over the set of loops that have fixed number of edges in the two directions. We show that these moments are the product of a combinatorial factor that counts the number of such loops, by a polynomial in the numbers of steps in each direction. Our approach leads to an algorithm for obtaining explicit formulas for the moments of low order.

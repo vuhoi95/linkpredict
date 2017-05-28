@@ -1,0 +1,4 @@
+Paper: 10062706
+Title: Cohomological Hall algebra, exponential Hodge structures and motivic  Donaldson-Thomas invariants
+Authors: Maxim Kontsevich and Yan Soibelman
+Abstract: We define a new type of Hall algebras associated e.g. with quivers with polynomial potentials. The main difference with the conventional definition is that we use cohomology of the stack of representations instead of constructible sheaves or functions. In order to take into account the potential we introduce a generalization of theory of mixed Hodge structures, related to exponential integrals. Generating series of our Cohomological Hall algebra is a generalization of the motivic Donaldson-Thomas invariants introduced in arXiv:0811.2435. Also we prove a new integrality property of motivic Donaldson-Thomas invariants.

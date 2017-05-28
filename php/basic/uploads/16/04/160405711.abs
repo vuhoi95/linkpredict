@@ -1,0 +1,4 @@
+Paper: 160405711
+Title: A Matrix Model for WZW
+Authors: Nick Dorey and David Tong and Carl Turner
+Abstract: We study a U(N) gauged matrix quantum mechanics which, in the large N limit, is closely related to the chiral WZW conformal field theory. This manifests itself in two ways. First, we construct the left-moving Kac-Moody algebra from matrix degrees of freedom. Secondly, we compute the partition function of the matrix model in terms of Schur and Kostka polynomials and show that, in the large $N$ limit, it coincides with the partition function of the WZW model. This same matrix model was recently shown to describe non-Abelian quantum Hall states and the relationship to the WZW model can be understood in this framework.

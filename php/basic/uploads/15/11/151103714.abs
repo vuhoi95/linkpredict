@@ -1,0 +1,4 @@
+Paper: 151103714
+Title: Gradient Flow in the Ginzburg-Landau Model of Superconductivity
+Authors: P. Mikula and M. E. Carrington and G. Kunstatter
+Abstract: We present numerical studies of the dynamics of vortices in the Ginzburg Landau model using equations derived from the gradient flow of the free energy. These equations have previously been proposed to describe the dynamics of n-vortices away from equilibrium. We are able to model the dynamics of multiple n-vortex configurations starting far from equilibrium. We find generically that there are two time scales for equilibration: a short time scale related to the formation time for a single n-vortex, and a longer time scale that characterizes vortex-vortex interactions.

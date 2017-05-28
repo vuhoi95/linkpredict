@@ -1,0 +1,4 @@
+Paper: 12075139
+Title: Moonshine and Donaldson invariants of CP^2
+Authors: Andreas Malmendier and Ken Ono
+Abstract: Eguchi, Ooguri, and Tachikawa recently conjectured a new moonshine phenomenon. They conjecture that the coefficients of a certain mock modular form H(tau), which arises from the K3 surface elliptic genus, are sums of dimensions of irreducible representations of the Mathieu group M24. We prove that H(tau) surprisingly also plays a significant role in the theory of Donaldson invariants. We prove that the Moore-Witten u-plane integrals for H(tau) are the SO(3)-Donaldson invariants of CP^2. This result then implies a moonshine phenomenon where these invariants conjecturally are expressions in the dimensions of the irreducible representations of M24. Indeed, we obtain an explicit expression for the Donaldson invariant generating function Z(p,S) in terms of the derivatives of H(tau).

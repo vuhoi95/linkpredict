@@ -1,0 +1,4 @@
+Paper: 160103226
+Title: Strong subadditivity for log-determinant of covariance matrices and its  applications
+Authors: Gerardo Adesso and R. Simon
+Abstract: We prove that the log-determinant of the covariance matrix obeys the strong subadditivity inequality for arbitrary tripartite states of multimode continuous variable quantum systems. This establishes general limitations on the distribution of information encoded in the second moments of canonically conjugate operators. The inequality is shown to be stronger than the conventional strong subadditivity inequality for von Neumann entropy in a class of pure tripartite Gaussian states. We finally show that such an inequality implies a strict monogamy-type constraint for joint Einstein-Podolsky-Rosen steerability of single modes by Gaussian measurements performed on multiple groups of modes.

@@ -1,0 +1,4 @@
+Paper: 150203510
+Title: A mathematical foundation of Rozansky-Witten theory
+Authors: Kwokwai Chan and Naichung Conan Leung and Qin Li
+Abstract: We give a mathematically rigorous construction of Rozansky-Witten's 3-dimensional $\sigma$-model as a perturbative quantum field theory (QFT) by applying Costello's approach using the Batalin-Vilkovisky (BV) formalism. The quantization of our model is obtained via the technique of configuration spaces. We also investigate the observable theory following the work of Costello-Gwilliam. In particular, we show that the cohomology of local quantum observables on a genus $g$ handle body is given by $H^*(X,(\wedge^*T_X)^{\otimes g})$, where $X$ is the target hyperk\"ahler manifold. We further give a mathematical definition of the partition function and prove that it coincides with the Rozansky-Witten invariants.

@@ -1,0 +1,4 @@
+Paper: 13085110
+Title: Derivation of the TCP Theorem using Action Principles
+Authors: Mark Selover and E. C. G. Sudarshan
+Abstract: We present a new derivation of the proof for the TCP/CPT Theorem using the Dynamical Principle and Variation of Action methods first defined by Schwinger in 1951. This new proof will significantly extend the TCP Theorem beyond the original proofs by Pauli-Luders and Jost, which were significantly constrained by limits of free quantum fields and the asymptotic condition. This paper gives a more fundamental proof based on invariance of the Variation of Action with interactions included and no free field or asymptotic condition on the quantum fields. This new proof for TCP/CPT can now be applied to more complicated quantum field systems that include n-particle bound states and unstable states.

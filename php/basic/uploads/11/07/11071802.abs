@@ -1,0 +1,4 @@
+Paper: 11071802
+Title: S-parameter at Non-Zero Temperature and Chemical Potential
+Authors: Ulrik Ishøj Søndergaard and Claudio Pica and Francesco Sannino
+Abstract: We compute the finite-temperature and matter density corrections to the S-parameter at the one loop level. At non-zero temperature T and matter density Lorentz symmetry breaks and therefore we suggest a suitable generalization of the S-parameter. By computing the plasma correction, we discover a reduction of the S-parameter in the physically relevant region of small external momenta for any non-zero chemical potential and T. In particular, the S-parameter vanishes at small m/T, where m is the mass of the fermions, due to the finite extent of the temporal direction. Our results are directly applicable to the determination of the S-parameter via first principle lattice simulations performed with anti-periodic boundary conditions in the temporal direction.

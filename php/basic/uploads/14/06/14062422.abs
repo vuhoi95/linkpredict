@@ -1,0 +1,4 @@
+Paper: 14062422
+Title: Deformations of the Canonical Commutation Relations and Metric  Structures
+Authors: Francesco D'andrea and Fedele Lizzi and Pierre Martinetti
+Abstract: Using Connes distance formula in noncommutative geometry, it is possible to retrieve the Euclidean distance from the canonical commutation relations of quantum mechanics. In this note, we study modifications of the distance induced by a deformation of the position-momentum commutation relations. We first consider the deformation coming from a cut-off in momentum space, then the one obtained by replacing the usual derivative on the real line with the h- and q-derivatives, respectively. In these various examples, some points turn out to be at infinite distance. We then show (on both the real line and the circle) how to approximate points by extended distributions that remain at finite distance. On the circle, this provides an explicit example of computation of the Wasserstein distance.

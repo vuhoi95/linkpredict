@@ -1,0 +1,4 @@
+Paper: 150304857
+Title: Entanglement entropy converges to classical entropy around periodic  orbits
+Authors: Curtis T. Asplund and David Berenstein
+Abstract: We consider oscillators evolving subject to a periodic driving force that dynamically entangles them, and argue that this gives the linearized evolution around periodic orbits in a general chaotic Hamiltonian dynamical system. We show that the entanglement entropy, after tracing over half of the oscillators, generically asymptotes to linear growth at a rate given by the sum of the positive Lyapunov exponents of the system. These exponents give a classical entropy growth rate, in the sense of Kolmogorov, Sinai and Pesin. We also calculate the dependence of this entropy on linear mixtures of the oscillator Hilbert space factors, to investigate the dependence of the entanglement entropy on the choice of coarse-graining. We find that for almost all choices the asymptotic growth rate is the same.

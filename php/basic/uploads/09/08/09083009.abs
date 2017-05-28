@@ -1,0 +1,4 @@
+Paper: 09083009
+Title: Stochastic Quantization of Real-Time Thermal Field Theory
+Authors: T. C. de Aguiar and N. F. Svaiter and G. Menezes
+Abstract: We use the stochastic quantization method to obtain the free scalar propagator of a finite temperature field theory formulated in Minkowski spacetime. First we use the Markovian stochastic quantization approach to present the two-point function of the theory. Second, we assume a Langevin equation with a memory kernel and Einstein's relations with colored noise. The convergence of the stochastic processes in the asymptotic limit of the Markov parameter of these Markovian and non-Markovian Langevin equations for a free scalar theory is obtained. Our formalism can be the starting point to discuss systems at finite temperature out of equilibrium.

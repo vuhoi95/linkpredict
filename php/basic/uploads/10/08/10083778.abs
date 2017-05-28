@@ -1,0 +1,4 @@
+Paper: 10083778
+Title: Mathieu Moonshine in the elliptic genus of K3
+Authors: Matthias R. Gaberdiel and Stefan Hohenegger and Roberto Volpato
+Abstract: It has recently been conjectured that the elliptic genus of K3 can be written in terms of dimensions of Mathieu group M24 representations. Some further evidence for this idea was subsequently found by studying the twining genera that are obtained from the elliptic genus upon replacing dimensions of Mathieu group representations by their characters. In this paper we find explicit formulae for all (remaining) twining genera by making an educated guess for their general modular properties. This allows us to identify the decomposition of all expansion coefficients in terms of dimensions of M24-representations. For the first 500 coefficients we verify that the multiplicities with which these representations appear are indeed all non-negative integers. This represents very compelling evidence in favour of the conjecture.

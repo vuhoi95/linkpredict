@@ -1,0 +1,4 @@
+Paper: 9303042
+Title: Maximal Mean Field Solutions in the Random Field Ising Model: the  Pattern of the Symmetry Breaking
+Authors: M. Guagnelli and E. Marinari and G. Parisi
+Abstract: In this note we study the mean field equations for the $3d$ Random Field Ising Model. We discuss the phase diagram of the model, and we address the problem of finding if such equations admit more than one solution. We find two different critical values of $\beta$: one where the magnetization takes a non-zero expectation value, and one where we start to have more than one solution to the mean field equation. We find that, inside a given solution, there are no divergent correlation lengths.

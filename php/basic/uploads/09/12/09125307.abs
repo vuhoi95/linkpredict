@@ -1,0 +1,4 @@
+Paper: 09125307
+Title: Conformal nets and local field theory
+Authors: Arthur Bartels and Christopher L. Douglas and André G. Henriques
+Abstract: We describe a coordinate-free notion of conformal nets as a mathematical model of conformal field theory. We define defects between conformal nets and introduce composition of defects, thereby providing a notion of morphism between conformal field theories. Altogether we characterize the algebraic structure of the collection of conformal nets as a symmetric monoidal tricategory. Dualizable objects of this tricategory correspond to conformal-net-valued 3-dimensional local topological quantum field theories. We prove that the dualizable conformal nets are the finite sums of irreducible nets with finite \mu-index. This classification provides a variety of 3-dimensional local field theories, including local field theories associated to central extensions of the loop groups of the special unitary groups.

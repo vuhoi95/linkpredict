@@ -1,0 +1,4 @@
+Paper: 11050948
+Title: Proving AGT conjecture as HS duality: extension to five dimensions
+Authors: A. Mironov and A. Morozov and Sh. Shakirov and A. Smirnov
+Abstract: We extend the proof from arXiv:1012.3137, which interprets the AGT relation as the Hubbard-Stratonovich duality relation to the case of 5d gauge theories. This involves an additional q-deformation. Not surprisingly, the extension turns out to be trivial: it is enough to substitute all relevant numbers by q-numbers in all the formulas, Dotsenko-Fateev integrals by the Jackson sums and the Jack polynomials by the MacDonald ones. The problem with extra poles in individual Nekrasov functions continues to exist, therefore, such a proof works only for \beta = 1, i.e. for q=t in MacDonald's notation. For \beta\ne 1 the conformal blocks are related in this way to a non-Nekrasov decomposition of the LMNS partition function into a double sum over Young diagrams.

@@ -1,0 +1,4 @@
+Paper: 14017058
+Title: Markovian versus non-Markovian stochastic quantization of a  complex-action model
+Authors: G. Krein and G. Menezes and N. F. Svaiter
+Abstract: We analyze the Markovian and non-Markovian stochastic quantization methods for a complex action quantum mechanical model analog to a Maxwell-Chern-Simons eletrodynamics in Weyl gauge. We show through analytical methods convergence to the correct equilibrium state for both methods. Introduction of a memory kernel generates a non-Markovian process which has the effect of slowing down oscillations that arise in the Langevin-time evolution toward equilibrium of complex action problems. This feature of non-Markovian stochastic quantization might be beneficial in large scale numerical simulations of complex action field theories on a lattice.

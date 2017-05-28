@@ -1,0 +1,4 @@
+Paper: 9711298
+Title: Finite-Size Effects in the $φ^{4}$ Field Theory Above the Upper  Critical Dimension
+Authors: X. S. Chen and V. Dohm
+Abstract: We demonstrate that the standard O(n) symmetric $\phi^{4}$ field theory does not correctly describe the leading finite-size effects near the critical point of spin systems on a $d$-dimensional lattice with $d > 4$. We show that these finite-size effects require a description in terms of a lattice Hamiltonian. For $n \to \infty$ and $n=1$ explicit results are given for the susceptibility and for the Binder cumulant. They imply that recent analyses of Monte-Carlo results for the five-dimensional Ising model are not conclusive.

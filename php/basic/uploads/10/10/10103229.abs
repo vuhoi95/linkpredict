@@ -1,0 +1,4 @@
+Paper: 10103229
+Title: Twisted Bethe equations from a twisted S-matrix
+Authors: Changrim Ahn and Zoltan Bajnok and Diego Bombardelli and Rafael I. Nepomechie
+Abstract: All-loop asymptotic Bethe equations for a 3-parameter deformation of AdS5/CFT4 have been proposed by Beisert and Roiban. We propose a Drinfeld twist of the AdS5/CFT4 S-matrix, together with c-number diagonal twists of the boundary conditions, from which we derive these Bethe equations. Although the undeformed S-matrix factorizes into a product of two su(2|2) factors, the deformed S-matrix cannot be so factored. Diagonalization of the corresponding transfer matrix requires a generalization of the conventional algebraic Bethe ansatz approach, which we first illustrate for the simpler case of the twisted su(2) principal chiral model. We also demonstrate that the same twisted Bethe equations can alternatively be derived using instead untwisted S-matrices and boundary conditions with operatorial twists.

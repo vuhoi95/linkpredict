@@ -1,0 +1,4 @@
+Paper: 13081061
+Title: Functional properties of Hörmander's space of distributions having a  specified wavefront set
+Authors: Yoann Dabrowski and Christian Brouder
+Abstract: The space $D'_\Gamma$ of distributions having their wavefront sets in a closed cone $\Gamma$ has become important in physics because of its role in the formulation of quantum field theory in curved space time. In this paper, the topological and bornological properties of $D'_\Gamma$ and its dual $E'_\Lambda$ are investigated. It is found that $D'_\Gamma$ is a nuclear, semi-reflexive and semi-Montel complete normal space of distributions. Its strong dual $E'_\Lambda$ is a nuclear, barrelled and bornological normal space of distributions which, however, is not even sequentially complete. Concrete rules are given to determine whether a distribution belongs to $D'_\Gamma$, whether a sequence converges in $D'_\Gamma$ and whether a set of distributions is bounded in $D'_\Gamma$.

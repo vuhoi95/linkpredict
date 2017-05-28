@@ -1,0 +1,4 @@
+Paper: 08053700
+Title: Kinetic terms in warped compactifications
+Authors: Michael R. Douglas and Gonzalo Torroba
+Abstract: We develop formalism for computing the kinetic terms of 4d fields in string compactifications, particularly with warping. With the help of the Hamiltonian approach, we identify a gauge dependent inner product on the compactification manifold which depends on the warp factor. It is shown that kinetic terms are associated to the minimum value of the inner product over each gauge orbit. We work out the kinetic term for the complex modulus of a deformed conifold with flux, i.e. the Klebanov-Strassler solution embedded in a compact Calabi-Yau manifold. Earlier results of a power-like divergence are confirmed qualitatively (the kinetic term does contain the main effect of warping) but not quantitatively (the correct results differ by an order one coefficient).

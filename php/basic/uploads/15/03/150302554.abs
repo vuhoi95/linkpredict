@@ -1,0 +1,4 @@
+Paper: 150302554
+Title: Exact computation of the n-loop invariants of knots
+Authors: Stavros Garoufalidis and Eric Sabo and Shane Scott
+Abstract: The loop invariants of Dimofte-Garoufalidis is a formal power series with arithmetically interesting coefficients that conjecturally appears in the asymptotics of the Kashaev invariant of a knot to all orders in $1/N$. We develop methods implemented in SnapPy that compute the first 6 coefficients of the formal power series of a knot. We give examples that illustrate our method and its results.

@@ -1,0 +1,4 @@
+Paper: 12054117
+Title: S=1 in O(N)/HS duality
+Authors: Robert de Mello Koch and Antal Jevicki and Kewang Jin and João P. Rodrigues and Qibin Ye
+Abstract: Following the work of Maldacena and Zhiboedov, we study the implementation of the Coleman-Mandula theorem in the free O(N)/Higher Spin correspondence. In the bi-local framework we first define an S-matrix for scattering of collective dipoles. Its evaluation in the case of free UV fixed point theory leads to the result S=1 stated in the title. We also present an appropriate field transformation that is seen to transform away all the non-linear 1/N interactions of this theory. A change of boundary conditions and/or external potentials results in a nontrivial S-matrix.

@@ -1,0 +1,4 @@
+Paper: 14047187
+Title: The density of states approach to dense quantum systems
+Authors: Kurt Langfeld and Biagio Lucini
+Abstract: We develop a first-principle generalised density of state method for studying numerically quantum field theories with a complex action. As a proof of concept, we show that with our approach we can solve numerically the strong sign problem of the $Z_3$ spin model at finite density. Our results are confirmed by standard simulations of the theory dual to the considered model, which is free from a sign problem. Our method opens new perspectives on ab initio simulations of cold dense quantum systems, and in particular of Yang-Mills theories with matter at finite densities, for which Monte Carlo based importance sampling are unable to produce sufficiently accurate results.

@@ -1,0 +1,4 @@
+Paper: 10074039
+Title: Highly-damped quasi-normal frequencies for piecewise Eckart potentials
+Authors: Jozef Skakala and Matt Visser
+Abstract: Highly-damped quasi-normal frequencies are very often of the form omega_n = (offset) + i n (gap). We investigate the genericity of this phenomenon by considering a model potential that is piecewise Eckart (piecewise Poeschl-Teller), and developing an analytic "quantization condition" for the highly-damped quasi-normal frequencies. We find that this omega_n = (offset) + i n (gap) behaviour is generic but not universal, with the controlling feature being whether or not the ratio of the rates of exponential falloff in the two asymptotic directions is a rational number. These observations are of direct relevance to any physical situation where highly-damped quasi-normal modes (damped modes) are important --- in particular (but not limited to) to black hole physics, both theoretical and observational.

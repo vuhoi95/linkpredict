@@ -1,0 +1,4 @@
+Paper: 12036538
+Title: Resummation scheme for 3d Yang-Mills and the two-loop magnetic mass for  hot gauge theories
+Authors: D. Bieletzki and K. Lessmeier and O. Philipsen and Y. Schroder
+Abstract: Perturbation theory for non-Abelian gauge theories at finite temperature is plagued by infrared divergences caused by magnetic soft modes $\sim g^2T$, which correspond to the fields of a 3d Yang-Mills theory. We revisit a gauge invariant resummation scheme to solve this problem by self-consistent mass generation using an auxiliary scalar field, improving over previous attempts in two respects. First, we generalise earlier SU(2) treatments to SU(N). Second, we obtain a gauge independent two-loop gap equation, correcting an error in the literature. The resulting two-loop approximation to the magnetic mass represents a $\sim 15%$ correction to the leading one-loop value, indicating a reasonable convergence of the resummation.

@@ -1,0 +1,4 @@
+Paper: 13124173
+Title: The microlocal spectrum condition, initial value formulations and  background independence
+Authors: Alexander Stottmeister and Thomas Thiemann
+Abstract: We analyze the implications of the microlocal spectrum/Hadamard condition for states in a (linear) quantum field theory on a globally hyperbolic spacetime $M$ in the context of a (distributional) initial value formulation. More specifically, we work in a $3+1$-split $M\cong\mathbb{R}\times\Sigma$ and give a bound, independent of the spacetime metric, on the wave front sets of the initial data for a quasi-free Hadamard state in the quantum field theory defined by a normally hyperbolic differential operator $P$ acting in a vector bundle $E\stackrel{\pi}{\rightarrow}M$. This aims at a possible way to apply the concept of Hadamard states within approaches to quantum field theory/gravity relying on a Hamiltonian formulation, potentially without a (classical) background metric $g$.

@@ -1,0 +1,4 @@
+Paper: 150800501
+Title: Witten Diagrams Revisited: The AdS Geometry of Conformal Blocks
+Authors: Eliot Hijano and Per Kraus and Eric Perlmutter and River Snively
+Abstract: We develop a new method for decomposing Witten diagrams into conformal blocks. The steps involved are elementary, requiring no explicit integration, and operate directly in position space. Central to this construction is an appealingly simple answer to the question: what object in AdS computes a conformal block? The answer is a "geodesic Witten diagram," which is essentially an ordinary exchange Witten diagram, except that the cubic vertices are not integrated over all of AdS, but only over bulk geodesics connecting the boundary operators. In particular, we consider the case of four-point functions of scalar operators, and show how to easily reproduce existing results for the relevant conformal blocks in arbitrary dimension.

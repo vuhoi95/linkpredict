@@ -1,0 +1,4 @@
+Paper: 9812037
+Title: Rigidity and Normal Modes in Random Matrix Spectra
+Authors: A. Andersen and A. D. Jackson and H. J. Pedersen
+Abstract: We consider the Gaussian ensembles of random matrices and describe the normal modes of the eigenvalue spectrum, i.e., the correlated fluctuations of eigenvalues about their most probable values. The associated normal mode spectrum is linear, and for large matrices, the normal modes are found to be Chebyshev polynomials of the second kind. We contrast this with the behaviour of a sequence of uncorrelated levels, which has a quadratic normal mode spectrum. The difference in the rigidity of random matrix spectra and sequences of uncorrelated levels can be attributed to this difference in the normal mode spectra. We illustrate this by calculating the number variance in the two cases.

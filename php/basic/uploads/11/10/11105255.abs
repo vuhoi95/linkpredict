@@ -1,0 +1,4 @@
+Paper: 11105255
+Title: Selberg Integral and SU(N) AGT Conjecture
+Authors: Hong Zhang and Yutaka Matsuo
+Abstract: An intriguing coincidence between the partition function of super Yang-Mills theory and correlation functions of 2d Toda system has been heavily studied recently. While the partition function of gauge theory was explored by Nekrasov, the correlation functions of Toda equation have not been completely understood. In this paper, we study the latter in the form of Dotsenko-Fateev integral and reduce it in the form of Selberg integral of several Jack polynomials. We conjecture a formula for such Selberg average which satisfies some consistency conditions and show that it reproduces the SU(N) version of AGT conjecture.

@@ -1,0 +1,4 @@
+Paper: 14056576
+Title: Validating the 2PI resummation: the Bloch-Nordsieck example
+Authors: A. Jakovac and P. Mati
+Abstract: In this work we provide a numerical method to obtain the Bloch-Nordsieck spectral function at finite temperature in the framework of the 2PI approximation. We find that the 2PI results nicely agree with the exact one, provided we perform a coupling constant matching. In the paper we present the resulting finite temperature running of the 2PI coupling constant. This result may apply for the finite temperature behavior of the coupling constant in QED, too.

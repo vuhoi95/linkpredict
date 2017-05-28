@@ -1,0 +1,4 @@
+Paper: 11075562
+Title: Hamilton-Jacobi Renormalization for Lifshitz Spacetime
+Authors: Marco Baggio and Jan de Boer and Kristian Holsheimer
+Abstract: Just like AdS spacetimes, Lifshitz spacetimes require counterterms in order to make the on-shell value of the bulk action finite. We study these counterterms using the Hamilton-Jacobi method. Rather than imposing boundary conditions from the start, we will derive suitable boundary conditions by requiring that divergences can be canceled using only local counterterms. We will demonstrate in examples that this procedure indeed leads to a finite bulk action while at the same time it determines the asymptotic behavior of the fields. This puts more substance to the belief that Lifshitz spacetimes are dual to well-behaved field theories. As a byproduct, we will find the analogue of the conformal anomaly for Lifshitz spacetimes.

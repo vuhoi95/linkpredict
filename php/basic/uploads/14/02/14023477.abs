@@ -1,0 +1,4 @@
+Paper: 14023477
+Title: Gribov ambiguities at the Landau -- maximal Abelian interpolating gauge
+Authors: A. D. Pereira Jr and R. F. Sobreiro
+Abstract: In a previous work, we presented a new method to account for the Gribov ambiguities in non-Abelian gauge theories. The method consists on the introduction of an extra constraint which directly eliminates the infinitesimal Gribov copies without the usual geometric approach. Such strategy allows to treat gauges with non-hermitian Faddeev-Popov operator. In this work, we apply this method to a gauge which interpolates among the Landau and maximal Abelian gauges. The result is a local and power counting renormalizable action, free of infinitesimal Gribov copies. Moreover, the interpolating tree-level gluon propagator is derived.

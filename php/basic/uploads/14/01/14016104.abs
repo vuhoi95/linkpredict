@@ -1,0 +1,4 @@
+Paper: 14016104
+Title: Isomonodromic tau-functions from Liouville conformal blocks
+Authors: N. Iorgov and O. Lisovyy and J. Teschner
+Abstract: The goal of this note is to show that the Riemann-Hilbert problem to find multivalued analytic functions with $SL(2,\mathbb{C})$-valued monodromy on Riemann surfaces of genus zero with $n$ punctures can be solved by taking suitable linear combinations of the conformal blocks of Liouville theory at $c=1$. This implies a similar representation for the isomonodromic tau-function. In the case $n=4$ we thereby get a proof of the relation between tau-functions and conformal blocks discovered in \cite{GIL}. We briefly discuss a possible application of our results to the study of relations between certain $\mathcal{N}=2$ supersymmetric gauge theories and conformal field theory.

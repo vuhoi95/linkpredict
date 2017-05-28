@@ -1,0 +1,4 @@
+Paper: 13123674
+Title: Scalar Field Theory in Curved Momentum Space
+Authors: Laurent Freidel and Trevor Rempel
+Abstract: We derive an action for scalar quantum field theory with cubic interaction in the context of relative locality. Beginning with the generating functional for standard $\varphi^3$--theory and the corresponding Feynman rules we modify them to account for the non--trivial geometry of momentum space. These modified rules are then used to reconstruct the generating functional and extract the action for the theory. A method for performing a covariant Fourier transform is then developed and applied to the action. We find that the transformed fields depend implicitly on a fixed point in momentum space with fields based at different points being related by a non-local transformation. The interaction term in the action is also non--local, but the kinetic term can be made local by choosing the base point to be the origin of momentum space.

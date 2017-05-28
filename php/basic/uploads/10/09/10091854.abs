@@ -1,0 +1,4 @@
+Paper: 10091854
+Title: MHV Diagrams in Momentum Twistor Space
+Authors: Mathew Bullimore and Lionel Mason and David Skinner
+Abstract: We show that there are remarkable simplifications when the MHV diagram formalism for N=4 super Yang-Mills is reformulated in momentum twistor space. The vertices are replaced by unity while each propagator becomes a dual superconformal `R-invariant' whose arguments may be read off from the diagram. The momentum twistor MHV rules generate a formula for the full, all-loop planar integrand of the super Yang-Mills S-matrix that is manifestly dual superconformally invariant up to the choice of a reference twistor. We give a general proof of this reformulation and illustrate its use by computing the momentum twistor NMHV and NNMHV tree amplitudes and the integrands of the MHV and NMHV 1-loop and the MHV 2-loop planar amplitudes.

@@ -1,0 +1,4 @@
+Paper: 151108328
+Title: Spin structures and entanglement of two disjoint intervals in conformal  field theories
+Authors: Andrea Coser and Erik Tonni and Pasquale Calabrese
+Abstract: We reconsider the moments of the reduced density matrix of two disjoint intervals and of its partial transpose with respect to one interval for critical free fermionic lattice models. It is known that these matrices are sums of either two or four Gaussian matrices and hence their moments can be reconstructed as computable sums of products of Gaussian operators. We find that, in the scaling limit, each term in these sums is in one-to-one correspondence with the partition function of the corresponding conformal field theory on the underlying Riemann surface with a given spin structure. The analytical findings have been checked against numerical results for the Ising chain and for the XX spin chain at the critical point.

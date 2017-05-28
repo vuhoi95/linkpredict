@@ -1,0 +1,4 @@
+Paper: 160906624
+Title: Galilean invariant resummation schemes of cosmological perturbations
+Authors: Marco Peloso and Massimo Pietroni
+Abstract: Many of the methods proposed so far to go beyond Standard Perturbation Theory break invariance under time-dependent boosts (denoted here as extended Galilean Invariance, or GI). This gives rise to spurious large scale effects which spoil the small scale predictions of these approximation schemes. By using consistency relations we derive fully non-perturbative constraints that GI imposes on correlation functions. We then introduce a method to quantify the amount of GI breaking of a given scheme, and to correct it by properly tailored counterterms. Finally, we formulate resummation schemes which are manifestly GI, discuss their general features, and implement them in the so called Time-Flow, or TRG, equations.

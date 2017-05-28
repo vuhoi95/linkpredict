@@ -1,0 +1,4 @@
+Paper: 13053677
+Title: Quillen superconnections and connections on supermanifolds
+Authors: J. V. Beltrán and J. Monterde and J. A. Vallejo
+Abstract: Given a supervector bundle $E = E_0\oplus E_1 \to M$, we exhibit a parametrization of Quillen superconnections on $E$ by graded connections on the Cartan-Koszul supermanifold $(M;\Omega (M))$. The relation between the curvatures of both kind of connections, and their associated Chern classes, is discussed in detail. In particular, we find that Chern classes for graded vector bundles on split supermanifolds can be computed through the associated Quillen superconnections.

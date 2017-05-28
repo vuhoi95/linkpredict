@@ -1,0 +1,4 @@
+Paper: 9512212
+Title: Homology in Abelian Lattice Models
+Authors: Mark Rakowski and Siddhartha Sen
+Abstract: We study abelian lattice gauge theory defined on a simplicial complex with arbitrary topology. The use of dual objects allows one to reformulate the theory in terms of new dynamical variables; however, we avoid the use of the dual lattice entirely. Topological modes which are present in the transformation now appear as homology classes, in contrast to the cohomology modes found in the dual cell picture. Irregularities of dual cell complexes do not arise in this approach. We treat the two and three dimensional cases in detail.

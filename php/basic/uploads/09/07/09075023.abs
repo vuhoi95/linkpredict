@@ -1,0 +1,4 @@
+Paper: 09075023
+Title: On the Stress Tensor of Kerr/CFT
+Authors: Aaron J. Amsel and Donald Marolf and Matthew M. Roberts
+Abstract: The recently-conjectured Kerr/CFT correspondence posits a field theory dual to dynamics in the near-horizon region of an extreme Kerr black hole with certain boundary conditions. We construct a boundary stress tensor for this theory via covariant phase space techniques. The structure of the stress tensor indicates that any dual theory is a discrete light cone quantum theory, in agreement with recent arguments by Balasubramanian et al. The key technical step in our construction is the addition of an appropriate counter-term to the symplectic structure, which is necessary to make the theory fully covariant and to resolve a subtle problem involving the integrability of charges.

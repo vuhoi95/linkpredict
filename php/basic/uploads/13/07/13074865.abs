@@ -1,0 +1,4 @@
+Paper: 13074865
+Title: Lax matrix solution of c=1 Conformal Field Theory
+Authors: Bertrand Eynard and Sylvain Ribault
+Abstract: To a correlation function in a two-dimensional conformal field theory with the central charge $c=1$, we associate a matrix differential equation $\Psi' = L \Psi$, where the Lax matrix $L$ is a matrix square root of the energy-momentum tensor. Then local conformal symmetry implies that the differential equation is isomonodromic. This provides a justification for the recently observed relation between four-point conformal blocks and solutions of the Painlev\'e VI equation. This also provides a direct way to compute the three-point function of Runkel-Watts theory -- the common $c\rightarrow 1$ limit of Minimal Models and Liouville theory.

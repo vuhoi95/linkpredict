@@ -1,0 +1,4 @@
+Paper: 9410189
+Title: Finite dimensional representations of quantum affine algebras at roots  of unity
+Authors: Jonathan Beck and Victor G. Kac
+Abstract: We describe explicitly the canonical map $\chi:$ Spec $\ue(\a{g})\ \rightarrow \ $Spec $\ze$, where $\ue(\a{g})$ is a quantum loop algebra at an odd root of unity $\ve$. Here $\ze$ is the center of $\ue(\a{g})$ and Spec $R$ stands for the set of all finite--dimensional irreducible representations of an algebra $R$. We show that Spec $\ze$ is a Poisson proalgebraic group which is essentially the group of points of $G$ over the regular adeles concentrated at $0$ and $\infty$. Our main result is that the image under $\chi$ of Spec $\ue(\a{g})$ is the subgroup of principal adeles.

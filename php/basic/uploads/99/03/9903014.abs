@@ -1,0 +1,4 @@
+Paper: 9903014
+Title: Monte Carlo simulation of SU(2) Yang-Mills theory with light gluinos
+Authors: I. Campos and A. Feo and R. Kirchner and S. Luckmann and I. Montvay and G. Münster and K. Spanderen and J. Westphalen
+Abstract: In a numerical Monte Carlo simulation of SU(2) Yang-Mills theory with light dynamical gluinos the low energy features of the dynamics as confinement and bound state mass spectrum are investigated. The motivation is supersymmetry at vanishing gluino mass. The performance of the applied two-step multi-bosonic dynamical fermion algorithm is discussed.

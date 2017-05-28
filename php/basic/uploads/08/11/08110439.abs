@@ -1,0 +1,4 @@
+Paper: 08110439
+Title: Hidden Grassmann Structure in the XXZ Model III: Introducing Matsubara  direction
+Authors: M. Jimbo and T. Miwa and F. Smirnov
+Abstract: We address the problem of computing temperature correlation functions of the XXZ chain, within the approach developed in our previous works. In this paper we calculate the expected values of a fermionic basis of quasi-local operators, in the infinite volume limit while keeping the Matsubara (or Trotter) direction finite. The result is expressed in terms of two basic quantities: a ratio $\rho(\z)$ of transfer matrix eigenvalues, and a nearest neighbour correlator $\omega(\z,\xi)$. We explain that the latter is interpreted as the canonical second kind differential in the theory of deformed Abelian integrals.

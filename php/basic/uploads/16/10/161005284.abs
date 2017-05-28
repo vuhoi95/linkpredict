@@ -1,0 +1,4 @@
+Paper: 161005284
+Title: Statistical mechanics approach to lattice field theory
+Authors: Arturo Amador and Johan Skule Høye and Kåre Olaussen
+Abstract: The mean spherical approximation (MSA) is a closure relation for pair correlation functions (two-point functions) in statistical physics. It can be applied to a wide range of systems, is computationally fairly inexpensive, and when properly applied and interpreted lead to rather good results. In this paper we promote its applicability to euclidean quantum field theories formulated on a lattice, by demonstrating how it can be used to locate the critical lines of a class of multi-component bosonic models. The MSA has the potential to handle models lacking a positive definite integration measure, which therefore are difficult to investigate by Monte-Carlo simulations.

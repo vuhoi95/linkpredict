@@ -1,0 +1,4 @@
+Paper: 9904413
+Title: Small-scale properties of the KPZ equation and dynamical symmetry  breaking
+Authors: David Hochberg and Carmen Molina-Paris and Juan Perez-Mercader and Matt Visser
+Abstract: A functional integral technique is used to study the ultraviolet or short distance properties of the Kardar-Parisi-Zhang (KPZ) equation with white Gaussian noise. We apply this technique to calculate the one-loop effective potential for the KPZ equation. The effective potential is (at least) one-loop ultraviolet renormalizable in 1, 2, and 3 space dimensions, but non-renormalizable in 4 or higher space dimensions. This potential is intimately related to the probability distribution function (PDF) for the spacetime averaged field. For the restricted class of field configurations considered here, the KPZ equation exhibits dynamical symmetry breaking (DSB) via an analog of the Coleman-Weinberg mechanism in 1 and 2 space dimensions, but not in 3 space dimensions.

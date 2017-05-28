@@ -1,0 +1,4 @@
+Paper: 11025356
+Title: The H=xp model revisited and the Riemann zeros
+Authors: German Sierra and Javier Rodriguez-Laguna
+Abstract: Berry and Keating conjectured that the classical Hamiltonian H = xp is related to the Riemann zeros. A regularization of this model yields semiclassical energies that behave, in average, as the non trivial zeros of the Riemann zeta function. However, the classical trajectories are not closed, rendering the model incomplete. In this paper, we show that the Hamiltonian H = x (p + l_p^2/p) contains closed periodic orbits, and that its spectrum coincides with the average Riemann zeros. This result is generalized to Dirichlet L-functions using different self-adjoint extensions of H. We discuss the relation of our work to Polya's fake zeta function and suggest an experimental realization in terms of the Landau model.

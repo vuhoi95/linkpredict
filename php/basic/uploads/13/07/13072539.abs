@@ -1,0 +1,4 @@
+Paper: 13072539
+Title: A fully dynamical simulation of central nuclear collisions
+Authors: Wilke van der Schee and Paul Romatschke and Scott Pratt
+Abstract: We present a fully dynamical simulation of central nuclear collisions around mid-rapidity at LHC energies. Unlike previous treatments, we simulate all phases of the collision, including the equilibration of the system. For the simulation, we use numerical relativity solutions to AdS/CFT for the pre-equilibrium stage, viscous hydrodynamics for the plasma equilibrium stage and kinetic theory for the low density hadronic stage. Our pre-equilibrium stage provides initial conditions for hydrodynamics, resulting in sizable radial flow. The resulting light particle spectra reproduce the measurements from the ALICE experiment at all transverse momenta.

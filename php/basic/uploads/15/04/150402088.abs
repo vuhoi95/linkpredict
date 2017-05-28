@@ -1,0 +1,4 @@
+Paper: 150402088
+Title: String structures associated to indefinite Lie groups
+Authors: Hisham Sati and Hyung-bo Shim
+Abstract: String structures have played an important role in algebraic topology, via elliptic genera and elliptic cohomology, in differential geometry, via the study of higher geometric structures, and in physics, via partition functions. We extend the description of String structures from connected covers of the definite-signature orthogonal group ${\rm O}(n)$ to the indefinite-signature orthogonal group O(p, q), i.e. from the Riemannian to the pseudo-Riemannian setting. This requires that we work at the unstable level, which makes the discussion more subtle than the stable case. Similar, but much simpler, constructions hold for other noncompact Lie groups such as the unitary group U(p, q) and the symplectic group Sp(p, q). This extension provides a starting point for an abundance of constructions in (higher) geometry and applications in physics.

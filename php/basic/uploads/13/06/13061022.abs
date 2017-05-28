@@ -1,0 +1,4 @@
+Paper: 13061022
+Title: Combinatorial Hopf algebra for the Ben Geloun-Rivasseau tensor field  theory
+Authors: Matti Raasakka and Adrian Tanasa
+Abstract: The Ben Geloun-Rivasseau quantum field theoretical model is the first tensor model shown to be perturbatively renormalizable. We define here an appropriate Hopf algebra describing the combinatorics of this new tensorial renormalization. The structure we propose is significantly different from the previously defined Connes-Kreimer combinatorial Hopf algebras due to the involved combinatorial and topological properties of the tensorial Feynman graphs. In particular, the 2- and 4-point function insertions must be defined to be non-trivial only if the superficial divergence degree of the associated Feynman integral is conserved.

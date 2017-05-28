@@ -1,0 +1,4 @@
+Paper: 10103419
+Title: Information Causality and Noisy Computations
+Authors: Li-Yi Hsu and I-Ching Yu and Feng-Li Lin
+Abstract: We reformulate the information causality in a more general framework by adopting the results of signal propagation and computation in a noisy circuit. In our framework, the information causality leads to a broad class of Tsirelson inequalities. This fact allows us to subject information causality to experimental scrutiny. A no-go theorem for reliable nonlocal computation is also derived. Information causality prevents any physical circuit from performing reliable computations.

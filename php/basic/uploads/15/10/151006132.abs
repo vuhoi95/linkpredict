@@ -1,0 +1,4 @@
+Paper: 151006132
+Title: Space-time renormalization in phase transition dynamics
+Authors: Anna Francuz and Jacek Dziarmaga and Bartlomiej Gardas and Wojciech H. Zurek
+Abstract: When a system is driven across a quantum critical point at a constant rate its evolution must become non-adiabatic as the relaxation time $\tau$ diverges at the critical point. According to the Kibble-Zurek mechanism (KZM), the emerging post-transition excited state is characterized by a finite correlation length $\hat\xi$ set at the time $\hat t=\hat \tau$ when the critical slowing down makes it impossible for the system to relax to the equilibrium defined by changing parameters. This observation naturally suggests a dynamical scaling similar to renormalization familiar from the equilibrium critical phenomena. We provide evidence for such KZM-inspired spatiotemporal scaling by investigating an exact solution of the transverse field quantum Ising chain in the thermodynamic limit.

@@ -1,0 +1,4 @@
+Paper: 10116024
+Title: Comparing space+time decompositions in the post-Newtonian limit
+Authors: Barak Kol and Michele Levi and Michael Smolkin
+Abstract: The relationship between the Arnowitt-Deser-Misner (ADM) field decomposition and the non-relativistic gravitational (NRG) fields attracted considerable interest recently. This paper compares the two, especially with respect to computing the two-body post-Newtonian (PN) effective action within the effective field theory (EFT) approach. Both are space+time decompositions and hence do better than using the standard metric. However, ADM is essentially a reduction over space whereas NRG is essentially a reduction over time. We use a variant of ADM which is linearly equivalent to NRG and the two are identical at order 1PN. We compare the two at order 2PN and find that ADM requires the computation of an additional Feynman diagram. We argue that the computational excess will further increase at higher orders.

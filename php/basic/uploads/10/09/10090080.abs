@@ -1,0 +1,4 @@
+Paper: 10090080
+Title: Generic master equations for quasi-normal frequencies
+Authors: Jozef Skakala and Matt Visser
+Abstract: Generic master equations governing the highly-damped quasi-normal frequencies [QNFs] of one-horizon, two-horizon, and even three-horizon spacetimes can be obtained through either semi-analytic or monodromy techniques. While many technical details differ, both between the semi-analytic and monodromy approaches, and quite often among various authors seeking to apply the monodromy technique, there is nevertheless widespread agreement regarding the the general form of the QNF master equations. Within this class of generic master equations we can establish some rather general results, relating the existence of "families" of QNFs of the form omega_{a,n} = (offset)_a + i n (gap) to the question of whether or not certain ratios of parameters are rational or irrational.

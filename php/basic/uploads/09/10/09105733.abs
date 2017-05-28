@@ -1,0 +1,4 @@
+Paper: 09105733
+Title: Decoherence in an Interacting Quantum Field Theory: The Vacuum Case
+Authors: Jurjen F. Koksma and Tomislav Prokopec and Michael G. Schmidt
+Abstract: We apply the decoherence formalism to an interacting scalar field theory. In the spirit of the decoherence literature, we consider a "system field" and an "environment field" that interact via a cubic coupling. We solve for the propagator of the system field, where we include the self-energy corrections due to the interaction with the environment field. In this paper, we consider an environment in the vacuum state (T=0). We show that neglecting inaccessible non-Gaussian correlators increases the entropy of the system as perceived by the observer. Moreover, we consider the effect of a changing mass of the system field in the adiabatic regime, and we find that at late times no additional entropy has been generated.

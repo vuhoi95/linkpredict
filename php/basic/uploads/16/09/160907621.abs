@@ -1,0 +1,4 @@
+Paper: 160907621
+Title: A differential operator for integrating one-loop scattering equations
+Authors: Gang Chen and Yeuk-Kwan E. Cheung and Tianheng Wang and Feng Xu
+Abstract: We propose a differential operator for computing the residues associated with a class of meromorphic $n$-forms that frequently appear in the Cachazo-He-Yuan form of the scattering amplitudes. This differential operator is conjectured to be uniquely determined by the local duality theorem and the intersection number of the divisors in the $n$-form. We use the operator to evaluate the tree-level amplitude of $\phi^3$ theory and the one-loop integrand of Yang-Mills theory from their CHY forms. The method can reduce the complexity of the calculation. In addition, the expression for the 1-loop four-point Yang-Mills integrand obtained in our approach has a clear correspondence with the Q-cut results.

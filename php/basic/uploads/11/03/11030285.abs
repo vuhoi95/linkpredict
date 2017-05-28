@@ -1,0 +1,4 @@
+Paper: 11030285
+Title: Cosmological UV/IR Divergences and de-Sitter Spacetime
+Authors: Wei Xue and Keshav Dasgupta and Robert Brandenberger
+Abstract: We consider one loop graviton corrections to scalar field Green's functions in the de Sitter phase of an inflationary space-time, a topic relevant to the computation of cosmological observables beyond linear order. By embedding de-Sitter space into an ultraviolet complete theory such as M-theory we argue that the ultraviolet (UV) cutoff of the effective field theory should be taken to be fixed in physical coordinates, whereas the infrared (IR) cutoff is expanding as space expands. In this context, we demonstrate how to implement three different regularization schemes -- the brute force cutoff regularization, dimensional regularization and Pauli-Villars regularization -- obtaining the same result for the scalar propagator if we use any of the three regularization schemes.

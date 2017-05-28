@@ -1,0 +1,4 @@
+Paper: 160108143
+Title: mr: a C++ library for the matching and running of the Standard Model  parameters
+Authors: Bernd A. Kniehl and Andrey F. Pikelner and Oleg L. Veretin
+Abstract: We present the C++ program library mr that allows us to reliably calculate the values of the running parameters in the Standard Model at high energy scales. The initial conditions are obtained by relating the running parameters in the $\overline{\mathrm{MS}}$ renormalization scheme to observables at lower energies with full two-loop precision. The evolution is then performed in accordance with the renormalization group equations with full three-loop precision. Pure QCD corrections to the matching and running are included through four loops. We also provide a Mathematica interface for this program library.

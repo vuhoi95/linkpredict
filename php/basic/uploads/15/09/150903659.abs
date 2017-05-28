@@ -1,0 +1,4 @@
+Paper: 150903659
+Title: On quantization in light-cone variables compatible with wavelet  transform
+Authors: M. V. Altaisky and N. E. Kaputkina
+Abstract: Canonical quantization of quantum field theory models is inherently related to the Lorentz invariant partition of classical fields into the positive and the negative frequency parts $u(x) = u^+(x) + u^-(x),$ performed with the help of Fourier transform in Minkowski space. That is the commutation relations are being established between non localized solutions of field equations. At the same time the construction of divergence free physical theory requires the separation of the contributions of different space-time scales. In present paper, using the light-cone variables, we propose a quantization procedure which is compatible with separation of scales using continuous wavelet transform, as described in our previous paper Phys.Rev D 88(2013)025015

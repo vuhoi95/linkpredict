@@ -1,0 +1,4 @@
+Paper: 160905018
+Title: Intermediate Field Representation for Positive Matrix and Tensor  Interactions
+Authors: Luca Lionni and Vincent Rivasseau
+Abstract: In this paper we introduce an intermediate field representation for random matrices and random tensors with positive (stable) interactions of degree higher than 4. This representation respects the symmetry axis responsible for positivity. It is non-perturbative and allows to prove that such models are Borel-Le Roy summable of the appropriate order in their coupling constant. However we have not been able yet to associate a convergent Loop Vertex Expansion to this representation, hence our Borel summability result is not of the optimal expected form when the size N of the matrix or of the tensor tends to infinity.

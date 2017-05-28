@@ -1,0 +1,4 @@
+Paper: 9511083
+Title: Analytic Formulations of the Density Matrix Renormalization Group
+Authors: Miguel A. Martin-Delgado and German Sierra
+Abstract: We present two new analytic formulations of the Density Matrix Renormalization Group Method. In these formulations we combine the block renormalization group (BRG) procedure with Variational and Fokker-Planck methods. The BRG method is used to reduce the lattice size while the latter are used to construct approximate target states to compute the block density matrix. We apply our DMRG methods to the Ising Model in a transverse field (ITF model) and compute several of its critical properties which are then compared with the old BRG results.

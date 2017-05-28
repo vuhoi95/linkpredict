@@ -1,0 +1,4 @@
+Paper: 9705236
+Title: Monte Carlo Simulation of the Short-time Behaviour of the Dynamic XY  Model
+Authors: K. Okano and L. Schuelke and K. Yamagishi and B. Zheng
+Abstract: Dynamic relaxation of the XY model quenched from a high temperature state to the critical temperature or below is investigated with Monte Carlo methods. When a non-zero initial magnetization is given, in the short-time regime of the dynamic evolution the critical initial increase of the magnetization is observed. The dynamic exponent $\theta$ is directly determined. The results show that the exponent $\theta$ varies with respect to the temperature. Furthermore, it is demonstrated that this initial increase of the magnetization is universal, i.e. independent of the microscopic details of the initial configurations and the algorithms.

@@ -1,0 +1,4 @@
+Paper: 07111906
+Title: Loop groups and twisted K-theory I
+Authors: Daniel S. Freed and Michael J. Hopkins and Constantin Teleman
+Abstract: This is the first in a series of papers investigating the relationship between the twisted equivariant K-theory of a compact Lie group G and the "Verlinde ring" of its loop group. In this paper we set up the foundations of twisted equivariant K-groups, and more generally twisted K-theory of groupoids. We establish enough basic properties to make effective computations. Using the Mayer-Vietoris spectral sequence we compute the twisted equivariant K-groups of a compact connected Lie group G with torsion free fundamental group. We relate this computation to the representation theory of the loop group at a level related to the twisting.

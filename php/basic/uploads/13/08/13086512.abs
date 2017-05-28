@@ -1,0 +1,4 @@
+Paper: 13086512
+Title: Critical Behaviour of the Fuzzy Sphere
+Authors: Denjoe O'Connor and Brian P. Dolan and Martin Vachovski
+Abstract: We study a multi-matrix model whose low temperature phase is a fuzzy sphere that undergoes an evaporation transition as the temperature is increased. We investigate finite size scaling of the system as the limiting temperature of stability of the fuzzy sphere phase is approached. We find on theoretical grounds that the system should obey scaling with specific heat exponent \alpha=1/2, shift exponent \bar \lambda=4/3 and that the peak in the specific heat grows with exponent \bar \omega=2/3. Using hybrid Monte Carlo simulations we find good collapse of specific heat data consistent with a scaling ansatz which give our best estimates for the scaling exponents as \alpha=0.50 \pm 0.01,\bar \lambda=1.41 \pm 0.08 and \bar \omega=0.66 \pm 0.08 .

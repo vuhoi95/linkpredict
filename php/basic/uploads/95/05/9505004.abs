@@ -1,0 +1,4 @@
+Paper: 9505004
+Title: Toda Hierarchy with Indefinite Metric
+Authors: Yuji Kodama and Jian Ye
+Abstract: We consider a generalization of the full symmetric Toda hierarchy where the matrix $\tilde {L}$ of the Lax pair is given by $\tilde {L}=LS$, with a full symmetric matrix $L$ and a nondegenerate diagonal matrix $S$. The key feature of the hierarchy is that the inverse scattering data includes a class of noncompact groups of matrices, such as $O(p,q)$. We give an explicit formula for the solution to the initial value problem of this hierarchy. The formula is obtained by generalizing the orthogonalization procedure of Szeg\"{o}, or the QR factorization method of Symes. The behaviors of the solutions are also studied. Generically, there are two types of solutions, having either sorting property or blowing up to infinity in finite time. The $\tau$-function structure for the tridiagonal hierarchy is also studied.

@@ -1,0 +1,4 @@
+Paper: 9407024
+Title: Ising Spins on Thin Graphs
+Authors: C. F. Baillie and D. A. Johnston and J-P. Kownacki
+Abstract: The Ising model on ``thin'' graphs (standard Feynman diagrams) displays several interesting properties. For ferromagnetic couplings there is a mean field phase transition at the corresponding Bethe lattice transition point. For antiferromagnetic couplings the replica trick gives some evidence for a spin glass phase. In this paper we investigate both the ferromagnetic and antiferromagnetic models with the aid of simulations. We confirm the Bethe lattice values of the critical points for the ferromagnetic model on $\phi^3$ and $\phi^4$ graphs and examine the putative spin glass phase in the antiferromagnetic model by looking at the overlap between replicas in a quenched ensemble of graphs. We also compare the Ising results with those for higher state Potts models and Ising models on ``fat'' graphs, such as those used in 2D gravity simulations.

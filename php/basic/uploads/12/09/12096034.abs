@@ -1,0 +1,4 @@
+Paper: 12096034
+Title: Diagonal multi-soliton matrix elements in finite volume
+Authors: T. Pálmai and G. Takács
+Abstract: We consider diagonal matrix elements of local operators between multi-soliton states in finite volume in the sine-Gordon model, and formulate a conjecture regarding their finite size dependence which is valid up to corrections exponential in the volume. This conjecture extends the results of Pozsgay and Tak\'acs which were only valid for diagonal scattering. In order to test the conjecture we implement a numerical renormalization group improved truncated conformal space approach. The numerical comparisons confirm the conjecture, which is expected to be valid for general integrable field theories. The conjectured formula can be used to evaluate finite temperature one-point and two-point functions using recently developed methods.

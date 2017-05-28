@@ -1,0 +1,4 @@
+Paper: 10090472
+Title: Towards a Basis for Planar Two-Loop Integrals
+Authors: Janusz Gluza and Krzysztof Kajda and David A. Kosower
+Abstract: The existence of a finite basis of algebraically independent one-loop integrals has underpinned important developments in the computation of one-loop amplitudes in field theories and gauge theories in particular. We give an explicit construction reducing integrals to a finite basis for planar integrals at two loops, both to all orders in the dimensional regulator e, and also when all integrals are truncated to O(e). We show how to reorganize integration-by-parts equations to obtain elements of the first basis efficiently, and how to use Gram determinants to obtain additional linear relations reducing this all-orders basis to the second one. The techniques we present should apply to non-planar integrals, to integrals with massive propagators, and beyond two loops as well.

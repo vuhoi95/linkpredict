@@ -1,0 +1,4 @@
+Paper: 11102662
+Title: Spinors: a Mathematica package for doing spinor calculus in General  Relativity
+Authors: Alfonso García-Parrado Gómez-Lobo and José M. Martín-García
+Abstract: The "Spinors" software is a "Mathematica" package which implements 2-component spinor calculus as devised by Penrose for General Relativity in dimension 3+1. The "Spinors" software is part of the "xAct" system, which is a collection of "Mathematica" packages to do tensor analysis by computer. In this paper we give a thorough description of "Spinors" and present practical examples of use.

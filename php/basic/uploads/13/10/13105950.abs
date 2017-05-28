@@ -1,0 +1,4 @@
+Paper: 13105950
+Title: A covariant variational approach to Yang-Mills Theory
+Authors: Markus Quandt and Hugo Reinhardt and Jan Heffner
+Abstract: We investigate the low-order Green's functions of SU(N) Yang-Mills theory in Landau gauge, using a covariant variational principle based on the effective action formalism. Employing an approximation to the Faddeev-Popov determinant established previously in the Hamiltonian approach in Coulomb gauge leads to a closed set of integral equations for the ghost and gluon propagator. We carry out the renormalization and the infrared analysis of this system of equations. Finally, we solve the renormalized system numerically and compare with lattice results and other functional approaches.

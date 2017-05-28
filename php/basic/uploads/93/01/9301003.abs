@@ -1,0 +1,4 @@
+Paper: 9301003
+Title: Measuring the Decorrelation Times of Fourier Modes in Simulations
+Authors: R. Ben-Av and G. Bhanot
+Abstract: We describe a method to study the rate at which modes decorrelate in numerical simulations. We study the XY model updated with the Metropolis and Wolff dynamics respectively and compute the rate at which each eigenvector of the dynamics decorrelates. Our method allows us to identify the decorrelation time for each mode separately. We find that the autocorrelation function of the various modes is markedly different for the `local' Metropolis compared to the `non-local' Wolff dynamics. Equipped with this new insight, it may be possible to devise highly efficient algorithms.

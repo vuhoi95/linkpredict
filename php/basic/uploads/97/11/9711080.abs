@@ -1,0 +1,4 @@
+Paper: 9711080
+Title: The stability of the O(N) invariant fixed point in three dimensions
+Authors: M. Caselle and M. Hasenbusch
+Abstract: We study the stability of the O(N) fixed point in three dimensions under perturbations of the cubic type. We address this problem in the three cases $N=2,3,4$ by using finite size scaling techniques and high precision Monte Carlo simulations. It is well know that there is a critical value $2<N_c<4$ below which the O(N) fixed point is stable and above which the cubic fixed point becomes the stable one. While we cannot exclude that $N_c<3$, as recently claimed by Kleinert and collaborators, our analysis strongly suggests that $N_c$ coincides with 3.

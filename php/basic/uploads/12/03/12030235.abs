@@ -1,0 +1,4 @@
+Paper: 12030235
+Title: Branching rate expansion around annihilating random walks
+Authors: Federico Benitez and Nicolas Wschebor
+Abstract: We present some exact results for branching and annihilating random walks. We compute the nonuniversal threshold value of the annihilation rate for having a phase transition in the simplest reaction-diffusion system belonging to the directed percolation universality class. Also, we show that the accepted scenario for the appearance of a phase transition in the parity conserving universality class must be improved. In order to obtain these results we perform an expansion in the branching rate around pure annihilation, a theory without branching. This expansion is possible because we manage to solve pure annihilation exactly in any dimension.

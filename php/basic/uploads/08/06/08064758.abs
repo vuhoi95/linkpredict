@@ -1,0 +1,4 @@
+Paper: 08064758
+Title: Quantum corrections to energy of short spinning string in AdS5
+Authors: A. Tirziu and A. A. Tseytlin
+Abstract: Motivated by desire to shed light on the strong coupling behaviour of anomalous dimensions of "short" gauge theory operators we consider the famous example of folded spinning string in AdS_5 in the limit of small semiclassical spin parameter \S = S/sqrt[lambda]. In this limit the string becomes short and is moving in a near-flat central region of AdS_5. Its energy scales with spin as E = sqrt[2 S] [ a_0 + a_1 S + a_2 S^2 + ...]. We explicitly compute the leading 1-loop quantum AdS_5 x S^5 superstring corrections to the short-string limit coefficients a_0 and a_1 and show, in particular, that a_1 receives a contribution containing \zeta(3).

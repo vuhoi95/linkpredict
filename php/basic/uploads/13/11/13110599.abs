@@ -1,0 +1,4 @@
+Paper: 13110599
+Title: Counting Conjugacy Classes of Elements of Finite Order in Lie Groups
+Authors: Tamar Friedmann and Richard P. Stanley
+Abstract: Using combinatorial techniques, we answer two questions about simple classical Lie groups. Define $N(G,m)$ to be the number of conjugacy classes of elements of finite order $m$ in a Lie group $G$, and $N(G,m,s)$ to be the number of such classes whose elements have $s$ distinct eigenvalues or conjugate pairs of eigenvalues. What is $N(G,m)$ for $G$ a unitary, orthogonal, or symplectic group? What is $N(G,m,s)$ for these groups? For some cases, the first question was answered a few decades ago via group-theoretic techniques. It appears that the second question has not been asked before; here it is inspired by questions related to enumeration of vacua in string theory. Our combinatorial methods allow us to answer both questions.

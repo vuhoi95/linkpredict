@@ -1,0 +1,4 @@
+Paper: 09033110
+Title: Saddle Points in the Auxiliary Field Method
+Authors: Hiroki Aono and Taro Kashiwa
+Abstract: Investigations are made on the saddle point calculations (SPC) under the auxiliary field method in path integrations. Two different ways of SPC are considered, Method(I) and Method(II), to be checked in an integral representation of the Gamma function, \Gamma (N), as a bosonic example and in a four-fermi type of Grassmann integral where one "fermion mass" \omega_0 differs from the other N-degenerate species. The recipe of Method(I) seems rather complicated than that of (II) superficially, but the case turns out to be opposite in the actual situation. A general formalism allows us to calculate for \Gamma (N) up to O(1/N^{14}). It is found that both happen to coincide in the bosonic case but in the fermionic case Method(II) shows a huge deviation in the weak coupling region where \omega_0 \ll 1.

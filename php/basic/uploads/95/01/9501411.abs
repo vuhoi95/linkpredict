@@ -1,0 +1,4 @@
+Paper: 9501411
+Title: Numerical cancellation of photon quadratic divergence in the study of  the Schwinger-Dyson equations in Strong Coupling QED
+Authors: J. C. R. Bloch and M. R. Pennington
+Abstract: The behaviour of the photon renormalization function in strong coupling QED has been recently studied by Kondo, Mino and Nakatani. We find that the sharp decrease in its behaviour at intermediate photon momenta is an artefact of the method used to remove the quadratic divergence in the vacuum polarization. We discuss how this can be avoided in numerical studies of the Schwinger-Dyson equations.

@@ -1,0 +1,4 @@
+Paper: 150505448
+Title: Yang-Mills moduli space in the adiabatic limit
+Authors: Olaf Lechtenfeld and Alexander D. Popov
+Abstract: We consider the Yang-Mills equations for a matrix gauge group $G$ inside the future light cone of 4-dimensional Minkowski space, which can be viewed as a Lorentzian cone $C(H^3)$ over the 3-dimensional hyperbolic space $H^3$. Using the conformal equivalence of $C(H^3)$ and the cylinder $R\times H^3$, we show that, in the adiabatic limit when the metric on $H^3$ is scaled down, classical Yang-Mills dynamics is described by geodesic motion in the infinite-dimensional group manifold $C^\infty (S^2_\infty,G)$ of smooth maps from the boundary 2-sphere $S^2_\infty=\partial H^3$ into the gauge group $G$.

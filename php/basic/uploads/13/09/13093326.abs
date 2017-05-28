@@ -1,0 +1,4 @@
+Paper: 13093326
+Title: A non-perturbative study of massive gauge theories
+Authors: Michele Della Morte and Pilar Hernandez
+Abstract: We consider a non-perturbative formulation of an SU(2) massive gauge theory on a space-time lattice, which is also a discretised gauged non-linear chiral model. The lattice model is shown to have an exactly conserved global SU(2) symmetry. If a scaling region for the lattice model exists and the lightest degrees of freedom are spin one vector particles with the same quantum numbers as the conserved current, we argue that the most general effective theory describing their low-energy dynamics must be a massive gauge theory. We present results of a exploratory numerical simulation of the model and find indications for the presence of a scaling region where both a triplet vector and a scalar remain light.

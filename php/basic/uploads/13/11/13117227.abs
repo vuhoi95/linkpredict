@@ -1,0 +1,4 @@
+Paper: 13117227
+Title: A superasymptotic formula for the number of plane partitions
+Authors: Suresh Govindarajan and Naveen S. Prabhakar
+Abstract: We revisit a formula for the number of plane partitions due to Almkvist. Using the circle method, we provide modifications to his formula along with estimates of the errors. We show that the improved formula continues to be an asymptotic series. Nevertheless, an optimal truncation (i.e., superasymptotic) of the formula provides exact numbers of plane partitions for all positive integers n <6400 and numbers with estimated errors for larger values. For instance, the formula correctly reproduces 305 of the 316 digits of the numbers of plane partitions of 6999 as predicted by the estimated error. We believe that an hyperasymptotic truncation might lead to exact numbers for positive integers up to 50000.

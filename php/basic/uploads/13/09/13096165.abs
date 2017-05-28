@@ -1,0 +1,4 @@
+Paper: 13096165
+Title: Heisenberg XXX Model with General Boundaries: Eigenvectors from  Algebraic Bethe Ansatz
+Authors: Samuel Belliard and Nicolas Crampé
+Abstract: We propose a generalization of the algebraic Bethe ansatz to obtain the eigenvectors of the Heisenberg spin chain with general boundaries associated to the eigenvalues and the Bethe equations found recently by Cao et al. The ansatz takes the usual form of a product of operators acting on a particular vector except that the number of operators is equal to the length of the chain. We prove this result for the chains with small length. We obtain also an off-shell equation (i.e. satisfied without the Bethe equations) formally similar to the ones obtained in the periodic case or with diagonal boundaries.

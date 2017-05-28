@@ -1,0 +1,4 @@
+Paper: 10105487
+Title: Spinor Helicity and Dual Conformal Symmetry in Ten Dimensions
+Authors: Simon Caron-Huot and Donal O'Connell
+Abstract: The spinor helicity formalism in four dimensions has become a very useful tool both for understanding the structure of amplitudes and also for practical numerical computation of amplitudes. Recently, there has been some discussion of an extension of this formalism to higher dimensions. We describe a particular implementation of the spinor-helicity method in ten dimensions. Using this tool, we study the tree-level S-matrix of ten dimensional super Yang-Mills theory, and prove that the theory enjoys a dual conformal symmetry. Implications for four-dimensional computations are discussed.

@@ -1,0 +1,4 @@
+Paper: 151102511
+Title: The Cosmic Microwave Background Radiation Power Spectrum as a Random Bit  Generator for Symmetric and Asymmetric-Key Cryptography
+Authors: Jeffrey S. Lee and Gerald B. Cleaver
+Abstract: In this note, the Cosmic Microwave Background (CMB) Radiation is shown to be capable of functioning as a Random Bit Generator, and constitutes an effectively infinite supply of truly random one-time pad values of arbitrary length. It is further argued that the CMB power spectrum potentially conforms to the FIPS 140-2 standard. Additionally, its applicability to the generation of a (n x n) random key matrix for a Vernam cipher is established.

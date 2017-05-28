@@ -1,0 +1,4 @@
+Paper: 9807029
+Title: KAM Theorem and Quantum Field Theory
+Authors: J. Bricmont and K. Gawedzki and A. Kupiainen
+Abstract: We give a new proof of the KAM theorem for analytic Hamiltonians. The proof is inspired by a quantum field theory formulation of the problem and is based on a renormalization group argument treating the small denominators inductively scale by scale. The crucial cancellations of resonances are shown to follow from the Ward identities expressing the translation invariance of the corresponding field theory.

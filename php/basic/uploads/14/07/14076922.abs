@@ -1,0 +1,4 @@
+Paper: 14076922
+Title: Exact solution and thermodynamics of a spin chain with long-range  elliptic interactions
+Authors: Federico Finkel and Artemio Gonzalez-Lopez
+Abstract: We solve in closed form the simplest (su(1|1)) supersymmetric version of Inozemtsev's elliptic spin chain, as well as its infinite (hyperbolic) counterpart. The solution relies on the equivalence of these models to a system of free spinless fermions, and on the exact computation of the Fourier transform of the resulting elliptic hopping amplitude. We also compute the thermodynamic functions of the finite (elliptic) chain and their low temperature limit, and show that the energy levels become normally distributed in the thermodynamic limit. Our results indicate that at low temperatures the su(1|1) elliptic chain behaves as a critical XX model, and deviates in an essential way from the Haldane-Shastry chain.

@@ -1,0 +1,4 @@
+Paper: 13126759
+Title: ODE/IM correspondence and modified affine Toda field equations
+Authors: Katsushi Ito and Christopher Locke
+Abstract: We study the two-dimensional affine Toda field equations for affine Lie algebra $\hat{\mathfrak{g}}$ modified by a conformal transformation and the associated linear equations. In the conformal limit, the associated linear problem reduces to a (pseudo-)differential equation. For classical affine Lie algebra $\hat{\mathfrak{g}}$, we obtain a (pseudo-)differential equation corresponding to the Bethe equations for the Langlands dual of the Lie algebra $\mathfrak{g}$, which were found by Dorey et al. in study of the ODE/IM correspondence.

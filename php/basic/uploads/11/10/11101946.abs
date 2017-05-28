@@ -1,0 +1,4 @@
+Paper: 11101946
+Title: Singular polynomials from orbit spaces
+Authors: M. Feigin and A. Silantyev
+Abstract: We consider the polynomial representation S(V*) of the rational Cherednik algebra H_c(W) associated to a finite Coxeter group W at constant parameter c. We show that for any degree d of W and nonnegative integer m the space S(V*) contains a single copy of the reflection representation V of W spanned by the homogeneous singular polynomials of degree d-1+hm, where h is the Coxeter number of W; these polynomials generate an H_c(W) submodule with the parameter c=(d-1)/h+m. We express these singular polynomials through the Saito polynomials that are flat coordinates of the Saito metric on the orbit space V/W. We also show that this exhausts all the singular polynomials in the isotypic component of the reflection representation V for any constant parameter c.

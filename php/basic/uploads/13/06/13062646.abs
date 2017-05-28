@@ -1,0 +1,4 @@
+Paper: 13062646
+Title: Non-Linear Integral Equations for the SL(2,R)/U(1) black hole sigma  model
+Authors: Constantin Candu and Yacine Ikhlef
+Abstract: It was previously established that the critical staggered XXZ spin chain provides a lattice regularization of the black hole CFT. We reconsider the continuum limit of this spin chain with the exact method of non-linear integral equations (NLIEs), paying particular attention to the effects of a singular integration kernel. With the help of the NLIEs, we rederive the continuous black hole spectrum, but also numerically match the density of states of the spin chain with that of the CFT, which is a new result. Finally, we briefly discuss the integrable structure of the black hole CFT and the identification of its massive integrable perturbation on the lattice.

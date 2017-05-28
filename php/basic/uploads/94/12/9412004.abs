@@ -1,0 +1,4 @@
+Paper: 9412004
+Title: Casorati Determinant Solutions for the Discrete Painlevé III Equation
+Authors: Kenji Kajiwara and Yasuhiro Ohta and Junkichi Satsuma
+Abstract: The discrete Painlev\'e III equation is investigated based on the bilinear formalism. It is shown that it admits the solutions expressed by the Casorati determinant whose entries are given by the discrete Bessel function. Moreover, based on the observation that these discrete Bessel functions are transformed to the $q$-Bessel functions by a simple variable transformation, we present a $q$-difference analogue of the Painlev\'e III equation.

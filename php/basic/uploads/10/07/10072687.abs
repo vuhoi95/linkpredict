@@ -1,0 +1,4 @@
+Paper: 10072687
+Title: Phase transitions in full counting statistics for periodic pumping
+Authors: Dmitri A. Ivanov and Alexander G. Abanov
+Abstract: We discuss the problem of full counting statistics for periodic pumping. The probability generating function is usually defined on a circle of the "physical" values of the counting parameter, with its periodicity corresponding to charge quantization. The extensive part of the generating function can either be an analytic function on this circle or have singularities. These two cases may be interpreted as different thermodynamic phases in time domain. We discuss several examples of phase transitions between these phases for classical and quantum systems. Finally, we prove a criterion for the "analytic" phase in the problem of a quantum pump for noninteracting fermions.

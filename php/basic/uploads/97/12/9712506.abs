@@ -1,0 +1,4 @@
+Paper: 9712506
+Title: Renormalization of nonequilibrium dynamics at large N and finite  temperature
+Authors: Juergen Baacke and Katrin Heitmann and Carsten Patzold
+Abstract: We generalize a previously proposed renormalization and computation scheme for nonequilibrium dynamics to include finite temperature and one-loop selfconsistency as arising in the large-N limit. Since such a scheme amounts essentially to tadpole summation, it also includes, at high temperature, the hard mass corrections proportional to T^2. We present some numerical examples at T=0 and at finite temperature; the results reproduce the essential features of other groups. Especially, we can confirm a recently discovered sum rule for the late time behaviour.

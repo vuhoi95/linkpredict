@@ -1,0 +1,4 @@
+Paper: 161101022
+Title: Dualization of non-abelian lattice gauge theory with Abelian Color  Cycles (ACC)
+Authors: Carlotta Marchis and Christof Gattringer
+Abstract: We discuss a new approach to strong coupling expansion and dual representations for non-abelian lattice gauge theories. The Wilson gauge action is decomposed into a sum over "abelian color cycles" (ACC), which are loops around plaquettes visiting different colors at the corners. ACCs are complex numbers and thus commute such that a dual representation of a non-abelian theory can be obtained as in the abelian case. We apply the ACC approach to SU(2) and SU(3) lattice gauge theory and exactly rewrite the two partition sums in a strong coupling series where all gauge integrals are known in closed form.

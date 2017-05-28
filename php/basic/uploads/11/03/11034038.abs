@@ -1,0 +1,4 @@
+Paper: 11034038
+Title: Dissipative hydrodynamics for relativistic multi-component systems
+Authors: Andrej El and Ioannis Bouras and Francesco Lauciello and Zhe Xu and Carsten Greiner
+Abstract: Second-order dissipative hydrodynamic equations for each component of a multi-component system are derived using the entropy principle. The shear viscosity of the whole system, appearing in the equation summed-up over all components, is related to the partial shear pressures and cannot be considered as an external parameter. We demonstrate that it is essential to solve hydrodynamic equations for each component, instead of treating a mixture as an effective one-component system with a free parameter $\eta/s$. Thus, extractions of the $\eta/s$ value of the QGP at RHIC and LHC have to be reexamined.

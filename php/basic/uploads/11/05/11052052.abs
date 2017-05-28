@@ -1,0 +1,4 @@
+Paper: 11052052
+Title: Topological recursion and mirror curves
+Authors: Vincent Bouchard and Piotr Sułkowski
+Abstract: We study the constant contributions to the free energies obtained through the topological recursion applied to the complex curves mirror to toric Calabi-Yau threefolds. We show that the recursion reproduces precisely the corresponding Gromov-Witten invariants, which can be encoded in powers of the MacMahon function. As a result, we extend the scope of the "remodeling conjecture" to the full free energies, including the constant contributions. In the process we study how the pair of pants decomposition of the mirror curves plays an important role in the topological recursion. We also show that the free energies are not, strictly speaking, symplectic invariants, and that the recursive construction of the free energies does not commute with certain limits of mirror curves.

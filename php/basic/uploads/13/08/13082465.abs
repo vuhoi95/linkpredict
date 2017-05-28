@@ -1,0 +1,4 @@
+Paper: 13082465
+Title: Five dimensional gauge theories and vertex operators
+Authors: Erik Carlsson and Nikita Nekrasov and Andrei Okounkov
+Abstract: We study supersymmetric gauge theories in five dimensions, using their relation to the K-theory of the moduli spaces of torsion free sheaves. In the spirit of the BPS/CFT correspondence the partition function and the expectation values of the chiral, BPS protected observables are given by the matrix elements and more generally by the correlation functions in some q-deformed conformal field theory in two dimensions. We show that the coupling of the gauge theory to the bi-fundamental matter hypermultiplet inserts a particular vertex operator in this theory. In this way we get a generalization of the main result of \cite{CO} to $K$-theory. The theory of interpolating Macdonald polynomials is an important tool in our construction.

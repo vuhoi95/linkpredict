@@ -1,0 +1,4 @@
+Paper: 09035284
+Title: Reduced density matrix and internal dynamics for multicomponent regions
+Authors: H. Casini and M. Huerta
+Abstract: We find the density matrix corresponding to the vacuum state of a massless Dirac field in two dimensions reduced to a region of the space formed by several disjoint intervals. We calculate explicitly its spectral decomposition. The imaginary powers of the density matrix is a unitary operator implementing an internal time flow (the modular flow). We show that in the case of more than one interval this evolution is non-local, producing both, advance in the causal structure and "teleportation" between the disjoint intervals. However, it only mixes the fields on a finite number of trajectories, one for each interval. As an application of these results we compute the entanglement entropy for the massive multi-interval case in the small mass limit.

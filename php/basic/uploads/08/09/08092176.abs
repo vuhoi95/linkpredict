@@ -1,0 +1,4 @@
+Paper: 08092176
+Title: Numerical Investigation of the 2D N=2 Wess-Zumino Model
+Authors: Christian Wozar and Georg Bergner and Tobias Kaestner and Sebastian Uhlmann and Andreas Wipf
+Abstract: We study lattice formulations of the two-dimensional N=2 Wess-Zumino model with a cubic superpotential. Discretizations with and without lattice supersymmetries are compared. We observe that the "Nicolai improvement" introduces new problems to simulations of the supersymmetric model. With high statistics we check the degeneracy of bosonic and fermionic masses on the lattice. Perturbative mass corrections to one-loop order are compared with continuum extrapolations of our lattice results in the weakly coupled regime. For intermediate couplings first results of fermionic masses in the continuum are presented where deviations from the perturbative result are observed.

@@ -1,0 +1,4 @@
+Paper: 08054832
+Title: Leading Singularities of the Two-Loop Six-Particle MHV Amplitude
+Authors: Freddy Cachazo and Marcus Spradlin and Anastasia Volovich
+Abstract: We use the leading singularity technique to determine the planar six-particle two-loop MHV amplitude in N=4 super Yang-Mills in terms of a simple basis of integrals. Our result for the parity even part of the amplitude agrees with the one recently presented in arXiv:0803.1465. The parity-odd part of the amplitude is a new result. The leading singularity technique reduces the determination of the amplitude to finding the solution to a system of linear equations. The system of equations is easily found by computing residues. We present the complete system of equations which determines the whole amplitude, and solve the two-by-two blocks analytically. Larger blocks are solved numerically in order to test the ABDK/BDS iterative structure.

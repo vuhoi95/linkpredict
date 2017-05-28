@@ -1,0 +1,4 @@
+Paper: 12034235
+Title: Numerical Algebraic Geometry: A New Perspective on String and Gauge  Theories
+Authors: Dhagash Mehta and Yang-Hui He and Jonathan D. Hauenstein
+Abstract: The interplay rich between algebraic geometry and string and gauge theories has recently been immensely aided by advances in computational algebra. However, these symbolic (Gr\"{o}bner) methods are severely limited by algorithmic issues such as exponential space complexity and being highly sequential. In this paper, we introduce a novel paradigm of numerical algebraic geometry which in a plethora of situations overcomes these short-comings. Its so-called 'embarrassing parallelizability' allows us to solve many problems and extract physical information which elude the symbolic methods. We describe the method and then use it to solve various problems arising from physics which could not be otherwise solved.

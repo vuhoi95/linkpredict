@@ -1,0 +1,4 @@
+Paper: 10116329
+Title: The SL_3 Jones polynomial of the trefoil: a case study of $q$-holonomic  sequences
+Authors: Stavros Garoufalidis and Christoph Koutschan
+Abstract: The SL_3 colored Jones polynomial of the trefoil knot is a $q$-holonomic sequence of two variables with natural origin, namely quantum topology. The paper presents an explicit set of generators for the annihilator ideal of this $q$-holonomic sequence as a case study. On the one hand, our results are new and useful to quantum topology: this is the first example of a rank 2 Lie algebra computation concerning the colored Jones polynomial of a knot. On the other hand, this work illustrates the applicability and computational power of the employed computer algebra methods.

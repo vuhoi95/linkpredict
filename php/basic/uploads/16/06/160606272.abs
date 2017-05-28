@@ -1,0 +1,4 @@
+Paper: 160606272
+Title: Universal short-time dynamics: boundary functional renormalization group  for a temperature quench
+Authors: Alessio Chiocchetta and Andrea Gambassi and Sebastian Diehl and Jamir Marino
+Abstract: We present a method to calculate short-time non-equilibrium universal exponents within the functional renormalization-group scheme. As an example, we consider the classical critical dynamics of the relaxational model A after a quench of the temperature of the system and calculate the initial slip exponent which characterizes the non-equilibrium universal short-time behaviour of both the order parameter and correlation functions. The value of this exponent is found to be consistent with the result of a perturbative dimensional expansion and of Monte Carlo simulations in three spatial dimensions.

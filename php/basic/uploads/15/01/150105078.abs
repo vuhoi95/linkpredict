@@ -1,0 +1,4 @@
+Paper: 150105078
+Title: Renormalization procedure for random tensor networks and the canonical  tensor model
+Authors: Naoki Sasakura and Yuki Sato
+Abstract: We discuss a renormalization procedure for random tensor networks, and show that the corresponding renormalization-group flow is given by the Hamiltonian vector flow of the canonical tensor model, which is a discretized model of quantum gravity. The result is the generalization of the previous one concerning the relation between the Ising model on random networks and the canonical tensor model with N=2. We also prove a general theorem which relates discontinuity of the renormalization-group flow and the phase transitions of random tensor networks.

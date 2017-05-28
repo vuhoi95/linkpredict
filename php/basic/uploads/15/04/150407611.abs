@@ -1,0 +1,4 @@
+Paper: 150407611
+Title: Off-shell hydrodynamics from holography
+Authors: Michael Crossley and Paolo Glorioso and Hong Liu and Yifan Wang
+Abstract: We outline a program for obtaining an action principle for dissipative fluid dynamics by considering the holographic Wilsonian renormalization group applied to systems with a gravity dual. As a first step, in this paper we restrict to systems with a non-dissipative horizon. By integrating out gapped degrees of freedom in the bulk gravitational system between an asymptotic boundary and a horizon, we are led to a formulation of hydrodynamics where the dynamical variables are not standard velocity and temperature fields, but the relative embedding of the boundary and horizon hypersurfaces. At zeroth order, this action reduces to that proposed by Dubovsky et al. as an off-shell formulation of ideal fluid dynamics.

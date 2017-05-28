@@ -1,0 +1,4 @@
+Paper: 150308161
+Title: Scrambling time from local perturbations of the eternal BTZ black hole
+Authors: Paweł Caputa and Joan Simón and Andrius Štikonas and Tadashi Takayanagi and Kento Watanabe
+Abstract: We compute the mutual information between finite intervals in two non-compact 2d CFTs in the thermofield double formulation after one of them has been locally perturbed by a primary operator at some time $t_\omega$ in the large $c$ limit. We determine the time scale, called the scrambling time, at which the mutual information vanishes and the original entanglement between the thermofield double gets destroyed by the perturbation. We provide a holographic description in terms of a free falling particle in the eternal BTZ black hole that exactly matches our CFT calculations. Our results hold for any time $t_\omega$. In particular, when the latter is large, they reproduce the bulk shock-wave propagation along the BTZ horizon description.

@@ -1,0 +1,4 @@
+Paper: 14063008
+Title: Bilinear equations on Painleve tau functions from CFT
+Authors: M. A. Bershtein and A. I. Shchechkin
+Abstract: In 2012 Gamayun, Iorgov, Lisovyy conjectured an explicit expression for the Painlev\'e VI $\tau$~function in terms of the Liouville conformal blocks with central charge $c=1$. We prove that proposed expression satisfies Painlev\'e VI $\tau$~function bilinear equations (and therefore prove the conjecture). The proof reduces to the proof of bilinear relations on conformal blocks. These relations were studied using the embedding of a direct sum of two Virasoro algebras into a sum of Majorana fermion and Super Virasoro algebra. In the framework of the AGT correspondence the bilinear equations on the conformal blocks can be interpreted in terms of instanton counting on the minimal resolution of $\mathbb{C}^2/\mathbb{Z}_2$ (similarly to Nakajima-Yoshioka blow-up equations).

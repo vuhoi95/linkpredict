@@ -1,0 +1,4 @@
+Paper: 160801283
+Title: Entanglement hamiltonians in two-dimensional conformal field theory
+Authors: John Cardy and Erik Tonni
+Abstract: We enumerate the cases in 2d conformal field theory where the logarithm of the reduced density matrix (the entanglement or modular hamiltonian) may be written as an integral over the energy-momentum tensor times a local weight. These include known examples and new ones corresponding to the time-dependent scenarios of a global and local quench. In these latter cases the entanglement hamiltonian depends on the momentum density as well as the energy density. In all cases the entanglement spectrum is that of the appropriate boundary CFT. We emphasize the role of boundary conditions at the entangling surface and the appearance of boundary entropies as universal O(1) terms in the entanglement entropy.

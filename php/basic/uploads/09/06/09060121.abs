@@ -1,0 +1,4 @@
+Paper: 09060121
+Title: Exceptional groups, symmetric spaces and applications
+Authors: Sergio L. Cacciatori and Bianca L. Cerchiai
+Abstract: In this article we provide a detailed description of a technique to obtain a simple parametrization for different exceptional Lie groups, such as G2, F4 and E6, based on their fibration structure. For the compact case, we construct a realization which is a generalization of the Euler angles for SU(2), while for the non compact version of G2(2)/SO(4) we compute the Iwasawa decomposition. This allows us to obtain not only an explicit expression for the Haar measure on the group manifold, but also for the cosets G2/SO(4), G2/SU(3), F4/Spin(9), E6/F4 and G2(2)/SO(4) that we used to find the concrete realization of the general element of the group. Moreover, as a by-product, in the simplest case of G2/SO(4), we have been able to compute an Einstein metric and the vielbein. The relevance of these results in physics is discussed.

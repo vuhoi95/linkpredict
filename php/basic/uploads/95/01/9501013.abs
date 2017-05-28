@@ -1,0 +1,4 @@
+Paper: 9501013
+Title: Non-Standard KP Evolution and Quantum $τ$-function
+Authors: S. Kharchev and A. Mironov and A. Morozov
+Abstract: One possible way to fix partly a ``canonical definition'' of $\tau$-functions beyond the conventional KP/Toda framework could be to postulate that evolution operators are {\it always} group elements. We discuss implications of this postulate for the first non-trivial case: fundamental representations of quantum groups $SL_q(N)$. It appears that the most suited (simple) for quantum deformation framework is some non-standard formulation of KP/Toda systems. It turns out that the postulate needs to be slightly modified to take into account that no ``nilpotent subgroups'' exist in $SL_q(N)$ for $q\neq 1$. This has some definite and simple implications for $q$-determinant-like representations of quantum $\tau$-functions.

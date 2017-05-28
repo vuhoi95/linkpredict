@@ -1,0 +1,4 @@
+Paper: 10073243
+Title: From correlation functions to Wilson loops
+Authors: Luis F. Alday and Burkhard Eden and Gregory P. Korchemsky and Juan Maldacena and Emery Sokatchev
+Abstract: We start with an n-point correlation function in a conformal gauge theory. We show that a special limit produces a polygonal Wilson loop with $n$ sides. The limit takes the $n$ points towards the vertices of a null polygonal Wilson loop such that successive distances $x^2_{i,i+1} \to 0$. This produces a fast moving particle that generates a "frame" for the Wilson loop. We explain in detail how the limit is approached, including some subtle effects from the propagation of a fast moving particle in the full interacting theory. We perform perturbative checks by doing explicit computations in N=4 super-Yang-Mills.

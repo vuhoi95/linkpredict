@@ -1,0 +1,4 @@
+Paper: 9408274
+Title: Unifying Logarithmic and Factorial Behavior in High Energy Scattering
+Authors: J. M. Cornwall and D. A. Morris
+Abstract: The elegant instanton calculus of Lipatov and others used to find factorially-divergent behavior (g^N * N!) for N*g >> 1 in g*phi^4 perturbation theory is strictly only applicable when all external momenta vanish; a description of high-energy 2 --> N scattering with N massive particles is beyond the scope of such techniques. On the other hand, a standard multiperipheral treatment of scattering with its emphasis on leading logarithms gives a reasonable picture of high-energy behavior but does not result in factorial divergences. Using a straightforward graphical analysis we present a unified picture of both these phenomena as they occur in the two-particle total cross section of g*phi^4 theory. We do not attempt to tame the unitarity violations associated with either multiperipheralism or the Lipatov technique.

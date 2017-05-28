@@ -1,0 +1,4 @@
+Paper: 14080444
+Title: Quantum dilogarithms and partition q-series
+Authors: Akishi Kato and Yuji Terashima
+Abstract: In our previous work [arXiv:1403.6569], we introduced the partition q-series for mutation loop --- a loop in exchange quiver. In this paper, we show that for certain class of mutation sequences, called reverse-ending mutation loops, a graded version of partition q-series essentially coincides with the ordered product of quantum dilogarithm associated with each mutation; the partition q-series provides a state-sum description of combinatorial Donaldson-Thomas invariants introduced by B. Keller.

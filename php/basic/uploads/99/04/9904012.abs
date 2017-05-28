@@ -1,0 +1,4 @@
+Paper: 9904012
+Title: Differential equations and duality in massless integrable field theories  at zero temperature
+Authors: P. Fendley and H. Saleur
+Abstract: Functional relations play a key role in the study of integrable models. We argue in this paper that for massless field theories at zero temperature, these relations can in fact be interpreted as monodromy relations. Combined with a recently discovered duality, this gives a way to bypass the Bethe ansatz, and compute directly physical quantities as solutions of a linear differential equation, or as integrals over a hyperelliptic curve. We illustrate these ideas in details in the case of the $c=1$ theory, and the associated boundary sine-Gordon model.

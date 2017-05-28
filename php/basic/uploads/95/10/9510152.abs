@@ -1,0 +1,4 @@
+Paper: 9510152
+Title: Surface Critical Phenomena and Scaling in the Eight-Vertex Model
+Authors: M. T. Batchelor and Y. K. Zhou
+Abstract: We give a physical interpretation of the entries of the reflection $K$-matrices of Baxter's eight-vertex model in terms of an Ising interaction at an open boundary. Although the model still defies an exact solution we nevertheless obtain the exact surface free energy from a crossing-unitarity relation. The singular part of the surface energy is described by the critical exponents $\alpha_s = 2 - \frac{\pi}{2\mu}$ and $\alpha_1 = 1 - \frac{\pi}{\mu}$, where $\mu$ controls the strength of the four-spin interaction. These values reduce to the known Ising exponents at the decoupling point $\mu=\pi/2$ and confirm the scaling relations $\alpha_s = \alpha_b + \nu$ and $\alpha_1 = \alpha_b -1$.

@@ -1,0 +1,4 @@
+Paper: 11116919
+Title: Calculating Non-adiabatic Pressure Perturbations during Multi-field  Inflation
+Authors: Ian Huston and Adam J. Christopherson
+Abstract: Isocurvature perturbations naturally occur in models of inflation consisting of more than one scalar field. In this paper we calculate the spectrum of isocurvature perturbations generated at the end of inflation for three different inflationary models consisting of two canonical scalar fields. The amount of non-adiabatic pressure present at the end of inflation can have observational consequences through the generation of vorticity and subsequently the sourcing of B-mode polarisation. We compare two different definitions of isocurvature perturbations and show how these quantities evolve in different ways during inflation. Our results are calculated using the open source Pyflation numerical package which is available to download.

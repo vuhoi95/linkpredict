@@ -1,0 +1,4 @@
+Paper: 9404082
+Title: The Numerical Sausage
+Authors: Lorenzo Belardinelli and Enrico Onofri
+Abstract: The renormalization group equation describing the evolution of the metric of the non linear sigma models poses some nice mathematical problems involving functional analysis, differential geometry and numerical analysis. We describe the techniques which allow a numerical study of the solutions in the case of a two-dimensional target space (deformation of the $O(3)\; \sigma$--model. Our analysis shows that the so-called sausages define an attracting manifold in the U(1) symmetric case, at one-loop level. The paper describes i) the known analytical solutions, ii) the spectral method which realizes the numerical integrator and allows to estimate the spectrum of zero--modes, iii) the solution of variational equations around the solutions, and finally iv) the algorithms which reconstruct the surface as embedded in $R^3$.

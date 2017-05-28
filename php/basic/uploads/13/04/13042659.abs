@@ -1,0 +1,4 @@
+Paper: 13042659
+Title: Bethe Ansatz solution of the small polaron with nondiagonal boundary  terms
+Authors: Nikos Karaiskos and André M. Grabinski and Holger Frahm
+Abstract: The small polaron with generic, nondiagonal boundary terms is investigated within the framework of quantum integrability. The fusion hierarchy of the transfer matrices and its truncation for particular values of the anisotropy parameter are both employed, so that the spectral problem is formulated in terms of a TQ equation. The solution of this equation for generic boundary conditions is based on a deformation of the diagonal case. The eigenvalues of the model are extracted and the corresponding Bethe Ansatz equations are presented. Finally, we comment on the eigenvectors of the model and explicitly compute the eigenstate of the model which evolves into the Fock vacuum when the off-diagonal boundary terms are switched off.

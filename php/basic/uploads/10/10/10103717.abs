@@ -1,0 +1,4 @@
+Paper: 10103717
+Title: Cohomology of Line Bundles: Applications
+Authors: Ralph Blumenhagen and Benjamin Jurke and Thorsten Rahn and Helmut Roschy
+Abstract: Massless modes of both heterotic and Type II string compactifications on compact manifolds are determined by vector bundle valued cohomology classes. Various applications of our recent algorithm for the computation of line bundle valued cohomology classes over toric varieties are presented. For the heterotic string, the prime examples are so-called monad constructions on Calabi-Yau manifolds. In the context of Type II orientifolds, one often needs to compute equivariant cohomology for line bundles, necessitating us to generalize our algorithm to this case. Moreover, we exemplify that the different terms in Batyrev's formula and its generalizations can be given a one-to-one cohomological interpretation. This paper is considered the third in the row of arXiv:1003.5217 and arXiv:1006.2392.

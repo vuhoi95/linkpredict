@@ -1,0 +1,4 @@
+Paper: 13074729
+Title: Polynomiality of Hurwitz numbers, Bouchard-Mariño conjecture, and a  new proof of the ELSV formula
+Authors: Petr Dunin-Barkowski and Maxim Kazarian and Nicolas Orantin and Sergey Shadrin and Loek Spitz
+Abstract: In this paper we give a new proof of the ELSV formula. First, we refine an argument of Okounkov and Pandharipande in order to prove (quasi-)polynomiality of Hurwitz numbers without using the ELSV formula (the only way to do that before used the ELSV formula). Then, using this polynomiality we give a new proof of the Bouchard-Mari\~no conjecture. After that, using the correspondence between the Givental group action and the topological recursion coming from matrix models, we prove the equivalence of the Bouchard-Mari\~no conjecture and the ELSV formula (it is a refinement of an argument by Eynard).

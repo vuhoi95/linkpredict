@@ -1,0 +1,4 @@
+Paper: 9506010
+Title: ANOMALOUS SCALING OF THE PASSIVE SCALAR
+Authors: Krzysztof Gawedzki and Antti Kupiainen
+Abstract: We establish anomalous inertial range scaling of structure functions for a model of advection of a passive scalar by a random velocity field. The velocity statistics is taken gaussian with decorrelation in time and velocity differences scaling as $|x|^{\kappa/2}$ in space, with $0\leq\kappa < 2$. The scalar is driven by a gaussian forcing acting on spatial scale $L$ and decorrelated in time. The structure functions for the scalar are well defined as the diffusivity is taken to zero and acquire anomalous scaling behavior for large pumping scales $L$. The anomalous exponent is calculated explicitly for the $4^{\m\rm th}$ structure function and for small $\kappa$ and it differs from previous predictions. For all but the second structure functions the anomalous exponents are nonvanishing.

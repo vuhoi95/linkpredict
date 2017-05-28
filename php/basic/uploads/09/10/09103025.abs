@@ -1,0 +1,4 @@
+Paper: 09103025
+Title: Numerical Evaluation of Gauge Invariants for a-gauge Solutions in Open  String Field Theory
+Authors: Isao Kishimoto and Tomohiko Takahashi
+Abstract: We evaluate gauge invariants, action and gauge invariant overlap, for numerical solutions which satisfy the "a-gauge" condition with various values of $a$ in cubic open bosonic string field theory. We use the level truncation approximation and an iterative procedure to construct numerical solutions in the twist even universal space. The resulting gauge invariants are numerically stable and almost equal to those of Schnabl's solution for tachyon condensation. Our result provides further evidence that these numerical and analytical solutions are gauge equivalent.

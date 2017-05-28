@@ -1,0 +1,4 @@
+Paper: 160609447
+Title: Integration-by-parts reductions from the viewpoint of computational  algebraic geometry
+Authors: Kasper J. Larsen and Yang Zhang
+Abstract: Integration-by-parts reductions play a central role in perturbative QFT calculations. They allow the set of Feynman integrals contributing to a given observable to be reduced to a small set of basis integrals, and they moreover facilitate the computation of those basis integrals. We introduce an efficient new method for generating integration-by-parts reductions. This method simplifies the task by making use of generalized-unitarity cuts and turns the problem of finding the needed total derivatives into one of solving certain polynomial (so-called syzygy) equations.

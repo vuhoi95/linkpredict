@@ -1,0 +1,4 @@
+Paper: 08083319
+Title: Antenna functions from MHV rules
+Authors: Claude Duhr and Fabio Maltoni
+Abstract: QCD amplitudes display a universal behaviour when one or more partons are soft and/or collinear. This can expressed in terms of antenna functions which are much simpler than the full amplitudes and yet correctly embody their infrared behaviour. We show how antenna functions can be naturally obtained via a twistor-inspired MHV approach. As an application, we present compact results for MHV and NMHV antennas functions valid for any number of gluons. These are sufficient to calculate the complete set of tree-level gluon antenna functions up to NNNLO. As an interesting corollary, we prove that splitting amplitudes too can be written directly through a MHV diagrammatic approach. Finally we find that antenna functions, collinear splitting amplitudes and eikonal factors satisfy the same kind of recursive relation as the full amplitudes.

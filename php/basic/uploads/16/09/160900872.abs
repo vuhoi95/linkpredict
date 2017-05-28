@@ -1,0 +1,4 @@
+Paper: 160900872
+Title: Entanglement Growth after a Global Quench in Free Scalar Field Theory
+Authors: Jordan S. Cotler and Mark P. Hertzberg and Márk Mezei and Mark T. Mueller
+Abstract: We compute the entanglement and R\'enyi entropy growth after a global quench in various dimensions in free scalar field theory. We study two types of quenches: a boundary state quench and a global mass quench. Both of these quenches are investigated for a strip geometry in 1, 2, and 3 spatial dimensions, and for a spherical geometry in 2 and 3 spatial dimensions. We compare the numerical results for massless free scalars in these geometries with the predictions of the analytical quasiparticle model based on EPR pairs, and find excellent agreement in the limit of large region sizes. At subleading order in the region size, we observe an anomalous logarithmic growth of entanglement coming from the zero mode of the scalar.

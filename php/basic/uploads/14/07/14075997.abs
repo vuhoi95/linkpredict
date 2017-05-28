@@ -1,0 +1,4 @@
+Paper: 14075997
+Title: An Inversion-Relaxation Approach for Sampling Stationary Points of Spin  Model Hamiltonians
+Authors: Ciaran Hughes and Dhagash Mehta and David J Wales
+Abstract: Sampling the stationary points of a complicated potential energy landscape is a challenging problem. Here we introduce a sampling method based on relaxation from stationary points of the highest index of the Hessian matrix. We illustrate how this approach can find all the stationary points for potentials or Hamiltonians bounded from above, which includes a large class of important spin models, and we show that it is far more efficient than previous methods. For potentials unbounded from above, the relaxation part of the method is still efficient in finding minima and transition states, which are usually the primary focus of attention for atomistic systems.

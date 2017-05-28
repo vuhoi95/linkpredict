@@ -1,0 +1,4 @@
+Paper: 9602025
+Title: Meanders and the Temperley-Lieb algebra
+Authors: P. Di Francesco and O. Golinelli and E. Guitter
+Abstract: The statistics of meanders is studied in connection with the Temperley-Lieb algebra. Each (multi-component) meander corresponds to a pair of reduced elements of the algebra. The assignment of a weight $q$ per connected component of meander translates into a bilinear form on the algebra, with a Gram matrix encoding the fine structure of meander numbers. Here, we calculate the associated Gram determinant as a function of $q$, and make use of the orthogonalization process to derive alternative expressions for meander numbers as sums over correlated random walks.

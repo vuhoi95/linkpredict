@@ -1,0 +1,4 @@
+Paper: 14094443
+Title: Scale Setting for Self-consistent Backgrounds
+Authors: Benjamin Koch and Paola Rioseco and Carlos Contreras
+Abstract: The quest for finding self-consistent background solutions in quantum field theory is closely related to the way one decides to set the renormalization scale $k$. This freedom in the choice of the scale setting can lead to ambiguities and conceptual inconsistencies such as the non-conservation of the stress-energy tensor. In this paper a setting for the "scale-field" is proposed at the level of effective action, which avoids such inconsistencies by construction. The mechanism and its potential is exemplified for scalar $\phi^4$ theory and for Einstein-Hilbert-Maxwell theory.

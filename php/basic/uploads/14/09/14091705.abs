@@ -1,0 +1,4 @@
+Paper: 14091705
+Title: Analyticity results for the cumulants in a random matrix model
+Authors: Razvan Gurau and Thomas Krajewski
+Abstract: The generating function of the cumulants in random matrix models, as well as the cumulants themselves, can be expanded as asymptotic (divergent) series indexed by maps. While at fixed genus the sums over maps converge, the sums over genera do not. In this paper we obtain alternative expansions both for the generating function and for the cumulants that cure this problem. We provide explicit and convergent expansions for the cumulants, for the remainders of their perturbative expansion (in the size of the maps) and for the remainders of their topological expansion (in the genus of the maps). We show that any cumulant is an analytic function inside a cardioid domain in the complex plane and we prove that any cumulant is Borel summable at the origin.

@@ -1,0 +1,4 @@
+Paper: 150702254
+Title: Relations between elliptic multiple zeta values and a special derivation  algebra
+Authors: Johannes Broedel and Nils Matthes and Oliver Schlotterer
+Abstract: We investigate relations between elliptic multiple zeta values and describe a method to derive the number of indecomposable elements of given weight and length. Our method is based on representing elliptic multiple zeta values as iterated integrals over Eisenstein series and exploiting the connection with a special derivation algebra. Its commutator relations give rise to constraints on the iterated integrals over Eisenstein series relevant for elliptic multiple zeta values and thereby allow to count the indecomposable representatives. Conversely, the above connection suggests apparently new relations in the derivation algebra. Under https://tools.aei.mpg.de/emzv we provide relations for elliptic multiple zeta values over a wide range of weights and lengths.

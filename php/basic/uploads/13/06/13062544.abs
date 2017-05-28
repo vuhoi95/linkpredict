@@ -1,0 +1,4 @@
+Paper: 13062544
+Title: Interaction of static charges in graphene within Monte-Carlo simulation
+Authors: V. V. Braguta and S. N. Valgushev and A. A. Nikolaev and M. I. Polikarpov and M. V. Ulybyshev
+Abstract: The study of the interaction potential between static charges within Monte-Carlo simulation of graphene is carried out. The numerical simulations are performed in the effective lattice field theory with noncompact $3 + 1$-dimensional Abelian lattice gauge fields and $2 + 1$-dimensional staggered lattice fermions. It is shown that for all considered temperatures the interaction can be well described by the Debye screened potential created by two-dimensional electron-hole excitations. At low temperatures Debye mass $m_D$ plays a role of order parameter of the insulator-semimetal phase transition. In the semimetal phase at high temperature graphene reveals the properties of weakly interacting two-dimensional plasma of fermions excitations.

@@ -1,0 +1,4 @@
+Paper: 13010946
+Title: Exploring the Potential Energy Landscape Over a Large Parameter-Space
+Authors: Yang-Hui He and Dhagash Mehta and Matthew Niemerg and Markus Rummel and Alexandru Valeanu
+Abstract: Solving large polynomial systems with coefficient parameters are ubiquitous and constitute an important class of problems. We demonstrate the computational power of two methods--a symbolic one called the Comprehensive Gr\"obner basis and a numerical one called the cheater's homotopy-applied to studying both potential energy landscapes and a variety of questions arising from geometry and phenomenology. Particular attention is paid to an example in flux compactification where important physical quantities such as the gravitino and moduli masses and the string coupling can be efficiently extracted.

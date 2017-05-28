@@ -1,0 +1,4 @@
+Paper: 09020447
+Title: Langlands duality for finite-dimensional representations of quantum  affine algebras
+Authors: Edward Frenkel and David Hernandez
+Abstract: We describe a correspondence (or duality) between the q-characters of finite-dimensional representations of a quantum affine algebra and its Langlands dual in the spirit of q-alg/9708006 and 0809.4453. We prove this duality for the Kirillov-Reshetikhin modules and their irreducible tensor products. In the course of the proof we introduce and construct "interpolating (q,t)-characters" depending on two parameters which interpolate between the q-characters of a quantum affine algebra and its Langlands dual.

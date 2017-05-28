@@ -1,0 +1,4 @@
+Paper: 14067222
+Title: All Order Linearized Hydrodynamics from Fluid/Gravity Correspondence
+Authors: Yanyan Bu and Michael Lublinsky
+Abstract: Using fluid/gravity correspondence, we determine the (linearized) stress energy tensor of $\mathcal{N}=4$ super-Yang-Mills theory at strong coupling with all orders in derivatives of fluid velocity included. We find that the dissipative effects are fully encoded in the shear term and a new one, which emerges starting from the third order. We derive, for the first time, closed linear holographic RG flow-type equations for (generalized) momenta-dependent viscosity functions. In the hydrodynamic regime, we obtain the stress tensor up to third order in derivative expansion analytically. We then numerically determine the viscosity functions up to large momenta. As a check of our results, we also derive the generalized Navier-Stokes equations from the Einstein equations in the dual gravity.

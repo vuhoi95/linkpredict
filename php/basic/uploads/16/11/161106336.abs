@@ -1,0 +1,4 @@
+Paper: 161106336
+Title: A generalized volume law for entanglement entropy on the fuzzy sphere
+Authors: Mariko Suzuki and Asato Tsuchiya
+Abstract: We investigate entanglement entropy in a scalar field theory on the fuzzy sphere. The theory is realized by a matrix model. In our previous study, we confirmed that entanglement entropy in the free case is proportional to the square of the boundary area of a focused region. Here we argue that this behavior of entanglement entropy can be understood by the fact that the theory is regularized by matrices, and further examine the dependence of entanglement entropy on the matrix size. In the interacting case, by performing Monte Carlo simulations, we observe a transition from a generalized volume law, which is obtained by integrating the square of area law, to the square of area law.

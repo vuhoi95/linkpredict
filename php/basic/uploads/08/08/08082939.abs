@@ -1,0 +1,4 @@
+Paper: 08082939
+Title: Algorithmic derivation of Dyson-Schwinger Equations
+Authors: Reinhard Alkofer and Markus Q. Huber and Kai Schwenzer
+Abstract: We present an algorithm for the derivation of Dyson-Schwinger equations of general theories that is suitable for an implementation within a symbolic programming language. Moreover, we introduce the Mathematica package DoDSE which provides such an implementation. It derives the Dyson-Schwinger equations graphically once the interactions of the theory are specified. A few examples for the application of both the algorithm and the DoDSE package are provided. The package can be obtained from physik.uni-graz.at/~mah/DoDSE.html.

@@ -1,0 +1,4 @@
+Paper: 9405010
+Title: On the exponential bound in four dimensional simplicial gravity
+Authors: J. Ambjorn and J. Jurkiewicz
+Abstract: Simplicial quantum gravity has been proposed as a regularization for four dimensional quantum gravity. The partition function is constructed by performing a weighted sum over all triangulations of the 4-sphere. The model is well-defined only if the number of such triangulations consisting of $N$ simplexes is exponentially bounded. Numerical simulations seem so far to favor such a bound.

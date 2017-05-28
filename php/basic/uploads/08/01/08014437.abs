@@ -1,0 +1,4 @@
+Paper: 08014437
+Title: Self-Adjoint Extensions of the Hamiltonian Operator with Symmetric  Potentials which are Unbounded from Below
+Authors: Hing-Tong Cho and Choon-Lin Ho
+Abstract: We study the self-adjoint extensions of the Hamiltonian operator with symmetric potentials which go to $-\infty$ faster than $-|x|^{2p}$ with $p>1$ as $x\to\pm\infty$. In this extension procedure, one requires the Wronskian between any states in the spectrum to approach to the same limit as $x\to\pm\infty$. Then the boundary terms cancel and the Hamiltonian operator can be shown to be hermitian. Discrete bound states with even and odd parities are obtained. Since the Wronskian is not required to vanish asymptotically, the energy eigenstates could be degenerate. Some explicit examples are given and analyzed.

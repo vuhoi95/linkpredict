@@ -1,0 +1,4 @@
+Paper: 160408366
+Title: Explicit examples of DIM constraints for network matrix models
+Authors: Hidetoshi Awata and Hiroaki Kanno and Takuya Matsumoto and Andrei Mironov and Alexei Morozov and Andrey Morozov and Yusuke Ohkubo and Yegor Zenkevich
+Abstract: Dotsenko-Fateev and Chern-Simons matrix models, which describe Nekrasov functions for SYM theories in different dimensions, are all incorporated into network matrix models with the hidden Ding-Iohara-Miki (DIM) symmetry. This lifting is especially simple for what we call balanced networks. Then, the Ward identities (known under the names of Virasoro/W-constraints or loop equations or regularity condition for qq-characters) are also promoted to the DIM level, where they all become corollaries of a single identity.

@@ -1,0 +1,4 @@
+Paper: 11124856
+Title: Off-diagonal heat-kernel expansion and its application to fields with  differential constraints
+Authors: Kai Groh and Frank Saueressig and Omar Zanusso
+Abstract: The off-diagonal heat-kernel expansion of a Laplace operator including a general gauge-connection is computed on a compact manifold without boundary up to third order in the curvatures. These results are used to study the early-time expansion of the traced heat-kernel on the space of transverse vector fields satisfying the differential constraint $D^\mu v_\mu = 0$. It is shown that the resulting Seeley-deWitt coefficients generically develop singularities, which vanish if the metric is flat or satisfies the Einstein condition. The implications of our findings for the evaluation of the gravitational functional renormalization group equation are briefly discussed.

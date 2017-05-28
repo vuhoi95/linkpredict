@@ -1,0 +1,4 @@
+Paper: 08042822
+Title: Nested Bethe ansatz for "all" closed spin chains
+Authors: S. Belliard and E. Ragoucy
+Abstract: We present in an unified and detailed way the Nested Bethe Ansatz for closed spin chains based on Y(gl(n)), Y(gl(m|n)), U_q(gl(n)) or U_q(gl(m|n)) (super)algebras, with arbitrary representations (i.e. `spins') on each site of the chain. In particular, the case of indecomposable representations of superalgebras is studied. The construction extends and unifies the results already obtained for spin chains based on Y(gl(n)) or U_q(gl(n)) and for some particular super-spin chains. We give the Bethe equations and the form of the Bethe vectors. The case of gl(2|1), gl(2|2$ and gl(4|4) superalgebras (that are related to AdS/CFT correspondence) is also detailed.

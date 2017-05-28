@@ -1,0 +1,4 @@
+Paper: 11126425
+Title: Courant Algebroids in Parabolic Geometry
+Authors: Stuart Armstrong and Rongmin Lu
+Abstract: Let $p$ be a Lie subalgebra of a semisimple Lie algebra $g$ and $(G,P)$ be the corresponding pair of connected Lie groups. A Cartan geometry of type $(G,P)$ associates to a smooth manifold $M$ a principal $P$-bundle and a Cartan connection, and a parabolic geometry is a Cartan geometry where $P$ is parabolic. We show that if $P$ is parabolic, the adjoint tractor bundle of a Cartan geometry, which is isomorphic to the Atiyah algebroid of the principal $P$-bundle, admits the structure of a (pre-)Courant algebroid, and we identify the topological obstruction to the bracket being a Courant bracket. For semisimple $G$, the Atiyah algebroid of the principal $P$-bundle associated to the Cartan geometry of $(G,P)$ admits a pre-Courant algebroid structure if and only if $P$ is parabolic.

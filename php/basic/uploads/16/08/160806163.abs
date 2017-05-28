@@ -1,0 +1,4 @@
+Paper: 160806163
+Title: Late-time Structure of the Bunch-Davies FRW Wavefunction
+Authors: George Konstantinidis and Raghu Mahajan and Edgar Shaghoulian
+Abstract: In this short note we organize a perturbation theory for the Bunch-Davies wavefunction in flat, accelerating cosmologies. The calculational technique avoids the in-in formalism and instead uses an analytic continuation from Euclidean signature. We will consider both massless and conformally coupled self-interacting scalars. These calculations explicitly illustrate two facts. The first is that IR divergences get sharper as the acceleration slows. The second is that UV-divergent contact terms in the Euclidean computation can contribute to the absolute value of the wavefunction in Lorentzian signature. Here UV divergent refers to terms involving inverse powers of the radial cutoff in the Euclidean computation. In Lorentzian signature such terms encode physical time dependence of the wavefunction.

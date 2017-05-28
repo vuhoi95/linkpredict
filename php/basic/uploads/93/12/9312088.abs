@@ -1,0 +1,4 @@
+Paper: 9312088
+Title: Quantum Group and Magnetic Translations. Bethe-Ansatz Solution for  Azbel-Hofstadter Problem
+Authors: P. B Wiegmann and A. V. Zabrodin
+Abstract: We present a new approach to the problem of Bloch electrons in magnetic ( sometimes called Azbel-Hofstadter problem) field, by making explicit a natural relation between the group of magnetic translations and the quantum group $U_{q}(sl_2)$. The approach allows us to express the "mid" band spectrum of the model and the Bloch wave function as solutions of the Bethe-Ansatz equations typical for completely integrable quantum systems. The zero mode wave functions are found explicitly in terms of $q$-deformed classical orthogonal polynomials.In this paper we present solution for the isotropic problem. We also present a class of solvable quasiperiodic equations related to $U_{q}(sl_2)$.

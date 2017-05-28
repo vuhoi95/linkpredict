@@ -1,0 +1,4 @@
+Paper: 12042171
+Title: A Many-body Problem with Point Interactions on Two Dimensional Manifolds
+Authors: Fatih Erman and O. Teoman Turgut
+Abstract: A non-perturbative renormalization of a many-body problem, where non-relativistic bosons living on a two dimensional Riemannian manifold interact with each other via the two-body Dirac delta potential, is given by the help of the heat kernel defined on the manifold. After this renormalization procedure, the resolvent becomes a well-defined operator expressed in terms of an operator (called principal operator) which includes all the information about the spectrum. Then, the ground state energy is found in the mean field approximation and we prove that it grows exponentially with the number of bosons. The renormalization group equation (or Callan-Symanzik equation) for the principal operator of the model is derived and the $\beta$ function is exactly calculated for the general case, which includes all particle numbers.

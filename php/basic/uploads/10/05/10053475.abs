@@ -1,0 +1,4 @@
+Paper: 10053475
+Title: Electron-Quasihole Duality and Second Order Differential Equation for  Read-Rezayi and Jacks Wavefunctions
+Authors: Benoit Estienne and B. Andrei Bernevig and Raoul Santachiara
+Abstract: We consider the quasihole wavefunctions of the non-abelian Read-Rezayi quantum Hall states which are given by the conformal blocks of the minimal model WA_{k-1}(k+1,k+2) of the WA_{k-1} algebra. By studying the degenerate representations of this conformal field theories, we derive a second order differential equation satisfied by a general many-quasihole wavefunction. We find a duality between the differential equations fixing the electron and quasihole wavefunctions. They both satisfy the Laplace-Beltrami equation. We use this equation to obtain an analytic expression for the generic wavefunction with one excess flux. These results also apply to the more general models WA_{k-1}(k+1,k+r) corresponding to the recently introduced Jack states.

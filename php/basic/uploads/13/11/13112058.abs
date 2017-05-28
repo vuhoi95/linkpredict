@@ -1,0 +1,4 @@
+Paper: 13112058
+Title: Exact results for Wilson loops in arbitrary representations
+Authors: Bartomeu Fiol and Genis Torrents
+Abstract: We compute the exact vacuum expectation value of 1/2 BPS circular Wilson loops of ${\cal N}$=4 U(N) super Yang-Mills in arbitrary irreducible representations. By localization arguments, the computation reduces to evaluating certain integrals in a Gaussian matrix model, which we do using the method of orthogonal polynomials. Our results are particularly simple for Wilson loops in antisymmetric representations; in this case, we observe that the final answers admit an expansion where the coefficients are positive integers, and can be written in terms of sums over skew Young diagrams. As an application of our results, we use them to discuss the exact Bremsstrahlung functions associated to the corresponding heavy probes.

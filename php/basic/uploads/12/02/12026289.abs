@@ -1,0 +1,4 @@
+Paper: 12026289
+Title: Comment on "Finite Size Corrections to the Radiation Reaction Force in  Classical Electrodynamics" [arXiv:1005.2617]
+Authors: P. Forgács and T. Herpay and P. Kovács
+Abstract: In [1, arXiv:1005.2617] effective field theory methods have been employed to compute the equations of motion of a spherically symmetric charged shell of radius R, taking into account the radiation reaction force exerted by the shell's own electromagnetic field up to O(R^2). The authors of Ref. [1] have stated that the known result for the self force of the shell as can be found from Eq. (16.28) of the textbook of Jackson [2] (see also Chap. 4 in the review of Pearle [3]) is incorrect, in that the term linear in R should be absent. We claim that this conclusion of Ref. [1] is incorrect, and that the textbook result, Eq. (1) does hold.

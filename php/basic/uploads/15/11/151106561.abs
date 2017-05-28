@@ -1,0 +1,4 @@
+Paper: 151106561
+Title: Generalized Gradient Flow Equation and Its Applications
+Authors: Sinya Aoki and Kengo Kikuchi and Tetsuya Onogi
+Abstract: We propose a generalization of the gradient flow equation for quantum field theories with nonlinearly realized symmetry. Applying the equation to $\mathcal{N}=1$ $SU(N)$ super Yang-Mills theory in four dimensions, we construct a supersymmetric extension of the gradient flow equation. Choosing an appropriate modification term to damp the gauge degree of freedom, we obtain a gradient flow equation which is closed within the Wess-Zumino gauge. We also apply the equation to the $O(N)$ nonlinear sigma model in two dimensions at large $N$, and show that the two point function in terms of the flowed field is non-perturbatively finite.

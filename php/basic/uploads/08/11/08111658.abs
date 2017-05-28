@@ -1,0 +1,4 @@
+Paper: 08111658
+Title: Geometric construction of the r-map: from affine special real to special  Kähler manifolds
+Authors: Dmitri V. Alekseevsky and Vicente Cortés
+Abstract: We give an intrinsic definition of (affine very) special real manifolds and realise any such manifold $M$ as a domain in affine space equipped with a metric which is the Hessian of a cubic polynomial. We prove that the tangent bundle $N=TM$ carries a canonical structure of (affine) special K\"ahler manifold. This gives an intrinsic description of the $r$-map as the map $M\mapsto N=TM$. On the physics side, this map corresponds to the dimensional reduction of rigid vector multiplets from 5 to 4 space-time dimensions. We generalise this construction to the case when $M$ is any Hessian manifold.

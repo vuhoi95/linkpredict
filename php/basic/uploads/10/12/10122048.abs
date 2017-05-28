@@ -1,0 +1,4 @@
+Paper: 10122048
+Title: Multi-moment maps
+Authors: Thomas Bruun Madsen and Andrew Swann
+Abstract: We introduce a notion of moment map adapted to actions of Lie groups that preserve a closed three-form. We show existence of our multi-moment maps in many circumstances, including mild topological assumptions on the underlying manifold. Such maps are also shown to exist for all groups whose second and third Lie algebra Betti numbers are zero. We show that these form a special class of solvable Lie groups and provide a structural characterisation. We provide many examples of multi-moment maps for different geometries and use them to describe manifolds with holonomy contained in G_2 preserved by a two-torus symmetry in terms of tri-symplectic geometry of four-manifolds.

@@ -1,0 +1,4 @@
+Paper: 11103751
+Title: A Mathematical Theory of Quantum Sheaf Cohomology
+Authors: Ron Donagi and Josh Guffin and Sheldon Katz and Eric Sharpe
+Abstract: The purpose of this paper is to present a mathematical theory of the half-twisted $(0,2)$ gauged linear sigma model and its correlation functions that agrees with and extends results from physics. The theory is associated to a smooth projective toric variety $X$ and a deformation $\sheaf E$ of its tangent bundle $T_X$. It gives a quantum deformation of the cohomology ring of the exterior algebra of $\sheaf E^*$. We prove that in the general case, the correlation functions are independent of `nonlinear' deformations. We derive quantum sheaf cohomology relations that correctly specialize to the ordinary quantum cohomology relations described by Batyrev in the special case $\sheaf E = T_X$.

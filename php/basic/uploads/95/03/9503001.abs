@@ -1,0 +1,4 @@
+Paper: 9503001
+Title: Non-standard connections in classical mechanics
+Authors: A. Echeverría-Enríquez and M. C. Muñoz-Lecanda and N. Román-Roy
+Abstract: In the jet-bundle description of first-order classical field theories there are some elements, such as the lagrangian energy and the construction of the hamiltonian formalism, which require the prior choice of a connection. Bearing these facts in mind, we analyze the situation in the jet-bundle description of time-dependent classical mechanics. So we prove that this connection-dependence also occurs in this case, although it is usually hidden by the use of the ``natural'' connection given by the trivial bundle structure of the phase spaces in consideration. However, we also prove that this dependence is dynamically irrelevant, except where the dynamical variation of the energy is concerned. In addition, the relationship between first integrals and connections is shown for a large enough class of lagrangians.

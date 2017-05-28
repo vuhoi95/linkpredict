@@ -1,0 +1,4 @@
+Paper: 151203406
+Title: Quark Condensate from Renormalization Group Optimized Spectral Density
+Authors: J. -L. Kneur and A. Neveu
+Abstract: Our renormalization group consistent variant of optimized perturbation, RGOPT, is used to calculate the nonperturbative QCD spectral density of the Dirac operator and the related chiral quark condensate $\langle \bar q q \rangle$, for $n_f=2$ and $n_f=3$ massless quarks. Sequences of approximations at two-, three-, and four-loop orders are very stable and give $\langle \bar q q \rangle^{1/3}_{n_f=2}(2\, {\rm GeV}) = -(0.833-0.845) \bar\Lambda_2 $, and $ \langle \bar q q \rangle^{1/3}_{n_f=3}(2\, {\rm GeV}) = -(0.814-0.838) \bar\Lambda_3 $ where the range is our estimated theoretical error and $\bar\Lambda_{n_f}$ the basic QCD scale in the $\rm \bar{MS}$-scheme. We compare those results with other recent determinations (from lattice calculations and spectral sum rules).

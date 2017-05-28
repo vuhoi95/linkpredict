@@ -1,0 +1,4 @@
+Paper: 09072583
+Title: Numerical tests of causal relativistic dissipative fluid dynamics
+Authors: E. Molnár and H. Niemi and D. H. Rischke
+Abstract: We present numerical methods to solve the Israel-Stewart (IS) equations of causal relativistic dissipative fluid dynamics with bulk and shear viscosities. We then test these methods studying the Riemann problem in (1+1)-- and (2+1)-dimensional geometry. The numerical schemes investigated here are applicable to realistic (3+1)--dimensional modeling of a relativistic dissipative fluid.

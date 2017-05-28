@@ -1,0 +1,4 @@
+Paper: 14067802
+Title: The effective action in Coulomb gauge QCD
+Authors: A. Andrasi and J. C. Taylor
+Abstract: At 2-loop order, Feynman integrals in the Coulomb gauge are divergent over the internal energy variables. Nevertheless, it is known how to calculate the effective action provided that the external gluon fields are all transverse. We show that, for the two-gluon Greens function as an example, the method can be extended to include longitudinal external fields. The longitudinal Greens functions appear in the BRST identities. As an intermediate step, we use a flow gauge, which interpolates between the Feynman and Coulomb gauges.

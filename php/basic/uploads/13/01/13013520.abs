@@ -1,0 +1,4 @@
+Paper: 13013520
+Title: Bounds on free energy in QCD
+Authors: Axel Maas and Daniel Zwanziger
+Abstract: We derive some exact bounds on the free energy $W(J)$ in QCD, where $J_\mu^b$ is a source for the gluon field $A_\mu^b$ in the minimal Landau gauge, and $W(J)$ is the generating functional of connected gluon correlators. Among other results, we show that for a static source $J(x) = h$ the free energy vanishes, $W(h) = 0$, together with its first derivative, ${\partial W(h) \over \partial h} = 0,$ for all $h$, no matter how strong. Thus the system does not respond to a static color probe. We also present numerical evaluations of the free energy $W(J)$ and find that the bounds are well satisfied and in fact undersaturated.

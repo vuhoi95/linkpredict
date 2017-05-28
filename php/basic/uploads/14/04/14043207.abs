@@ -1,0 +1,4 @@
+Paper: 14043207
+Title: Investigation of Q-tubes stability using the piecewise parabolic  potential
+Authors: E. Nugaev and A. Shkerin
+Abstract: We analyze the classical stability of Q-tubes --- charged extended objects in $(3+1)$-dimensional complex scalar field theory. Explicit solutions were found analytically in the piecewise parabolic potential. Our choice of potential allows us to construct a powerful method of stability investigation. We check that in the case of the zero winding number $n=0$, the previously known stability condition $\partial^2E/\partial Q^2<0$ for Q-balls is fulfilled. However, in the case $n\geq 1$, we find a continuous family of instabilities. Our result has an analogy with the theory of superconductivity of the second type, in which the vortex with $n>1$ becomes unstable towards the decay into the $n$ vortices with the single winding number.

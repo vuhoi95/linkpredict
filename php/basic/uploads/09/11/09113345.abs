@@ -1,0 +1,4 @@
+Paper: 09113345
+Title: Quantum Quenches in Integrable Field Theories
+Authors: Davide Fioretto and Giuseppe Mussardo
+Abstract: We study the non equilibrium time evolution of an integrable field theory in 1+1 dimensions after a sudden variation of a global parameter of the Hamiltonian. For a class of quenches defined in the text, we compute the long times limit of the one point function of a local operator as a series of form factors. Even if some subtleties force us to handle this result with care, there is a strong evidence that for long times the expectation value of any local operator can be described by a generalized Gibbs ensemble with a different effective temperature for each eigenmode.

@@ -1,0 +1,4 @@
+Paper: 09052338
+Title: Equivariant reduction of Yang-Mills theory over the fuzzy sphere and the  emergent vortices
+Authors: Derek Harland and Seckin Kurkcuoglu
+Abstract: We consider a U(2) Yang-Mills theory on M x S_F^2 where M is a Riemannian manifold and S_F^2 is the fuzzy sphere. Using essentially the representation theory of SU(2) we determine the most general SU(2)-equivariant gauge field on M x S_F^2. This allows us to reduce the Yang-Mills theory on M x S_F^2 down to an abelian Higgs-type model over M. Depending on the enforcement (or non-enforcement) of a "constraint" term, the latter may (or may not) lead to the standard critically-coupled abelian Higgs model in the commutative limit, S_F^2 -> S^2. For M = R^2, we find that the abelian Higgs-type model admits vortex solutions corresponding to instantons in the original Yang-Mills theory. Vortices are in general no longer BPS, but may attract or repel according to the values of parameters.

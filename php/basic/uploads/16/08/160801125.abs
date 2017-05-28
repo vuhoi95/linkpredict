@@ -1,0 +1,4 @@
+Paper: 160801125
+Title: Tree Code for Collision Detection of Large Numbers of Particles  Application for the Breit-Wheeler Process
+Authors: Oliver Jansen and Emmanuel d'Humières and Xavier Ribeyre and Sophie Jequier and Vladimir Tikhonchuk
+Abstract: Collision detection of a large number N of particles can be challenging. Directly testing N particles for collision among each other leads to N 2 queries. Especially in scenarios, where fast, densely packed particles interact, challenges arise for classical methods like Particle-in-Cell or Monte-Carlo. Modern collision detection methods utilising bounding volume hierarchies are suitable to overcome these challenges and allow a detailed analysis of the interaction of large number of particles. This approach is applied to the analysis of the collision of two photon beams leading to the creation of electron-positron pairs.

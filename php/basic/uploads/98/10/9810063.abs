@@ -1,0 +1,4 @@
+Paper: 9810063
+Title: Non-perturbative quark mass renormalization in quenched lattice QCD
+Authors: Stefano Capitani and Martin Lüscher and Rainer Sommer and Hartmut Wittig
+Abstract: The renormalization factor relating the bare to the renormalization group invariant quark masses is accurately calculated in quenched lattice QCD using a recursive finite-size technique. The result is presented in the form of a product of a universal factor times another factor, which depends on the details of the lattice theory but is easy to compute, since it does not involve any large scale differences. As a byproduct the Lambda-parameter of the theory is obtained with a total error of 8%.

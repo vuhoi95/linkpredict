@@ -1,0 +1,4 @@
+Paper: 08063953
+Title: Short-distance thermal correlations in the XXZ chain
+Authors: Herman E. Boos and Jens Damerau and Frank Göhmann and Andreas Klümper and Junji Suzuki and Alexander Weiße
+Abstract: Recent studies have revealed much of the mathematical structure of the static correlation functions of the XXZ chain. Here we use the results of those studies in order to work out explicit examples of short-distance correlation functions in the infinite chain. We compute two-point functions ranging over 2, 3 and 4 lattice sites as functions of the temperature and the magnetic field for various anisotropies in the massless regime $- 1 < \Delta < 1$. It turns out that the new formulae are numerically efficient and allow us to obtain the correlations functions over the full parameter range with arbitrary precision.

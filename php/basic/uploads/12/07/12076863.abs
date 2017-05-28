@@ -1,0 +1,4 @@
+Paper: 12076863
+Title: Higher genus mapping class group invariants from factorizable Hopf  algebras
+Authors: Jurgen Fuchs and Christoph Schweigert and Carl Stigner
+Abstract: Lyubashenko's construction associates representations of mapping class groups Map_{g,n} of Riemann surfaces of any genus g with any number n of holes to a factorizable ribbon category. We consider this construction as applied to the category of bimodules over a finite-dimensional factorizable ribbon Hopf algebra H. For any such Hopf algebra we find an invariant of Map_{g,n} for all values of g and n. More generally, we obtain such invariants for any pair (H,omega), where omega is a ribbon automorphism of H. Our results are motivated by the quest to understand correlation functions of bulk fields in two-dimensional conformal field theories with chiral algebras that are not necessarily semisimple, so-called logarithmic conformal field theories.

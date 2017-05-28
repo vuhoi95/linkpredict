@@ -1,0 +1,4 @@
+Paper: 07123765
+Title: Thermodynamics of antiferromagnetic alternating spin chains
+Authors: G. A. P. Ribeiro and A. Klümper
+Abstract: We consider integrable quantum spin chains with alternating spins (S_1,S_2). We derive a finite set of non-linear integral equations for the thermodynamics of these models by use of the quantum transfer matrix approach. Numerical solutions of the integral equations are provided for quantities like specific heat, magnetic susceptibility and in the case S_1=S_2 for the thermal Drude weight. At low temperatures one class of models shows finite magnetization and the other class presents antiferromagnetic behaviour. The thermal Drude weight behaves linearly on T at low temperatures and is proportional to the central charge c of the system. Quite generally, we observe residual entropy for S_1\neq S_2.

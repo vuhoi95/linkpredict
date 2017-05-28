@@ -1,0 +1,4 @@
+Paper: 08074738
+Title: Stochastic Quantization for Complex Actions
+Authors: G. Menezes and N. F. Svaiter
+Abstract: We use the stochastic quantization method to study systems with complex valued path integral weights. We assume a Langevin equation with a memory kernel and Einstein's relations with colored noise. The equilibrium solution of this non-Markovian Langevin equation is analyzed. We show that for a large class of elliptic non-Hermitian operators acting on scalar functions on Euclidean space, which define different models in quantum field theory, converges to an equilibrium state in the asymptotic limit of the Markov parameter. Moreover, as we expected, we obtain the Schwinger functions of the theory.

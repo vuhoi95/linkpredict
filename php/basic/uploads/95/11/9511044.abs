@@ -1,0 +1,4 @@
+Paper: 9511044
+Title: Numerical and approximate analytical results for the frustrated spin-1/2  quantum spin chain
+Authors: R. J. Bursill and G. A. Gehring and D. J. J. Farnell and J. B. Parkinson and Chen Zeng and T. Xiang
+Abstract: We study the $T=0$ frustrated phase of the $1D$ quantum spin-$\frac 12$ system with nearest-neighbour and next-nearest-neighbour isotropic exchange known as the Majumdar-Ghosh Hamiltonian. We first apply the coupled-cluster method of quantum many-body theory based on a spiral model state to obtain the ground state energy and the pitch angle. These results are compared with accurate numerical results using the density matrix renormalisation group method, which also gives the correlation functions. We also investigate the periodicity of the phase using the Marshall sign criterion. We discuss particularly the behaviour close to the phase transitions at each end of the frustrated phase.

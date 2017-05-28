@@ -1,0 +1,4 @@
+Paper: 12111388
+Title: Free Energy of D_n Quiver Chern-Simons Theories
+Authors: P. Marcos Crichigno and Christopher P. Herzog and Dharmesh Jain
+Abstract: We apply the matrix model of Kapustin, Willett and Yaakov to compute the free energy of N=3 Chern-Simons matter theories with D_n quivers in the large N limit. We conjecture a general expression for the free energy that is explicitly invariant under Seiberg duality and show that it can be interpreted as a sum over certain graphs known as signed graphs. Through the AdS/CFT correspondence, this leads to a prediction for the volume of certain tri-Sasaki Einstein manifolds. We also study the unfolding procedure, which relates these D_n quivers to A_{2n-5} quivers. Furthermore, we consider the addition of massive fundamental flavor fields, verifying that integrating these out decreases the free energy in accordance with the F-theorem.

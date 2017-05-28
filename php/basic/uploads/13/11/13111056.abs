@@ -1,0 +1,4 @@
+Paper: 13111056
+Title: Adaptive gauge cooling for complex Langevin dynamics
+Authors: Lorenzo Bongiovanni and Gert Aarts and Erhard Seiler and Denes Sexty and Ion-Olimpiu Stamatescu
+Abstract: In the case of nonabelian gauge theories with a complex weight, a controlled exploration of the complexified configuration space during a complex Langevin process requires the use of SL(N,C) gauge cooling, in order to minimize the distance from SU(N). Here we show that adaptive gauge cooling can lead to an efficient implementation of this idea. First results for SU(3) Yang-Mills theory in the presence of a nonzero theta-term are presented as well.

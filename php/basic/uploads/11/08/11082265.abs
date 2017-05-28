@@ -1,0 +1,4 @@
+Paper: 11082265
+Title: Canny Algorithm: A New Estimator for Primordial Non-Gaussianities
+Authors: Rebecca J. Danos and Andrew R. Frey and Yi Wang
+Abstract: We utilize the Canny edge detection algorithm as an estimator for primordial non-Gaussianities. In preliminary tests on simulated sky patches with a window size of 57 degrees and multipole moments $l$ up to 1024, we find a $3\sigma$ distinction between maps with local non-Gaussianity $f_{NL}=350$ (or $f_{NL}=-700$) and Gaussian maps. We present evidence that high resolution CMB studies will strongly enhance the sensitivity of the Canny algorithm to non-Gaussianity, making it a promising technique to estimate primordial non-Gaussianity.

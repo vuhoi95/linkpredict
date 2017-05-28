@@ -1,0 +1,4 @@
+Paper: 9709053
+Title: Berezin Integrals and Poisson Processes
+Authors: G. F. De Angelis and G. Jona-Lasinio and V. Sidoravicius
+Abstract: We show that the calculation of Berezin integrals over anticommuting variables can be reduced to the evaluation of expectations of functionals of Poisson processes via an appropriate Feynman-Kac formula. In this way the tools of ordinary analysis can be applied to Berezin integrals and, as an example, we prove a simple upper bound. Possible applications of our results are briefly mentioned.

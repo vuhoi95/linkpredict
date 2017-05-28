@@ -1,0 +1,4 @@
+Paper: 11073513
+Title: On the Decay of Massive Fields in de Sitter
+Authors: Dileep P. Jatkar and Louis Leblond and Arvind Rajaraman
+Abstract: Interacting massive fields with m > d H/2 in d+1 dimensional de Sitter space are fundamentally unstable. Scalar fields in this mass range can decay to themselves. This process (which is kinematically forbidden in Minkowski space) can lead to an important change to the propagator and the physics of these fields. We compute this decay rate by doing a 1-loop computation for a massive scalar field with a cubic interaction. We resum the 1-loop result by consistently solving the Schwinger-Dyson equations. We also perform an explicit resummation of all chain graphs in the case of the retarded propagator. The decay rate is exponentially suppressed for large m/H and the flat space answer (vanishing decay rate) is reproduced in that limit.

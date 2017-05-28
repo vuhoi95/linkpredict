@@ -1,0 +1,4 @@
+Paper: 9601130
+Title: Finite-size Scaling and Universality above the Upper Critical  Dimensionality
+Authors: Erik Luijten and Henk W. J. Blöte
+Abstract: According to renormalization theory, Ising systems above their upper critical dimensionality d_u = 4 have classical critical behavior and the ratio of magnetization moments Q = <m^2>^2 / <m^4> has the universal value 0.456947... However, Monte Carlo simulations of d = 5 Ising models have been reported which yield strikingly different results, suggesting that the renormalization scenario is incorrect. We investigate this issue by simulation of a more general model in which d_u < 4, and a careful analysis of the corrections to scaling. Our results are in a perfect agreement with the renormalization theory and provide an explanation of the discrepancy mentioned.

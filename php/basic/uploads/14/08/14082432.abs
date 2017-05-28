@@ -1,0 +1,4 @@
+Paper: 14082432
+Title: Infinitely many inequivalent field theories from one Lagrangian
+Authors: Carl M. Bender and Daniel W. Hook and Nick E. Mavromatos and Sarben Sarkar
+Abstract: Logarithmic time-like Liouville quantum field theory has a generalized PT invariance, where T is the time-reversal operator and P stands for an S-duality reflection of the Liouville field $\phi$. In Euclidean space the Lagrangian of such a theory, $L=\frac{1}{2}(\nabla\phi)^2-ig\phi\exp(ia\phi)$, is analyzed using the techniques of PT-symmetric quantum theory. It is shown that L defines an infinite number of unitarily inequivalent sectors of the theory labeled by the integer n. In one-dimensional space (quantum mechanics) the energy spectrum is calculated in the semiclassical limit and the mth energy level in the nth sector is given by $E_{m,n}\sim(m+1/2)^2a^2/(16n^2)$.

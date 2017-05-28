@@ -1,0 +1,4 @@
+Paper: 14041159
+Title: On multichannel solutions of nonlinear Schrödinger equations:  algorithm, analysis and numerical explorations
+Authors: Avy Soffer and Xiaofei Zhao
+Abstract: We apply the method of modulation equations to numerically solve the NLS with multichannel dynamics, given by a trapped localized state and radiation. This approach employs the modulation theory of Soffer-Weinstein, which gives a system of ODE's coupled to the radiation term, which is valid for all times. We comment on the differences of this method from the well-known method of collective coordinates.

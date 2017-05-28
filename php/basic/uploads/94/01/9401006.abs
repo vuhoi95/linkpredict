@@ -1,0 +1,4 @@
+Paper: 9401006
+Title: A common generalization of the Frölicher-Nijenhuis bracket and the  Schouten bracket for symmetry multi vector fields
+Authors: M. Dubois-Violette and P. W. Michor
+Abstract: There is a canonical mapping from the space of sections of the bundle $\wedge T^\ast M\otimes ST\ M$ to $\Omega(T^\ast M ; T(T^\ast M))$. It is shown that this is a homomorphism on $\Omega(M;TM) for the Fr\"olicher-Nijenhuis brackets, and also on $\Gamma(ST\ M)$ for the Schouten bracket of symmetric multi vector fields. But the whole image is not a subalgebra for the Fr\"olicher-Nijenhuis bracket on $\Omega(T^\ast M;T(T^\ast M))$.

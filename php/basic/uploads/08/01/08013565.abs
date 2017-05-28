@@ -1,0 +1,4 @@
+Paper: 08013565
+Title: DMRG Simulation of the SU(3) AFM Heisenberg Model
+Authors: M. Aguado and M. Asorey and E. Ercolessi and F. Ortolani and S. Pasini
+Abstract: We analyze the antiferromagnetic $\text{SU}(3)$ Heisenberg chain by means of the Density Matrix Renormalization Group (DMRG). The results confirm that the model is critical and the computation of its central charge and the scaling dimensions of the first excited states show that the underlying low energy conformal field theory is the $\text{SU}(3)_1$ Wess-Zumino-Novikov-Witten model.

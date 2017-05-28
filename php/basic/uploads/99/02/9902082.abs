@@ -1,0 +1,4 @@
+Paper: 9902082
+Title: Fully Packed O(n=1) Model on Random Eulerian Triangulations
+Authors: P. Di Francesco and E. Guitter and C. Kristjansen
+Abstract: We introduce a matrix model describing the fully-packed O(n) model on random Eulerian triangulations (i.e. triangulations with all vertices of even valency). For n=1 the model is mapped onto a particular gravitational 6-vertex model with central charge c=1, hence displaying the expected shift c -> c+1 when going from ordinary random triangulations to Eulerian ones. The case of arbitrary n is also discussed.

@@ -1,0 +1,4 @@
+Paper: 09034827
+Title: A Supersymmetric Approach to Excited States via Quantum Monte Carlo
+Authors: Eric R. Bittner and Jeremy B. Maddox and Donald J. Kouri
+Abstract: We present here a supersymmetric (SUSY) approach for determining excitation energies within the context of a quantum Monte Carlo scheme. By using the fact that SUSY quantum mechanics gives rises to a series of isospectral Hamiltonians, we show that Monte Carlo ground-state calculations in the SUSY partners can be used to reconstruct accurately both the spectrum and states of an arbitrary Schr\"odinger equation. Since the ground-state of each partner potential is node-less, we avoid any ``node''-problem typically associated with the Monte Carlo technique. While we provide an example of using this approach to determine the tunneling states in a double-well potential, the method is applicable to any 1D potential problem. We conclude by discussing the extension to higher dimensions.

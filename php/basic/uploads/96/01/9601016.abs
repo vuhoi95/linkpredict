@@ -1,0 +1,4 @@
+Paper: 9601016
+Title: Non-universality of the scaling exponents of a passive scalar convected  by a random flow
+Authors: M. Chertkov and G. Falkovich and V. Lebedev
+Abstract: We consider passive scalar convected by multi-scale random velocity field with short yet finite temporal correlations. Taking Kraichnan's limit of a white Gaussian velocity as a zero approximation we develop perturbation theory with respect to a small correlation time and small non-Gaussianity of the velocity. We derive the renormalization (due to temporal correlations and non-Gaussianity) of the operator of turbulent diffusion. That allows us to calculate the respective corrections to the anomalous scaling exponents of the scalar field and show that they continuously depend on velocity correlation time and the degree of non-Gaussianity. The scalar exponents are thus non universal as was predicted by Shraiman and Siggia on a phenomenological ground (CRAS {\bf 321}, 279, 1995).

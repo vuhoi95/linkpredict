@@ -1,0 +1,4 @@
+Paper: 9711052
+Title: The Effectiveness of Non-Perturbative O(a) Improvement in Lattice QCD
+Authors: R. G. Edwards and U. M. Heller and T. R. Klassen
+Abstract: The ALPHA collaboration has determined the O(a) improved Wilson quark action for lattice spacings $a\leq 0.1$ fm, in the quenched approximation. We extend this result to coarser lattices, $a\leq 0.17$ fm, and calculate the hadron spectrum on them. The large range of lattice spacings obtained by combining our results with earlier ones on finer lattices, allow us to present a convincing demonstration of the efficiency of non-perturbative O(a) improvement. We find that scaling violations of the hadron masses studied drop from 30-40% for the unimproved Wilson action on the coarsest lattice to only 2-3%.

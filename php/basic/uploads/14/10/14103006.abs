@@ -1,0 +1,4 @@
+Paper: 14103006
+Title: Compact Conformal Manifolds
+Authors: Matthew Buican and Takahiro Nishinaka
+Abstract: In this note we begin a systematic study of compact conformal manifolds of SCFTs in four dimensions (our notion of compactness is with respect to the topology induced by the Zamolodchikov metric). Supersymmetry guarantees that such manifolds are Kahler, and so the simplest possible non-trivial compact conformal manifold in this set of geometries is a complex one-dimensional projective space. We show that such a manifold is indeed realized and give a general prescription for constructing complex N-dimensional projective space conformal manifolds as certain small N=2->N=1 breaking deformations of strongly interacting N=2 SCFTs. In many cases, our prescription reduces the construction of such spaces to a study of the N=2 chiral ring. We also give an algorithm for constructing more general compact spaces of SCFTs.

@@ -1,0 +1,4 @@
+Paper: 08103910
+Title: The Large-N Limit of PT-Symmetric O(N) Models
+Authors: Hiromichi Nishimura and Michael Ogilvie
+Abstract: We study a $PT$-symmetric quantum mechanical model with an O(N)-symmetric potential of the form $m^{2}\vec{x}^{2}/2-g(\vec{x}^{2})^{2}/N$ using its equivalent Hermitian form. Although the corresponding classical model has finite-energy trajectories that escape to infinity, the spectrum of the quantum theory is proven to consist only of bound states for all $N$. We show that the model has two distinct phases in the large-$N$ limit, with different scaling behaviors as $N$ goes to infinity. The two phases are separated by a first-order phase transition at a critical value of the dimensionless parameter $m^{2}/g^{2/3}$, given by $3\cdot2^{1/3}$.

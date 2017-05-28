@@ -1,0 +1,4 @@
+Paper: 9806017
+Title: An integrable time-dependent non-linear Schrödinger equation
+Authors: P. A. Horváthy and J. -C. Yéra
+Abstract: The cubic non-linear Schr\"odinger equation (NLS), where the coefficient of the non-linear term can be a function $F(t,x)$, is shown to pass the Painlev\'e test of Weiss, Tabor, and Carnevale only for $F=(a+bt)^{-1}$, where $a$ and $b$ constants. This is explained by transforming the time-dependent system into the ordinary NLS (with $F=\const$.) by means of a time-dependent on-linear transformation, related to the conformal properties of non-relativistic space-time.

@@ -1,0 +1,4 @@
+Paper: 10044725
+Title: Invertible defects and isomorphisms of rational CFTs
+Authors: Alexei Davydov and Liang Kong and Ingo Runkel
+Abstract: Given two two-dimensional conformal field theories, a domain wall -- or defect line -- between them is called invertible if there is another defect with which it fuses to the identity defect. A defect is called topological if it is transparent to the stress tensor. A conformal isomorphism between the two CFTs is a linear isomorphism between their state spaces which preserves the stress tensor and is compatible with the operator product expansion. We show that for rational CFTs there is a one-to-one correspondence between invertible topological defects and conformal isomorphisms if both preserve the rational symmetry. This correspondence is compatible with composition.

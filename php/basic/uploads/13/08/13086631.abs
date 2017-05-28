@@ -1,0 +1,4 @@
+Paper: 13086631
+Title: Applicability of the Newman-Janis Algorithm to Black Hole Solutions of  Modified Gravity Theories
+Authors: Devin Hansen and Nicolas Yunes
+Abstract: The Newman-Janis algorithm has been widely used to construct rotating black hole solutions from non-rotating counterparts. While this algorithm was developed within General Relativity, it has more recently been applied to non-rotating solutions in modified gravity theories. We find that the application of the Newman-Janis algorithm to an arbitrary non-GR spherically-symmetric solution introduces pathologies in the resulting axially-symmetric metric. This then establishes that, in general, the Newman-Janis algorithm should not used to construct rotating black hole solutions outside of General Relativity.

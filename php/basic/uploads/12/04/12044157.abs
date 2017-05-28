@@ -1,0 +1,4 @@
+Paper: 12044157
+Title: Supersymmetric BCS
+Authors: Alejandro Barranco and Jorge G. Russo
+Abstract: We implement relativistic BCS superconductivity in N=1 supersymmetric field theories with a U(1)_R symmetry. The simplest model contains two chiral superfields with a Kahler potential modified by quartic terms. We study the phase diagram of the gap as a function of the temperature and the specific heat. The superconducting phase transition turns out to be first order, due to the scalar contribution to the one-loop potential. By virtue of supersymmetry, the critical curves depend logarithmically with the UV cutoff, rather than quadratically as in standard BCS theory. We comment on the difficulties in having fermion condensates when the chemical potential is instead coupled to a baryonic U(1)_B current. We also discuss supersymmetric models of BCS with canonical Kahler potential constructed by "integrating-in" chiral superfields.

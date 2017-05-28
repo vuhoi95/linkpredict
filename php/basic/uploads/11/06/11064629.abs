@@ -1,0 +1,4 @@
+Paper: 11064629
+Title: Z-Sum Approach to Loop Integrals using Taylor Expansion
+Authors: Paulo A. Rottmann and Laura Reina
+Abstract: We study the applicability of the Z-Sum approach to multi-loop calculations with massive particles in perturbative quantum field theory. We systematically analyze the case of one-loop scalar integrals, which represent the building blocks of any higher-loop calculation. We focus in particular on triangle one-loop integrals and identify strengths and limitations of the Z-Sum approach, extending our results to the case of one-loop box integrals when appropriate. We conclude with the calculation of a specific physical example: the calculation of heavy-flavor corrections to deep-inelastic-scattering structure functions.

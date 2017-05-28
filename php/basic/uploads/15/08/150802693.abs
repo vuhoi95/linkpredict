@@ -1,0 +1,4 @@
+Paper: 150802693
+Title: Cosmic string loop shapes
+Authors: Jose J. Blanco-Pillado and Ken D. Olum and Benjamin Shlaer
+Abstract: We analyze the shapes of cosmic string loops found in large-scale simulations of an expanding-universe string network. The simulation does not include gravitational back reaction, but we model that process by smoothing the loop using Lorentzian convolution. We find that loops at formation consist of generally straight segments separated by kinks. We do not see cusps or any cusp-like structure at the scale of the entire loop, although we do see very small regions of string that move with large Lorentz boosts. However, smoothing of the string almost always introduces two cusps on each loop. The smoothing process does not lead to any significant fragmentation of loops that were in non-self-intersecting trajectories before smoothing.

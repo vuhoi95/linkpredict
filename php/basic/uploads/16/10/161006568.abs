@@ -1,0 +1,4 @@
+Paper: 161006568
+Title: Entanglement entropy of the large $N$ Wilson-Fisher conformal field  theory
+Authors: Seth Whitsitt and William Witczak-Krempa and Subir Sachdev
+Abstract: We compute the entanglement entropy of the Wilson-Fisher conformal field theory (CFT) in 2+1 dimensions with O($N$) symmetry in the limit of large $N$ for general entanglement geometries. We show that the leading large $N$ result can be obtained from the entanglement entropy of $N$ Gaussian scalar fields with their mass determined by the geometry. For a few geometries, the universal part of the entanglement entropy of the Wilson-Fisher CFT equals that of a CFT of $N$ massless scalar fields. However, in most cases, these CFTs have a distinct universal entanglement entropy even at $N=\infty$. Notably, for a semi-infinite cylindrical region it scales as $N^0$, in stark contrast to the $N$-linear result of the Gaussian fixed point.

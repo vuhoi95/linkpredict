@@ -1,0 +1,4 @@
+Paper: 14111664
+Title: Exact overlaps in the Kondo problem
+Authors: Sergei L. Lukyanov and Hubert Saleur and Jesper L. Jacobsen and Romain Vasseur
+Abstract: It is well known that the ground states of a Fermi liquid with and without a single Kondo impurity have an overlap which decays as a power law of the system size, expressing the Anderson orthogonality catastrophe. Ground states with two different values of the Kondo couplings have, however, a finite overlap in the thermodynamic limit. This overlap, which plays an important role in quantum quenches for impurity systems, is a universal function of the ratio of the corresponding Kondo temperatures, which is not accessible using perturbation theory nor the Bethe ansatz. Using a strategy based on the integrable structure of the corresponding quantum field theory, we propose an exact formula for this overlap, which we check against extensive density matrix renormalization group calculations.

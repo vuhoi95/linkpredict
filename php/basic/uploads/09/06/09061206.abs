@@ -1,0 +1,4 @@
+Paper: 09061206
+Title: A matrix model for simple Hurwitz numbers, and topological recursion
+Authors: G. Borot and B. Eynard and M. Mulase and B. Safnuk
+Abstract: We introduce a new matrix model representation for the generating function of simple Hurwitz numbers. We calculate the spectral curve of the model and the associated symplectic invariants developed in [Eynard-Orantin]. As an application, we prove the conjecture proposed by Bouchard and Marino, relating Hurwitz numbers to the spectral invariants of the Lambert curve exp(x)=y exp(-y).

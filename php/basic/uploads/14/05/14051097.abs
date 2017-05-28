@@ -1,0 +1,4 @@
+Paper: 14051097
+Title: Black holes as bosonic Gaussian channels
+Authors: Kamil Bradler and Christoph Adami
+Abstract: We identify the quantum channels corresponding to the interaction of a Gaussian quantum state with an already formed Schwarzschild black hole. Using recent advances in the classification of one-mode bosonic Gaussian channels we find that (with one exception) the black hole Gaussian channels lie in the non-entanglement breaking subset of the lossy channels C(loss), amplifying channels C(amp) and classical-noise channels B2. We show that the channel parameters depend on the black hole mass and the properties of the potential barrier surrounding it. This classification enables us to calculate the classical and quantum capacity of the black hole and to estimate the quantum capacity where no tractable quantum capacity expression exists today. We discuss these findings in the light of the black hole quantum information loss problem.

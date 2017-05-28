@@ -1,0 +1,4 @@
+Paper: 09040420
+Title: A Note on Embedding Nonabelian Finite Flavor Groups in Continuous Groups
+Authors: Paul H. Frampton and Thomas W. Kephart and Ryan M. Rohm
+Abstract: A nonabelian finite flavor group $G \subset SO(3)$ can have double covering $G^{'} \subset SU(2)$ such that $G \not\subset G^{'}$. This situation is not contradictory, but quite natural, and we give explicit examples such as $G=D_n, G^{'}=Q_{2n}$ and $G=T, G^{'}=T^{'}$. This observation can be crucial in particle theory model building.

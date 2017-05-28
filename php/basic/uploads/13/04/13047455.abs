@@ -1,0 +1,4 @@
+Paper: 13047455
+Title: Eigenvalues of the Breit Equation
+Authors: Yoshio Yamaguchi and Hikoya Kasari
+Abstract: Eigenvalues of the Breit Equation {eqnarray*} [(\vec{\alpha}_{1} \vec{p} + \beta_{1}m)_{\alpha \alpha^{\prime}} \delta_{\beta \beta^{\prime}} + \delta_{\alpha \alpha^{\prime}} (-\vec{\alpha}_{2} \vec{p} + \beta_{2}M)_{\beta \beta^{\prime}} - \frac{e^{2}}{r} \delta_{\alpha \alpha^{\prime}} \delta_{\beta \beta^{\prime}}] \Psi_{\alpha^{\prime} \beta^{\prime}} = E \Psi_{\alpha \beta}, {eqnarray*} in which only the static Coulomb potential is considered, have been found. Here the detailed discussion on the simple caces, $^{1}S_{0},\ m=M$ and $m \neq M$ is given deriving the exact energy eigenvalues. The $\alpha^2$ expansion is used to find radial wave functions. The leading term is given by classical Coulomb wave function. The technique used here can be applied to other cases.

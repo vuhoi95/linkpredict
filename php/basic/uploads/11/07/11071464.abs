@@ -1,0 +1,4 @@
+Paper: 11071464
+Title: From Petrov-Einstein to Navier-Stokes in Spatially Curved Spacetime
+Authors: Tai-Zhuo Huang and Yi Ling and Wen-Jian Pan and Yu Tian and Xiao-Ning Wu
+Abstract: We generalize the framework in arXiv:1104.5502 to the case that an embedding may have a nonvanishing intrinsic curvature. Directly employing the Brown-York stress tensor as the fundamental variables, we study the effect of finite perturbations of the extrinsic curvature while keeping the intrinsic metric fixed. We show that imposing a Petrov type I condition on the hypersurface geometry may reduce to the incompressible Navier-Stokes equation for a fluid moving in spatially curved spacetime in the near-horizon limit.

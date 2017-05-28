@@ -1,0 +1,4 @@
+Paper: 14047517
+Title: The double scaling limit of random tensor models
+Authors: Valentin Bonzom and Razvan Gurau and James P. Ryan and Adrian Tanasa
+Abstract: Tensor models generalize matrix models and generate colored triangulations of pseudo-manifolds in dimensions $D\geq 3$. The free energies of some models have been recently shown to admit a double scaling limit, i.e. large tensor size $N$ while tuning to criticality, which turns out to be summable in dimension less than six. This double scaling limit is here extended to arbitrary models. This is done by means of the Schwinger--Dyson equations, which generalize the loop equations of random matrix models, coupled to a double scale analysis of the cumulants.

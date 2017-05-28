@@ -1,0 +1,4 @@
+Paper: 13091439
+Title: Numerical solution of gravitational dynamics in asymptotically anti-de  Sitter spacetimes
+Authors: Paul M. Chesler and Laurence G. Yaffe
+Abstract: A variety of gravitational dynamics problems in asymptotically anti-de Sitter (AdS) spacetime are amenable to efficient numerical solution using a common approach involving a null slicing of spacetime based on infalling geodesics, convenient exploitation of the residual diffeomorphism freedom, and use of spectral methods for discretizing and solving the resulting differential equations. Relevant issues and choices leading to this approach are discussed in detail. Three examples, motivated by applications to non-equilibrium dynamics in strongly coupled gauge theories, are discussed as instructive test cases. These are gravitational descriptions of homogeneous isotropization, collisions of planar shocks, and turbulent fluid flows in two spatial dimensions.

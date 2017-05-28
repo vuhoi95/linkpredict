@@ -1,0 +1,4 @@
+Paper: 12123533
+Title: Statistical linearizations for stochastically quantized fields
+Authors: Maciej Janowicz and Arkadiusz Orłowski
+Abstract: The statistical linearization method known in nonlinear mechanics and random vibrations theory has been applied to stochastically quantized fields in finite temperature. It has been shown that even in its simplest form the method yields convenient implicit equations for the self-energy, equivalent to the Dyson-Schwinger equations resulting from the summation of infinite number of perturbative diagrams. Three examples have been provided: the quantum anharmonic oscillator, the scalar $\phi^{4}$ theory in three spatial dimension, and the Bose-Hubbard model. The Ramanujan summation has been used to deal with divergent integrals and series.

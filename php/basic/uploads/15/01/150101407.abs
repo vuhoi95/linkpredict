@@ -1,0 +1,4 @@
+Paper: 150101407
+Title: Remote State Preparation for Quantum Fields
+Authors: Ran Ber and Erez Zohar
+Abstract: Remote state preparation is generation of a desired state by a remote observer. In spite of causality, it is well known, according to the Reeh-Schlieder theorem, that it is possible for relativistic quantum field theories, and a "physical" process achieving this task, involving superoscillatory functions, has recently been introduced. In this work we deal with non-relativistic fields, and show that remote state preparation is also possible for them, hence obtaining a Reeh-Schlieder-like result for general fields. Interestingly, in the nonrelativistic case, the process may rely on completely different resources than the ones used in the relativistic case.

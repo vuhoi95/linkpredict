@@ -1,0 +1,4 @@
+Paper: 11050357
+Title: Instanton counting with a surface operator and the chain-saw quiver
+Authors: Hiroaki Kanno and Yuji Tachikawa
+Abstract: We describe the moduli space of SU(N) instantons in the presence of a general surface operator of type N=n_1+ ... +n_M in terms of the representations of the so-called chain-saw quiver, which allows us to write down the instanton partition function as a summation over the fixed point contributions labeled by Young diagrams. We find that the instanton partition function depends on the ordering of n_I which fixes a choice of the parabolic structure. This is in accord with the fact that the Verma module of the W-algebra also depends on the ordering of n_I. By explicit calculations, we check that the partition function agrees with the norm of a coherent state in the corresponding Verma module.

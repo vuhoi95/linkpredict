@@ -1,0 +1,4 @@
+Paper: 160907078
+Title: Non-abelian $Z$-theory: Berends-Giele recursion for the  $α'$-expansion of disk integrals
+Authors: Carlos R. Mafra and Oliver Schlotterer
+Abstract: We present a recursive method to calculate the $\alpha'$-expansion of disk integrals arising in tree-level scattering of open strings which resembles the approach of Berends and Giele to gluon amplitudes. Following an earlier interpretation of disk integrals as doubly partial amplitudes of an effective theory of scalars dubbed as $Z$-theory, we pinpoint the equation of motion of $Z$-theory from the Berends-Giele recursion for its tree amplitudes. A computer implementation of this method including explicit results for the recursion up to order $\alpha'^7$ is made available on the website http://repo.or.cz/BGap.git

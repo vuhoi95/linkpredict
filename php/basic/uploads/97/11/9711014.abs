@@ -1,0 +1,4 @@
+Paper: 9711014
+Title: A spin network generalization of the Jones Polynomial and Vassiliev  invariants
+Authors: R. Gambini and J. Griego and J. Pullin
+Abstract: We apply the ideas of Alvarez and Labastida to the invariant of spin networks defined by Witten and Martin based on Chern-Simons theory. We show that it is possible to define ambient invariants of spin networks that (for the case of SU(2)) can be considered as extensions to spin networks of the Jones polynomial. Expansions of the coefficients of the polynomial yield primitive Vassiliev invariants. The resulting invariants are candidates for solutions of the Wheeler--DeWitt equations in the spin network representation of quantum gravity.

@@ -1,0 +1,4 @@
+Paper: 11044156
+Title: PT-Symmetric Representations of Fermionic Algebras
+Authors: Carl M. Bender and S. P. Klevansky
+Abstract: A recent paper by Jones-Smith and Mathur extends PT-symmetric quantum mechanics from bosonic systems (systems for which $T^2=1$) to fermionic systems (systems for which $T^2=-1$). The current paper shows how the formalism developed by Jones-Smith and Mathur can be used to construct PT-symmetric matrix representations for operator algebras of the form $\eta^2=0$, $\bar{\eta}^2=0$, $\eta\bar{\eta}+\bar {\eta} =\alpha 1$, where $\bar{eta}=\eta^{PT} =PT \eta T^{-1}P^{-1}$. It is easy to construct matrix representations for the Grassmann algebra ($\alpha=0$). However, one can only construct matrix representations for the fermionic operator algebra ($\alpha\neq0$) if $\alpha= -1$; a matrix representation does not exist for the conventional value $\alpha=1$.

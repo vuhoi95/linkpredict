@@ -1,0 +1,4 @@
+Paper: 10084205
+Title: The Orbifold Topological Vertex
+Authors: Jim Bryan and Charles Cadman and Ben Young
+Abstract: We define Donaldson-Thomas invariants of Calabi-Yau orbifolds and we develop a topological vertex formalism for computing them. The basic combinatorial object is the orbifold vertex, a generating function for the number of 3D partitions asymptotic to three given 2D partitions and colored by representations of a finite Abelian group G acting on C^3. In the case where G=Z_n acting on C^3 with transverse A_{n-1} quotient singularities, we give an explicit formula for the vertex in terms of Schur functions. We discuss applications of our formalism to the Donaldson-Thomas Crepant Resolution Conjecture and to the orbifold Donaldson-Thomas/Gromov-Witten correspondence. We also explicitly compute the Donaldson-Thomas partition function for some simple orbifold geometries: the local football and the local BZ_2 gerbe.

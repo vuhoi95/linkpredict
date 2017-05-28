@@ -1,0 +1,4 @@
+Paper: 11120305
+Title: On Feynman rules for Mellin amplitudes in AdS/CFT
+Authors: Dhritiman Nandan and Anastasia Volovich and Congkao Wen
+Abstract: The computation of CFT correlation functions via Witten diagrams in AdS space can be simplified via the Mellin transform. Recently a set of Feynman rules for tree-level Mellin space amplitudes has been proposed for scalar theories. In this note we derive these rules by explicitly evaluating all of the relevant Witten diagram integrals for the scalar phi^n theory. We also check that the rules reduce to the usual Feynman rules in the flat space limit.

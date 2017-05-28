@@ -1,0 +1,4 @@
+Paper: 150801160
+Title: Real time correlation functions and the functional renormalisation group
+Authors: Jan M. Pawlowski and Nils Strodthoff
+Abstract: We put forward a functional renormalisation group approach for the direct computation of real time correlation functions, also applicable at finite temperature and density. We construct a general class of regulators that preserve the space-time symmetries, and allows the computation of correlation functions at complex frequencies. This includes both imaginary time and real time, and allows in particular the use of the plethora of imaginary time results for the computation of real time correlation functions. We also discuss real time computation on the Keldysh contour with general spatial momentum regulators. Both set-ups give access to the general momentum and frequency dependence of correlation functions.

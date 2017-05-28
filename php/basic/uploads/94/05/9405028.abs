@@ -1,0 +1,4 @@
+Paper: 9405028
+Title: Explicit Solutions of the Bethe Ansatz Equations for Bloch Electrons in  a Magnetic Field
+Authors: Yasuhiro Hatsugai and Mahito Kohmoto and Yong-Shi Wu
+Abstract: For Bloch electrons in a magnetic field, explicit solutions are obtained at the center of the spectrum for the Bethe ansatz equations recently proposed by Wiegmann and Zabrodin. When the magnetic flux per plaquette is $1/Q$ where $Q$ is an odd integer, distribution of the roots is uniform on the unit circle in the complex plane. For the semi-classical limit, $ Q\rightarrow\infty$, the wavefunction obeys the power low and is given by $|\psi(x)|^2=(2/ \sin \pi x)$ which is critical and unnormalizable. For the golden mean flux, the distribution of roots has the exact self-similarity and the distribution function is nowhere differentiable. The corresponding wavefunction also shows a clear self-similar structure.

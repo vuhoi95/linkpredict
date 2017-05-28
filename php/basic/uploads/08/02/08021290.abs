@@ -1,0 +1,4 @@
+Paper: 08021290
+Title: C-Functions in Lovelock Gravity
+Authors: Mohamed M. Anber and David Kastor
+Abstract: We present C-functions for static and spherically symmetric spacetimes in Lovelock gravity theories. These functions are monotonically increasing functions of the outward radial coordinate and acquire their minima when evaluated on the horizon. Unlike the case of Einstein gravity, where there is a single C-function, we find that this function is non-unique in the case of Lovelock gravity. We define two C-functions, which agree at the horizon giving the black hole entropy, and state the different energy conditions that must hold in order for these functions to satisfy the monotonicity condition.

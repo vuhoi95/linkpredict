@@ -1,0 +1,4 @@
+Paper: 11012348
+Title: Differential Reduction Techniques for the Evaluation of Feynman Diagrams
+Authors: S. A. Yost and V. V. Bytev and M. Yu. Kalmykov and B. A. Kniehl and B. F. L. Ward
+Abstract: Stable reduction methods will be important in the evaluation of high-order perturbative diagrams appearing in QCD and mixed QCD-electroweak radiative corrections at the LHC. Differential reduction techniques are useful for relating hypergeometric functions with shifted values of the parameters. We present a proposition relating the number of master integrals in the expansion of a Feynman diagram to the number of derivatives in a differential reduction.

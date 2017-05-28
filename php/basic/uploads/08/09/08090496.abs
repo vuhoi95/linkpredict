@@ -1,0 +1,4 @@
+Paper: 08090496
+Title: Renormalised nonequilibrium quantum field theory: scalar fields
+Authors: Szabolcs Borsanyi and Urko Reinosa
+Abstract: We discuss the renormalisation of the initial value problem in quantum field theory using the two-particle irreducible (2PI) effective action formalism. The nonequilibrium dynamics is renormalised by counterterms determined in equilibrium. We emphasize the importance of the appropriate choice of initial conditions and go beyond the Gaussian initial density operator by defining self-consistent initial conditions. We study the corresponding time evolution and present a numerical example which supports the existence of a continuum limit for this type of initial conditions.

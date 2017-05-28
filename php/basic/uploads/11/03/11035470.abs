@@ -1,0 +1,4 @@
+Paper: 11035470
+Title: Resolvents and Seiberg-Witten representation for Gaussian beta-ensemble
+Authors: A. Mironov and A. Morozov and A. Popolitov and Sh. Shakirov
+Abstract: The exact free energy of matrix model always obeys the Seiberg-Witten (SW) equations on a complex curve defined by singularities of the quasiclassical resolvent. The role of SW differential is played by the exact one-point resolvent. We show that these properties are preserved in generalization of matrix models to beta-ensembles. However, since the integrability and Harer-Zagier topological recursion are still unavailable for beta-ensembles, we need to rely upon the ordinary AMM/EO recursion to evaluate the first terms of the genus expansion. Consideration in this paper is restricted to the Gaussian model.

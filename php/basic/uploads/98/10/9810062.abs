@@ -1,0 +1,4 @@
+Paper: 9810062
+Title: Tunneling Ionization Rates from Arbitrary Potential Wells
+Authors: G. N. Gibson and G. Dunne and K. J. Bergquist
+Abstract: We present a practical numerical technique for calculating tunneling ionization rates from arbitrary 1-D potential wells in the presence of a linear external potential by determining the widths of the resonances in the spectral density, rho(E), adiabatically connected to the field-free bound states. While this technique applies to more general external potentials, we focus on the ionization of electrons from atoms and molecules by DC electric fields, as this has an important and immediate impact on the understanding of the multiphoton ionization of molecules in strong laser fields.

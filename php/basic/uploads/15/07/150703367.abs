@@ -1,0 +1,4 @@
+Paper: 150703367
+Title: Off-diagonal Bethe Ansatz solution of the $τ_2$-model
+Authors: Xiaotian Xu and Junpeng Cao and Shuai Cui and Wen-Li Yang and Kangjie Shi and Yupeng Wang
+Abstract: The generic quantum $\tau_2$-model (also known as Baxter-Bazhanov-Stroganov (BBS) model) with periodic boundary condition is studied via the off-diagonal Bethe Ansatz method. The eigenvalues of the corresponding transfer matrix (solutions of the recursive functional relations in $\tau_j$-hierarchy) with generic site-dependent inhomogeneity parameters are given in terms of an inhomogeneous T-Q relation with polynomial Q-functions. The associated Bethe Ansatz equations are obtained. Numerical solutions of the Bethe Ansatz equations for small number of sites indicate that the inhomogeneous T-Q relation does indeed give the complete spectrum.

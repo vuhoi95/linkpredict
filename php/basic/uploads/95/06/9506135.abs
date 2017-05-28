@@ -1,0 +1,4 @@
+Paper: 9506135
+Title: From Dynkin diagram symmetries to fixed point structures
+Authors: J"urgen Fuchs and Bert Schellekens and Christoph Schweigert
+Abstract: Any automorphism of the Dynkin diagram of a symmetrizable Kac-Moody algebra induces an automorphism of the algebra and a mapping between its highest weight modules. For a large class of such Dynkin diagram automorphisms, we can describe various aspects of these maps in terms of another Kac-Moody algebra, the `orbit Lie algebra'. In particular, the generating function for the trace of the map on modules, the `twining character', is equal to a character of the orbit Lie algebra. Orbit Lie algebras and twining characters constitute a crucial step towards solving the fixed point resolution problem in conformal field theory.

@@ -1,0 +1,4 @@
+Paper: 13113020
+Title: Decoding the hologram: Scalar fields interacting with gravity
+Authors: Daniel Kabat and Gilad Lifschytz
+Abstract: We construct smeared CFT operators which represent a scalar field in AdS interacting with gravity. The guiding principle is micro-causality: scalar fields should commute with themselves at spacelike separation. To O(1/N) we show that a correct and convenient criterion for constructing the appropriate CFT operators is to demand micro-causality in a three-point function with a boundary Weyl tensor and another boundary scalar. The resulting bulk observables transform in the correct way under AdS isometries and commute with boundary scalar operators at spacelike separation, even in the presence of metric perturbations.

@@ -1,0 +1,4 @@
+Paper: 9501035
+Title: The relation between the waveguide and overlap implementations of  Kaplan's domain wall fermions
+Authors: Maarten Golterman and Yigal Shamir
+Abstract: Recently, Narayanan and Neuberger proposed that the fermion determinant for a lattice chiral gauge theory be defined by an overlap formula. The motivation for that formula comes from Kaplan's five dimensional lattice domain wall fermions. In the case that the target continuum theory contains $4n$ chiral families, we show that the effective action defined by overlap formula is identical to the effective action of a modified waveguide model that has extra bosonic ghost fields. This raises serious questions about the viability of the overlap formula for defining chiral gauge theories on the lattice.

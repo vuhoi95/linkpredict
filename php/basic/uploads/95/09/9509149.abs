@@ -1,0 +1,4 @@
+Paper: 9509149
+Title: Correlation functions for the 2D random bonds Potts Models
+Authors: Vladimir Dotsenko and Marco Picco and Pierre Pujol
+Abstract: We study the spin-spin and energy-energy correlation functions for the 2D Ising and 3-states Potts model with random bonds at the critical point. The procedure employed is the renormalisation group approach of the perturbation series around the conformal field theories representing the pure models. For the Ising model, we obtain a crossover in the amplitude for the correlation functions which doesn't change the critical exponent. For the $3$-state Potts model, we found a shift in the critical exponent produced by randomness. A comparison with numerical data is discussed briefly.

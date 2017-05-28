@@ -1,0 +1,4 @@
+Paper: 11024708
+Title: In quest of the Yang-Mills vacuum wavefunctional
+Authors: J. Greensite and S. Olejnik
+Abstract: A simple recursion procedure was devised to generate lattice configurations with probability distributions given by simple approximate Yang-Mills vacuum wavefunctionals. A few quantities determined in ensembles of these configurations are compared to those computed in configurations generated in standard Monte Carlo simulations of the three-dimensional Yang-Mills theory.

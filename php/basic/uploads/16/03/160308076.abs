@@ -1,0 +1,4 @@
+Paper: 160308076
+Title: Polymerization, the Problem of Access to the Saddle Point Approximation,  and Thermodynamics
+Authors: Hugo A. Morales-Técotl and Daniel H. Orozco-Borunda and Saeed Rastgoo
+Abstract: The saddle point approximation to the partition functions is an important way of deriving the thermodynamical properties of black holes. However, there are certain black hole models and some mathematically analog mechanical models for which this method can not be applied directly. This is due to the fact that their action evaluated on a classical solution is not finite and its first variation does not vanish for all consistent boundary conditions. These problems can be dealt with by adding a counter-term to the classical action, which is a solution of the corresponding Hamilton-Jacobi equation. In this work however, we seek an alternative solution to this problem via the polymer quantization which is motivated by the loop quantum gravity.

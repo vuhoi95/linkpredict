@@ -1,0 +1,4 @@
+Paper: 151006758
+Title: On the Computation of Form Factors in Massless QCD with Finite Master  Integrals
+Authors: Andreas von Manteuffel and Erik Panzer and Robert M. Schabinger
+Abstract: We present the bare one-, two-, and three-loop form factors in massless Quantum Chromodynamics as linear combinations of finite master integrals. Using symbolic integration, we compute their $\epsilon$ expansions and thereby reproduce all known results with an independent method. Remarkably, in our finite basis, only integrals with a less-than-maximal number of propagators contribute to the cusp anomalous dimensions. We report on indications of this phenomenon at four loops, including the result for a finite, irreducible, twelve-propagator form factor integral. Together with this article, we provide our automated software setup for the computation of finite master integrals.

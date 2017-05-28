@@ -1,0 +1,4 @@
+Paper: 160702514
+Title: Random Functions via Dyson Brownian Motion: Progress and Problems
+Authors: Gaoyuan Wang and Thorsten Battefeld
+Abstract: We develope a computationally efficient extension of the Dyson Brownian Motion (DBM) algorithm to generate random function in C2 locally. We further explain that random functions generated via DBM show an unstable growth as the traversed distance increases. This feature restricts the use of such functions considerably if they are to be used to model globally defined ones. The latter is the case if one uses random functions to model landscapes in string theory. We provide a concrete example, based on a simple axionic potential often used in cosmology, to highlight this problem and also offer an ad hoc modification of DBM that suppresses this growth to some degree.

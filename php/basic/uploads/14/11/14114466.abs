@@ -1,0 +1,4 @@
+Paper: 14114466
+Title: Exact Results in Discretized Gauge Theories
+Authors: So Matsuura and Tatsuhiro Misumi and Kazutoshi Ohta
+Abstract: We apply the localization technique to topologically twisted N=(2,2) supersymmetric gauge theory on a discretized Riemann surface (the generalized Sugino model). We exactly evaluate the partition function and the vacuum expectation value (vev) of a specific Q-closed operator. We show that both the partition function and the vev of the operator depend only on the Euler characteristic and the area of the discretized Riemann surface and are independent of the detail of the discretization. This localization technique may not only simplify numerical analysis of the supersymmetric lattice models but also connect the well-defined equivariant localization to the empirical supersymmetric localization.

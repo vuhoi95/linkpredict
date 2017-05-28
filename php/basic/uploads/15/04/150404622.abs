@@ -1,0 +1,4 @@
+Paper: 150404622
+Title: Static Self-Forces in a Five-Dimensional Black Hole Spacetime
+Authors: Peter Taylor and Éanna É. Flanagan
+Abstract: We obtain the electric field and scalar field for a static point charge in closed form in the 5D Schwarzschild-Tangherlini black hole spacetime. We then compute the static self-force in each of these cases by assuming that the appropriate singular field is a 4D Hadamard Green's function on the constant time Riemannian slice. It is well known that the Hadamard Green's function involves an arbitrary regular biscalar $W_{0}(x,x')$, whose coincidence limit $w(x)$ appears in the expression for the self-force. We develop an axiomatic approach to reduce this arbitrary function to a single arbitrary dimensionless coefficient. We show that in the context of this approach to regularization, the self-force does not depend on any undetermined length-scale and need not depend on the internal structure of the charge.

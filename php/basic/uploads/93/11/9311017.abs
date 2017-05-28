@@ -1,0 +1,4 @@
+Paper: 9311017
+Title: Partition Function Zeros for Aperiodic Systems
+Authors: M. Baake and U. Grimm and C. Pisani
+Abstract: The study of zeros of partition functions, initiated by Yang and Lee, provides an important qualitative and quantitative tool in the study of critical phenomena. This has frequently been used for periodic as well as hierarchical lattices. Here, we consider magnetic field and temperature zeros of Ising model partition functions on several aperiodic structures. In 1D, we analyze aperiodic chains obtained from substitution rules, the most prominent example being the Fibonacci chain. In 2D, we focus on the tenfold symmetric triangular tiling which allows efficient numerical treatment by means of corner transfer matrices.

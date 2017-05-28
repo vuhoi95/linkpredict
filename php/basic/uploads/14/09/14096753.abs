@@ -1,0 +1,4 @@
+Paper: 14096753
+Title: Horizon complementarity in elliptic de Sitter space
+Authors: Lucas Hackl and Yasha Neiman
+Abstract: We study a quantum field in elliptic de Sitter space dS_4/Z_2 - the spacetime obtained from identifying antipodal points in dS_4. We find that the operator algebra and Hilbert space cannot be defined for the entire space, but only for observable causal patches. This makes the system into an explicit realization of the horizon complementarity principle. In the absence of a global quantum theory, we propose a recipe for translating operators and states between observers. This translation involves information loss, in accordance with the fact that two observers see different patches of the spacetime. As a check, we recover the thermal state at the de Sitter temperature as a state that appears the same to all observers. This thermal state arises from the same functional that, in ordinary dS_4, describes the Bunch-Davies vacuum.

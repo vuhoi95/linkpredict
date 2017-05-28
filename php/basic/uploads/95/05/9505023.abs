@@ -1,0 +1,4 @@
+Paper: 9505023
+Title: Vector Fields on Quantum Groups
+Authors: Paolo Aschieri and Peter Schupp
+Abstract: We construct the space of vector fields on a generic quantum group. Its elements are products of elements of the quantum group itself with left invariant vector fields. We study the duality between vector fields and 1-forms and generalize the construction to tensor fields. A Lie derivative along any (also non left invariant) vector field is proposed and a puzzling ambiguity in its definition discussed. These results hold for a generic Hopf algebra.

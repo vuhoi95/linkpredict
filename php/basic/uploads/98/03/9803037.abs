@@ -1,0 +1,4 @@
+Paper: 9803037
+Title: Double (implicit and explicit) dependence of the electromagnetic field  of an accelerated charge on time: Mathematical and physical analysis of the  problem
+Authors: Andrew E. Chubykalo and Stoyan J. Vlaev
+Abstract: We considered the electromagnetic field of a charge moving with a constant acceleration along an axis. We found that this field obtained from the Li\'enard-Wiechert potentials does not satisfy Maxwell equations if one considers exclusively a retarded interaction (i.e. pure implicit dependence this field on time). We show that if and only if one takes into account both retarded interaction and direct interaction (so called "action-at-a-distance") the field produced by an accelerated charge satisfies Maxwell equations.

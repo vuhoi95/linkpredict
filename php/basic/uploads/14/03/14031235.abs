@@ -1,0 +1,4 @@
+Paper: 14031235
+Title: Connection problem for the sine-Gordon/Painlevé III tau function and  irregular conformal blocks
+Authors: A. Its and O. Lisovyy and Yu. Tykhyy
+Abstract: The short-distance expansion of the tau function of the radial sine-Gordon/Painlev\'e III equation is given by a convergent series which involves irregular $c=1$ conformal blocks and possesses certain periodicity properties with respect to monodromy data. The long-distance irregular expansion exhibits a similar periodicity with respect to a different pair of coordinates on the monodromy manifold. This observation is used to conjecture an exact expression for the connection constant providing relative normalization of the two series. Up to an elementary prefactor, it is given by the generating function of the canonical transformation between the two sets of coordinates.

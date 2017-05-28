@@ -1,0 +1,4 @@
+Paper: 10055030
+Title: Logistic Map Potentials
+Authors: Thomas Curtright and Andrzej Veitia
+Abstract: We develop and illustrate methods to compute all single particle potentials that underlie the logistic map, x --> sx(1-x) for 0<s<=4. We show that the switchback potentials can be obtained from the primary potential through functional transformations. We are thereby able to produce the various branches of the corresponding analytic potential functions, which have an infinite number of branch points for generic s>2. We illustrate the methods numerically for the cases s=5/2 and s=10/3.

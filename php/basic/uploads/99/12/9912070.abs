@@ -1,0 +1,4 @@
+Paper: 9912070
+Title: Quantum dissipation and neural net dynamics
+Authors: Eliano Pessa and Giuseppe Vitiello
+Abstract: Inspired by the dissipative quantum model of brain, we model the states of neural nets in terms of collective modes by the help of the formalism of Quantum Field Theory. We exhibit an explicit neural net model which allows to memorize a sequence of several informations without reciprocal destructive interference, namely we solve the overprinting problem in such a way last registered information does not destroy the ones previously registered. Moreover, the net is able to recall not only the last registered information in the sequence, but also anyone of those previously registered.

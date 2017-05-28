@@ -1,0 +1,4 @@
+Paper: 08090661
+Title: Quantum complex sine-Gordon dressed boundaries
+Authors: Peter Bowcock and James Umpleby
+Abstract: In this paper we investigate the quantum reflection factor for the CSG dressed boundary, previously constructed by dressing the Dirichlet boundary with the integrable CSG defect. We analyse classical bound states and use semi-classical methods to investigate the quantum boundary spectrum. We conjecture a fully quantum reflection matrix for a particle reflecting from an unexcited boundary. By using the reflection and boundary bootstrap equations, the reflection matrix for a charge Q=+n soliton reflecting from the mth excited boundary is constructed. Evidence supporting our conjecture is given by checking that the bootstrap closes and that the reflection matrices agrees with known results in the classical limit. A partial analysis of the poles in the reflection matrices which arise from Coleman-Thun diagrams is given.

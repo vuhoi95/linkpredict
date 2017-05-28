@@ -1,0 +1,4 @@
+Paper: 9902045
+Title: A Uniqueness Theorem for Constraint Quantization
+Authors: Domenico Giulini and Donald Marolf
+Abstract: This work addresses certain ambiguities in the Dirac approach to constrained systems. Specifically, we investigate the space of so-called ``rigging maps'' associated with Refined Algebraic Quantization, a particular realization of the Dirac scheme. Our main result is to provide a condition under which the rigging map is unique, in which case we also show that it is given by group averaging techniques. Our results comprise all cases where the gauge group is a finite-dimensional Lie group.

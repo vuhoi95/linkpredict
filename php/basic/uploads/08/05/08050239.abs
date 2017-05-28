@@ -1,0 +1,4 @@
+Paper: 08050239
+Title: The MHV QCD Lagrangian
+Authors: James H. Ettle and Tim R. Morris and Zhiguang Xiao
+Abstract: We perform a canonical change of the field variables of light-cone gauge massless QCD to obtain a lagrangian whose terms are proportional up to polarisation factors to MHV amplitudes and continued off shell by the CSW prescription. We solve for this transformation as a series expansion to all orders in the new fields, and use this to prove that the resulting vertices are indeed MHV vertices as claimed. We also demonstrate how this works explicitly for the vertices with: two quarks and two gluons, four quarks, and a particular helicity configuration of two quarks and three gluons. Finally, we generalise the construction to massive QCD.

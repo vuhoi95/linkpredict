@@ -1,0 +1,4 @@
+Paper: 12080284
+Title: A new method for taming tensor sum-integrals
+Authors: Ioan Ghisoiu and York Schroder
+Abstract: We report on the computation of a class of massless bosonic three-loop vacuum sum-integrals which are key building blocks for an evaluation of the Debye screening mass in hot QCD. Generalizing known techniques and introducing the concept of tensor reduction by dimensionality shifts (known to the zero-temperature community since the work of Tarasov in 1996) to finite temperature, we are able to treat hitherto unaccessible cases, which will allow us to finalize the long-term project of NNLO Debye mass evaluation.

@@ -1,0 +1,4 @@
+Paper: 160705285
+Title: Schur complement inequalities for covariance matrices and monogamy of  quantum correlations
+Authors: Ludovico Lami and Christoph Hirche and Gerardo Adesso and Andreas Winter
+Abstract: We derive fundamental constraints for the Schur complement of positive matrices, which provide an operator strengthening to recently established information inequalities for quantum covariance matrices, including strong subadditivity. This allows us to prove general results on the monogamy of entanglement and steering quantifiers in continuous variable systems with an arbitrary number of modes per party. A powerful hierarchical relation for correlation measures based on the log-determinant of covariance matrices is further established for all Gaussian states, which has no counterpart among quantities based on the conventional von Neumann entropy.

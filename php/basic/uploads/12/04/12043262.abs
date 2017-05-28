@@ -1,0 +1,4 @@
+Paper: 12043262
+Title: Zero modes, gauge fixing, monodromies, $ζ$-functions and all that
+Authors: A. O. Barvinsky and D. V. Nesterov
+Abstract: We discuss various issues associated with the calculation of the reduced functional determinant of a special second order differential operator $\boldmath${F}$ =-d^2/d\tau^2+\ddot g/g$, $\ddot g\equiv d^2g/d\tau^2$, with a generic function $g(\tau)$, subject to periodic and Dirichlet boundary conditions. These issues include the gauge-fixed path integral representation of this determinant, the monodromy method of its calculation and the combination of the heat kernel and zeta-function technique for the derivation of its period dependence. Motivations for this particular problem, coming from applications in quantum cosmology, are also briefly discussed. They include the problem of microcanonical initial conditions in cosmology driven by a conformal field theory, cosmological constant and cosmic microwave background problems.

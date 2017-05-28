@@ -1,0 +1,4 @@
+Paper: 150800012
+Title: Bootstrapping 3D Fermions
+Authors: Luca Iliesiu and Filip Kos and David Poland and Silviu S. Pufu and David Simmons-Duffin and Ran Yacoby
+Abstract: We study the conformal bootstrap for a 4-point function of fermions $\langle\psi\psi\psi\psi\rangle$ in 3D. We first introduce an embedding formalism for 3D spinors and compute the conformal blocks appearing in fermion 4-point functions. Using these results, we find general bounds on the dimensions of operators appearing in the $\psi \times \psi$ OPE, and also on the central charge $C_T$. We observe features in our bounds that coincide with scaling dimensions in the Gross-Neveu models at large $N$. We also speculate that other features could coincide with a fermionic CFT containing no relevant scalar operators.

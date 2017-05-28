@@ -1,0 +1,4 @@
+Paper: 12075730
+Title: Self-adjointness in the Hamiltonians of deparameterized totally  constrained theories: a model
+Authors: Rodolfo Gambini and Jorge Pullin
+Abstract: Several proposals to deal with the dynamics of general relativity involve gauge fixings or the introduction matter fields in terms of which the theory is deparameterized. The resulting theories have true Hamiltonians for their evolution that usually involve square roots, and this poses certain challenges for their implementation as self-adjoint quantum operators. We show in the context of a simple model of totally constrained theory that one can introduce related, well defined operators that reproduce semiclassically the same physics as the original ones, at least for states peaked in the regions of phase space where their associated classical quantities are well defined.

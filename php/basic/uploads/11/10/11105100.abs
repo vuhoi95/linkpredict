@@ -1,0 +1,4 @@
+Paper: 11105100
+Title: On the corrections beyond proximity force approximation (PFA)
+Authors: L. P. Teo and M. Bordag and V. Nikolaev
+Abstract: We recalculate the first analytic correction beyond PFA for a sphere in front of a plane for a scalar field and for the electromagnetic field. We use the method of Bordag and Nikolaev [J.Phys.A, {\bf 41} (2008) p.164002]. We confirm their result for Dirichlet boundary conditions whereas we find a different one for Robin, Neumann and conductor boundary conditions. The difference can be traced back to a sign error. As a result, the corrections depend on the Robin parameter. Agreement is found with a very recent method of derivative expansion.

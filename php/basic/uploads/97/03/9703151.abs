@@ -1,0 +1,4 @@
+Paper: 9703151
+Title: Breakdown of Universality in Random Matrix Models
+Authors: Satoshi Iso and Andrew Kavalov
+Abstract: We calculate smoothed correlators for a large random matrix model with a potential containing products of two traces $\tr W_1(M) \cdot \tr W_2(M)$ in addition to a single trace $\tr V(M)$. Connected correlation function of density eigenvalues receives corrections besides the universal part derived by Brezin and Zee and it is no longer universal in a strong sense.

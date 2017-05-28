@@ -1,0 +1,4 @@
+Paper: 12121239
+Title: Entropy of Quantum States: Ambiguities
+Authors: A. P. Balachandran and A. R. de Queiroz and S. Vaidya
+Abstract: The von Neumann entropy of a generic quantum state is not unique unless the state can be uniquely decomposed as a sum of extremal or pure states. As pointed out to us by Sorkin, this happens if the GNS representation (of the algebra of observables in some quantum state) is reducible, and some representations in the decomposition occur with non-trivial degeneracy. This non-unique entropy can occur at zero temperature. We will argue elsewhere in detail that the degeneracies in the GNS representation can be interpreted as an emergent broken gauge symmetry, and play an important role in the analysis of emergent entropy due to non-Abelian anomalies. Finally, we establish the analogue of an H-theorem for this entropy by showing that its evolution is Markovian, determined by a stochastic matrix.

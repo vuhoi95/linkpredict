@@ -1,0 +1,4 @@
+Paper: 150909032
+Title: Universal Lie Formulas for Higher Antibrackets
+Authors: Marco Manetti and Giulia Ricciardi
+Abstract: We prove that the hierarchy of higher antibrackets (aka higher Koszul brackets, aka Koszul braces) of a linear operator $\Delta$ on a commutative superalgebra can be defined by some universal formulas involving iterated Nijenhuis-Richardson brackets having as arguments $\Delta$ and the multiplication operators. As a byproduct, we can immediately extend higher antibrackets to noncommutative algebras in a way preserving the validity of generalized Jacobi identities.

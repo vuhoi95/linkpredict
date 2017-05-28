@@ -1,0 +1,4 @@
+Paper: 13048004
+Title: Stabilizing perturbative Yang-Mills thermodynamics with Gribov  quantization
+Authors: Kenji Fukushima and Nan Su
+Abstract: We evaluate the thermodynamic quantities of Yang-Mills theory using the Gribov quantization, which deals with nonperturbative resummation. The magnetic scale is automatically incorporated into the framework and we find it efficient to stabilize the perturbative expansion of the free energy. In the temperature range $T=T_c \sim 2\,T_c$ the major uncertainty in our results comes from the nonperturbative running coupling that is adopted from the lattice simulation, while the convergence above $2\,T_c$ is impressively robust. We also present the corresponding interaction measure (i.e., trace anomaly) up to close to $T_c$.

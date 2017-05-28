@@ -1,0 +1,4 @@
+Paper: 9705279
+Title: Harmonic Lattice Approximation and Density Correlations in the  Calogero-Sutherland Model
+Authors: Diptiman Sen and R. K. Bhaduri
+Abstract: For a one-dimensional model in which the two-body interactions are long-range and strong, the system almost crystallizes. The harmonic modes of such a lattice can be used to compute the ground state wave function and the dynamical density-density correlations. We use this method to calculate the density corrrelations in the Calogero-Sutherland model. We show numerically that the correlations obtained are quite accurate even if the coupling is not very large. Our method is considerably simpler than the ones used to derive the exact results, and yields expressions for the correlations which are easily plotted. Our equal-time correlations can be expanded in powers of the inverse coupling; we show that the two leading order terms agree with the exact results which are known for integer values of the coupling.

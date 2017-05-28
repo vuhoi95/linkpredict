@@ -1,0 +1,4 @@
+Paper: 09104335
+Title: Filtered topological structure of the QCD vacuum: Effects of dynamical  quarks
+Authors: Falk Bruckmann and Florian Gruber and Andreas Schäfer
+Abstract: We systematically compare filtering methods used to extract topological structures on SU(3) lattice configurations. We show that there is a strong correlation of the topological charge densities obtained by APE and Stout smearing. To get rid of artifacts of these methods, we analyse structures that are also seen by Laplace filtering and indeed identify artifacts for strong smearing. The topological charge density in this combined analysis is more fragmented in the presence of dynamical quarks. A power law exponent that characterises the distribution of filtered topological clusters turns out to be not far off the values of an instanton gas model.

@@ -1,0 +1,4 @@
+Paper: 14051158
+Title: The geometry of representations of 3-dimensional Sklyanin algebras
+Authors: Kevin De Laet and Lieven Le Bruyn
+Abstract: The representation scheme ${\tt rep}_n A$ of the 3-dimensional Sklyanin algebra $A$ associated to a plane elliptic curve and n-torsion point contains singularities over the augmentation ideal $\mathfrak{m}$. We investigate the semi-stable representations of the noncommutative blow-up algebra $B=A \oplus \mathfrak{m}t \oplus\mathfrak{m}^2 t^2 \oplus ...$ to obtain a partial resolution of the central singularity ${\tt proj} Z(B) \rightarrow {\tt spec} Z(A)$ such that the remaining singularities in the exceptional fiber determine an elliptic curve and are all of type $\mathbb{C} \times \mathbb{C}^2/\mathbb{Z}_n$.

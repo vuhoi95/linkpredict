@@ -1,0 +1,4 @@
+Paper: 09062881
+Title: 2PI functional techniques for gauge theories: QED
+Authors: U. Reinosa and J. Serreau
+Abstract: We discuss the formulation of the prototype gauge field theory, QED, in the context of two-particle-irreducible (2PI) functional techniques with particular emphasis on the issues of renormalization and gauge symmetry. We show how to renormalize all $n$-point vertex functions of the (gauge-fixed) theory at any approximation order in the 2PI loop-expansion by properly adjusting a finite set of local counterterms consistent with the underlying gauge symmetry. The paper is divided in three parts: a self-contained presentation of the main results and their possible implementation for practical applications; a detailed analysis of ultraviolet divergences and their removal; a number of appendices collecting technical details.

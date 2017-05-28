@@ -1,0 +1,4 @@
+Paper: 151202035
+Title: Soliton splitting in quenched classical integrable systems
+Authors: O. Gamayun and M. Semenyakin
+Abstract: We take a soliton solution of a classical non-linear integrable equation and quench (suddenly change) its non-linearity parameter. For that we multiply the amplitude or the width of a soliton by a numerical factor $\eta$ and take the obtained profile as a new initial condition. We find the values of $\eta$ at which the post-quench solution consists of only a finite number of solitons. The parameters of these solitons are found explicitly. Our approach is based on solving the direct scattering problem analytically. We demonstrate how it works for Kortewig-de-Vries, sine-Gordon and non-linear Schr\"odinger integrable equations.

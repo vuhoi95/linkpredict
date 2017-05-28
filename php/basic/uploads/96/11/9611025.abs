@@ -1,0 +1,4 @@
+Paper: 9611025
+Title: Correlations in one dimensional quantum impurity problems with an  external field
+Authors: F. Lesage and H. Saleur
+Abstract: We study response functions of integrable quantum impurity problems with an external field at $T=0$ using non perturbative techniques derived from the Bethe ansatz. We develop the first steps of the theory of excitations over the new, field dependent ground state, leading to renormalized (or ``dressed'') form-factors. We obtain exactly the low frequency behaviour of the dynamical susceptibility $\chi''(\omega)$ in the double well problem of dissipative quantum mechanics (or equivalently the anisotropic Kondo problem),and the low frequency behaviour of the AC noise $S_t(\omega)$ for tunneling between edges in fractional quantum Hall devices. We also obtain exactly the structure of singularities in $\chi''(\omega)$ and $S_t(\omega)$. Our results differ significantly from previous perturbative approaches.

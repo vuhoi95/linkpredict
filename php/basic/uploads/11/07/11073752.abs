@@ -1,0 +1,4 @@
+Paper: 11073752
+Title: Heat Kernel Coefficients for Laplace Operators on the Spherical  Suspension
+Authors: Guglielmo Fucci and Klaus Kirsten
+Abstract: In this paper we compute the coefficients of the heat kernel asymptotic expansion for Laplace operators acting on scalar functions defined on the so called spherical suspension (or Riemann cap) subjected to Dirichlet boundary conditions. By utilizing a contour integral representation of the spectral zeta function for the Laplacian on the spherical suspension we find its analytic continuation in the complex plane and its associated meromorphic structure. Thanks to the well known relation between the zeta function and the heat kernel obtainable via Mellin transform we compute the coefficients of the asymptotic expansion in arbitrary dimensions. The particular case of a $d$-dimensional sphere as the base manifold is studied as well and the first few heat kernel coefficients are given explicitly.

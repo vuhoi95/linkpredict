@@ -1,0 +1,4 @@
+Paper: 9503110
+Title: The Specific Heat of a Ferromagnetic Film.
+Authors: F. Freire and Denjoe O'Connor and C. R. Stephens
+Abstract: We analyze the specific heat for the $O(N)$ vector model on a $d$-dimensional film geometry of thickness $L$ using ``environmentally friendly'' renormalization. We consider periodic, Dirichlet and antiperiodic boundary conditions, deriving expressions for the specific heat and an effective specific heat exponent, $\alpha\ef$. In the case of $d=3$, for $N=1$, by matching to the exact exponent of the two dimensional Ising model we capture the crossover for $\xi_L\ra\infty$ between power law behaviour in the limit ${L\over\xi_L}\ra\infty$ and logarithmic behaviour in the limit ${L\over\xi_L}\ra0$ for fixed $L$, where $\xi_L$ is the correlation length in the transverse dimensions.

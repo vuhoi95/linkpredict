@@ -1,0 +1,4 @@
+Paper: 13075469
+Title: De Sitter Universe from Causal Dynamical Triangulations without  Preferred Foliation
+Authors: S. Jordan and R. Loll
+Abstract: We present a detailed analysis of a recently introduced version of Causal Dynamical Triangulations (CDT) that does not rely on a distinguished time slicing. Focussing on the case of 2+1 spacetime dimensions, we analyze its geometric and causal properties, present details of the numerical set-up and explain how to extract "volume profiles". Extensive Monte Carlo measurements of the system show the emergence of a de Sitter universe on large scales from the underlying quantum ensemble, similar to what was observed previously in standard CDT quantum gravity. This provides evidence that the distinguished time slicing of the latter is not an essential part of its kinematical set-up.

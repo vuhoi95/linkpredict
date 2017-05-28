@@ -1,0 +1,4 @@
+Paper: 12020304
+Title: Bayesian Analysis of Inflation III: Slow Roll Reconstruction Using Model  Selection
+Authors: Jorge Noreña and Christian Wagner and Licia Verde and Hiranya V. Peiris and Richard Easther
+Abstract: We implement Slow Roll Reconstruction -- an optimal solution to the inverse problem for inflationary cosmology -- within ModeCode, a publicly available solver for the inflationary dynamics. We obtain up-to-date constraints on the reconstructed inflationary potential, derived from the WMAP 7-year dataset and South Pole Telescope observations, combined with large scale structure data derived from SDSS Data Release 7. Using ModeCode in conjunction with the MultiNest sampler, we compute Bayesian evidence for the reconstructed potential at each order in the truncated slow roll hierarchy. We find that the data are well-described by the first two slow roll parameters, \epsilon and \eta, and that there is no need to include a nontrivial \xi parameter.

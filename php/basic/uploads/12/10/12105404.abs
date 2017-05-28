@@ -1,0 +1,4 @@
+Paper: 12105404
+Title: Improved lattice actions for supersymmetric quantum mechanics
+Authors: Sebastian Schierenberg and Falk Bruckmann
+Abstract: We analyze the Euclidean version of supersymmetric quantum mechanics on the lattice by means of a numerical path integral. We consider two different lattice derivatives and improve the actions containing them with respect to supersymmetry by systematically adding interaction terms with non-zero extent. To quantize this improvement, we measure boson and fermion masses and Ward identities for the naive as well as the improved models. The masses are degenerate in all models, but the magnitude of the Ward identities decreases significantly for both derivative operators using the improved actions. This is a clear sign that the breaking of supersymmetry due to lattice artifacts is reduced.

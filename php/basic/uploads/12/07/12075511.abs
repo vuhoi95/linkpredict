@@ -1,0 +1,4 @@
+Paper: 12075511
+Title: Symmetric-group decomposition of SU(N) group-theory constraints on  four-, five-, and six-point color-ordered amplitudes
+Authors: Alexander C. Edison and Stephen G. Naculich
+Abstract: Color-ordered amplitudes for the scattering of n particles in the adjoint representation of SU(N) gauge theory satisfy constraints that arise from group theory alone. These constraints break into subsets associated with irreducible representations of the symmetric group S_n, which allows them to be presented in a compact and natural way. Using an iterative approach, we derive the constraints for six-point amplitudes at all loop orders, extending earlier results for n=4 and n=5. We then decompose the four-, five-, and six-point group-theory constraints into their irreducible S_n subspaces. We comment briefly on higher-point two-loop amplitudes.

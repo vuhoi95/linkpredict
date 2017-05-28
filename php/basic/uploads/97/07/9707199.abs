@@ -1,0 +1,4 @@
+Paper: 9707199
+Title: Quantum Corrections to the Ground State of a Trapped Bose-Einstein  Condensate
+Authors: Eric Braaten and Agustin Nieto
+Abstract: In the mean-field approximation, the number density \rho(r) for the ground state of a Bose-Einstein condensate trapped by an external potential V(r) satisfies a classical field equation called the Gross-Pitaevskii equation. We show that quantum corrections to \rho are dominated by quantum fluctuations with wavelengths of order 1/\sqrt{\rho a}, where a is the S-wave scattering length. By expanding the equations for the Hartree-Fock approximation to second order in the gradient expansion, we derive local correction terms to the Gross-Pitaevskii equation that take into account the dominant effects of quantum fluctuations. We also show that the gradient expansion for the density breaks down at fourth order.

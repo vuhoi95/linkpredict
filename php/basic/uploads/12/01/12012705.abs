@@ -1,0 +1,4 @@
+Paper: 12012705
+Title: The Relativistic Rindler Hydrodynamics
+Authors: Christopher Eling and Adiel Meyer and Yaron Oz
+Abstract: We consider a (d+2)-dimensional class of Lorentzian geometries holographically dual to a relativistic fluid flow in (d+1) dimensions. The fluid is defined on a (d+1)-dimensional time-like surface which is embedded in the (d+2)-dimensional bulk space-time and equipped with a flat intrinsic metric. We find two types of geometries that are solutions to the vacuum Einstein equations: the Rindler metric and the Taub plane symmetric vacuum. These correspond to dual perfect fluids with vanishing and negative energy densities respectively. While the Rindler geometry is characterized by a causal horizon, the Taub geometry has a timelike naked singularity, indicating pathological behavior. We construct the Rindler hydrodynamics up to the second order in derivatives of the fluid variables and show the positivity of its entropy current divergence.

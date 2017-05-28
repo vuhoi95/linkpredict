@@ -1,0 +1,4 @@
+Paper: 13126230
+Title: Subleading corrections to the Double Coset Ansatz preserve integrability
+Authors: Robert de Mello Koch and Stuart Graham and Wandile Mabanga
+Abstract: In this article we compute the anomalous dimensions for a class of operators, belonging to the SU(3) sector of the theory, that have a bare dimension of order N. For these operators the large N limit and the planar limit are distinct and summing only the planar diagrams will not capture the large N dynamics. Although the spectrum of anomalous dimensions has been computed for this class of operators, previous studies have neglected certain terms which were argued to be small. After dropping these terms diagonalizing the dilatation operator reduces to diagonalizing a set of decoupled oscillators. In this article we explicitly compute the terms which were neglected previously and show that diagonalizing the dilatation operator still reduces to diagonalizing a set of decoupled oscillators.

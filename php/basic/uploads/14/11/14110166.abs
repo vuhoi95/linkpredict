@@ -1,0 +1,4 @@
+Paper: 14110166
+Title: Results from lattice simulations of N=4 supersymmetric Yang--Mills
+Authors: Simon Catterall and Joel Giedt and David Schaich and Poul H. Damgaard and Thomas DeGrand
+Abstract: We report recent results and developments from our ongoing lattice studies of $\mathcal N = 4$ supersymmetric Yang--Mills theory. These include a proof that only a single fine-tuning needs to be performed, so long as the moduli space is not lifted by nonperturbative effects. We extend our investigations of supersymmetry restoration in the continuum limit by initiating Monte Carlo renormalization group studies. We present additional numerical evidence that the lattice theory does not suffer from a sign problem. Finally we study the static potential, which we find to be Coulombic at both weak and strong coupling. We compare the static potential Coulomb coefficients to perturbation theory, including initial results for N=3 colors in addition to N=2.

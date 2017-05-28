@@ -1,0 +1,4 @@
+Paper: 10030701
+Title: Quantum Current Algebra for the $AdS_5 \times S^5$ Superstring
+Authors: Oscar A. Bedoya and Dafni Z. Marchioro and Daniel L. Nedel and Brenno Carlini Vallilo
+Abstract: The sigma model describing the dynamics of the superstring in the $AdS_5 \times S^5$ background can be constructed using the coset $PSU(2,2|4)/SO(4,1)\times SO(5)$. A basic set of operators in this two dimensional conformal field theory is composed by the left invariant currents. Since these currents are not (anti) holomorphic, their OPE's is not determined by symmetry principles and its computation should be performed perturbatively. Using the pure spinor sigma model for this background, we compute the one-loop correction to these OPE's. We also compute the OPE's of the left invariant currents with the energy momentum tensor at tree level and one loop.

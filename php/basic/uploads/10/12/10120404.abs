@@ -1,0 +1,4 @@
+Paper: 10120404
+Title: Triviality of $φ^4_4$ theory: small volume expansion and new data
+Authors: Peter Weisz and Ulli Wolff
+Abstract: We study a renormalized coupling g and mass m in four dimensional phi^4 theory on tori with finite size z=mL. Precise numerical values close to the continuum limit are reported for z=1,2,4, based on Monte Carlo simulations performed in the equivalent all-order strong coupling reformulation. Ordinary renormalized perturbation theory is found to work marginally at z=2 and and to fail at z=1. By exactly integrating over the constant field mode we set up a renormalized expansion in z and compute three nontrivial orders. These results reasonably agree with the numerical data at small z. In the new expansion, the universal continuum limit exists as expected from multiplicative renormalizability. The triviality scenario is corroborated with significant precision.

@@ -1,0 +1,4 @@
+Paper: 11120469
+Title: Energy-momentum tensors with worldline numerics
+Authors: Marco Schäfer and Idrish Huet and Holger Gies
+Abstract: We apply the worldline formalism and its numerical Monte-Carlo approach to computations of fluctuation induced energy-momentum tensors. For the case of a fluctuating Dirichlet scalar, we derive explicit worldline expressions for the components of the canonical energy-momentum tensor that are straightforwardly accessible to partly analytical and generally numerical evaluation. We present several simple proof-of-principle examples, demonstrating that efficient numerical evaluation is possible at low cost. Our methods can be applied to an investigation of positive-energy conditions.

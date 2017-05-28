@@ -1,0 +1,4 @@
+Paper: 160702939
+Title: Open Effective Field Theories from Deeply Inelastic Reactions
+Authors: Eric Braaten and H. -W. Hammer and G. Peter Lepage
+Abstract: Effective field theories have often been applied to systems with deeply inelastic reactions that produce particles with large momenta outside the domain of validity of the effective theory. The effects of the deeply inelastic reactions have been taken into account in previous work by adding local anti-Hermitian terms to the effective Hamiltonian. Here we show that when multi-particle systems are considered, an additional modification is required in equations governing the density matrix. We define an effective density matrix by tracing over the states containing high-momentum particles, and show that it satisfies a Lindblad equation, with local Lindblad operators determined by the anti-Hermitian terms in the effective Hamiltonian density.

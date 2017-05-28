@@ -1,0 +1,4 @@
+Paper: 160804259
+Title: Landau-Ginzburg skeletons
+Authors: Ian C. Davenport and Ilarion V. Melnikov
+Abstract: We study the class of indecomposable two-dimensional Landau-Ginzburg theories with (2,2) supersymmetry and central charge c < 6 with the aim of classifying all such theories up to marginal deformations. Our results include cases overlooked in previous classifications. The results are rigorous for three or fewer fields and more generally are rigorous if we assume an extra bound. Numerics suggest that we have the complete set of indecomposable Landau-Ginzburg families with c<6. This set consists of 38 infinite families and a finite list of 418 sporadic cases. The basic tools are classic results of Kreuzer and Skarke on quasi-homogeneous isolated singularities and solutions to certain feasibility integer programming problems.

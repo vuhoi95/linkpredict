@@ -1,0 +1,4 @@
+Paper: 14054088
+Title: Direct simulation of critical Casimir forces
+Authors: Hendrik Hobrecht and Alfred Hucht
+Abstract: We present a new Monte Carlo method to calculate Casimir forces acting on objects in a near-critical fluid, considering the two basic cases of a wall and a sphere embedded in a two-dimensional Ising medium. During the simulation, the objects are moved through the system with appropriate statistical weights, and consequently are attracted or repelled from the system boundaries depending on the boundary conditions. The distribution function of the object position is utilized to obtain the residual free energy, or Casimir potential, of the configuration as well as the corresponding Casimir force. The results are in perfect agreement with known exact results. The method can easily be generalized to more complicated geometries, to higher dimensions, and also to colloidal suspensions with many particles.

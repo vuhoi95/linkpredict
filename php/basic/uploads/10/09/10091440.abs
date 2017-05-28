@@ -1,0 +1,4 @@
+Paper: 10091440
+Title: Two-dimensional quantum black holes: Numerical methods
+Authors: Fethi M Ramazanoğlu and Frans Pretorius
+Abstract: We present details of a new numerical code designed to study the formation and evaporation of 2-dimensional black holes within the CGHS model. We explain several elements of the scheme that are crucial to resolve the late-time behavior of the spacetime, including regularization of the field variables, compactification of the coordinates, the algebraic form of the discretized equations of motion, and the use of a modified Richardson extrapolation scheme to achieve high-order convergence. Physical interpretation of our results will be discussed in detail elsewhere.

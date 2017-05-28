@@ -1,0 +1,4 @@
+Paper: 14125123
+Title: Two-dimensional conformal field theory and the butterfly effect
+Authors: Daniel A. Roberts and Douglas Stanford
+Abstract: We study chaotic dynamics in two-dimensional conformal field theory through out-of-time order thermal correlators of the form $\langle W(t)VW(t)V\rangle$. We reproduce bulk calculations similar to those of [1], by studying the large $c$ Virasoro identity block. The contribution of this block to the above correlation function begins to decrease exponentially after a delay of $\sim t_* - \frac{\beta}{2\pi}\log \beta^2E_w E_v$, where $t_*$ is the scrambling time $\frac{\beta}{2\pi}\log c$, and $E_w,E_v$ are the energy scales of the $W,V$ operators.

@@ -1,0 +1,4 @@
+Paper: 09080056
+Title: Ghost story. III. Back to ghost number zero
+Authors: L. Bonora and C. Maccaferri and D. D. Tolla
+Abstract: After having defined a 3-strings midpoint-inserted vertex for the bc system, we analyze the relation between gh=0 states (wedge states) and gh=3 midpoint duals. We find explicit and regular relations connecting the two objects. In the case of wedge states this allows us to write down a spectral decomposition for the gh=0 Neumann matrices, despite the fact that they are not commuting with the matrix representation of K1. We thus trace back the origin of this noncommutativity to be a consequence of the imaginary poles of the wedge eigenvalues in the complex k-plane. With explicit reconstruction formulas at hand for both gh=0 and gh=3, we can finally show how the midpoint vertex avoids this intrinsic noncommutativity at gh=0, making everything as simple as the zero momentum matter sector.

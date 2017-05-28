@@ -1,0 +1,4 @@
+Paper: 160707224
+Title: A conformal bootstrap approach to critical percolation in two dimensions
+Authors: Marco Picco and Sylvain Ribault and Raoul Santachiara
+Abstract: We study four-point functions of critical percolation in two dimensions, and more generally of the Potts model. We propose an exact ansatz for the spectrum: an infinite, discrete and non-diagonal combination of representations of the Virasoro algebra. Based on this ansatz, we compute four-point functions using a numerical conformal bootstrap approach. The results agree with Monte-Carlo computations of connectivities of random clusters.

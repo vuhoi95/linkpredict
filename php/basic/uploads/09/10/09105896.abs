@@ -1,0 +1,4 @@
+Paper: 09105896
+Title: Enumeration of maps with self avoiding loops and the O(n) model on  random lattices of all topologies
+Authors: G. Borot and B. Eynard
+Abstract: We compute the generating functions of a O(n) model (loop gas model) on a random lattice of any topology. On the disc and the cylinder, they were already known, and here we compute all the other topologies. We find that the generating functions (and the correlation functions of the lattice) obey the topological recursion, as usual in matrix models, i.e they are given by the symplectic invariants of their spectral curve.

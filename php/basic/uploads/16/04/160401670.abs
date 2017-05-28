@@ -1,0 +1,4 @@
+Paper: 160401670
+Title: Coends in conformal field theory
+Authors: Jürgen Fuchs and Christoph Schweigert
+Abstract: The idea of "summing over all intermediate states" that is central for implementing locality in quantum systems can be realized by coend constructions. In the concrete case of systems of conformal blocks for a certain class of conformal vertex algebras, one deals with coends in functor categories. Working with these coends involves quite a few subtleties which, even though they have in principle already been understood twenty years ago, have not been sufficiently appreciated by the conformal field theory community.

@@ -1,0 +1,4 @@
+Paper: 160904645
+Title: From Path Integrals to Tensor Networks for AdS/CFT
+Authors: Masamichi Miyaji and Tadashi Takayanagi and Kento Watanabe
+Abstract: In this paper, we discuss tensor network descriptions of AdS/CFT from two different viewpoints. First, we start with an Euclidean path-integral computation of ground state wave functions with a UV cut off. We consider its efficient optimization by making its UV cut off position dependent and define a quantum state at each length scale. We conjecture that this path-integral corresponds to a time slice of AdS. Next, we derive a flow of quantum states by rewriting the action of Killing vectors of AdS3 in terms of the dual 2d CFT. Both approaches support a correspondence between the hyperbolic time slice H2 in AdS3 and a version of continuous MERA (cMERA). We also give a heuristic argument why we can expect a sub-AdS scale bulk locality for holographic CFTs.

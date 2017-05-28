@@ -1,0 +1,4 @@
+Paper: 14010384
+Title: Fixing the Quantum Three-Point Function
+Authors: Yunfeng Jiang and Ivan Kostov and Florian Loebbert and Didina Serban
+Abstract: We propose a new method for the computation of quantum three-point functions for operators in su(2) sectors of N=4 super Yang-Mills theory. The method is based on the existence of a unitary transformation relating inhomogeneous and long-range spin chains. This transformation can be traced back to a combination of boost operators and an inhomogeneous version of Baxter's corner transfer matrix. We reproduce the existing results for the one-loop structure constants in a simplified form and indicate how to use the method at higher loop orders. Then we evaluate the one-loop structure constants in the quasiclassical limit and compare them with the recent strong coupling computation.

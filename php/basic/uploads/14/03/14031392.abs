@@ -1,0 +1,4 @@
+Paper: 14031392
+Title: Equilibration in low-dimensional quantum matrix models
+Authors: R. Hübener and Y. Sekino and J. Eisert
+Abstract: Matrix models play an important role in studies of quantum gravity, being candidates for a formulation of M-theory, but are notoriously difficult to solve. In this work, we present a fresh approach by introducing a novel exact model provably equivalent with low-dimensional bosonic matrix models. In this equivalent model significant local structure becomes apparent and it can serve as a simple toy model for analytical and precise numerical study. We derive a substantial part of the low energy spectrum, find a conserved charge, and are able to derive numerically the Regge trajectories. To exemplify the usefulness of the approach, we address questions of equilibration starting from a non-equilibrium situation, building upon an intuition from quantum information. We finally discuss possible generalizations of the approach.

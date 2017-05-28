@@ -1,0 +1,4 @@
+Paper: 07105698
+Title: Extended Connection in Yang-Mills Theory
+Authors: G. Catren and J. Devoto
+Abstract: The three fundamental geometric components of Yang-Mills theory -gauge field, gauge fixing and ghost field- are unified in a new object: an extended connection in a properly chosen principal fiber bundle. To do this, it is necessary to generalize the notion of gauge fixing by using a gauge fixing connection instead of a section. From the equations for the extended connection's curvature, we derive the relevant BRST transformations without imposing the usual horizontality conditions. We show that the gauge field's standard BRST transformation is only valid in a local trivialization and we obtain the corresponding global generalization. By using the Faddeev-Popov method, we apply the generalized gauge fixing to the path integral quantization of Yang-Mills theory. We show that the proposed gauge fixing can be used even in the presence of a Gribov's obstruction.

@@ -1,0 +1,4 @@
+Paper: 9301023
+Title: Avoiding degenerate coframes in an affine gauge approach to quantum  gravity
+Authors: E. W. Mielke and J. D. McCrea and Y. Ne'eman and F. W. Hehl
+Abstract: In quantum models of gravity, it is surmized that configurations with degenerate coframes could occur during topology change of the underlying spacetime structure. However, the coframe is not the true Yang--Mills type gauge field of the translations, since it lacks the inhomogeneous gradient term in the gauge transformations. By explicitly restoring this ``hidden" piece within the framework of the affine gauge approach to gravity, one can avoid the metric or coframe degeneracy which would otherwise interfere with the integrations within the path integral. This is an important advantage for quantization.

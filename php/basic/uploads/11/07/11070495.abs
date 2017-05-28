@@ -1,0 +1,4 @@
+Paper: 11070495
+Title: Field theories with defects and the centre functor
+Authors: Alexei Davydov and Liang Kong and Ingo Runkel
+Abstract: This note is intended as an introduction to the functorial formulation of quantum field theories with defects. After some remarks about models in general dimension, we restrict ourselves to two dimensions - the lowest dimension in which interesting field theories with defects exist. We study in some detail the simplest example of such a model, namely a topological field theory with defects which we describe via lattice TFT. Finally, we give an application in algebra, where the defect TFT provides us with a functorial definition of the centre of an algebra. This involves changing the target category of commutative algebras into a bicategory. Throughout this paper, we emphasise the role of higher categories - in our case bicategories - in the description of field theories with defects.

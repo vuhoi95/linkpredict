@@ -1,0 +1,4 @@
+Paper: 9805012
+Title: Fast Quantum Maps
+Authors: G. G. Athanasiu and E. G. Floratos and S. Nicolis
+Abstract: We develop number theoretic tools that allow to perform computations relevant for the quantum mechanics over finite fields of arbitrary, odd size, with the same speedup that is enjoyed by the Fast Fourier Transform.

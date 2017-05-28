@@ -1,0 +1,4 @@
+Paper: 10111948
+Title: Tunneling in Fractional Quantum Mechanics
+Authors: Edmundo Capelas de Oliveira and Jayme Vaz Jr
+Abstract: We study the tunneling through delta and double delta potentials in fractional quantum mechanics. After solving the fractional Schr\"odinger equation for these potentials, we calculate the corresponding reflection and transmission coefficients. These coefficients have a very interesting behaviour. In particular, we can have zero energy tunneling when the order of the Riesz fractional derivative is different from 2. For both potentials, the zero energy limit of the transmission coefficient is given by $\mathcal{T}_0 = \cos^2{\pi/\alpha}$, where $\alpha$ is the order of the derivative ($1 < \alpha \leq 2$).

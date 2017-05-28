@@ -1,0 +1,4 @@
+Paper: 14036523
+Title: Complete Graphs, Hilbert Series, and the Higgs branch of the 4d N=2  $(A_n,A_m)$ SCFT's
+Authors: Michele Del Zotto and Amihay Hanany
+Abstract: The strongly interacting 4d N=2 SCFT's of type $(A_n,A_m)$ are the simplest examples of models in the $(G,G^\prime)$ class introduced by Cecotti, Neitzke, and Vafa in arXiv:1006.3435. These systems have a known 3d N=4 mirror only if $h(A_n)$ divides $h(A_m)$, where $h$ is the Coxeter number. By 4d/2d correspondence, we show that in this case these systems have a nontrivial global flavor symmetry group and, therefore, a non-trivial Higgs branch. As an application of the methods of arXiv:1309.2657, we then compute the refined Hilbert series of the Coulomb branch of the 3d mirror for the simplest models in the series. This equals the refined Hilbert series of the Higgs branch of the $(A_n,A_m)$ SCFT, providing interesting information about the Higgs branch of these non-lagrangian theories.

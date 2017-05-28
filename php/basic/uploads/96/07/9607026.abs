@@ -1,0 +1,4 @@
+Paper: 9607026
+Title: Projective structures on a Riemann surface
+Authors: Indranil Biswas and A. K. Raina
+Abstract: For a compact Riemann surface $X$ of any genus $g$, let $L$denote the line bundle $K_{X\times X}\otimes {\cal O}_{X\times X}(2\Delta)$ on $X\times X$, where $K_{X\times X}$ is the canonical bundle of $X\times X$ and $\Delta$ is the diagonal divisor. We show that $L$ has a canonical trivialisation over the nonreduced divisor $2\Delta$. Our main result is that the space of projective structures on $X$ is canonically identified with the space of all trivialisations of $L$ over $3\Delta$ which restrict to the canonical trivialisation of $L$ over $2\Delta$ mentioned above. We give a direct identification of this definition of a projective structure with a definition of Deligne.We also describe briefly the origin of this work in the study of the so-called "Sugawara form" of the energy-momentum tensor in a conformal quantum field theory.

@@ -1,0 +1,4 @@
+Paper: 9212308
+Title: Dimensionally Regulated One-Loop Integrals
+Authors: Z. Bern and L. Dixon and D. A. Kosower
+Abstract: We describe methods for evaluating one-loop integrals in $4-2\e$ dimensions. We give a recursion relation that expresses the scalar $n$-point integral as a cyclicly symmetric combination of $(n-1)$-point integrals. The computation of such integrals thus reduces to the calculation of box diagrams ($n=4$). The tensor integrals required in gauge theory may be obtained by differentiating the scalar integral with respect to certain combinations of the kinematic variables. Such relations also lead to differential equations for scalar integrals. For box integrals with massless internal lines these differential equations are easy to solve.

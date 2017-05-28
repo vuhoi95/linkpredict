@@ -1,0 +1,4 @@
+Paper: 13031520
+Title: Energy Landscape of the Finite-Size Mean-field 3-Spin Spherical Model
+Authors: Dhagash Mehta and Daniel A. Stariolo and Michael Kastner
+Abstract: We study the 3-spin spherical model with mean-field interactions and Gaussian random couplings. For moderate system sizes of up to 20 spins, we obtain all stationary points of the energy landscape by means of the numerical polynomial homotopy continuation method. On the basis of these stationary points, we analyze the complexity and other quantities related to the glass transition of the model and compare these finite-system quantities to their exact counterparts in the thermodynamic limit.

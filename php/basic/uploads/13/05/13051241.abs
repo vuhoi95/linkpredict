@@ -1,0 +1,4 @@
+Paper: 13051241
+Title: Topological zero modes at nonzero chemical potential
+Authors: Falk Bruckmann and Rudolf Rodl and Tin Sulejmanpasic
+Abstract: We give analytical and numerical solutions for the zero modes of the Dirac operator in topological SU(2) gauge backgrounds at nonzero chemical potential. Continuation from imaginary to real chemical potential is used to systematically derive analytical zero modes for calorons at arbitrary holonomy and, in particular limits, for instantons and dyons (magnetic monopoles). For the latter a spherical ansatz is explored as well. All the zero mode exhibit stronger peaks at the core and negative regions in their densities. We discuss the structure of the corresponding overlap matrix elements. For discretized calorons on the lattice we consider the staggered operator and show that it does possess (quartet quasi-)zero modes, whose eigenmodes agree very well with the continuum profiles, also for nonzero chemical potential.

@@ -1,0 +1,4 @@
+Paper: 11025524
+Title: Entanglement renormalization for quantum fields
+Authors: Jutho Haegeman and Tobias J. Osborne and Henri Verschelde and Frank Verstraete
+Abstract: It is shown how to construct renormalization group flows of quantum field theories in real space, as opposed to the usual Wilsonian approach in momentum space. This is achieved by generalizing the multiscale entanglement renormalization ansatz to continuum theories. The variational class of wavefunctions arising from this RG flow are translation invariant and exhibit an entropy-area law. We illustrate the construction for a free non-relativistic boson model, and argue that the full power of the construction should emerge in the case of interacting theories.

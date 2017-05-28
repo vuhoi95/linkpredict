@@ -1,0 +1,4 @@
+Paper: 07122069
+Title: Cohomology of Lie 2-groups
+Authors: Gregory Ginot and Ping Xu
+Abstract: In this paper we study the cohomology of (strict) Lie 2-groups. We obtain an explicit Bott-Shulman type map in the case of a Lie 2-group corresponding to the crossed module $A\to 1$. The cohomology of the Lie 2-groups corresponding to the universal crossed modules $G\to \Aut(G)$ and $G\to \Aut^+(G)$ is the abutment of a spectral sequence involving the cohomology of $GL(n,\Z)$ and $SL(n,\Z)$. When the dimension of the center of $G$ is less than 3, we compute explicitly these cohomology groups. We also compute the cohomology of the Lie 2-group corresponding to a crossed module $G\to H$ whose kernel is compact and cokernel is connected, simply connected and compact and apply the result to the string 2-group.

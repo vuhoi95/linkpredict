@@ -1,0 +1,4 @@
+Paper: 12122731
+Title: Adinkra Isomorphisms and `Seeing' Shapes with Eigenvalues
+Authors: Keith Burghardt and S. James Gates Jr
+Abstract: We create an algorithm to determine whether any two graphical representations (adinkras) of equations possessing the property of supersymmetry in one or two dimensions are isomorphic in shape. The algorithm is based on the determinant of `permutation matrices' that are defined in this work and derivable for any adinkra.

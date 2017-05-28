@@ -1,0 +1,4 @@
+Paper: 9603072
+Title: Exact Solution of the Ising Model on Group Lattices of Genus $g>1$
+Authors: Tullio Regge and Riccardo Zecchina
+Abstract: We discuss how to apply the dimer method to Ising models on group lattices having non trivial topological genus $g$. We find that the use of group extension and the existence of both external and internal group isomorphisms greatly reduces the number of distinct Pfaffians and leads to explicit topological formulas for their sign and weight in the expansion of the partition function. The complete solution for the Ising model on the Klein lattice group $L(2,7)$ with $g=3$ is given.

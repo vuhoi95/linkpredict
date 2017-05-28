@@ -1,0 +1,4 @@
+Paper: 9903328
+Title: Threshold expansion of the sunset diagram
+Authors: A. I. Davydychev and V. A. Smirnov
+Abstract: By use of the threshold expansion we develop an algorithm for analytical evaluation, within dimensional regularization, of arbitrary terms in the expansion of the (two-loop) sunset diagram with general masses m_1, m_2 and m_3 near its threshold, i.e. in any given order in the difference between the external momentum squared and its threshold value, (m_1+m_2+m_3)^2. In particular, this algorithm includes an explicit recurrence procedure to analytically calculate sunset diagrams with arbitrary integer powers of propagators at the threshold.

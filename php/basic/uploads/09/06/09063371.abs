@@ -1,0 +1,4 @@
+Paper: 09063371
+Title: Decoupling of unphysical states in the minimal pure spinor formalism II
+Authors: Nathan Berkovits and Joost Hoogeveen and Kostas Skenderis
+Abstract: This is the second of a series of two papers where decoupling of unphysical states in the minimal pure spinor formalism is investigated. The multi-loop amplitude prescription for the minimal pure spinor superstring formulated in hep-th/0406055 involves the insertion of picture changing operators in the path integral. In the first paper it was shown that these operators are not BRST closed inside correlators. Therefore a new proof of decoupling of BRST exact states is needed. In this paper we present such a proof, which applies to arbitrary genus. It relies in part on a (previously unnoticed) invariance of the path integral measure.

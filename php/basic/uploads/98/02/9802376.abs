@@ -1,0 +1,4 @@
+Paper: 9802376
+Title: Group theory factors for Feynman diagrams
+Authors: T. van Ritbergen and A. N. Schellekens and J. A. M. Vermaseren
+Abstract: We present algorithms for the group independent reduction of group theory factors of Feynman diagrams. We also give formulas and values for a large number of group invariants in which the group theory factors are expressed. This includes formulas for various contractions of symmetric invariant tensors, formulas and algorithms for the computation of characters and generalized Dynkin indices and trace identities. Tables of all Dynkin indices for all exceptional algebras are presented, as well as all trace identities to order equal to the dual Coxeter number. Further results are available through efficient computer algorithms (see http://norma.nikhef.nl/~t58/ and http://norma.nikhef.nl/~t68/ ).

@@ -1,0 +1,4 @@
+Paper: 10121683
+Title: Continuous-mode effects and photon-photon phase gate performance
+Authors: Bing He and Artur Scherer
+Abstract: The effects arising from the inherent continuous-mode nature of photonic pulses were poorly understood but significantly influence the performance of quantum devices employing photonic pulse interaction in nonlinear media. Such effects include the entanglement between the continuous wave-vector modes due to pulse interaction as well as the consequence of a finite system bandwidth. We present the first analysis on these effects for interactions between single-photon pulses, demonstrating their impact on the performance of quantum phase gates based on such process. Our study clarifies a realistic picture of this type of quantum devices.

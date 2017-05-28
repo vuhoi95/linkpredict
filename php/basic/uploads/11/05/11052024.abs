@@ -1,0 +1,4 @@
+Paper: 11052024
+Title: Symbols of One-Loop Integrals From Mixed Tate Motives
+Authors: Marcus Spradlin and Anastasia Volovich
+Abstract: We use a result on mixed Tate motives due to Goncharov (arXiv:alg-geom/9601021) to show that the symbol of an arbitrary one-loop 2m-gon integral in 2m dimensions may be read off directly from its Feynman parameterization. The algorithm proceeds via recursion in m seeded by the well-known box integrals in four dimensions. As a simple application of this method we write down the symbol of a three-mass hexagon integral in six dimensions.

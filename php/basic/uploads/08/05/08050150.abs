@@ -1,0 +1,4 @@
+Paper: 08050150
+Title: Real-time gauge/gravity duality
+Authors: Kostas Skenderis and Balt C. van Rees
+Abstract: We present a general prescription for the holographic computation of real-time n-point functions in non-trivial states. In QFT such real-time computations involve a choice of a time contour in the complex time plane. The holographic prescription amounts to ``filling in'' this contour with bulk solutions: real segments of the contour are filled in with Lorentzian solutions while imaginary segments are filled in with Riemannian solutions and appropriate matching conditions are imposed at the corners of the contour. We illustrate the general discussion by computing the 2-point function of a scalar operator using this prescription and by showing that this leads to an unambiguous answer with the correct i epsilon insertions.

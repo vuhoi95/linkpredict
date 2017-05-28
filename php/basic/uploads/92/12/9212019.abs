@@ -1,0 +1,4 @@
+Paper: 9212019
+Title: Infinitely many regulator fields for chiral fermions
+Authors: Rajamani Narayanan and Herbert Neuberger
+Abstract: We show that two recent independent proposals for regularizing a chiral gauge theory stem from one common trick. If the anomaly free complex representation carried by the right handed fermi--fields is $r$ one constructs a vector like theory with flavored right handed fermionic matter in $r+\bar r$ but with a mass matrix of the order of the cutoff and having an index equal to unity in an infinite dimensional flavor space. We present a Pauli--Villars realization of the trick that is likely to work to all orders in perturbation theory and a lattice version which is argued to produce the correct continuum leading order fermionic contribution to the vacuum polarization tensor and readied for further perturbative checks.

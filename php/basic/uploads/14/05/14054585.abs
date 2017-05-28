@@ -1,0 +1,4 @@
+Paper: 14054585
+Title: Renormalization Group Flow in CDT
+Authors: J. Ambjorn and A. Goerlich and J. Jurkiewicz and A. Kreienbuehl and R. Loll
+Abstract: We perform a first investigation of the coupling constant flow of the nonperturbative lattice model of four-dimensional quantum gravity given in terms of Causal Dynamical Triangulations (CDT). After explaining how standard concepts of lattice field theory can be adapted to the case of this background-independent theory, we define a notion of "lines of constant physics" in coupling constant space in terms of certain semiclassical properties of the dynamically generated quantum universe. Determining flow lines with the help of Monte Carlo simulations, we find that the second-order phase transition line present in this theory can be interpreted as a UV phase transition line if we allow for an anisotropic scaling of space and time.

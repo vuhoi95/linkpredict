@@ -1,0 +1,4 @@
+Paper: 160406809
+Title: The holographic F theorem
+Authors: Marika Taylor and William Woodhead
+Abstract: The F theorem states that, for a unitary three dimensional quantum field theory, the F quantity defined in terms of the partition function on a three sphere is positive, stationary at fixed point and decreases monotonically along a renormalization group flow. We construct holographic renormalization group flows corresponding to relevant deformations of three-dimensional conformal field theories on spheres, working to quadratic order in the source. For these renormalization group flows, the F quantity at the IR fixed point is always less than F at the UV fixed point, but F increases along the RG flow for deformations by operators of dimension $3/2 < \Delta < 5/2$. Therefore the strongest version of the F theorem is in general violated.

@@ -1,0 +1,4 @@
+Paper: 160305551
+Title: Projectors and seed conformal blocks for traceless mixed-symmetry  tensors
+Authors: Miguel S. Costa and Tobias Hansen and João Penedones and Emilio Trevisani
+Abstract: In this paper we derive the projectors to all irreducible SO(d) representations (traceless mixed-symmetry tensors) that appear in the partial wave decomposition of a conformal correlator of four stress-tensors in d dimensions. These projectors are given in a closed form for arbitrary length $l_1$ of the first row of the Young diagram. The appearance of Gegenbauer polynomials leads directly to recursion relations in $l_1$ for seed conformal blocks. Further results include a differential operator that generates the projectors to traceless mixed-symmetry tensors and the general normalization constant of the shadow operator.

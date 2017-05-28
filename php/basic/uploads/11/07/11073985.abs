@@ -1,0 +1,4 @@
+Paper: 11073985
+Title: The entanglement entropy of 1D systems in continuous and homogenous  space
+Authors: Pasquale Calabrese and Mihail Mintchev and Ettore Vicari
+Abstract: We introduce a systematic framework to calculate the bipartite entanglement entropy of a compact spatial subsystem in a one-dimensional quantum gas which can be mapped into a noninteracting fermion system. We show that when working with a finite number of particles N, the Renyi entanglement entropies grow as log N, with a prefactor that is given by the central charge. We apply this novel technique to the ground state and to excited states of periodic systems. We also consider systems with boundaries. We derive universal formulas for the leading behavior and for subleading corrections to the scaling. The universality of the results allows us to make predictions for the finite-size scaling forms of the corrections to the scaling.

@@ -1,0 +1,4 @@
+Paper: 9507115
+Title: Real Space Renormalization Group Methods and Quantum Groups
+Authors: Miguel A. Martin-Delgado and German Sierra
+Abstract: We apply real-space RG methods to study two quantum group invariant Hamiltonians, that of the XXZ model and the Ising model in a transverse field defined in an open chain with appropiate boundary terms. The quantum group symmetry is preserved under the RG transformation except for the appearence of a quantum group anomalous term which vanishes in the classical case. We obtain correctly the line of critical XXZ models. In the ITF model the RG-flow coincides with the tensor product decomposition of cyclic irreps. of $SU_q(2)$ with $q^4=1$.

@@ -1,0 +1,4 @@
+Paper: 160305246
+Title: Numerical study of fermion and boson models with infinite-range random  interactions
+Authors: Wenbo Fu and Subir Sachdev
+Abstract: We present numerical studies of fermion and boson models with random all-to-all interactions (the SYK models). The high temperature expansion and exact diagonalization of the $N$-site fermion model are used to compute the entropy density: our results are consistent with the numerical solution of $N=\infty$ saddle point equations, and the presence of a non-zero entropy density in the limit of vanishing temperature. The exact diagonalization results for the fermion Green's function also appear to converge well to the $N=\infty$ solution. For the hard-core boson model, the exact diagonalization study indicates spin glass order. Some results on the entanglement entropy and the out-of-time-order correlators are also presented.

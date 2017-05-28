@@ -1,0 +1,4 @@
+Paper: 09115085
+Title: The Heat Kernel on AdS_3 and its Applications
+Authors: Justin R David and Matthias R Gaberdiel and Rajesh Gopakumar
+Abstract: We derive the heat kernel for arbitrary tensor fields on S^3 and (Euclidean) AdS_3 using a group theoretic approach. We use these results to also obtain the heat kernel on certain quotients of these spaces. In particular, we give a simple, explicit expression for the one loop determinant for a field of arbitrary spin s in thermal AdS_3. We apply this to the calculation of the one loop partition function of N=1 supergravity on AdS_3. We find that the answer factorizes into left- and right-moving super Virasoro characters built on the SL(2, C) invariant vacuum, as argued by Maloney and Witten on general grounds.

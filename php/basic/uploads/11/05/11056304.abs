@@ -1,0 +1,4 @@
+Paper: 11056304
+Title: Art of spin decomposition
+Authors: Xiang-Song Chen and Wei-Min Sun and Fan Wang and T. Goldman
+Abstract: We analyze the problem of spin decomposition for an interacting system from a natural perspective of constructing angular momentum eigenstates. We split, from the total angular momentum operator, a proper part which can be separately conserved for a stationary state. This part commutes with the total Hamiltonian and thus specifies the quantum angular momentum. We first show how this can be done in a gauge-dependent way, by seeking a specific gauge in which part of the total angular momentum operator vanishes identically. We then construct a gauge-invariant operator with the desired property. Our analysis clarifies what is the most pertinent choice among the various proposals for decomposing the nucleon spin. A similar analysis is performed for extracting a proper part from the total Hamiltonian to construct energy eigenstates.

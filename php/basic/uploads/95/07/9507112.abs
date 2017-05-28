@@ -1,0 +1,4 @@
+Paper: 9507112
+Title: Matrix generalizations of some dynamic field theories
+Authors: M. Kardar and A. Zee
+Abstract: We introduce matrix generalizations of the Navier--Stokes (NS) equation for fluid flow, and the Kardar--Parisi--Zhang (KPZ) equation for interface growth. The underlying field, velocity for the NS equation, or the height in the case of KPZ, is promoted to a matrix that transforms as the adjoint representation of $SU(N)$. Perturbative expansions simplify in the $N\to\infty$ limit, dominated by planar graphs. We provide the results of a one--loop analysis, but have not succeeded in finding the full solution of the theory in this limit.

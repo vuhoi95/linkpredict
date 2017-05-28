@@ -1,0 +1,4 @@
+Paper: 13036425
+Title: Controlling complex Langevin dynamics at finite density
+Authors: Gert Aarts and Lorenzo Bongiovanni and Erhard Seiler and Denes Sexty and Ion-Olimpiu Stamatescu
+Abstract: At nonzero chemical potential the numerical sign problem in lattice field theory limits the use of standard algorithms based on importance sampling. Complex Langevin dynamics provides a possible solution, but it has to be applied with care. In this review, we first summarise our current understanding of the approach, combining analytical and numerical insight. In the second part we study SL(N,C) gauge cooling, which was introduced recently as a tool to control complex Langevin dynamics in nonabelian gauge theories. We present new results in Polyakov chain models and in QCD with heavy quarks and compare various adaptive cooling implementations.

@@ -1,0 +1,4 @@
+Paper: 11071045
+Title: QCDMAPT_F: Fortran version of QCDMAPT package
+Authors: A. V. Nesterenko and C. Simolo
+Abstract: The QCDMAPT program package facilitates computations in the framework of dispersive approach to Quantum Chromodynamics. The QCDMAPT_F version of this package enables one to perform such computations with Fortran, whereas the previous version was developed for use with Maple system. The QCDMAPT_F package possesses the same basic features as its previous version. Namely, it embodies the calculated explicit expressions for relevant spectral functions up to the four-loop level and the subroutines for necessary integrals.

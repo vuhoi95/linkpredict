@@ -1,0 +1,4 @@
+Paper: 10030542
+Title: All Stable Characteristic Classes of Homological Vector Fields
+Authors: E. Mosman and A. Sharapov
+Abstract: An odd vector field $Q$ on a supermanifold $M$ is called homological, if $Q^2=0$. The operator of Lie derivative $L_Q$ makes the algebra of smooth tensor fields on $M$ into a differential tensor algebra. In this paper, we give a complete classification of certain invariants of homological vector fields called characteristic classes. These take values in the cohomology of the operator $L_Q$ and are represented by $Q$-invariant tensors made up of the homological vector field and a symmetric connection on $M$ by means of tensor operations.

@@ -1,0 +1,4 @@
+Paper: 11072357
+Title: Lifshitz formula for the Casimir force and the Gelfand-Yaglom theorem
+Authors: C. Ccapa Ttira and C. D. Fosco and F. D. Mazzitelli
+Abstract: We provide a Quantum Field Theory derivation of Lifshitz formula for the Casimir force due to a fluctuating real scalar field in $d+1$ dimensions. The field is coupled to two imperfect, thick, plane mirrors, which are modeled by background potentials localized on their positions. The derivation proceeds from the calculation of the vacuum energy in the Euclidean version of the system, reducing the problem to the evaluation of a functional determinant. The latter is written, via Gelfand-Yaglom's formula, in terms of functions depending on the structure of the potential describing each mirror; those functions encode the properties which are relevant to the Casimir force and are the reflection coefficients evaluated at imaginary frequencies.

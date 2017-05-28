@@ -1,0 +1,4 @@
+Paper: 160700694
+Title: Sachdev-Ye-Kitaev Model as Liouville Quantum Mechanics
+Authors: Dmitry Bagrets and Alexander Altland and Alex Kamenev
+Abstract: We show that the proper inclusion of soft reparameterization modes in the Sachdev-Ye-Kitaev model of $N$ randomly interacting Majorana fermions reduces its long-time behavior to that of Liouville quantum mechanics. As a result, all zero temperature correlation functions decay with the universal exponent $\propto \tau^{-3/2}$ for times larger than the inverse single particle level spacing $\tau\gg N\ln N$. In the particular case of the single particle Green function this behavior is manifestation of the zero-bias anomaly, or scaling in energy as $\epsilon^{1/2}$. We also present exact diagonalization study supporting our conclusions.

@@ -1,0 +1,4 @@
+Paper: 14100668
+Title: Towards one-loop SYM amplitudes from the pure spinor BRST cohomology
+Authors: Carlos R. Mafra and Oliver Schlotterer
+Abstract: In this paper, we outline a method to compute supersymmetric one-loop integrands in ten-dimensional SYM theory. It relies on the constructive interplay between their cubic-graph organization and BRST invariance of the underlying pure spinor superstring description. The five- and six-point amplitudes are presented in a manifestly local form where the kinematic dependence is furnished by BRST-covariant expressions in pure spinor superspace. At five points, the local kinematic numerators are shown to satisfy the BCJ duality between color and kinematics leading to supergravity amplitudes as a byproduct. At six points, the sources of the hexagon anomaly are identified in superspace as systematic obstructions to BRST invariance. Our results are expected to reproduce any integrated SYM amplitude in dimensions $D< 8$.

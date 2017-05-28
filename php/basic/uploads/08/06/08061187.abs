@@ -1,0 +1,4 @@
+Paper: 08061187
+Title: Is the ground state of Yang-Mills theory Coulombic?
+Authors: Thomas Heinzl and Anton Ilderton and Kurt Langfeld and Martin Lavelle and Wolfgang Lutz and David McMullan
+Abstract: We study trial states modelling the heavy quark-antiquark ground state in SU(2) Yang-Mills theory. A state describing the flux tube between quarks as a thin string of glue is found to be a poor description of the continuum ground state; the infinitesimal thickness of the string leads to UV artifacts which suppress the overlap with the ground state. Contrastingly, a state which surrounds the quarks with non-abelian Coulomb fields is found to have a good overlap with the ground state for all charge separations. In fact, the overlap increases as the lattice regulator is removed. This opens up the possibility that the Coulomb state is the true ground state in the continuum limit.

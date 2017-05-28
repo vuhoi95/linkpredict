@@ -1,0 +1,4 @@
+Paper: 13016407
+Title: Three-manifold invariant from functional integration
+Authors: E. Guadagnini and F. Thuillier
+Abstract: We give a precise definition and produce a path-integral computation of the normalized partition function of the abelian U(1) Chern-Simons field theory defined in a general closed oriented 3-manifold. We use the Deligne-Beilinson formalism, we sum over the inequivalent U(1) principal bundles over the manifold and, for each bundle, we integrate over the gauge orbits of the associated connection 1- forms. The result of the functional integration is compared with the abelian U(1) Reshetikhin-Turaev surgery invariant.

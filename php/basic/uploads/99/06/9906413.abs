@@ -1,0 +1,4 @@
+Paper: 9906413
+Title: Quantum Boltzmann equations for mixing scalar fields
+Authors: Michael Joyce and Kimmo Kainulainen and Tomislav Prokopec
+Abstract: We report on a work in progress, whose goal is a systematic field theoretical derivation of the quantum transport equations for baryon production in the electroweak plasma at a first order phase transition in the limit of slowly varying background fields (thick wall limit). We start with the Schwinger-Dyson equations for the two point Green function written in the closed time contour (CTC) formalism. The quantum Boltzmann equations for the density matrix arise when the SD-equations are expanded to the first order in the gradients in the on-shell limit. In this paper we consider only scalar fields, but the formalism can easily be extended to fermions.

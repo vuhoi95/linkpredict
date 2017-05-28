@@ -1,0 +1,4 @@
+Paper: 150707470
+Title: Power-law relaxation behavior of an initially localized state in the  spin-1/2 Heisenberg chain
+Authors: Tetsuo Deguchi and Pulak Ranjan Giri and Ryoko Hatakeyama
+Abstract: We present power-law relaxation behavior of the local magnetizations in the equilibration dynamics of the spin-1/2 Heisenberg spin chain as an isolated integrable quantum system. We perform the exact time evolution of the expectation values of the local spin operators by evaluating them with the determinant formula of the form factors. We construct such an initial quantum state that has a localized profile of the local magnetizations, and perform the exact time evolution over a very long period of time. We show that the local magnetization relaxes as some power of the time variable with no definite time scale, while the fidelity relaxes very fast with its relaxation time being proportional to the inverse of the energy width, i.e. the Boltzmann time.

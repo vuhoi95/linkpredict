@@ -1,0 +1,4 @@
+Paper: 14124407
+Title: Partition functions for equivariantly twisted $\mathcal{N}=2$ gauge  theories on toric Kähler manifolds
+Authors: Diego Rodriguez-Gomez and Johannes Schmude
+Abstract: We consider $\mathcal{N}=2$ supersymmetric pure gauge theories on toric K\"ahler manifolds, with particular emphasis on $\mathbb{CP}^2$. By choosing a vector generating a $U(1)$ action inside the torus of the manifold, we construct equivariantly twisted theories. Then, using localization, we compute their supersymmetric partition functions. As expected, these receive contributions from a classical, a one-loop, and an instanton term. It turns out that the one-loop term is trivial and that the instanton contributions are localized at the fixed points of the $U(1)$. In fact the full partition function can be re-written in a factorized form with contributions from each of the fixed points. The full significance of this is yet to be understood.

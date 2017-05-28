@@ -1,0 +1,4 @@
+Paper: 9311072
+Title: Monte Carlo Simulations with Indefinite and Complex-Valued Measures
+Authors: T D Kieu and C J Griffin
+Abstract: A method is presented to tackle the sign problem in the simulations of systems having indefinite or complex-valued measures. In general, this new approach is shown to yield statistical errors smaller than the crude Monte Carlo using absolute values of the original measures. Exactly solvable, one-dimensional Ising models with complex temperature and complex activity illustrate the considerable improvements and the workability of the new method even when the crude one fails.

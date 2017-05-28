@@ -1,0 +1,4 @@
+Paper: 13074010
+Title: Variational orthogonalization
+Authors: Farrokh Atai and Jens Hoppe and Mariusz Hynek and Edwin Langmann
+Abstract: We introduce variational methods for finding approximate eigenfunctions and eigenvalues of quantum Hamiltonians by constructing a set of orthogonal wave functions which approximately solve the eigenvalue equation.

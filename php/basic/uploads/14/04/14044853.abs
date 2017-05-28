@@ -1,0 +1,4 @@
+Paper: 14044853
+Title: The Two-Loop Master Integrals for $q \bar{q} \to V V$
+Authors: Thomas Gehrmann and Andreas von Manteuffel and Lorenzo Tancredi and Erich Weihs
+Abstract: We compute the full set of two-loop Feynman integrals appearing in massless two-loop four-point functions with two off-shell legs with the same invariant mass. These integrals allow to determine the two-loop corrections to the amplitudes for vector boson pair production at hadron colliders, $q \bar{q} \to V V$, and thus to compute this process to next-to-next-to-leading order accuracy in QCD. The master integrals are derived using the method of differential equations, employing a canonical basis for the integrals. We obtain analytical results for all integrals, expressed in terms of multiple polylogarithms. We optimize our results for numerical evaluation by employing functions which are real valued for physical scattering kinematics and allow for an immediate power series expansion.

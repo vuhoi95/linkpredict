@@ -1,0 +1,4 @@
+Paper: 150307695
+Title: Symplectic fermions and a quasi-Hopf algebra structure on $\bar{U}_i  sl(2)$
+Authors: A. M. Gainutdinov and I. Runkel
+Abstract: We consider the (finite-dimensional) small quantum group $\bar{U}_q sl(2)$ at $q=i$. We show that $\bar{U}_i sl(2)$ does not allow for an R-matrix, even though $U \otimes V \cong V \otimes U$ holds for all finite-dimensional representations $U,V$ of $\bar{U}_i sl(2)$. We then give an explicit coassociator $\Phi$ and an R-matrix $R$ such that $\bar{U}_i sl(2)$ becomes a quasi-triangular quasi-Hopf algebra. Our construction is motivated by the two-dimensional chiral conformal field theory of symplectic fermions with central charge $c=-2$. There, a braided monoidal category, $\mathcal{SF}$, has been computed from the factorisation and monodromy properties of conformal blocks, and we prove that $\mathrm{Rep}\,(\bar{U}_i sl(2),\Phi,R)$ is braided monoidally equivalent to $\mathcal{SF}$.

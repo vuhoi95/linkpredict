@@ -1,0 +1,4 @@
+Paper: 150107557
+Title: Excited States in Spin Chains from Conformal Blocks
+Authors: Benedikt Herwerth and Germán Sierra and Hong-Hao Tu and Anne E. B. Nielsen
+Abstract: We develop a method of constructing excited states in one dimensional spin chains which are derived from the $SU(2)_1$ Wess-Zumino-Witten Conformal Field Theory (CFT) using a parent Hamiltonian approach. The resulting systems are equivalent to the Haldane-Shastry model. In our ansatz, correlation functions between primary fields correspond to the ground state of the spin system, whereas excited states are obtained by insertion of descendant fields. Our construction is based on the current algebra of the CFT and emphasizes the close relation between the spectrum of the spin system and the underlying CFT. This general structure might imply that the method could be applied to a wider range of model systems.

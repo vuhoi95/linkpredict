@@ -1,0 +1,4 @@
+Paper: 11042517
+Title: Quantum algorithms for classical lattice models
+Authors: G. De las Cuevas and W. Dür and M. Van den Nest and M. A. Martin-Delgado
+Abstract: We give efficient quantum algorithms to estimate the partition function of (i) the six vertex model on a two-dimensional (2D) square lattice, (ii) the Ising model with magnetic fields on a planar graph, (iii) the Potts model on a quasi 2D square lattice, and (iv) the Z_2 lattice gauge theory on a three-dimensional square lattice. Moreover, we prove that these problems are BQP-complete, that is, that estimating these partition functions is as hard as simulating arbitrary quantum computation. The results are proven for a complex parameter regime of the models. The proofs are based on a mapping relating partition functions to quantum circuits introduced in [Van den Nest et al., Phys. Rev. A 80, 052334 (2009)] and extended here.

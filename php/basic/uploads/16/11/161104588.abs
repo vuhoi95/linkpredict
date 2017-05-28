@@ -1,0 +1,4 @@
+Paper: 161104588
+Title: Siegel Modular Forms and Black Hole Entropy
+Authors: Alexandre Belin and Alejandra Castro and Joao Gomes and Christoph A. Keller
+Abstract: We discuss the application of Siegel Modular Forms to Black Hole entropy counting. The role of the Igusa cusp form $\chi_{10}$ in the D1D5P system is well-known, and its transformation properties are what allows precision microstate counting in this case. We implement this counting for other Siegel modular and paramodular forms, and we show that they could serve as candidates for other types of black holes. We investigate the growth of their coefficients, identifying the dominant contributions and the leading logarithmic corrections in various regimes. We also discuss similarities and differences to the behavior of $\chi_{10}$, and possible physical interpretations of such forms both from a microscopic and gravitational point of view.

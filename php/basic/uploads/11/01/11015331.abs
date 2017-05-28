@@ -1,0 +1,4 @@
+Paper: 11015331
+Title: BPS partition functions in N = 4 Yang-Mills theory on T^4
+Authors: Måns Henningson and Fredrik Ohlsson
+Abstract: We consider N = 4 Yang-Mills theory on a flat four-torus with the R-symmetry current coupled to a flat background connection. The partition function depends on the coupling constant of the theory, but when it is expanded in a power series in the R-symmetry connection around the loci at which one of the supersymmetries is unbroken, the constant and linear terms are in fact independent of the coupling constant and can be computed at weak coupling for all non-trivial 't Hooft fluxes. The case of a trivial 't Hooft flux is difficult because of infrared problems, but the corresponding terms in the partition function are uniquely determined by S-duality.

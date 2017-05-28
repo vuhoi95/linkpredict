@@ -1,0 +1,4 @@
+Paper: 9709005
+Title: Intermittent dissipation of a passive scalar in turbulence
+Authors: M. Chertkov and G. Falkovich and I. Kolokolov
+Abstract: Probability density function (PDF) of passive scalar dissipation ${\cal P} (\epsilon)$ is found analytically in the limit of large Peclet and Prandtl numbers (Batchelor-Kraichnan regime) in two dimensions. The tail of PDF at $\epsilon\gg<\epsilon>$ is shown to be stretched exponent $\ln{\cal P}(\epsilon)\propto\epsilon^{1/3}$. At $\epsilon\ll<\epsilon>$, ${\cal P}\propto 1/\sqrt{\epsilon}$.

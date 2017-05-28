@@ -1,0 +1,4 @@
+Paper: 161107301
+Title: Frequency regulators for the nonperturbative renormalization group: a  general study and the model A as a benchmark
+Authors: Charlie Duclut and Bertrand Delamotte
+Abstract: We derive the necessary conditions for implementing a regulator that depends on both momentum and frequency in the nonperturbative renormalization group flow equations of out-of-equilibrium statistical systems. We consider model A as a benchmark and compute its dynamical critical exponent $z$. This allows us to show that frequency regulators compatible with causality and the fluctuation-dissipation theorem can be devised. We show that when the Principle of Minimal Sensitivity (PMS) is employed to optimize the critical exponents $\eta$, $\nu$ and $z$, the use of frequency regulators becomes necessary to make the PMS a self-consistent criterion.

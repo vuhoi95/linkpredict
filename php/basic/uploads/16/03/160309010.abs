@@ -1,0 +1,4 @@
+Paper: 160309010
+Title: Computational Method for the Retarded Potential in the Real-Time  Simulation of Quantum Electrodynamics
+Authors: Masahiro Fukuda and Kento Naito and Kazuhide Ichikawa and Akitomo Tachibana
+Abstract: We discuss the method to compute the integrals which appear in the retarded potential term for a real-time simulation based on QED (Quantum Electrodynamics). We show that the oscillatory integrals over the infinite interval involved in them can be efficiently performed by the method developed by Ooura and Mori based on the double exponential (DE) formula.

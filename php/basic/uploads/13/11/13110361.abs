@@ -1,0 +1,4 @@
+Paper: 13110361
+Title: Quantization In Finite Volumes Using Symplectic Quantization Programm
+Authors: S. Chenarani and A. Shirzad
+Abstract: We use the ideas of symplectic quantization for quantizing fields in finite volumes. We consider, as examples, the Klein-Gordon and electromagnetic fields in three dif- ferent boxes. As a second idea we consider the given boundary conditions as primary constrains. Consistency of primary constrains leads to infinite chains of constraints at the boundaries. Without solving the equation of motion, we impose the set of con- straints on suitable expansions of the fields. We show that if the new set of variables, such as Fourier modes, are chosen appropriately, imposing the constraints omits a few number of canonical pairs. Hence, the reduced phase space, with canonical pairs as coordinates, is achieved.

@@ -1,0 +1,4 @@
+Paper: 08011661
+Title: Wrapping Interactions and the Konishi Operator
+Authors: Cynthia A. Keeler and Nelia Mann
+Abstract: We present a calculation of the four-loop anomalous dimension of the SU(2) sector Konishi operator in N=4 SYM, as an example of "wrapping" corrections to the known result for long operators. We use the known dilatation operator at four loops acting on long operator, and just calculate those diagrams which are affected by the change from operator length L > 4 to L = 4. We find that the answer involves a Zeta[5], so it has trancendentality degree five. Our result differs from previous proposals and calculations. We also discuss some ideas for extending this analysis to determine finite size corrections for operators of arbitrary length in the SU(2) sector.

@@ -1,0 +1,4 @@
+Paper: 10063309
+Title: All stationary axi-symmetric local solutions of topologically massive  gravity
+Authors: Sabine Ertl and Daniel Grumiller and Niklas Johansson
+Abstract: We classify all stationary axi-symmetric solutions of topologically massive gravity into Einstein, Schr\"odinger, warped and generic solutions. We construct explicitly all local solutions in the first three sectors and present an algorithm for the numerical construction of all local solutions in the generic sector. The only input for this algorithm is the value of one constant of motion if the solution has an analytic centre, and three constants of motion otherwise. We present several examples, including soliton solutions that asymptote to warped AdS.

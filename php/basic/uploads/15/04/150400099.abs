@@ -1,0 +1,4 @@
+Paper: 150400099
+Title: The geometric Langlands twist in five and six dimensions
+Authors: Dongsu Bak and Andreas Gustavsson
+Abstract: Abelian 6d (2,0) theory has SO(5) R symmetry. We twist this theory by identifying the R symmetry group with the SO(5) subgroup of the SO(1,5) Lorentz group. This twisted theory can be put on any five-manifold M, times R, while preserving one scalar supercharge. We subsequently assume the existence of one unit normalized Killing vector field on M, and we find a corresponding SO(4) twist that preserves two supercharges and is a generalization of the geometric Langlands twist of 4d SYM. We generalize the story to non-Abelian gauge group for the corresponding 5d SYM theories on M. We derive a vanishing theorem for BPS contact instantons by identifying the 6d potential energy and its BPS bound, in the 5d theory. To this end we need to perform a Wick rotation that complexifies the gauge field.

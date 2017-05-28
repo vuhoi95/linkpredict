@@ -1,0 +1,4 @@
+Paper: 160404777
+Title: The $1/N$ expansion for SO(N) lattice gauge theory at strong coupling
+Authors: Sourav Chatterjee and Jafar Jafarov
+Abstract: The $1/N$ expansion is an asymptotic series expansion for certain quantities in large-$N$ lattice gauge theories. This article gives a rigorous formulation and proof of the $1/N$ expansion for Wilson loop expectations in SO(N) lattice gauge theory in the strong coupling regime in any dimension. The terms in the expansion are expressed as sums over trajectories of strings in a lattice string theory, establishing an explicit gauge-string duality. The trajectories trace out surfaces of genus zero for the first term in the expansion, and surfaces of higher genus for the higher terms.

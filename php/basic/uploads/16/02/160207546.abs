@@ -1,0 +1,4 @@
+Paper: 160207546
+Title: Variational Principle for Gravity with Null and Non-null boundaries: A  Unified Boundary Counter-term
+Authors: Krishnamohan Parattu and Sumanta Chakraborty and T. Padmanabhan
+Abstract: It is common knowledge that the Einstein-Hilbert action does not furnish a well-posed variational principle. The usual solution to this problem is to add an extra boundary term to the action, called a counter-term, so that the variational principle becomes well-posed. When the boundary is spacelike or timelike, the Gibbons-Hawking-York counter-term is the most widely used. For null boundaries, we had proposed a counter-term in a previous paper. In this paper, we extend the previous analysis and propose a counter-term that can be used to eliminate variations of the "off-the-surface" derivatives of the metric on any boundary, regardless of its spacelike, timelike or null nature.

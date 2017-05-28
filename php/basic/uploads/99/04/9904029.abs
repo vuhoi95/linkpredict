@@ -1,0 +1,4 @@
+Paper: 9904029
+Title: Fourier transform and the Verlinde formula for the quantum double of a  finite group
+Authors: T. H. Koornwinder and B. J. Schroers and J. K. Slingerland and F. A. Bais
+Abstract: A Fourier transform S is defined for the quantum double D(G) of a finite group G. Acting on characters of D(G), S and the central ribbon element of D(G) generate a unitary matrix representation of the group SL(2,Z). The characters form a ring over the integers under both the algebra multiplication and its dual, with the latter encoding the fusion rules of D(G). The Fourier transform relates the two ring structures. We use this to give a particularly short proof of the Verlinde formula for the fusion coefficients.

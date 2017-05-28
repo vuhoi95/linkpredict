@@ -1,0 +1,4 @@
+Paper: 150100766
+Title: Bosonization in the path integral formulation
+Authors: Kazuo Fujikawa and Hiroshi Suzuki
+Abstract: We establish the direct $d=2$ on-shell bosonization $\psi_{L}(x_{+})=e^{i\xi(x_{+})}$ and $\psi_{R}^{\dagger}(x_{-})=e^{i\xi(x_{-})}$ in path integral formulation by deriving the off-shell relations $\psi_{L}(x)\psi_{R}^{\dagger}(x)=\exp[i\xi(x)]$ and $\psi_{R}(x)\psi_{L}^{\dagger}(x)=\exp[-i\xi(x)]$. Similarly, the on-shell bosonization of the bosonic commuting spinor, $\phi_{L}(x_{+})=ie^{-i\xi(x_{+})}\partial^{+}e^{-i\chi(x_{+})}$, $\phi^{\dagger}_{R}(x_{-})=e^{-i\xi(x_{-})-i\chi(x_{-})}$ and $\phi_{R}(x_{-})=ie^{i\xi(x_{-})}\partial^{-}e^{+i\chi(x_{-})}$, $\phi^{\dagger}_{L}(x_{+})=e^{i\xi(x_{+})+i\chi(x_{+})}$, is established in path integral formulation by deriving the off-shell relations $\phi_{L}(x)\phi^{\dagger}_{R}(x)=ie^{-i\xi(x)}\partial^{+}e^{-i\chi(x)}$ and $\phi_{R}(x)\phi^{\dagger}_{L}(x)=ie^{i\xi(x)}\partial^{-}e^{i\chi(x)}$.

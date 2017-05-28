@@ -1,0 +1,4 @@
+Paper: 13126654
+Title: Matrix product states for gauge field theories
+Authors: Boye Buyens and Jutho Haegeman and Karel Van Acoleyen and Henri Verschelde and Frank Verstraete
+Abstract: The matrix product state formalism is used to simulate Hamiltonian lattice gauge theories. To this end, we define matrix product state manifolds which are manifestly gauge invariant. As an application, we study 1+1 dimensional one flavour quantum electrodynamics, also known as the massive Schwinger model, and are able to determine very accurately the ground state properties and elementary one-particle excitations in the continuum limit. In particular, a novel particle excitation in the form of a heavy vector boson is uncovered, compatible with the strong coupling expansion in the continuum. We also study non-equilibrium dynamics by simulating the real-time evolution of the system induced by a quench in the form of a uniform background electric field.

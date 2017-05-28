@@ -1,0 +1,4 @@
+Paper: 09010445
+Title: Constraint Effective Potential of the Staggered Magnetization in an  Antiferromagnet
+Authors: U. Gerber and C. P. Hofmann and F. -J. Jiang and M. Nyfeler and U. -J. Wiese
+Abstract: We employ an improved estimator to calculate the constraint effective potential of the staggered magnetization in the spin $\tfrac{1}{2}$ quantum Heisenberg model using a loop-cluster algorithm. The first and second moment of the probability distribution of the staggered magnetization are in excellent agreement with the predictions of the systematic low-energy magnon effective field theory. We also compare the Monte Carlo data with the universal shape of the constraint effective potential of the staggered magnetization and study its approach to the convex effective potential in the infinite volume limit. In this way the higher-order low-energy parameter $k_0$ is determined from a fit to the numerical data.

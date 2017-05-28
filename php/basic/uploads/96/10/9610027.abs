@@ -1,0 +1,4 @@
+Paper: 9610027
+Title: WKB to all orders and the accuracy of the semiclassical quantization
+Authors: Marko Robnik and Luca Salasnich
+Abstract: We perform a systematic WKB expansion to all orders for a one-dimensional system with potential $V(x)=U_0/\cos^2{(\alpha x)}$. We are able to sum the series to the exact energy spectrum. Then we show that at any finite order the error of the WKB approximation measured in the natural units of the mean energy level spacing does not go to zero when the quantum number goes to infinity. Therefore we make the general conclusion that the semiclassical approximations fail to predict the individual energy levels within a vanishing fraction of the mean energy level spacing.

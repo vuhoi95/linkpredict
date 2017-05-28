@@ -1,0 +1,4 @@
+Paper: 9705003
+Title: Dynamical Reduction of Discrete Systems Based on the Renormalization  Group Method
+Authors: T. Kunihiro and J. Matsukidaira
+Abstract: The renormalization group (RG) method is extended for global asymptotic analysis of discrete systems. We show that the RG equation in the discretized form leads to difference equations corresponding to the Stuart-Landau or Ginzburg-Landau equations. We propose a discretization scheme which leads to a faithful discretization of the reduced dynamics of the original differential equations.

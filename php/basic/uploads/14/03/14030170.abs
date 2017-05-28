@@ -1,0 +1,4 @@
+Paper: 14030170
+Title: Universality and Borel Summability of Arbitrary Quartic Tensor Models
+Authors: Thibault Delepouve and Razvan Gurau and Vincent Rivasseau
+Abstract: We extend the study of \emph{melonic} quartic tensor models to models with arbitrary quartic interactions. This extension requires a new version of the loop vertex expansion using several species of intermediate fields and iterated Cauchy-Schwarz inequalities. Borel summability is proven, uniformly as the tensor size $N$ becomes large. Every cumulant is written as a sum of explicitly calculated terms plus a remainder, suppressed in $1/N$. Together with the existence of the large $N$ limit of the second cumulant, this proves that the corresponding sequence of probability measures is uniformly bounded and obeys the tensorial universality theorem.

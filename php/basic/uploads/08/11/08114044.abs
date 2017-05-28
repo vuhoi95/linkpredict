@@ -1,0 +1,4 @@
+Paper: 08114044
+Title: M2-Branes and Quiver Chern-Simons: A Taxonomic Study
+Authors: Amihay Hanany and Yang-Hui He
+Abstract: We initiate a systematic investigation of the space of 2+1 dimensional quiver gauge theories, emphasising a succinct "forward algorithm". Few "order parametres" are introduced such as the number of terms in the superpotential and the number of gauge groups. Starting with two terms in the superpotential, we find a generating function, with interesting geometric interpretation, which counts the number of inequivalent theories for a given number of gauge groups and fields. We demonstratively list these theories for some low numbers thereof. Furthermore, we show how these theories arise from M2-branes probing toric Calabi-Yau 4-folds by explicitly obtaining the toric data of the vacuum moduli space. By observing equivalences of the vacua between markedly different theories, we see a new emergence of "toric duality".

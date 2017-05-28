@@ -1,0 +1,4 @@
+Paper: 11110017
+Title: On Hirzebruch invariants of elliptic fibrations
+Authors: James Fullwood and Mark van Hoeij
+Abstract: We compute all Hirzebruch invariants $\chi_q$ for $D_5$, $E_6$, $E_7$ and $E_8$ elliptic fibrations of every dimension. A single generating series $\chi(t,y)$ is produced for each family of fibrations such that the coefficient of $t^{k}y^{q}$ encodes $\chi_q$ over a base of dimension $k$, solely in terms of invariants of the base of the fibration.

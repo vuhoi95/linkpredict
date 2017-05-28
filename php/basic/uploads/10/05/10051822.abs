@@ -1,0 +1,4 @@
+Paper: 10051822
+Title: Finite Temperature Schwinger Model
+Authors: Ivo Sachs and Andreas Wipf
+Abstract: The temperature dependence of the order parameter of the Schwinger model is calculated in the euclidean functional integral approach. For that we solve the model on a finite torus and let the spatial extension tend to infinity at the end of the computations. The induced actions, fermionic zero-modes, relevant Green functions and Wilson loop correlators on the torus are derived. We find the analytic form of the chiral condensate for any temperature and in particular show that it behaves like \< \bar\Psi\Psi \> \sim -2 T\exp(-\pi\sqrt{\pi}T/e) for temperatures large compared to the induced photon mass.

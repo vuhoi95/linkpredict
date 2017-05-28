@@ -1,0 +1,4 @@
+Paper: 160403696
+Title: BRST Symmetry: Boundary Conditions and Edge States in QED
+Authors: Nirmalendu Acharyya and A. P. Balachandran and Verónica Errasti Díez and P. N. Bala Subramanian and Sachindeo Vaidya
+Abstract: In manifolds with spatial boundary, BRST formalism can be used to quantize gauge theories. We show that, in a $U(1)$ gauge theory, only a subset of all the boundary conditions allowed by the self-adjointness of the Hamiltonian preserves BRST symmetry. Hence, the theory can be quantized using BRST formalism only when that subset of boundary conditions is considered. We also show that for such boundary conditions, there exist fermionic states which are localized near the boundary.

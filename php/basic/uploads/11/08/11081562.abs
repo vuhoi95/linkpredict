@@ -1,0 +1,4 @@
+Paper: 11081562
+Title: Confinement and lattice QED electric flux-tubes simulated with ultracold  atoms
+Authors: Erez Zohar and Benni Reznik
+Abstract: We propose a method for simulating 2+1-d compact lattice quantum-electrodynamics (QED), using ultracold atoms in optical lattices. In our model local Bose-Einstein condensates' phases correspond to the electromagnetic vector-potential, and the fluctuations of the local number operators represent the conjugate electric field. The gauge invariant Kogut-Susskind Hamiltonian is obtained as an effective low energy theory. The field is then coupled to external static charges. We show that in the strong coupling limit this gives rise to 'electric flux-tubes' and to confinement. The effect can be observed by measuring the local density fluctuations of the BECs.

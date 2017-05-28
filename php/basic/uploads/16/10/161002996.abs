@@ -1,0 +1,4 @@
+Paper: 161002996
+Title: Families of gauge conditions in BV formalism
+Authors: Andrei Mikhailov and Albert Schwarz
+Abstract: In BV formalism we can consider a Lagrangian submanifold as a gauge condition. Starting with the BV action functional we construct a closed form on the space of Lagrangian submanifolds. If the action functional is invariant with respect to some group $H$ and $\Lambda$ is an $H$-invariant family of Lagrangian submanifold then under certain conditions we construct a form on $\Lambda$ that descends to a closed form on $\Lambda/H.$ Integrating the latter form over a cycle in $\Lambda/H$ we obtain numbers that can have interesting physical meaning. We show that one can get string amplitudes this way. Applying this construction to topological quantum field theories one obtains topological invariants.

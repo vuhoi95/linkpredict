@@ -1,0 +1,4 @@
+Paper: 9804021
+Title: Finite dimensional quantum group covariant differential calculus on a  complex matrix algebra
+Authors: R. Coquereaux and A. O. Garcia and R. Trinchero
+Abstract: Using the fact that the algebra M(3,C) of 3 x 3 complex matrices can be taken as a reduced quantum plane, we build a differential calculus Omega(S) on the quantum space S defined by the algebra C^\infty(M) \otimes M(3,C), where M is a space-time manifold. This calculus is covariant under the action and coaction of finite dimensional dual quantum groups. We study the star structures on these quantum groups and the compatible one in M(3,C). This leads to an invariant scalar product on the later space. We analyse the differential algebra Omega(M(3,C)) in terms of quantum group representations, and consider in particular the space of one-forms on S since its elements can be considered as generalized gauge fields.

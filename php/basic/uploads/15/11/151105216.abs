@@ -1,0 +1,4 @@
+Paper: 151105216
+Title: General Relativity for N Properties
+Authors: Robert Delbourgo and Paul D Stack
+Abstract: We determine the coefficients of the terms multiplying the gauge fields, gravitational field and cosmological term in a scheme whereby properties are characterized by $N$ anticommuting scalar Grassmann variables. We do this for general $N$, using analytical methods; this obviates the need for our algebraic computing package which can become quite unwieldy as $N$ is increased.

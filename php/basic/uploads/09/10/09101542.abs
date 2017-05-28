@@ -1,0 +1,4 @@
+Paper: 09101542
+Title: 2-Group Representations for Spin Foams
+Authors: Aristide Baratin and Derek K. Wise
+Abstract: Just as 3d state sum models, including 3d quantum gravity, can be built using categories of group representations, "2-categories of 2-group representations" may provide interesting state sum models for 4d quantum topology, if not quantum gravity. Here we focus on the "Euclidean 2-group", built from the rotation group SO(4) and its action on the group of translations of 4d Euclidean space. We explain its infinite-dimensional unitary representations, and construct a model based on the resulting representation 2-category. This model, with clear geometric content and explicit "metric data" on triangulation edges, shows up naturally in an attempt to write the amplitudes of ordinary quantum field theory in a background independent way.

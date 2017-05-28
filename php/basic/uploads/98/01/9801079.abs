@@ -1,0 +1,4 @@
+Paper: 9801079
+Title: Particle-Like Solutions of the Einstein-Dirac Equations
+Authors: Felix Finster and Joel Smoller and Shing-Tung Yau
+Abstract: The coupled Einstein-Dirac equations for a static, spherically symmetric system of two fermions in a singlet spinor state are derived. Using numerical methods, we construct an infinite number of soliton-like solutions of these equations. The stability of the solutions is analyzed. For weak coupling (i.e., small rest mass of the fermions), all the solutions are linearly stable (with respect to spherically symmetric perturbations), whereas for stronger coupling, both stable and unstable solutions exist. For the physical interpretation, we discuss how the energy of the fermions and the (ADM) mass behave as functions of the rest mass of the fermions. Although gravitation is not renormalizable, our solutions of the Einstein-Dirac equations are regular and well-behaved even for strong coupling.

@@ -1,0 +1,4 @@
+Paper: 13107570
+Title: Finite-dimensional representations of the elliptic modular double
+Authors: S. E. Derkachov and V. P. Spiridonov
+Abstract: We investigate the kernel space of an integral operator M(g) depending on the "spin" g and describing an elliptic Fourier transformation. The operator M(g) is an intertwiner for the elliptic modular double formed from a pair of Sklyanin algebras with the parameters $\eta$ and $\tau$, Im$ \tau>0$, Im$\eta>0$. For two-dimensional lattices $g=n\eta + m\tau/2$ and $g=1/2+n\eta + m\tau/2$ with incommensurate $1, 2\eta,\tau$ and integers $n,m>0$, the operator M(g) has a finite-dimensional kernel that consists of the products of theta functions with two different modular parameters and is invariant under the action of generators of the elliptic modular double.

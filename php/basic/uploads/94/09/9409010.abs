@@ -1,0 +1,4 @@
+Paper: 9409010
+Title: Exactly solvable Kondo lattice model
+Authors: D. F. Wang and C. Gruber
+Abstract: In this work, we exactly solve a Kondo lattice model in the thermodynamic limit. The system consists of an electronic conduction band described by unconstrained hopping matrix elements between the lattice sites. The conducting electrons interact with a localized impurity spin at each lattice cell. We have found the exact thermodynamics, the ground state energies of the system. At T=0, we explicitly demonstrate that the system exhibits a metal-insulator phase transition at half-filling. In the limit of strong coupling between the impurity spin and the electrons, J=\infty, we have solved the system on a lattice of any size L. The ground states are the resonating-valence-bond type Jastrow product wavefunctions. Various correlation functions may be computed for the impurity spins, and for the singlets formed by the electrons and impurities.

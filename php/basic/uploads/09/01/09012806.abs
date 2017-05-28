@@ -1,0 +1,4 @@
+Paper: 09012806
+Title: A remark on gauge invariance in wavelet-based quantum field theory
+Authors: S. Albeverio and M. V. Altaisky
+Abstract: Wavelet transform has been attracting attention as a tool for regularization of gauge theories since the first paper of (Federbush, Progr. Theor. Phys. 94, 1135, 1995), where the integral representation of the fields by means of the wavelet transform was suggested: $$A_{\mu}(x) = \frac{1}{C_\psi} \int_{\R_+ \times\R^d} \frac{1}{a^d} g \left(\frac{x-b}{a} \right) A_{\mu a}(b) \frac{dad^db}{a},$$ with $A_{\mu a}(b)$ being understood as the fields $A_\mu$ measured at point $b\in \R^d$ with resolution $a\in\R_+$. In present paper we consider a wavelet-based theory of gauge fields, provide a counterpart of the gauge transform for the scale-dependent fields: $A_{\mu a}(x)\to A_{\mu a}(x)+\d_\mu f_a(x)$, and derive the Ward-Takahashi identities for them.

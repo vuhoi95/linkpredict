@@ -1,0 +1,4 @@
+Paper: 09110581
+Title: Fast Decoders for Topological Quantum Codes
+Authors: Guillaume Duclos-Cianci and David Poulin
+Abstract: We present a family of algorithms, combining real-space renormalization methods and belief propagation, to estimate the free energy of a topologically ordered system in the presence of defects. Such an algorithm is needed to preserve the quantum information stored in the ground space of a topologically ordered system and to decode topological error-correcting codes. For a system of linear size L, our algorithm runs in time log L compared to L^6 needed for the minimum-weight perfect matching algorithm previously used in this context and achieves a higher depolarizing error threshold.

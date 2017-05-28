@@ -1,0 +1,4 @@
+Paper: 14031770
+Title: Correlation between Polyakov loops oriented in two different directions  in SU(N) gauge theory on a two dimensional torus
+Authors: Joe Kiskis and Rajamani Narayanan and Dibakar Sigdel
+Abstract: We consider SU(N) gauge theories on a two dimensional torus with finite area, $A$. Let $T_\mu(A)$ denote the Polyakov loop operator in the $\mu$ direction. Starting from the lattice gauge theory on the torus, we derive a formula for the continuum limit of $\langle g_1(T_1(A)) g_2(T_2(A)) \rangle$ as a function of the area of the torus where $g_1$ and $g_2$ are class functions. We show that there exists a class function $\xi_0$ for SU(2) such that $\langle \xi_0(T_1(A)) \xi_0(T_2(A))\rangle > 1$ for all finite area of the torus with the limit being unity as the area of the torus goes to infinity. Only the trivial representation contributes to $\xi_0$ as $A\to\infty$ whereas all representations become equally important as $A\to 0$.

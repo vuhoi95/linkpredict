@@ -1,0 +1,4 @@
+Paper: 9510052
+Title: Junctions and thin shells in general relativity using computer algebra  I: The Darmois-Israel Formalism
+Authors: P. Musgrave and K. Lake
+Abstract: We present the GRjunction package which allows boundary surfaces and thin-shells in general relativity to be studied with a computer algebra system. Implementing the Darmois-Israel thin shell formalism requires a careful selection of definitions and algorithms to ensure that results are generated in a straight-forward way. We have used the package to correctly reproduce a wide variety of examples from the literature. We present several of these verifications as a means of demonstrating the packages capabilities. We then use GRjunction to perform a new calculation - joining two Kerr solutions with differing masses and angular momenta along a thin shell in the slow rotation limit.

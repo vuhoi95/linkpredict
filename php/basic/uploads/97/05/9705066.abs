@@ -1,0 +1,4 @@
+Paper: 9705066
+Title: Self-Avoiding Walks with Writhe
+Authors: J. David Moroz and Randall D. Kamien
+Abstract: We map self-avoiding random walks with a chemical potential for writhe to the three-dimensional complex O(N) Chern-Simons theory as N -> 0. We argue that at the Wilson-Fisher fixed point which characterizes normal self-avoiding walks (with radius of gyration exponent nu = 0.588) a small chemical potential for writhe is irrelevant and the Chern-Simons field does not modify the monomer- monomer correlation function. For a large chemical potential the polymer collapses.

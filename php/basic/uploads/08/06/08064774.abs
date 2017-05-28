@@ -1,0 +1,4 @@
+Paper: 08064774
+Title: Recursive Schr\" odinger Equation Approach to Faster Converging Path  Integrals
+Authors: Antun Balaz and Aleksandar Bogojevic and Ivana Vidanovic and Axel Pelster
+Abstract: By recursively solving the underlying Schr\" odinger equation, we set up an efficient systematic approach for deriving analytic expressions for discretized effective actions. With this we obtain discrete short-time propagators for both one and many particles in arbitrary dimension to orders which have not been accessible before. They can be used to substantially speed up numerical Monte Carlo calculations of path integrals, as well as for setting up a new analytical approximation scheme for energy spectra, density of states, and other statistical properties of quantum systems.

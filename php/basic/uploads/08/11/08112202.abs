@@ -1,0 +1,4 @@
+Paper: 08112202
+Title: An ab initio Calculation of the Universal Equation of State for the O(N)  Model
+Authors: Denjoe O'Connor and J. A. Santiago and C. R. Stephens
+Abstract: Using an Environmentally Friendly Renormalization Group we derive an ab initio universal scaling form for the equation of state for the O(N) model, y=f(x), that exhibits all required analyticity properties in the limits $x\to 0$, $x\to\infty$ and $x\to -1$. Unlike current methodologies based on a phenomenological scaling ansatz the scaling function is derived solely from the underlying Landau-Ginzburg-Wilson Hamiltonian and depends only on the three Wilson functions $\gamma_\lambda$, $\gamma_\phi$ and $\gamma_{\phi^2}$ which exhibit a non-trivial crossover between the Wilson-Fisher fixed point and the strong coupling fixed point associated with the Goldstone modes on the coexistence curve. We give explicit results for N=2, 3 and 4 to one-loop order and compare with known results.

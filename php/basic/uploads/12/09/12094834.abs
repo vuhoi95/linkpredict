@@ -1,0 +1,4 @@
+Paper: 12094834
+Title: On the Weak Coupling Limit for Massive Yang-Mills
+Authors: Daniele Bettinelli and Ruggero Ferrari
+Abstract: For small values of the gauge coupling constant, we compare the densities of the energy of the vacuum and of the order parameter, evaluated in the lattice Monte Carlo simulation and in the perturbative field theory at two loop (Minkowski). The continuum calculation allows a very good fit of the simulation results, away from the phase transition line. This confirms the conjecture that the lattice provides a regularization of the (nonrenormalizable) massive Yang-Mills and moreover it shows the physical meaning of the parameters used in the simulation.

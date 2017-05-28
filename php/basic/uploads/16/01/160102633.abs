@@ -1,0 +1,4 @@
+Paper: 160102633
+Title: ADE Spectral Networks
+Authors: Pietro Longhi and Chan Y. Park
+Abstract: We introduce a new perspective and a generalization of spectral networks for 4d $\mathcal{N}=2$ theories of class $\mathcal{S}$ associated to Lie algebras $\mathfrak{g} = \textrm{A}_n$, $\textrm{D}_n$, $\textrm{E}_{6}$, and $\textrm{E}_{7}$. Spectral networks directly compute the BPS spectra of 2d theories on surface defects coupled to the 4d theories. A Lie algebraic interpretation of these spectra emerges naturally from our construction, leading to a new description of 2d-4d wall-crossing phenomena. Our construction also provides an efficient framework for the study of BPS spectra of the 4d theories. In addition, we consider novel types of surface defects associated with minuscule representations of $\mathfrak{g}$.

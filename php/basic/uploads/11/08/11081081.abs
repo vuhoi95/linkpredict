@@ -1,0 +1,4 @@
+Paper: 11081081
+Title: Computing Khovanov-Rozansky homology and defect fusion
+Authors: Nils Carqueville and Daniel Murfet
+Abstract: We compute the categorified sl(N) link invariants as defined by Khovanov and Rozansky, for various links and values of N. This is made tractable by an algorithm for reducing tensor products of matrix factorisations to finite rank, which we implement in the computer algebra package Singular.

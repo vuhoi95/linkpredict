@@ -1,0 +1,4 @@
+Paper: 10112215
+Title: Capacities of Grassmann channels
+Authors: Kamil Bradler and Tomas Jochym-O'Connor and Rocio Jauregui
+Abstract: A new class of quantum channels called Grassmann channels is introduced and their classical and quantum capacity is calculated. The channel class appears in a study of the two-mode squeezing operator constructed from operators satisfying the fermionic algebra. We compare Grassmann channels with the channels induced by the bosonic two-mode squeezing operator. Among other results, we challenge the relevance of calculating entanglement measures to assess or compare the ability of bosonic and fermionic states to send quantum information to uniformly accelerated frames.

@@ -1,0 +1,4 @@
+Paper: 14021851
+Title: Asymptotic safety on the lattice: The Nonlinear O(N) Sigma Model
+Authors: Björn H. Wellegehausen and Daniel Körner and Andreas Wipf
+Abstract: We study the non-perturbative renormalization group flow of the nonlinear O(N) sigma model in two and three spacetime dimensions using a scheme that combines an effective local Hybrid Monte Carlo update routine, blockspin transformations and a Monte Carlo demon method. In two dimensions our results verify perturbative renormalizability. In three dimensions, we determine the flow diagram of the theory for various $N$ and different truncations and find a non-trivial fixed point, which indicates non-perturbative renormalizability. It is related to the well-studied phase transition of the O(N) universality class and characterizes the continuum physics of the model. We compare the obtained renormalization group flows with recent investigations by means of the Functional Renormalization Group.

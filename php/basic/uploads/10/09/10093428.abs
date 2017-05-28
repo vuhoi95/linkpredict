@@ -1,0 +1,4 @@
+Paper: 10093428
+Title: A numerical test of the Y-system in the small size limit of the SU(2)x  SU(2) Principal Chiral Model
+Authors: Matteo Beccaria and Guido Macorini
+Abstract: Recently, Kazakov, Gromov and Vieira applied the discrete Hirota dynamics to study the finite size spectra of integrable two dimensional quantum field theories. The method has been tested from large values of the size L down to moderate values using the SU(2) x SU(2) principal chiral model as a theoretical laboratory. We continue the numerical analysis of the proposed non-linear integral equations showing that the deep ultraviolet region L -> 0 is numerically accessible. To this aim, we introduce a relaxed iterative algorithm for the numerical computation of the low-lying part of the spectrum in the U(1) sector. We discuss in details the systematic errors involved in the computation. When a comparison is possible, full agreement is found with previous TBA computations.

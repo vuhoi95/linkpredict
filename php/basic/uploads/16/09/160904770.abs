@@ -1,0 +1,4 @@
+Paper: 160904770
+Title: Two-point correlators revisited: Fast and slow scales in multifield  models of Inflation
+Authors: José T. Gálvez Ghersi and Andrei V. Frolov
+Abstract: We study the structure of two-point correlators of the inflationary field fluctuations in order to improve the accuracy and efficiency of the existing spectral methods. We present a description motivated by the separation of the fast and slow evolving components of the spectrum. Our purpose is to rephrase all the relevant equations of motion in terms of slowly varying quantities. This is important in order to consider the contribution from high-frequency modes to the spectrum without affecting computational performance. The slow-roll approximation is not required to reproduce the main distinctive features in the power spectrum for each specific model of inflation.

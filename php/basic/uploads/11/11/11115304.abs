@@ -1,0 +1,4 @@
+Paper: 11115304
+Title: Hubbard-Shastry lattice models
+Authors: Sergey Frolov and Eoin Quinn
+Abstract: We consider two lattice models for strongly correlated electrons which are exactly-solvable in one dimension. Along with the Hubbard model and the su(2|2) spin chain, these are the only parity-invariant models that can be obtained from Shastry's R-matrix. One exhibits itinerant ferromagnetic behaviour, while for the other the electrons form bound pairs and at half-filling the model becomes insulating. We derive the TBA equations for the models, analyze them at various limits, and in particular obtain zero temperature phase diagrams. Furthermore we consider extensions of the models, which reduce to the Essler-Korepin-Schoutens model in certain limits.

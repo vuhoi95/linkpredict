@@ -1,9 +1,0 @@
-D:\Study\20162\DATN_08_04_2017\sourcecode\DL_GA\Graphics\Graphics\bin\Debug\Graphics.exe.config
-D:\Study\20162\DATN_08_04_2017\sourcecode\DL_GA\Graphics\Graphics\bin\Debug\Graphics.exe
-D:\Study\20162\DATN_08_04_2017\sourcecode\DL_GA\Graphics\Graphics\bin\Debug\Graphics.pdb
-D:\Study\20162\DATN_08_04_2017\sourcecode\DL_GA\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
-D:\Study\20162\DATN_08_04_2017\sourcecode\DL_GA\Graphics\Graphics\obj\Debug\Graphics.frm_main.resources
-D:\Study\20162\DATN_08_04_2017\sourcecode\DL_GA\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
-D:\Study\20162\DATN_08_04_2017\sourcecode\DL_GA\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
-D:\Study\20162\DATN_08_04_2017\sourcecode\DL_GA\Graphics\Graphics\obj\Debug\Graphics.exe
-D:\Study\20162\DATN_08_04_2017\sourcecode\DL_GA\Graphics\Graphics\obj\Debug\Graphics.pdb

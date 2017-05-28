@@ -1,0 +1,4 @@
+Paper: 160805392
+Title: High-order tail in Kerr spacetime
+Authors: Marc Casals and Chris Kavanagh and Adrian C. Ottewill
+Abstract: We investigate the late-time tail of the retarded Green function for the dynamics of a linear field perturbation of Kerr spacetime. We develop an analytical formalism for obtaining the late-time tail up to arbitrary order for general integer spin of the field. We then apply this formalism to obtain the details of the first five orders in the late-time tail of the Green function for the case of a scalar field: to leading order we recover the known power law tail $t^{-2\ell-3}$, and at third order we obtain a logarithmic correction, $t^{-2\ell-5}\ln t$, where $\ell$ is the field multipole.

@@ -1,0 +1,4 @@
+Paper: 13096760
+Title: Geometric quantization and families of inner products
+Authors: Peter Hochs and Varghese Mathai
+Abstract: We formulate a quantization commutes with reduction principle in the setting where the Lie group $G$, the symplectic manifold it acts on, and the orbit space of the action may all be noncompact. It is assumed that the action is proper, and the zero set of a deformation vector field, associated to the momentum map and an equivariant family of inner products on the Lie algebra $\mathfrak{g}$ of $G$, is $G$-cocompact. The central result establishes an asymptotic version of this quantization commutes with reduction principle. Using an equivariant family of inner products on $\mathfrak{g}$ instead of a single one makes it possible to handle both noncompact groups and manifolds, by extending Tian and Zhang's Witten deformation approach to the noncompact case.

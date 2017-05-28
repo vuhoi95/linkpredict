@@ -1,0 +1,4 @@
+Paper: 9909081
+Title: Global anomalies in Chiral Lattice Gauge Theory
+Authors: Oliver Baer and Isabel Campos
+Abstract: As first realized by Witten an SU(2) gauge theory coupled to a single Weyl fermion suffers from a global anomaly. This problem is addressed here in the context of the recent developments on chiral gauge theories on the lattice. We find Witten's anomaly manifests in the impossibility of defining globally a fermion measure that reproduces the proper continuum limit. Moreover, following Witten's original argument, we check numerically the crossing of the lowest eigenvalues of Neuberger's operator along a path connecting two gauge fields that differ by a topologically non-trivial gauge transformation.

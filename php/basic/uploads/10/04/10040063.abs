@@ -1,0 +1,4 @@
+Paper: 10040063
+Title: Zeta Determinant for Laplace Operators on Riemann Caps
+Authors: Antonino Flachi and Guglielmo Fucci
+Abstract: The goal of this paper is to compute the zeta function determinant for the massive Laplacian on Riemann caps (or spherical suspensions). These manifolds are defined as compact and boundaryless $D-$dimensional manifolds deformed by a singular Riemannian structure. The deformed spheres, considered previously in the literature, belong to this class. After presenting the geometry and discussing the spectrum of the Laplacian, we illustrate a method to compute its zeta regularized determinant. The special case of the deformed sphere is recovered as a limit of our general formulas.

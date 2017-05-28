@@ -1,0 +1,4 @@
+Paper: 10094119
+Title: Eigenvectors of open XXZ and ASEP models for a class of non-diagonal  boundary conditions
+Authors: Nicolas Crampé and Eric Ragoucy and Damien Simon
+Abstract: We present a generalization of the coordinate Bethe ansatz that allows us to solve integrable open XXZ and ASEP models with non-diagonal boundary matrices, provided their parameters obey some relations. These relations extend the ones already known in the literature in the context of algebraic or functional Bethe ansatz. The eigenvectors are represented as sums over cosets of the $BC_n$ Weyl group.

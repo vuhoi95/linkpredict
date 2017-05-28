@@ -1,0 +1,4 @@
+Paper: 9909080
+Title: Congruence subgroups and rational conformal field theory
+Authors: A. Coste and T. Gannon
+Abstract: We address here the question of whether the characters of an RCFT are modular functions for some level N, i.e. whether the representation of the modular group SL_2(Z) coming from any RCFT is trivial on some congruence subgroup. We prove that if the matrix T, associated to $(\matrix{1&1\cr 0&1})\in{\rm SL}_2(\Z)$, has ODD order, then this must be so. When the order of T is even, we present a simple test which if satisfied -- and we conjecture it always will be -- implies that the characters for that RCFT will also be level N. We use this to explain three curious observations in RCFT made by various authors.

@@ -1,0 +1,4 @@
+Paper: 09114708
+Title: Thermodynamic Bubble Ansatz
+Authors: Luis F. Alday and Davide Gaiotto and Juan Maldacena
+Abstract: Motivated by the computation of scattering amplitudes at strong coupling, we consider minimal area surfaces in AdS_5 which end on a null polygonal contour at the boundary. We map the classical problem of finding the surface into an SU(4) Hitchin system. The polygon with six edges is the first non-trivial example. For this case, we write an integral equation which determines the area as a function of the shape of the polygon. The equations are identical to those of the Thermodynamics Bethe Ansatz. Moreover, the area is given by the free energy of this TBA system. The high temperature limit of the TBA system can be exactly solved. It leads to an explicit expression for a special class of hexagonal contours.

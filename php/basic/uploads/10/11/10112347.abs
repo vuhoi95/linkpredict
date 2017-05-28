@@ -1,0 +1,4 @@
+Paper: 10112347
+Title: A Note on Computations of D-brane Superpotential
+Authors: Hiroyuki Fuji and Shinsaku Nakayama and Masahide Shimizu and Hisao Suzuki
+Abstract: We develop some computational methods for the integrals over the 3-chains on the compact Calabi-Yau 3-folds that plays a prominent role in the analysis of the topological B-model in the context of the open mirror symmetry. We discuss such 3-chain integrals in two approaches. In the first approach, we provide a systematic algorithm to obtain the inhomogeneous Picard-Fuchs equations. In the second approach, we discuss the analytic continuation of the period integral to compute the 3-chain integral directly. The latter direct integration method is applicable for both on-shell and off-shell formalisms.

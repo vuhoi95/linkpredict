@@ -1,0 +1,4 @@
+Paper: 10033521
+Title: General reference frames and their associated space manifolds
+Authors: Mayeul Arminjon and Frank Reifler
+Abstract: We propose a formal definition of a general reference frame in a general spacetime, as an equivalence class of charts. This formal definition corresponds with the notion of a reference frame as being a (fictitious) deformable body, but we assume, moreover, that the time coordinate is fixed. This is necessary for quantum mechanics, because the Hamiltonian operator depends on the choice of the time coordinate. Our definition allows us to associate rigorously with each reference frame F, a unique "space" (a three-dimensional differentiable manifold), which is the set of the world lines bound to F. This also is very useful for quantum mechanics. We briefly discuss the application of these concepts to G\"odel's universe.

@@ -1,0 +1,4 @@
+Paper: 13044403
+Title: The geometric algebra of Fierz identities in arbitrary dimensions and  signatures
+Authors: C. I. Lazaroiu and E. M. Babalic and I. A. Coman
+Abstract: We use geometric algebra techniques to give a synthetic and computationally efficient approach to Fierz identities in arbitrary dimensions and signatures, thus generalizing previous work. Our approach leads to a formulation which displays the underlying real, complex or quaternionic structure in an explicit and conceptually clear manner and is amenable to implementation in various symbolic computation systems. We illustrate our methods and results with a few examples which display the basic features of the three classes of pin representations governing the structure of such identities in various dimensions and signatures.

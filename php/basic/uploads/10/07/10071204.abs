@@ -1,0 +1,4 @@
+Paper: 10071204
+Title: Vacuum type space-like string surfaces in AdS_3 x S^3
+Authors: Harald Dorn and George Jorjadze and Chrysostomos Kalousios and Luka Megrelidze and Sebastian Wuttke
+Abstract: We construct and classify all space-like minimal surfaces in AdS_3 x S^3 which globally admit coordinates with constant induced metric on both factors. Up to O(2,2) x O(4) transformations all these surfaces, except one class, are parameterized by four real parameters. The classes of surfaces correspond to different regions in this parameter space and show quite different boundary behavior. Our analysis uses a direct construction of the string coordinates via a group theoretical treatment based on the map of AdS_3 x S^3 to SL(2,R) x SU(2). This is complemented by a cross check via standard Pohlmeyer reduction. After embedding in AdS_5 x S^5 we calculate the regularized area for solutions with a boundary spanned by a four point scattering s-channel momenta configuration.

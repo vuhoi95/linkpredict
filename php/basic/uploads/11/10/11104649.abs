@@ -1,0 +1,4 @@
+Paper: 11104649
+Title: Roaming moduli space using dynamical triangulations
+Authors: J. Ambjorn and J. Barkley and T. Budd
+Abstract: In critical as well as in non-critical string theory the partition function reduces to an integral over moduli space after integration over matter fields. For non-critical string theory this moduli integrand is known for genus one surfaces. The formalism of dynamical triangulations provides us with a regularization of non-critical string theory. We show how to assign in a simple and geometrical way a moduli parameter to each triangulation. After integrating over possible matter fields we can thus construct the moduli integrand. We show numerically for $c=0$ and $c=-2$ non-critical strings that the moduli integrand converges to the known continuum expression when the number of triangles goes to infinity.

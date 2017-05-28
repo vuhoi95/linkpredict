@@ -1,0 +1,4 @@
+Paper: 08072032
+Title: Gluinos condensing at the CCNI: 4096 CPUs weigh in
+Authors: Joel Giedt and Richard Brower and Simon Catterall and George T. Fleming and Pavlos Vranas
+Abstract: We report preliminary results of lattice super-Yang-Mills computations using domain wall fermions, performed at an actual rate of 1000 Gflop/s, over the course of six months, using two BlueGene/L racks at Rensselaer's CCNI supercomputing center. This has allowed us to compute the gluino condensate and string tension over a wide range of lattice parameters, setting the stage for continuum, chiral extrapolations.

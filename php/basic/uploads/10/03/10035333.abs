@@ -1,0 +1,4 @@
+Paper: 10035333
+Title: Quantum Sine(h)-Gordon Model and Classical Integrable Equations
+Authors: S. L. Lukyanov and A. B. Zamolodchikov
+Abstract: We study a family of classical solutions of modified sinh-Gordon equation, $\partial_z\partial_{{\bar z}} \eta-\re^{2\eta}+p(z)\,p({\bar z})\ \re^{-2\eta}=0$ with $p(z)=z^{2\alpha}-s^{2\alpha}$. We show that certain connection coefficients for solutions of the associated linear problem coincide with the $Q$-function of the quantum sine-Gordon $(\alpha>0)$ or sinh-Gordon $(\alpha<-1)$ models.

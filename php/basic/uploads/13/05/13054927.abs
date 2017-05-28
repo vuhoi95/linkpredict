@@ -1,0 +1,4 @@
+Paper: 13054927
+Title: Generalized helicity and Beltrami fields
+Authors: Roman V. Buniy and Thomas W. Kephart
+Abstract: We propose covariant and non-abelian generalizations of the magnetic helicity and Beltrami equation. The gauge invariance, variational principle, conserved current, energy-momentum tensor and choice of boundary conditions elucidate the subject. In particular, we prove that any extremal of the Yang-Mills action functional $\tfrac{1}{4}\int_\Omega\tr{F_{\mu\nu}F^{\mu\nu}}\,d^4x$ subject to the local constraint $\epsilon^{\mu\nu\alpha\beta}\tr{F_{\mu\nu}F_{\alpha\beta}}=0$ satisfies the covariant non-abelian Beltrami equation.

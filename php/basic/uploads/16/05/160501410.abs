@@ -1,0 +1,4 @@
+Paper: 160501410
+Title: Classical sheaf cohomology rings on Grassmannians
+Authors: Jirui Guo and Zhentao Lu and Eric Sharpe
+Abstract: Let the vector bundle $\mathcal{E}$ be a deformation of the tangent bundle over the Grassmannian $G(k,n)$. We compute the ring structure of sheaf cohomology valued in exterior powers of $\mathcal{E}$, also known as the polymology. This is the first part of a project studying the quantum sheaf cohomology of Grassmannians with deformations of the tangent bundle, a generalization of ordinary quantum cohomology rings of Grassmannians. A companion physics paper [arXiv:1512.08586] describes physical aspects of the theory, including a conjecture for the quantum sheaf cohomology ring, and numerous examples.

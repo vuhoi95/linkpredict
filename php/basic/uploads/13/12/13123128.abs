@@ -1,0 +1,4 @@
+Paper: 13123128
+Title: de Sitter transitivity, conformal transformations and conservation laws
+Authors: J. G. Pereira and A. C. Sampson and L. L. Savi
+Abstract: Minkowski spacetime is transitive under ordinary translations, a transformation that do not have matrix representations. The de Sitter spacetime, on the other hand, is transitive under a combination of translations and proper conformal transformations, which do have a matrix representation. Such matrix, however, is not by itself a de Sitter generator: it gives rise to a conformal re-scaling of the metric, a transformation not belonging to the de Sitter group, and in general not associated with diffeomorphisms in spacetime. When dealing with variational principles and Noether's theorem in de Sitter spacetime, therefore, it turns out necessary to regularise the transformations in order to eliminate the conformal re-scaling of the metric.

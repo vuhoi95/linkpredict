@@ -1,0 +1,4 @@
+Paper: 13097349
+Title: Sharpening the Second Law of Thermodynamics with the Quantum Bayes'  Theorem
+Authors: Hrant Gharibyan and Max Tegmark
+Abstract: We prove a generalization of the classic Groenewold-Lindblad entropy inequality, combining decoherence and the quantum Bayes theorem into a simple unified picture where decoherence increases entropy while observation decreases it. This provides a rigorous quantum-mechanical version of the second law of thermodynamics, governing how the entropy of a system (the entropy of its density matrix, partial-traced over the environment and conditioned on what is known) evolves under general decoherence and observation. The powerful tool of spectral majorization enables both simple alternative proofs of the classic Lindblad and Holevo inequalities without using strong subadditivity, and also novel inequalities for decoherence and observation that hold not only for von Neumann entropy, but also for arbitrary concave entropies.

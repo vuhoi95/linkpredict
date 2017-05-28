@@ -1,0 +1,4 @@
+Paper: 150405745
+Title: Phase Transition in Tensor Models
+Authors: Thibault Delepouve and Razvan Gurau
+Abstract: Generalizing matrix models, tensor models generate dynamical triangulations in any dimension and support a $1/N$ expansion. Using the intermediate field representation we explicitly rewrite a quartic tensor model as a field theory for a fluctuation field around a vacuum state corresponding to the resummation of the entire leading order in $1/N$ (a resummation of the melonic family). We then prove that the critical regime in which the continuum limit in the sense of dynamical triangulations is reached is precisely a phase transition in the field theory sense for the fluctuation field.

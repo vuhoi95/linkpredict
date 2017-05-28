@@ -1,0 +1,4 @@
+Paper: 160206422
+Title: Four-point function in the IOP matrix model
+Authors: Ben Michel and Joseph Polchinski and Vladimir Rosenhaus and S. Josephine Suh
+Abstract: The IOP model is a quantum mechanical system of a large-$N$ matrix oscillator and a fundamental oscillator, coupled through a quartic interaction. It was introduced previously as a toy model of the gauge dual of an AdS black hole, and captures a key property that at infinite $N$ the two-point function decays to zero on long time scales. Motivated by recent work on quantum chaos, we sum all planar Feynman diagrams contributing to the four-point function. We find that the IOP model does not satisfy the more refined criteria of exponential growth of the out-of-time-order four-point function.

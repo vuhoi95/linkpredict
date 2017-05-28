@@ -1,0 +1,4 @@
+Paper: 9402098
+Title: QED in external fields from the spin representation
+Authors: Jose M. Gracia-Bondia and Joseph C. Varilly
+Abstract: Systematic use of the infinite-dimensional spin representation simplifies and rigorizes several questions in Quantum Field Theory. This representation permutes ``Gaussian'' elements in the fermion Fock space, and is necessarily projective: we compute its cocycle at the group level, and obtain Schwinger terms and anomalies from infinitesimal versions of this cocycle. Quantization, in this framework, depends on the choice of the ``right'' complex structure on the space of solutions of the Dirac equation. We show how the spin representation allows one to compute exactly the S-matrix for fermions in an external field; the cocycle yields a causality condition needed to determine the phase.

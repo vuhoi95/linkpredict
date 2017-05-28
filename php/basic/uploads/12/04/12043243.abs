@@ -1,0 +1,4 @@
+Paper: 12043243
+Title: The density of states in gauge theories
+Authors: Kurt Langfeld and Biagio Lucini and Antonio Rago
+Abstract: The density of states is calculated for a SU(2) and a compact U(1) lattice gauge theory using a modified version of the Wang-Landau algorithm. We find that the density of states of the SU(2) gauge theory can be reliably calculated over a range of 120,000 orders of magnitude for lattice sizes as big as 20^4. We demonstrate the potential of the algorithm by reproducing the SU(2) average action, its specific heat and the critical couplings of the weak first order transition in U(1).

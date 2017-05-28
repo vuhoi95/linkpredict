@@ -1,0 +1,4 @@
+Paper: 160202786
+Title: Finite-size scaling in a 2D disordered electron gas with spectral nodes
+Authors: Andreas Sinner and Klaus Ziegler
+Abstract: We study the DC conductivity of a weakly disordered 2D electron gas with two bands and spectral nodes, employing the field theoretical version of the Kubo--Greenwood conductivity formula. Disorder scattering is treated within the standard perturbation theory by summing up ladder and maximally crossed diagrams. The emergent gapless (diffusion) modes determine the behavior of the conductivity on large scales. We find a finite conductivity with an intermediate logarithmic finite-size scaling towards smaller conductivities but do not obtain the logarithmically divergence of the weak-localization approach. Our results agree with the experimentally observed logarithmic scaling of the conductivity in graphene with the formation of a plateau near $e^2/\pi h$.

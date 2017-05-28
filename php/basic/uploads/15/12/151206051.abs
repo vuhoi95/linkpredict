@@ -1,0 +1,4 @@
+Paper: 151206051
+Title: Thimble regularization at work besides toy models: from Random Matrix  Theory to Gauge Theories
+Authors: G. Eruzzi and F. Di Renzo
+Abstract: Thimble regularization as a solution to the sign problem has been successfully put at work for a few toy models. Given the non trivial nature of the method (also from the algorithmic point of view) it is compelling to provide evidence that it works for realistic models. A Chiral Random Matrix theory has been studied in detail. The known analytical solution shows that the model is non-trivial as for the sign problem (in particular, phase quenched results can be very far away from the exact solution). This study gave us the chance to address a couple of key issues: how many thimbles contribute to the solution of a realistic problem? Can one devise algorithms which are robust as for staying on the correct manifold? The obvious step forward consists of applications to gauge theories.

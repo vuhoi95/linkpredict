@@ -1,0 +1,4 @@
+Paper: 11064991
+Title: Baxter operators for arbitrary spin
+Authors: D. Chicherin and S. Derkachov and D. Karakhanyan and R. Kirschner
+Abstract: We construct Baxter operators for the homogeneous closed $\mathrm{XXX}$ spin chain with the quantum space carrying infinite or finite dimensional $s\ell_2$ representations. All algebraic relations of Baxter operators and transfer matrices are deduced uniformly from Yang-Baxter relations of the local building blocks of these operators. This results in a systematic and very transparent approach where the cases of finite and infinite dimensional representations are treated in analogy. Simple relations between the Baxter operators of both cases are obtained. We represent the quantum spaces by polynomials and build the operators from elementary differentiation and multiplication operators. We present compact explicit formulae for the action of Baxter operators on polynomials.

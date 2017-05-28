@@ -1,0 +1,4 @@
+Paper: 13033186
+Title: Time-periodic solutions in Einstein AdS - massless scalar field system
+Authors: Maciej Maliborski and Andrzej Rostworowski
+Abstract: We construct time-periodic solutions for a system of self-gravitating massless scalar field, with negative cosmological constant, in d+1 spacetime dimensions at spherical symmetry, both perturbatively and numerically. We estimate the convergence radius of the formally obtained perturbative series and argue that it is greater then zero. Moreover, this estimate coincides with the boundary of the convergence domain of our numerical method and the threshold for the black-hole formation. Then we confirm our results with a direct numerical evolution. This also gives strong evidence for nonlinear stability of the constructed time-periodic solutions.

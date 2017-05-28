@@ -1,0 +1,4 @@
+Paper: 9507023
+Title: Gauge fixing and coBRST
+Authors: Géza Fülöp and Robert Marnelius
+Abstract: It has previously been shown that a BRST quantization on an inner product space leads to physical states of the form |ph>=e^[Q, \psi] |\phi> where |\phi> is either a trivially BRST invariant state which only depends on the matter variables, |\phi>_1, or a solution of a Dirac quantization, |\phi>_2. \psi is a corresponding fermionic gauge fixing operator, \psi_1 or \psi_2. We show here for abelian and nonabelian models that one may also choose a linear combination of \psi_1 and \psi_2 for both choices of |\phi> except for a discrete set of relations between the coefficients. A general form of the coBRST charge operator is also determined and shown to be equal to such a \psi for an allowed linear combination of \psi_1 and \psi_2. This means that the coBRST charge is always a good gauge fixing fermion.

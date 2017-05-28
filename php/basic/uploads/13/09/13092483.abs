@@ -1,0 +1,4 @@
+Paper: 13092483
+Title: Studying and removing effects of fixed topology in a quantum mechanical  model
+Authors: Arthur Dromard and Marc Wagner
+Abstract: At small lattice spacing, or when using e.g. overlap fermions, lattice QCD simulations tend to become stuck in a single topological sector. Physical observables then differ from their full QCD counterparts by 1/V corrections, where V is the spacetime volume. Brower et al. and Aoki et al. have derived equations by means of a saddle point approximation, to determine and to remove these corrections. We extend these equations and apply them to a simple toy model, a quantum mechanical particle on a circle in a square well potential at fixed topology. This model can be solved numerically up to arbitrary precision and allows to explore effects arising due to fixed topology. We investigate the range of validity and accuracy of the above mentioned equations, to remove such fixed topology effects.

@@ -1,0 +1,4 @@
+Paper: 09091520
+Title: Scattering matrix for a general gl(2) spin chain
+Authors: S. Belliard and N. Crampe and E. Ragoucy
+Abstract: We study the general L_0-regular gl(2) spin chain, i.e. a chain where the sites {i,i+L_0,i+2L_0,...} carry the same arbitrary representation (spin) of gl(2). The basic example of such chain is obtained for L_0=2, where we recover the alternating spin chain. Firstly, we review different known results about their integrability and their spectrum. Secondly, we give an interpretation in terms of particles and conjecture the scattering matrix between them.

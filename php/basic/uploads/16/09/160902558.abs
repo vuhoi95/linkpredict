@@ -1,0 +1,4 @@
+Paper: 160902558
+Title: One-loop supergravity on $\mathrm{AdS}_4\times S^7/\mathbb{Z}_k$ and  comparison with ABJM theory
+Authors: James T. Liu and Wenli Zhao
+Abstract: The large-$N$ limit of ABJM theory is holographically dual to M-theory on AdS$_4\times S^7/\mathbb{Z}_k$. The 3-sphere partition function has been obtained via localization, and its leading behavior $F_{\text{ABJM}}^{(0)}\sim k^{1/2}N^{3/2}$ is exactly reproduced in the dual theory by tree-level supergravity. We extend this comparison to the sub-leading $\mathcal O(N^0)$ order by computing the one-loop supergravity free energy as a function of $k$ and comparing it with the ABJM result. Curiously, we find that the expressions do not match, with $F_{\text{SUGRA}}^{(1)}\sim k^6$, while $F_{\text{ABJM}}^{(1)}\sim k^2$. This suggests that the low-energy approximation $Z_{\text{M-theory}}=Z_{\text{SUGRA}}$ breaks down at one-loop order.

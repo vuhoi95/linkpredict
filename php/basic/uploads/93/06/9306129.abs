@@ -1,0 +1,4 @@
+Paper: 9306129
+Title: Factoring out free fields
+Authors: A. Deckmyn and K. Thielemans
+Abstract: For a generic $\Ww$ algebra, we give an algorithmic procedure for factoring out all fields of dimension $1/2$, both bosonic and fermionic, and some fields of dimension $1$. This generalizes and makes more explicit the Goddard-Schwimmer theorem for free fermions. We also show how the induced gravity theory for the original $\Ww$ algebra containing the free fields relates to the theory where the fields are factored out.

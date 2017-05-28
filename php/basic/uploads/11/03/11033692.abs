@@ -1,0 +1,4 @@
+Paper: 11033692
+Title: Extended WKB method, resonances and supersymmetric radial barriers
+Authors: Nicolas Fernandez-Garcia and Oscar Rosas-Ortiz
+Abstract: Semiclassical approximations are implemented in the calculation of position and width of low energy resonances for radial barriers. The numerical integrations are delimited by t/T<<8, with t the period of a classical particle in the barrier trap and T the resonance lifetime. These energies are used in the construction of `haired' short range potentials as the supersymmetric partners of a given radial barrier. The new potentials could be useful in the study of the transient phenomena which give rise to the Moshinsky's diffraction in time.

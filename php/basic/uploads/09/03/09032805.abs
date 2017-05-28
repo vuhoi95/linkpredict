@@ -1,0 +1,4 @@
+Paper: 09032805
+Title: Genetic Algorithms and Supernovae Type Ia Analysis
+Authors: C. Bogdanos and Savvas Nesseris
+Abstract: We introduce genetic algorithms as a means to analyze supernovae type Ia data and extract model-independent constraints on the evolution of the Dark Energy equation of state. Specifically, we will give a brief introduction to the genetic algorithms along with some simple examples to illustrate their advantages and finally we will apply them to the supernovae type Ia data. We find that genetic algorithms can lead to results in line with already established parametric and non-parametric reconstruction methods and could be used as a complementary way of treating SnIa data. As a non-parametric method, genetic algorithms provide a model-independent way to analyze data and can minimize bias due to premature choice of a dark energy model.

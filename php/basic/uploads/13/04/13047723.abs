@@ -1,0 +1,4 @@
+Paper: 13047723
+Title: Multi-matrix models at general coupling
+Authors: Veselin G. Filev and Denjoe O'Connor
+Abstract: The eigenvalue distribution of Hoppe's two matrix model is investigated in detail as a function of the model's coupling. For small couplings it is a perturbed Wigner semicircle, while for large couplings it is a parabolic distribution which crosses over to a Wigner semicircle for eigenvalues within approximatley an inverse coupling from the boundary of the distribution. The model is approximately commuting at large couplings and we find the joint eigenvalue distribution of the two matrices. We also study a related three matrix model finding the corresponding three dimensional eigenvalue distribution there also. The techniques developed here are more widely applicable to other multi-matrix models.

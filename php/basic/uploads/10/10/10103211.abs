@@ -1,0 +1,4 @@
+Paper: 10103211
+Title: A short proof of the Göttsche conjecture
+Authors: M. Kool and V. Shende and R. P. Thomas
+Abstract: We prove that for a sufficiently ample line bundle $L$ on a surface $S$, the number of $\delta$-nodal curves in a general $\delta$-dimensional linear system is given by a universal polynomial of degree $\delta$ in the four numbers $L^2,\,L.K_S,\,K_S^2$ and $c_2(S)$. The technique is a study of Hilbert schemes of points on curves on a surface, using the BPS calculus of [PT3] and the computation of tautological integrals on Hilbert schemes by Ellingsrud, G\"ottsche and Lehn. We are also able to weaken the ampleness required, from G\"ottsche's $(5\delta-1)$-very ample to $\delta$-very ample.

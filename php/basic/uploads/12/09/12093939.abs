@@ -1,0 +1,4 @@
+Paper: 12093939
+Title: Gravity and Complexity
+Authors: Yves Gaspar and Giovanni Acquaviva
+Abstract: We present a heuristic analysis of the dynamics of general solutions to the Einstein Field Equations which highlights the possibility that such systems could possess a degree of unpredictability stronger than that which characterises chaotic systems. Questions regarding features of the complex dynamics of such cosmological models can be undecidable. These systems could be qualitatively compared with Turing machines in the sense that even if initial conditions for a dynamical system associated to general solutions to the Einstein Field Equations were known exactly, then the subsequent evolution could still be unpredictable.

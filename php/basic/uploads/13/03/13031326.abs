@@ -1,0 +1,4 @@
+Paper: 13031326
+Title: Enumeration of RNA complexes via random matrix theory
+Authors: Jørgen E. Andersen and Leonid O. Chekhov and R. C. Penner and Christian M. Reidys and Piotr Sułkowski
+Abstract: We review a derivation of the numbers of RNA complexes of an arbitrary topology. These numbers are encoded in the free energy of the hermitian matrix model with potential V(x)=x^2/2-stx/(1-tx), where s and t are respective generating parameters for the number of RNA molecules and hydrogen bonds in a given complex. The free energies of this matrix model are computed using the so-called topological recursion, which is a powerful new formalism arising from random matrix theory. These numbers of RNA complexes also have profound meaning in mathematics: they provide the number of chord diagrams of fixed genus with specified numbers of backbones and chords as well as the number of cells in Riemann's moduli spaces for bordered surfaces of fixed topological type.

@@ -1,0 +1,4 @@
+Paper: 9901011
+Title: Perturbation calculation of the axial anomaly of Ginsparg-Wilson fermion
+Authors: Ting-Wai Chiu and Tung-Han Hsieh
+Abstract: We evaluate the axial anomaly for the general Ginsparg-Wilson fermion operator $D = D_c (\Id + R D_c)^{-1}$ with $R = r \Id$. For any chirally symmetric $D_c$ which in the free fermion limit, is free of species doubling and behaves like $i \gamma_\mu p_\mu$ as $p \to 0$, the axial anomaly $\tr[\gamma_5 (R D) (x,x)]$ for U(1) lattice gauge theory with single fermion flavor is equal to $e^2/(32 \pi^2) \epsilon_{\mu\nu\lambda\sigma} F_{\mu\nu}(x) F_{\lambda\sigma}(x+\hat\mu+\hat\nu)$ plus terms which are higher orders and/or non-perturbative contribtuons. The $F \tilde{F}$ term is r-invariant and has the correct continuum limit.

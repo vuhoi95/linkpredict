@@ -1,0 +1,4 @@
+Paper: 151000014
+Title: Hawking from Catalan
+Authors: A. Liam Fitzpatrick and Jared Kaplan and Matthew T. Walters and Junpu Wang
+Abstract: The Virasoro algebra determines all `graviton' matrix elements in AdS$_3$/CFT$_2$. We study the explicit exchange of any number of Virasoro gravitons between heavy and light CFT$_2$ operators at large central charge. These graviton exchanges can be written in terms of new on-shell tree diagrams, organized in a perturbative expansion in $h_H/c$, the heavy operator dimension divided by the central charge. The Virasoro vacuum conformal block, which is the sum of all the tree diagrams, obeys a differential recursion relation generalizing that of the Catalan numbers. We use this recursion relation to sum the on-shell diagrams to all orders, computing the Virasoro vacuum block. Extrapolating to large $h_H/c$ determines the Hawking temperature of a BTZ black hole in dual AdS$_3$ theories.

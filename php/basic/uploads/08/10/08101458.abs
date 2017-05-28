@@ -1,0 +1,4 @@
+Paper: 08101458
+Title: Characteristic polynomials in real Ginibre ensembles
+Authors: G. Akemann and M. J. Phillips and H. -J. Sommers
+Abstract: We calculate the average of two characteristic polynomials for the real Ginibre ensemble of asymmetric random matrices, and its chiral counterpart. Considered as quadratic forms they determine a skew-symmetric kernel from which all complex eigenvalue correlations can be derived. Our results are obtained in a very simple fashion without going to an eigenvalue representation, and are completely new in the chiral case. They hold for Gaussian ensembles which are partly symmetric, with kernels given in terms of Hermite and Laguerre polynomials respectively, depending on an asymmetry parameter. This allows us to interpolate between the maximally asymmetric real Ginibre and the Gaussian Orthogonal Ensemble, as well as their chiral counterparts.

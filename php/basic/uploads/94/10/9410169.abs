@@ -1,0 +1,4 @@
+Paper: 9410169
+Title: Representation-theoretic proof of the inner product and symmetry  identities for Macdonald's polynomials
+Authors: Pavel Etingof and Alexander Kirillov Jr
+Abstract: This paper is a continuation of our papers \cite{EK1, EK2}. In \cite{EK2} we showed that for the root system $A_{n-1}$ one can obtain Macdonald's polynomials as weighted traces of intertwining operators between certain finite-dimensional representations of $U_q(sl_n)$. The main goal of the present paper is to use this construction to give a representation-theoretic proof of Macdonald's inner product and symmetry identities for the root system $A_{n-1}$. The proofs are based on the techniques of ribbon graphs developed by Reshetikhin and Turaev. We also use the symmetry identities to derive recursive relations for Macdonald's polynomials.

@@ -1,0 +1,4 @@
+Paper: 13096529
+Title: Non-Gaussian effects and multifractality in the Bragg glass
+Authors: Andrei A. Fedorenko and Pierre Le Doussal and Kay Joerg Wiese
+Abstract: We study, beyond the Gaussian approximation, the decay of the translational order correlation function for a d-dimensional scalar periodic elastic system in a disordered environment. We develop a method based on functional determinants, equivalent to summing an infinite set of diagrams. We obtain, in dimension d=4-epsilon, the even n-th cumulant of relative displacements as <[u(r)-u(0)]^n>^c = A_n ln r, with A_n = -(\epsilon/3)^n \Gamma(n-1/2) \zeta(2n-3)/\pi^(1/2), as well as the multifractal dimension x_q of the exponential field e^{q u(r)}. As a corollary, we obtain an analytic expression for a class of n-loop integrals in d=4, which appear in the perturbative determination of Konishi amplitudes, also accessible via AdS/CFT using integrability.

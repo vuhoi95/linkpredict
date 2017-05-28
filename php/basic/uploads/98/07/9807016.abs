@@ -1,0 +1,4 @@
+Paper: 9807016
+Title: Action of a finite quantum group on the algebra of complex NxN matrices
+Authors: R. Coquereaux and G. E. Schieber
+Abstract: Using the fact that the algebra M := M_N(C) of NxN complex matrices can be considered as a reduced quantum plane, and that it is a module algebra for a finite dimensional Hopf algebra quotient H of U_q(sl(2)) when q is a root of unity, we reduce this algebra M of matrices (assuming N odd) into indecomposable modules for H. We also show how the same finite dimensional quantum group acts on the space of generalized differential forms defined as the reduced Wess Zumino complex associated with the algebra M.

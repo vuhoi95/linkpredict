@@ -1,0 +1,4 @@
+Paper: 07105762
+Title: Gluon self-interaction in the position space in Landau gauge
+Authors: Gorazd Cvetic and Igor Kondrashuk
+Abstract: We propose a method to treat the three-gluon self-interaction vertex in the position space in D = 4 - 2e dimensions. As an example, we calculate a two-loop contribution to auxiliary Lcc vertex in the Landau gauge which contains the three-gluon vertex for SU(N) Yang-Mills theory. We represent the integral expression as a sum of separate contributions so that each of the contributions is a double finite integral or single integral (singular or finite) in the position space. In each double finite integral we use the freedom to shift exponents in powers in the denominator of integrands by some multiples of e, in order to perform at least one of the integrations by the uniqueness technique without corrupting the first term of the decomposition in e.

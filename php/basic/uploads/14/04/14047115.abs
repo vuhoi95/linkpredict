@@ -1,0 +1,4 @@
+Paper: 14047115
+Title: Quantum Algorithms for Fermionic Quantum Field Theories
+Authors: Stephen P. Jordan and Keith S. M. Lee and John Preskill
+Abstract: Extending previous work on scalar field theories, we develop a quantum algorithm to compute relativistic scattering amplitudes in fermionic field theories, exemplified by the massive Gross-Neveu model, a theory in two spacetime dimensions with quartic interactions. The algorithm introduces new techniques to meet the additional challenges posed by the characteristics of fermionic fields, and its run time is polynomial in the desired precision and the energy. Thus, it constitutes further progress towards an efficient quantum algorithm for simulating the Standard Model of particle physics.

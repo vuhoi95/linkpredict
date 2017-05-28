@@ -1,0 +1,4 @@
+Paper: 13086350
+Title: Natural curvature for manifest T-duality
+Authors: Martin Polacek and Warren Siegel
+Abstract: We reformulate the manifestly T-dual description of the massless sector of the closed bosonic string, directly from the geometry associated with the (left and right) affine Lie algebra of the coset space Poincare/Lorentz. This construction initially doubles not only the (spacetime) coordinates for translations but also those for Lorentz transformations (and their dual). As a result, the Lorentz connection couples directly to the string (as does the vielbein), rather than being introduced ad hoc to the covariant derivative as previously. This not only reproduces the old definition of T-dual torsion, but automatically gives a general, covariant definition of T-dual curvature (but still with some undetermined connections).

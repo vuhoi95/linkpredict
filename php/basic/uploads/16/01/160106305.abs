@@ -1,0 +1,4 @@
+Paper: 160106305
+Title: Minimal Basis in Four Dimensions and Scalar Blocks
+Authors: Freddy Cachazo and Guojun Zhang
+Abstract: We find a construction that expresses any tree-level $n$-particle ${\rm N^{k-2}MHV}$ color-ordered partial amplitude in gauge theory as a linear combination of a basis of dimension $\eulerian{n-3}{k-2}$. Here $\eulerian{p}{q}$ denotes the $(p,q)$ Eulerian number. The coefficients of the expansion are independent of the helicities of the particles. This basis is a four-dimensional refinement of the $(n-3)!$-element BCJ basis which is valid in any number of dimensions. The construction uses a new kind of objects which we call {\it scalar blocks}. Here we initiate the study of these objects. Scalar blocks provide an "${\rm N^{k-2}MHV}$ sector" decomposition of a bi-adjoint scalar amplitude in four dimensions. As byproducts of the construction, we also find an intrinsically four-dimensional version of KLT relations for gravity amplitudes.

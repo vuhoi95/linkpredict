@@ -1,0 +1,4 @@
+Paper: 160508087
+Title: Extremal bootstrapping: go with the flow
+Authors: Sheer El-Showk and Miguel F. Paulos
+Abstract: The extremal functional method determines approximate solutions to the constraints of crossing symmetry, which saturate bounds on the space of unitary CFTs. We show that such solutions are characterized by extremality conditions, which may be used to flow continuously along the boundaries of parameter space. Along the flow there is generically no further need for optimization, which dramatically reduces computational requirements, bringing calculations from the realm of computing clusters to laptops. Conceptually, extremality sheds light on possible ways to bootstrap without positivity, extending the method to non-unitary theories, and implies that theories saturating bounds, and especially those sitting at kinks, have unusually sparse spectra. We discuss several applications, including the first high-precision bootstrap of a non-unitary CFT.

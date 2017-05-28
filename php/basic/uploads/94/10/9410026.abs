@@ -1,0 +1,4 @@
+Paper: 9410026
+Title: A New Supersymmetric and Exactly Solvable Model of Correlated Electrons
+Authors: Anthony J. Bracken and Mark D. Gould and Jon R. Links and Yao-Zhong Zhang
+Abstract: A new lattice model is presented for correlated electrons on the unrestricted $4^L$-dimensional electronic Hilbert space $\otimes_{n=1}^L{\bf C}^4$ (where $L$ is the lattice length). It is a supersymmetric generalization of the Hubbard model, but differs from the extended Hubbard model proposed by Essler, Korepin and Schoutens. The supersymmetry algebra of the new model is superalgebra $gl(2|1)$. The model contains one symmetry-preserving free real parameter which is the Hubbard interaction parameter $U$, and has its origin here in the one-parameter family of inequivalent typical 4-dimensional irreps of $gl(2|1)$. On a one-dimensional lattice, the model is exactly solvable by the Bethe ansatz.

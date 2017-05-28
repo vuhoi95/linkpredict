@@ -1,0 +1,4 @@
+Paper: 12084493
+Title: A note on "symmetric" vielbeins in bimetric, massive, perturbative and  non perturbative gravities
+Authors: Cedric Deffayet and Jihad Mourad and George Zahariade
+Abstract: We consider a manifold endowed with two different vielbeins $E^{A}{}_{\mu}$ and $L^{A}{}_{\mu}$ corresponding to two different metrics $g_{\mu\nu}$ and $f_{\mu\nu}$. Such a situation arises generically in bimetric or massive gravity (including the recently discussed version of de Rham, Gabadadze and Tolley), as well as in perturbative quantum gravity where one vielbein parametrizes the background space-time and the other the dynamical degrees of freedom. We determine the conditions under which the relation $g^{\mu\nu} E^{A}{}_{\mu} L^{B}{}_{\nu} = g^{\mu\nu} E^{B}{}_{\mu} L^{A}{}_{\nu}$ can be imposed (or the "Deser-van Nieuwenhuizen" gauge chosen). We clarify and correct various statements which have been made about this issue.

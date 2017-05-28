@@ -1,0 +1,4 @@
+Paper: 10024888
+Title: The Width of the Confining String in Yang-Mills Theory
+Authors: F. Gliozzi and M. Pepe and U. -J. Wiese
+Abstract: We investigate the transverse fluctuations of the confining string connecting two static quarks in (2+1)-d SU(2) Yang-Mills theory using Monte Carlo calculations. The exponentially suppressed signal is extracted from the large noise by a very efficient multi-level algorithm. The resulting width of the string increases logarithmically with the distance between the static quark charges. Corrections at intermediate distances due to universal higher order terms in the effective string action are calculated analytically. They accurately fit the numerical data.

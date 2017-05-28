@@ -1,0 +1,4 @@
+Paper: 150706310
+Title: Two-loop Integral Reduction from Elliptic and Hyperelliptic Curves
+Authors: Alessandro Georgoudis and Yang Zhang
+Abstract: We show that for a class of two-loop diagrams, the on-shell part of the integration-by-parts (IBP) relations correspond to exact meromorphic one-forms on algebraic curves. Since it is easy to find such exact meromorphic one-forms from algebraic geometry, this idea provides a new highly efficient algorithm for integral reduction. We demonstrate the power of this method via several complicated two-loop diagrams with internal massive legs. No explicit elliptic or hyperelliptic integral computation is needed for our method.

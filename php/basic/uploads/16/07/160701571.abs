@@ -1,0 +1,4 @@
+Paper: 160701571
+Title: The kite integral to all orders in terms of elliptic polylogarithms
+Authors: Luise Adams and Christian Bogner and Armin Schweitzer and Stefan Weinzierl
+Abstract: We show that the Laurent series of the two-loop kite integral in $D=4-2\varepsilon$ space-time dimensions can be expressed in each order of the series expansion in terms of elliptic generalisations of (multiple) polylogarithms. Using differential equations we present an iterative method to compute any desired order. As an example, we give the first three orders explicitly.

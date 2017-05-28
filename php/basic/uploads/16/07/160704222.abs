@@ -1,0 +1,4 @@
+Paper: 160704222
+Title: Comments On The Two-Dimensional Landau-Ginzburg Approach To Link  Homology
+Authors: Dmitry Galakhov and Gregory W. Moore
+Abstract: We describe rules for computing a homology theory of knots and links in $\mathbb{R}^3$. It is derived from the theory of framed BPS states bound to domain walls separating two-dimensional Landau-Ginzburg models with (2,2) supersymmetry. We illustrate the rules with some sample computations, obtaining results consistent with Khovanov homology. We show that of the two Landau-Ginzburg models discussed in this context by Gaiotto and Witten one, (the so-called Yang-Yang-Landau-Ginzburg model) does not lead to topological invariants of links while the other, based on a model with target space equal to the universal cover of the moduli space of $SU(2)$ magnetic monopoles, will indeed produce a topologically invariant theory of knots and links.

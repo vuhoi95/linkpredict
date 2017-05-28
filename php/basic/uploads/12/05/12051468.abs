@@ -1,0 +1,4 @@
+Paper: 12051468
+Title: Factorization of the Effective Action in the IIB Matrix Model
+Authors: Yuhma Asano and Hikaru Kawai and Asato Tsuchiya
+Abstract: We study the low-energy effective action of the IIB matrix model in the derivative interpretation, where the diffeomorphism invariance is manifest and arbitrary manifolds are described by matrices. We show that it is expressed as a sum of terms, each of which is factorized into a product of diffeomorphism invariant action functionals: $S=\sum_{i}c_is_i+\sum_{i,j}c_{ij}s_is_j+\sum_{i,j,k}c_{ijk}s_is_js_k+\...$. Each action functional $s_i$ is an ordinary local action of the form $s_i=\int d^Dx\sqrt{-g} O_i(x)$, where $O_i(x)$ is a scalar operator. This is also true for the background consisting of block diagonal matrices. In this case, the effective action can be interpreted as describing a multiverse where the universes described by the blocks are connected by wormholes.

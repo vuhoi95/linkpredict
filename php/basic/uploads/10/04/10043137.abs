@@ -1,0 +1,4 @@
+Paper: 10043137
+Title: Conjugate variables in quantum field theory: the basic case
+Authors: Klaus Sibold and Gautier Solard
+Abstract: Within standard quantum field theory of one scalar field we define operators conjugate to the energy-momentum operators of the theory. They are singled out by calculational simplicity in Fock space. In terms of the underlying scalar field they are non-local. We establish their algebra where it turns out that time and space operators do not commute. Their transformation properties with respect to the conformal group are derived. Solving their eigenvalue problem permits to reconstruct the Fock space in terms of the eigenstates. It is indicated how Paulis theorem may be circumvented. As an application we form the analogue of S-matrices which yields information on the structure of the underlying spacetime. Similarly we define fields and look at their equations of motion.

@@ -1,0 +1,4 @@
+Paper: 14123460
+Title: Hamiltonian Truncation Study of the Phi^4 Theory in Two Dimensions
+Authors: Slava Rychkov and Lorenzo G. Vitale
+Abstract: We defend the Fock-space Hamiltonian truncation method, which allows to calculate numerically the spectrum of strongly coupled quantum field theories, by putting them in a finite volume and imposing a UV cutoff. The accuracy of the method is improved via an analytic renormalization procedure inspired by the usual effective field theory. As an application, we study the two-dimensional Phi^4 theory for a wide range of couplings. The theory exhibits a quantum phase transition between the symmetry-preserving and symmetry-breaking phases. We extract quantitative predictions for the spectrum and the critical coupling and make contact with previous results from the literature. Future directions to further improve the accuracy of the method and enlarge its scope of applications are outlined.

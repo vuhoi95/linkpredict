@@ -1,0 +1,4 @@
+Paper: 151001079
+Title: From dimensional regularization to NLO computations in four dimensions
+Authors: German F. R. Sborlini and Roger Hernandez-Pinto and German Rodrigo
+Abstract: Loop-tree duality (LTD) allows to express virtual contributions in terms of phase-space integrals, thus leading to a direct mapping with real radiation terms. We review the basis of the method and describe its application to regularize Feynman integrals. Performing an integrand-level combination of real and virtual terms, we show how to recover physical results by simply taking the four-dimensional limit of $d$-dimensional expressions. Moreover, this method provides a natural physical interpretation of infrared singularities, their origin and the way that they cancel in the complete computation.

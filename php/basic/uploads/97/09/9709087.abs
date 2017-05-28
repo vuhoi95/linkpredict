@@ -1,0 +1,4 @@
+Paper: 9709087
+Title: Spectrum of the gauge Ising model in three dimensions
+Authors: M. Caselle and M. Hasenbusch and P. Provero
+Abstract: We present a high precision Monte Carlo study of the spectrum of the Ising gauge theory in three dimensions in the confining phase. Using state of the art Monte Carlo techniques we are able to accurately determine up to three masses in a single channel. We compare our results with the SU(2) spectrum and with the prediction of the Isgur-Paton model. Our data strongly support the conjecture that the glueball spectrum is described by some type of flux tube model. We also compare the spectrum with some recent results for the correlation length in the 3d spin Ising model. This analysis sheds light on some nontrivial features of the duality transformation.

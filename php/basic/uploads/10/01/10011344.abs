@@ -1,0 +1,4 @@
+Paper: 10011344
+Title: Cohomological Reduction of Sigma Models
+Authors: Constantin Candu and Thomas Creutzig and Vladimir Mitev and Volker Schomerus
+Abstract: This article studies some features of quantum field theories with internal supersymmetry, focusing mainly on 2-dimensional non-linear sigma models which take values in a coset superspace. It is discussed how BRST operators from the target space supersymmetry algebra can be used to identify subsectors which are often simpler than the original model and may allow for an explicit computation of correlation functions. After an extensive discussion of the general reduction scheme, we present a number of interesting examples, including symmetric superspaces $G/G^{\mathbb{Z}_2}$ and coset superspaces of the form $G/G^{\mathbb{Z}_4}$.

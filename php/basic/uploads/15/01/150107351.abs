@@ -1,0 +1,4 @@
+Paper: 150107351
+Title: Quantum Baxter-Belavin R-matrices and multidimensional Lax pairs for  Painleve VI
+Authors: A. Levin and M. Olshanetsky and A. Zotov
+Abstract: The quantum elliptic $R$-matrices of Baxter-Belavin type satisfy the associative Yang-Baxter equation in ${\rm Mat}(N,\mathbb C)^{\otimes 3}$. The latter can be considered as noncommutative analogue of the Fay identity for the scalar Kronecker function. In this paper we extend the list of $R$-matrix valued analogues of elliptic function identities. In particular, we propose counterparts of the Fay identities in ${\rm Mat}(N,\mathbb C)^{\otimes 2}$. As an application we construct $R$-matrix valued $2N^2\times 2N^2$ Lax pairs for the Painlev\'e VI equation (in elliptic form) with four free constants using ${\mathbb Z}_N\times {\mathbb Z}_N$ elliptic $R$-matrix. More precisely, the four free constants case appears for an odd $N$ while even $N$'s correspond to a single constant.

@@ -1,0 +1,4 @@
+Paper: 13116491
+Title: UV completion without symmetry restoration
+Authors: Solomon Endlich and Alberto Nicolis and Riccardo Penco
+Abstract: We show that it is not possible to UV-complete certain low-energy effective theories with spontaneously broken space-time symmetries by embedding them into linear sigma models, that is, by adding "radial" modes and restoring the broken symmetries. When such a UV completion is not possible, one can still raise the cutoff up to arbitrarily higher energies by adding fields that transform non-linearly under the broken symmetries, that is, new Goldstone bosons. However, this (partial) UV completion does not necessarily restore any of the broken symmetries. We illustrate this point by considering a concrete example in which a combination of space-time and internal symmetries is broken down to a diagonal subgroup. Along the way, we clarify a recently proposed interpretation of inverse Higgs constraints as gauge-fixing conditions.

@@ -1,0 +1,4 @@
+Paper: 10051116
+Title: The volume of stationary black holes and the meaning of the surface  gravity
+Authors: William Ballik and Kayll Lake
+Abstract: The invariant four-volume $\mathcal{V}$ of a complete black hole (the volume of the spacetime at and interior to the horizon) diverges. However, if one considers the black hole set up by the gravitational collapse of an object, and integrates only a finite time to the future of the collapse, the resultant volume is well defined and finite. In this paper we examine non-degenerate stationary black holes (and cosmological horizons) and find that $\mathcal{V}_{s} \varpropto \ln(\lambda)$ where $s$ is any shell that terminates on the horizon, $\lambda$ is the affine generator of the horizon and the constant of proportionality is the Parikh volume of $s$ divided by the surface gravity. This provides an alternative local and invariant definition of the surface gravity of a stationary black hole.

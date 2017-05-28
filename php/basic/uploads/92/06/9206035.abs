@@ -1,0 +1,4 @@
+Paper: 9206035
+Title: Renormalization Group Approach to Matrix Models
+Authors: Edouard Brézin and Jean Zinn-Justin
+Abstract: Matrix models of 2D quantum gravity are either exactly solvable for matter of central charge $ c\leq 1, $ or not understood. It would be useful to devise an approximate scheme which would be reasonable for the known cases and could be carried to the unsolved cases in order to achieve at least a qualitative understanding of the properties of the models. The double scaling limit is an indication that a change of the length scale induces a flow in the parameters of the theory, the size of the matrix and the coupling constants for matrix models, at constant long distances physics. We construct here these renormalization group equations at lowest orders in various cases to check that we reproduce qualitatively the properties of $ c\leq 1 $ models.

@@ -1,0 +1,4 @@
+Paper: 10012003
+Title: Chern-Simons Theory in the Temporal Gauge and Knot Invariants through  the Universal Quantum R-Matrix
+Authors: Alexei Morozov and Andrey Smirnov
+Abstract: In temporal gauge A_{0}=0 the 3d Chern-Simons theory acquires quadratic action and an ultralocal propagator. This directly implies a 2d R-matrix representation for the correlators of Wilson lines (knot invariants), where only the crossing points of the contours projection on the xy plane contribute. Though the theory is quadratic, P-exponents remain non-trivial operators and R-factors are easier to guess then derive. We show that the topological invariants arise if additional flag structure (xy plane and an y line in it) is introduced, R is the universal quantum R-matrix and turning points contribute the "enhancement" factors q^{\rho}.

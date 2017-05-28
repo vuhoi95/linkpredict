@@ -1,0 +1,4 @@
+Paper: 11102690
+Title: Random Matrix Models for Dirac Operators at finite Lattice Spacing
+Authors: Mario Kieburg and Jacobus J. M. Verbaarschot and Savvas Zafeiropoulos
+Abstract: We study discretization effects of the Wilson and staggered Dirac operator with $N_{\rm c}>2$ using chiral random matrix theory (chRMT). We obtain analytical results for the joint probability density of Wilson-chRMT in terms of a determinantal expression over complex pairs of eigenvalues, and real eigenvalues corresponding to eigenvectors of positive or negative chirality as well as for the eigenvalue densities. The explicit dependence on the lattice spacing can be readily read off from our results which are compared to numerical simulations of Wilson-chRMT. For the staggered Dirac operator we have studied random matrices modeling the transition from non-degenerate eigenvalues at non-zero lattice spacing to degenerate ones in the continuum limit.

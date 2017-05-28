@@ -1,0 +1,4 @@
+Paper: 160405630
+Title: Large-N CP(N-1) sigma model on a finite interval: physical boundary  effects
+Authors: Stefano Bolognesi and Kenichi Konishi and Keisuke Ohashi
+Abstract: We analyze the two-dimensional CP(N-1) sigma model defined on a finite space interval L, with various boundary conditions, in the large N limit. With the Dirichlet boundary condition at the both ends, we show that the system has a unique phase, which smoothly approaches in the large L limit the standard 2D CP(N-1) sigma model in confinement phase, with a constant mass generated for the n(i) fields. We study the full functional saddle-point equations for finite L, and solve them numerically. The latter reduces to the well-known gap equation in the large L limit. It is found that the solution satisfies actually both the Dirichlet and Neumann conditions.

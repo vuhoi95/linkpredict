@@ -1,0 +1,4 @@
+Paper: 14055088
+Title: Quadratic integer programming and the slope conjecture
+Authors: Stavros Garoufalidis and Roland van der Veen
+Abstract: The Slope Conjecture relates a quantum knot invariant, (the degree of the colored Jones polynomial of a knot) with a classical one (boundary slopes of incompressible surfaces in the knot complement). The degree of the colored Jones polynomial can be computed by a suitable (almost tight) state sum and the solution of a corresponding quadratic integer programming problem. We illustrate this principle for a 2-parameter family of 2-fusion knots. Combined with the results of Dunfield and the first author, this confirms the Slope Conjecture for the 2-fusion knots.

@@ -1,0 +1,4 @@
+Paper: 9304024
+Title: Variance Calculations and the Bessel Kernel
+Authors: Estelle L. Basor and Craig A. Tracy
+Abstract: In the Laguerre ensemble of N x N (positive) hermitian matrices, it is of interest both theoretically and for applications to quantum transport problems to compute the variance of a linear statistic, denoted var_N f, as N->infinity. Furthermore, this statistic often contains an additional parameter alpha for which the limit alpha->infinity is most interesting and most difficult to compute numerically. We derive exact expressions for both lim_{N->infinity} var_N f and lim_{alpha->infinity}lim_{N->infinity} var_N f.

@@ -1,0 +1,4 @@
+Paper: 14080207
+Title: Spectral Networks with Spin
+Authors: Dmitry Galakhov and Pietro Longhi and Gregory W. Moore
+Abstract: The BPS spectrum of d=4 N=2 field theories in general contains not only hyper- and vector-multipelts but also short multiplets of particles with arbitrarily high spin. This paper extends the method of spectral networks to give an algorithm for computing the spin content of the BPS spectrum of d=4 N=2 field theories of class S. The key new ingredient is an identification of the spin of states with the writhe of paths on the Seiberg-Witten curve. Connections to quiver representation theory and to Chern-Simons theory are briefly discussed.

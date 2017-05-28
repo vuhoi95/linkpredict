@@ -1,0 +1,4 @@
+Paper: 150105974
+Title: Poincare' Symmetry of the GZ-Model
+Authors: Martin Schaden and Daniel Zwanziger
+Abstract: Due to internal symmetries of its ghost sector, the Poincare' generators of the GZ-model are not unique. The model apparently has two linearly independent symmetric and conserved energy momentum tensors. We show that these energy-momentum tensors are physically equivalent and differ by unobservable conserved currents only. There is a single physical energy-momentum operator that is invariant under all symmetries of the ghost sector, including BRST. This resolves concerns about Poincare' invariance raised by the explicit $x$-dependence of the BRST operator. The energy, momentum and angular momentum of physical states are well-defined quantities that vanish for the ground state of this theory. We obtain and discuss the physical Ward identities resulting from Poincare' invariance.

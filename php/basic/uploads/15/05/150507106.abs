@@ -1,0 +1,4 @@
+Paper: 150507106
+Title: Area Law for Gapless States from Local Entanglement Thermodynamics
+Authors: Brian Swingle and John McGreevy
+Abstract: We demonstrate an area law bound on the ground state entanglement entropy of a wide class of gapless quantum states of matter using a strategy called local entanglement thermodynamics. The bound depends only on thermodynamic data, actually a single exponent, the hyper-scaling violation exponent $\theta$. All systems in $d$ spatial dimensions obeying our scaling assumptions and with $\theta < d-1$ obey the area law, while systems with $\theta = d-1$ can violate the area law at most logarithmically. We also discuss the case of frustration-free Hamiltonians and show that to violate the area law more than logarithmically these systems must have an unusually large number of low energy states. Finally, we make contact with the recently proposed $s$-source framework and argue that $\theta$ and $s$ are related by $s=2^\theta$.

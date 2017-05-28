@@ -1,0 +1,4 @@
+Paper: 10045196
+Title: Bubble divergences from cellular cohomology
+Authors: Valentin Bonzom and Matteo Smerlak
+Abstract: We consider a class of lattice topological field theories, among which are the weak-coupling limit of 2d Yang-Mills theory, the Ponzano-Regge model of 3d quantum gravity and discrete BF theory, whose dynamical variables are flat discrete connections with compact structure group on a cell 2-complex. In these models, it is known that the path integral measure is ill-defined in general, because of a phenomenon called `bubble divergences'. A common expectation is that the degree of these divergences is given by the number of `bubbles' of the 2-complex. In this note, we show that this expectation, although not realistic in general, is met in some special cases: when the 2-complex is simply connected, or when the structure group is Abelian -- in both cases, the divergence degree is given by the second Betti number of the 2-complex.

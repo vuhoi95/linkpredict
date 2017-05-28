@@ -1,0 +1,4 @@
+Paper: 160302606
+Title: Information Gain on Reheating: the One Bit Milestone
+Authors: Jerome Martin and Christophe Ringeval and Vincent Vennin
+Abstract: We show that the Planck 2015 and BICEP2/KECK measurements of the Cosmic Microwave Background (CMB) anisotropies provide together an information gain of 0.82 +- 0.13 bits on the reheating history over all slow-roll single-field models of inflation. This corresponds to a 40% improvement compared to the Planck 2013 constraints on the reheating. Our method relies on an exhaustive CMB data analysis performed over nearly 200 models of inflation to derive the Kullback-Leibler entropy between the prior and the fully marginalized posterior of the reheating parameter. This number is a weighted average by the Bayesian evidence of each model to explain the data thereby ensuring its fairness and robustness.

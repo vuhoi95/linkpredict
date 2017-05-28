@@ -1,0 +1,4 @@
+Paper: 9209003
+Title: Chern-Simons Currents and Chiral Fermions on the Lattice
+Authors: Maarten Golterman and Karl Jansen and David Kaplan
+Abstract: We compute the Chern-Simons current induced by Wilson fermions on a $d=2n+1$ dimensional lattice, making use of a topological interpretation of the momentum space fermion propagator as a map from the torus to the sphere, $T^{d}\to S^{d}$. These mappings are shown to fall in different homotopy classes depending on the value of $m/r$, where $m$ is the fermion mass and $r$ is the Wilson coupling. As a result, the induced Chern-Simons term changes discontinuously at $d+1$ different values for $m$, unlike in the continuum. This behavior is exactly what is required by the peculiar spectrum found for a recently proposed model of chiral lattice fermions as zeromodes bound to a domain wall.

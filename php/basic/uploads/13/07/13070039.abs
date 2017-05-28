@@ -1,0 +1,4 @@
+Paper: 13070039
+Title: Gauge theory of Kaluza-Klein and winding modes
+Authors: Olaf Hohm and Henning Samtleben
+Abstract: We perform a Kaluza-Klein inspired rewriting of double field theory by splitting the coordinates into `compact' and `non-compact' directions. There is no truncation of the compact coordinates or their duals, and so this formulation is manifestly O(d,d) invariant, with d the number of compact directions. The action can serve as starting point for arbitrary Kaluza-Klein ansaetze. For a torus background the theory describes the full tower of Kaluza-Klein modes or, in the dual frame, of the winding modes. The Kaluza-Klein vector is a gauge field for the duality-covariantized Courant bracket algebra rather than a Lie algebra. Gauge covariance requires the inclusion of the 2-form gauge potential descending from the Kalb-Ramond field, leading to a structure resembling the tensor hierarchy of gauged supergravity.

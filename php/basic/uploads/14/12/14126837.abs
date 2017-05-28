@@ -1,0 +1,4 @@
+Paper: 14126837
+Title: Scaling and Renormalization in two dimensional Quantum Gravity
+Authors: Alessandro Codello and Giulio D'Odorico
+Abstract: We study scaling and renormalization in two dimensional quantum gravity in a covariant framework. After reviewing the definition of a proper path integral measure, we use scaling arguments to rederive the KPZ relations, the fractal dimension of the theory and the scaling of the reparametrization-invariant two point function. Then we compute the scaling exponents entering in this relations by means of the functional RG. We show that a key ingredient to obtain the correct results already known from Liouville theory is the use of the exponential parametrization for metric fluctuations. We also show that with this parametrization we can recover the correct finite part of the effective action as the $\epsilon \to 0$ continuation of gravity in $d=2+\epsilon$ dimensions.

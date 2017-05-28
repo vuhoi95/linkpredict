@@ -1,0 +1,4 @@
+Paper: 14042299
+Title: Large time behavior in an exactly soluble out of equilibrium model
+Authors: Ashok K. Das and J. Frenkel
+Abstract: We study the behavior of out of equilibrium retarded, advanced and correlated Green's functions within the context of an exactly soluble (quenched) model. We show, to the lowest order, that even though the pinch singularities cancel, there is a residual linear dependence on the time interval (after the quench) in the correlated Green's function which may invalidate perturbation theory. We sum the perturbation series to all orders in this simple model and show explicitly that the complete Green's functions are well behaved even for large time intervals. The exact form of the correlated Green's function allows us to extract a manifestly positive distribution function, for large times after the quench, which has a memory of the frequency of the initial system before the quench.

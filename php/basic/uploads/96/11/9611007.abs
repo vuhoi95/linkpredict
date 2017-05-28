@@ -1,0 +1,4 @@
+Paper: 9611007
+Title: Transport and conservation laws
+Authors: X. Zotos and F. Naef and P. Prelovsek
+Abstract: We study the lowest order conservation laws in one-dimensional (1D) integrable quantum many-body models (IQM) as the Heisenberg spin 1/2 chain, the Hubbard and t-J model. We show that the energy current is closely related to the first conservation law in these models and therefore the thermal transport coefficients are anomalous. Using an inequality on the time decay of current correlations we show how the existence of conserved quantities implies a finite charge stiffness (weight of the zero frequency component of the conductivity) and so ideal conductivity at finite temperatures.

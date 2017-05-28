@@ -1,0 +1,4 @@
+Paper: 10024037
+Title: De Sitter Breaking through Infrared Divergences
+Authors: S. P. Miao and N. C. Tsamis and R. P. Woodard
+Abstract: Just because the propagator of some field obeys a de Sitter invariant equation does not mean it possesses a de Sitter invariant solution. The classic example is the propagator of a massless, minimally coupled scalar. We show that the same thing happens for massive scalars with $M_S^2 < 0$, and for massive transverse vectors with $M_V^2 \leq -2 (D-1) H^2$, where $D$ is the dimension of spacetime and $H$ is the Hubble parameter. Although all masses in these ranges give infrared divergent mode sums, using dimensional regularization (or any other analytic continuation technique) to define the mode sums leads to the incorrect conclusion that de Sitter invariant solutions exist except at discrete values of the masses.

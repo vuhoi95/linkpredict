@@ -1,0 +1,4 @@
+Paper: 11122906
+Title: Excited state g-functions from the Truncated Conformal Space
+Authors: Gabor Takacs and Gerard Watts
+Abstract: In this paper we consider excited state g-functions, that is, overlaps between boundary states and excited states in boundary conformal field theory. We find a new method to calculate these overlaps numerically using a variation of the truncated conformal space approach. We apply this method to the Lee-Yang model for which the unique boundary perturbation is integrable and for which the TBA system describing the boundary overlaps is known. Using the truncated conformal space approach we obtain numerical results for the ground state and the first three excited states which are in excellent agreement with the TBA results. As a special case we can calculate the standard g-function which is the overlap with the ground state and find that our new method is considerably more accurate than the original method employed by Dorey et al.

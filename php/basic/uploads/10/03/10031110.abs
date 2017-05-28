@@ -1,0 +1,4 @@
+Paper: 10031110
+Title: Entanglement entropy of two disjoint blocks in XY chains
+Authors: Maurizio Fagotti and Pasquale Calabrese
+Abstract: We study the Renyi entanglement entropies of two disjoint intervals in XY chains. We exploit the exact solution of the model in terms of free Majorana fermions and we show how to construct the reduced density matrix in the spin variables by taking properly into account the Jordan-Wigner string between the two blocks. From this we can evaluate any Renyi entropy of finite integer order. We study in details critical XX and Ising chains and we show that the asymptotic results for large blocks agree with recent conformal field theory predictions if corrections to the scaling are included in the analysis correctly. We also report results in the gapped phase and after a quantum quench.

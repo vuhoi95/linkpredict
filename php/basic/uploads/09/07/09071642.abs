@@ -1,0 +1,4 @@
+Paper: 09071642
+Title: Non-markovian global persistence in phase-ordering kinetics
+Authors: Malte Henkel and Michel Pleimling
+Abstract: The persistence probability P_g(t) of the global order-parameter of a simple ferromagnet undergoing phase-ordering kinetics after a quench from a fully disordered state to below the critical temperature, T<T_c, is analysed. It is argued that the persistence probability decays algebraically with time in the entire low-temperature phase. For Markov processes, the associated global persistence exponent theta_g = (2 lambda_C -d)/(2z) is related to the autocorrelation exponent lambda_C. This relationship is confirmed for phase-ordering in the exactly solved 1D Ising model and the d-dimensional spherical model. For the 2D Glauber-Ising model, theta_g=0.063(2) is found which indicates that the dynamics of the global order-parameter is described by a non-markovian process.

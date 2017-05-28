@@ -1,0 +1,4 @@
+Paper: 150405989
+Title: Statistics of two-dimensional random walks, the "cyclic sieving  phenomenon" and the Hofstadter model
+Authors: Stefan Mashkevich and Stéphane Ouvry and Alexios Polychronakos
+Abstract: We focus on the algebraic area probability distribution of planar random walks on a square lattice with $m_1$, $m_2$, $l_1$ and $l_2$ steps right, left, up and down. We aim, in particular, at the algebraic area generating function $Z_{m_1,m_2,l_1,l_2}(Q)$ evaluated at $Q=e^{2\i\pi\over q}$, a root of unity, when both $m_1-m_2$ and $l_1-l_2$ are multiples of $q$. In the simple case of staircase walks, a geometrical interpretation of $Z_{m,0,l,0}(e^\frac{2i\pi}{q})$ in terms of the cyclic sieving phenomenon is illustrated. Then, an expression for $Z_{m_1,m_2,l_1,l_2}(-1)$, which is relevant to the Stembridge's case, is proposed. Finally, the related problem of evaluating the n-th moments of the Hofstadter Hamiltonian in the commensurate case is addressed.

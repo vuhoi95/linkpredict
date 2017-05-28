@@ -1,0 +1,4 @@
+Paper: 9912272
+Title: Exact Dynamics of the SU(K) Haldane-Shastry Model
+Authors: Takashi Yamamoto and Yasuhiro Saiga and Mitsuhiro Arikawa and Yoshio Kuramoto
+Abstract: The dynamical structure factor $S(q,\omega)$ of the SU(K) (K=2,3,4) Haldane-Shastry model is derived exactly at zero temperature for arbitrary size of the system. The result is interpreted in terms of free quasi-particles which are generalization of spinons in the SU(2) case; the excited states relevant to $S(q,\omega)$ consist of K quasi-particles each of which is characterized by a set of K-1 quantum numbers. Near the boundaries of the region where $S(q,\omega)$ is nonzero, $S(q,\omega)$ shows the power-law singularity. It is found that the divergent singularity occurs only in the lowest edges starting from $(q,\omega) = (0,0)$ toward positive and negative q. The analytic result is checked numerically for finite systems via exact diagonalization and recursion methods.

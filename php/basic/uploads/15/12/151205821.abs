@@ -1,0 +1,4 @@
+Paper: 151205821
+Title: Phase portraits of the generalized full symmetric Toda systems on rank 2  groups
+Authors: Yu. B. Chernyakov and G. I Sharygin and A. S. Sorin
+Abstract: In this paper we continue investigations that we began in our previous works, where we proved, that the phase diagram of Toda system on special linear groups can be identified with the Bruhat order on symmetric group, when all the eigenvalues of Lax matrix are distinct, or with the Bruhat order on permutations of a multiset, if there are multiple eigenvalues. We show, that the coincidence of the phase portrait of Toda system and the Hasse diagram of Bruhat order holds in the case of arbitrary simple Lie groups of rank $2$: to this end we need only to check this property for the two remaining groups of second rank, $Sp(4,\mathbb R)$ and the real form of $G_2$.

@@ -1,0 +1,4 @@
+Paper: 150702968
+Title: The geometry of the light-cone cell decomposition of moduli space
+Authors: David Garner and Sanjaye Ramgoolam
+Abstract: The moduli space of Riemann surfaces with at least two punctures can be decomposed into a cell complex by using a particular family of ribbon graphs called Nakamura graphs. We distinguish the moduli space with all punctures labelled from that with a single labelled puncture. In both cases, we describe a cell decomposition where the cells are parametrised by graphs or equivalence classes of finite sequences (tuples) of permutations. Each cell is a convex polytope defined by a system of linear equations and inequalities relating light-cone string parameters, quotiented by the automorphism group of the graph. We give explicit examples of the cell decomposition at low genus with few punctures.

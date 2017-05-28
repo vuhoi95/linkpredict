@@ -1,0 +1,4 @@
+Paper: 150904483
+Title: An Algebraic Approach to the Scattering Equations
+Authors: Rijun Huang and Junjie Rao and Bo Feng and Yang-Hui He
+Abstract: We employ the so-called companion matrix method from computational algebraic geometry, tailored for zero-dimensional ideals, to study the scattering equations. The method renders the CHY-integrand of scattering amplitudes computable using simple linear algebra and is amenable to an algorithmic approach. Certain identities in the amplitudes as well as rationality of the final integrand become immediate in this formalism.

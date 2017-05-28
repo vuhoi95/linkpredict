@@ -1,0 +1,4 @@
+Paper: 14031786
+Title: Examples of Enhanced Quantization: Bosons, Fermions, and Anyons
+Authors: T. C. Adorno and J. R Klauder
+Abstract: Enhanced quantization offers a different classical/quantum connection than that of canonical quantization in which $\hbar >0$ throughout. This result arises when the only allowed Hilbert space vectors allowed in the quantum action functional are coherent states, which leads to the classical action functional augmented by additional terms of order $\hbar$. Canonical coherent states are defined by unitary transformations of a fixed, fiducial vector. While Gaussian vectors are commonly used as fiducial vectors, they cannot be used for all systems. We focus on choosing fiducial vectors for several systems including bosons, fermions, and anyons.

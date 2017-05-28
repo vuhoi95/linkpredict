@@ -1,0 +1,4 @@
+Paper: 12054504
+Title: Generalized Complex Spherical Harmonics, Frame Functions, and Gleason  Theorem
+Authors: Valter Moretti and Davide Pastorello
+Abstract: Consider a finite dimensional complex Hilbert space $\cH$, with $dim(\cH) \geq 3$, define $\bS(\cH):= \{x\in \cH \:|\: ||x||=1\}$, and let $\nu_\cH$ be the unique regular Borel positive measure invariant under the action of the unitary operators in $\cH$, with $\nu_\cH(\bS(\cH))=1$. We prove that if a complex frame function $f : \bS(\cH)\to \bC$ satisfies $f \in \cL^2(\bS(\cH), \nu_\cH)$, then it verifies Gleason's statement: There is a unique linear operator $A: \cH \to \cH$ such that $f(u) = < u| A u>$ for every $u \in \bS(\cH)$. $A$ is Hermitean when $f$ is real. No boundedness requirement is thus assumed on $f$ {\em a priori}.

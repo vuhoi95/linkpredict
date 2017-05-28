@@ -1,0 +1,4 @@
+Paper: 9404030
+Title: Some Numerical Results on the Block Spin Transformation for the 2D Ising  Model at the Critical Point
+Authors: G. Benfatto and E. Marinari and E. Olivieri
+Abstract: We study the block spin transformation for the 2D Ising model at the critical temperature $T_c$. We consider the model with the constraint that the total spin in each block is zero. An old argument by Cassandro and Gallavotti allows to show that the Gibbs potential for the transformed measure is well defined, provided that such model has a critical temperature $T'_c$ lower than $T_c$. After describing a possible rigorous approach to the problem, we present numerical evidence that indeed $T'_c<T_c$, and a study of the Dobrushin-Shlosman uniqueness condition.

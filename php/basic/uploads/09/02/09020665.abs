@@ -1,0 +1,4 @@
+Paper: 09020665
+Title: Apparently non-invariant terms of nonlinear sigma models in lattice  perturbation theory
+Authors: Koji Harada and Nozomu Hattori and Hirofumi Kubo and Yuki Yamamoto
+Abstract: Apparently non-invariant terms (ANTs) which appear in loop diagrams for nonlinear sigma models (NLSs) are revisited in lattice perturbation theory. The calculations have been done mostly with dimensional regularization so far. In order to establish that the existence of ANTs is independent of the regularization scheme, and of the potential ambiguities in the definition of the Jacobian of the change of integration variables from group elements to "pion" fields, we employ lattice regularization, in which everything (including the Jacobian) is well-defined. We show explicitly that lattice perturbation theory produces ANTs in the four-point functions of the "pion" fields at one-loop and the Jacobian does not play an important role in generating ANTs.

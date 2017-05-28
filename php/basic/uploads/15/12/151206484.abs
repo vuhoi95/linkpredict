@@ -1,0 +1,4 @@
+Paper: 151206484
+Title: Entanglement entropy in scalar field theory on the fuzzy sphere
+Authors: Shizuka Okuno and Mariko Suzuki and Asato Tsuchiya
+Abstract: We study entanglement entropy on the fuzzy sphere. We calculate it in a scalar field theory on the fuzzy sphere, which is given by a matrix model. We use a method that is based on the replica method and applicable to interacting fields as well as free fields. For free fields, we obtain the results consistent with the previous study, which serves as a test of the validity of the method. For interacting fields, we perform Monte Carlo simulations at strong coupling and see a novel behavior of entanglement entropy.

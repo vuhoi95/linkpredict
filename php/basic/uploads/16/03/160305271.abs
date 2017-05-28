@@ -1,0 +1,4 @@
+Paper: 160305271
+Title: Trace Identities for the Topological Vertex
+Authors: Jim Bryan and Martijn Kool and Benjamin Young
+Abstract: The topological vertex is a universal series which can be regarded as an object in combinatorics, representation theory, geometry, or physics. It encodes the combinatorics of 3D partitions, the action of vertex operators on Fock space, the Donaldson-Thomas theory of toric Calabi-Yau threefolds, or the open string partition function of $\mathbb{C}^3$. We prove several identities in which a sum over terms involving the topological vertex is expressed as a closed formula, often a product of simple terms, closely related to Fourier expansions of Jacobi forms. We use purely combinatorial and representation theoretic methods to prove our formulas, but we discuss applications to the Donaldson-Thomas invariants of elliptically fibered Calabi-Yau threefolds at the end of the paper.

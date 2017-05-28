@@ -1,0 +1,4 @@
+Paper: 160705753
+Title: Mixed s-sourcery: Building many-body states using bubbles of Nothing
+Authors: Brian Swingle and John McGreevy
+Abstract: In arXiv:1407.8203, we introduced the idea of s-sourcery, a general formalism for building many-body quantum ground states using renormalization-group-inspired quantum circuits. Here we define a generalized notion of s-sourcery that applies to mixed states, and study its properties and applicability. We prove a number of theorems establishing the prevalence of mixed s-source fixed points. For our examples we focus on thermal states of local Hamiltonians. Thermal double states (also called thermofield double states) and the machinery of approximate conditional independence are used heavily in the constructions.

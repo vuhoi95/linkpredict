@@ -1,0 +1,4 @@
+Paper: 13092443
+Title: Full time-dependent Hartree-Fock solution of large N Gross-Neveu models
+Authors: Gerald V. Dunne and Michael Thies
+Abstract: We find the general solution to the time-dependent Hartree-Fock problem for scattering solutions of the Gross-Neveu models, with both discrete (GN_2) and continuous (NJL_2) chiral symmetry. We find new multi-breather solutions both for the GN_2 model, generalizing the Dashen-Hasslacher-Neveu breather solution, and also new twisted breathers for the NJL_2 model. These solutions satisfy the full TDHF consistency conditions, and only in the special cases of GN_2 kink scattering do these conditions reduce to the integrable Sinh-Gordon equation. We also show that all baryons and breathers are composed of constituent twisted kinks of the NJL_2 model. Our solution depends crucially on a general class of transparent, time dependent Dirac potentials found recently by algebraic methods.

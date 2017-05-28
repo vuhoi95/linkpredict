@@ -1,0 +1,4 @@
+Paper: 10125875
+Title: Comments on k-Strings at Large N
+Authors: Joanna L. Karczmarek and Gordon W. Semenoff and Shuhang Yang
+Abstract: We present a computation of the k-string tension in the large N limit of the two dimensional lattice Yang-Mills theory. It is well known that the problems of computing the partition function and the Wilson loop can be both reduced to a unitary matrix integral which has a third order phase transition separating weak and strong coupling. We give an explicit computation of the interaction energy for k-strings in the large N limit when k/N is held constant and non-zero. In this limit, the interaction energy is finite and attractive. We show that, in the strong coupling phase, the k -> N - k duality is realized as a first order phase transition. We also show that the lattice k-string tension reduces to the expected Casimir scaling in the continuum limit.

@@ -1,0 +1,4 @@
+Paper: 161105969
+Title: Quiver mutation sequences and $q$-binomial identities
+Authors: Akishi Kato and Yuma Mizuno and Yuji Terashima
+Abstract: In this paper, first we introduce a quantity called a partition function for a quiver mutation sequence. The partition function is a generating function whose weight is a $q$-binomial associated with each mutation. Then, we show that the partition function can be expressed as a ratio of products of quantum dilogarithms. This provides a systematic way of constructing various $q$-binomial multisum identities.

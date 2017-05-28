@@ -1,0 +1,4 @@
+Paper: 12102794
+Title: Consistency of Loop Regularization Method and Divergence Structure of  QFTs Beyond One-Loop Order
+Authors: Da Huang and Ling-Fong Li and Yue-Liang Wu
+Abstract: We study the problem how to deal with tensor-type two-loop integrals in the Loop Regularization (LORE) scheme. We use the two-loop photon vacuum polarization in the massless Quantum Electrodynamics (QED) as the example to present the general procedure. In the processes, we find a new divergence structure: the regulated result for each two-loop diagram contains a gauge-violating quadratic harmful divergent term even combined with their corresponding counterterm insertion diagrams. Only when we sum up over all the relevant diagrams do these quadratic harmful divergences cancel, recovering the gauge invariance and locality.

@@ -1,0 +1,4 @@
+Paper: 12066008
+Title: The perturbative partition function of supersymmetric 5D Yang-Mills  theory with matter on the five-sphere
+Authors: Johan Kallen and Jian Qiu and Maxim Zabzine
+Abstract: Based on the construction by Hosomichi, Seong and Terashima we consider N=1 supersymmetric 5D Yang-Mills theory with matter on a five-sphere with radius r. This theory can be thought of as a deformation of the theory in flat space with deformation parameter r and this deformation preserves 8 supercharges. We calculate the full perturbative partition function as a function of r/g^2, where g is the Yang-Mills coupling, and the answer is given in terms of a matrix model. We perform the calculation using localization techniques. We also argue that in the large N-limit of this deformed 5D Yang-Mills theory this matrix model provides the leading contribution to the partition function and the rest is exponentially suppressed.

@@ -1,0 +1,4 @@
+Paper: 10065145
+Title: Functional Renormalization of Noncommutative Scalar Field Theory
+Authors: Tim A. Koslowski and Alessandro Sfondrini
+Abstract: In this paper we apply the Functional Renormalization Group Equation (FRGE) to the non-commutative scalar field theory proposed by Grosse and Wulkenhaar. We derive the flow equation in the matrix representation and discuss the theory space for the self-dual model. The features introduced by the external dimensionful scale provided by the non-commutativity parameter, originally pointed out in \cite{Gurau:2009ni}, are discussed in the FRGE context. Using a technical assumption, but without resorting to any truncation, it is then shown that the theory is asymptotically safe for suitably small values of the $\phi^4$ coupling, recovering the result of \cite{disertori:2007}. Finally, we show how the FRGE can be easily used to compute the one loop beta-functions of the duality covariant model.

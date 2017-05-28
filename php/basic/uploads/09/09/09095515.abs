@@ -1,0 +1,4 @@
+Paper: 09095515
+Title: Analytic Form of the QCD Instanton Determinant for Small Quark Mass
+Authors: Jin Hur and Choonkyu Lee and Hyunsoo Min
+Abstract: We use a novel method to calculate analytically the QCD instanton prefactor due to a quark field carrying a small mass parameter $m$. In the SU(2) instanton background of size $\rho$, the spinor effective action $\Gamma^F$ (in the minimal subtraction scheme), which gives rise to the prefactor $\exp (-\Gamma^F)$, is shown to have the small-$m \rho$ behavior \Gamma^F = -\ln (m /\mu) - \ln (\mu\rho)/3 -2 \alpha(1/2) -(m \rho)^2 \{\ln (m \rho /2) +\gamma+1/2\} -2 (m \rho)^4 \{-\ln ^2(m \rho)/4+\ln (m \rho) (1/2-\gamma +\ln 2)/2+C \} +O((m \rho)^6), where $\gamma=0.577216...$, $\alpha(1/2)=0.145873...$, and our numerically evaluated value for the constant $C$ is $C=-0.382727...$. A good agreement between this form and the numerically exact calculation is found if $(m \rho) \lesssim 0.8$.

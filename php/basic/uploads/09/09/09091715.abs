@@ -1,0 +1,4 @@
+Paper: 09091715
+Title: Taylor-Lagrange renormalization scheme. Application to light-front  dynamics
+Authors: P. Grange and J. -F. Mathiot and B. Mutet and E. Werner
+Abstract: The recently proposed renormalization scheme based on the definition of field operators as operator valued distributions acting on specific test functions is shown to be very convenient in explicit calculations of physical observables within the framework of light-front dynamics. We first recall the main properties of this procedure based on identities relating the test functions to their Taylor remainder of any order expressed in terms of Lagrange's formulae, hence the name given to this scheme. We thus show how it naturally applies to the calculation of state vectors of physical systems in the covariant formulation of light-front dynamics. As an example, we consider the case of the Yukawa model in the simple two-body Fock state truncation.

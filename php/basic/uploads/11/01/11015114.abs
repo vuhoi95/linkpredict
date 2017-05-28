@@ -1,0 +1,4 @@
+Paper: 11015114
+Title: A polar complex for locally free sheaves
+Authors: Sergey Gorchinskiy and Alexei Rosly
+Abstract: We construct the so-called polar complex for an arbitrary locally free sheaf on a smooth variety over a field of characteristic zero. This complex is built from logarithmic forms on all irreducible subvarieties with values in a locally free sheaf. We prove that cohomology groups of the polar complex are canonically isomorphic to the cohomology groups of the locally free sheaf. Relations of the polar complex with Rost's cycle modules, algebraic cycles, Cousin complex, and adelic complex are discussed. In particular, the polar complex is a subcomplex in the Cousin complex. One can say that the polar complex is a first order pole part of the Cousin complex, providing a much smaller, but, in fact, quasiisomorphic subcomplex.

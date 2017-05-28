@@ -1,0 +1,4 @@
+Paper: 12065035
+Title: Detecting candidate cosmic bubble collisions with optimal filters
+Authors: J. D. McEwen and S. M. Feeney and M. C. Johnson and H. V. Peiris
+Abstract: We review an optimal-filter-based algorithm for detecting candidate sources of unknown and differing size embedded in a stochastic background, and its application to detecting candidate cosmic bubble collision signatures in Wilkinson Microwave Anisotropy Probe (WMAP) 7-year observations. The algorithm provides an enhancement in sensitivity over previous methods by a factor of approximately two. Moreover, it is optimal in the sense that no other filter-based approach can provide a superior enhancement of these signatures. Applying this algorithm to WMAP 7-year observations, eight new candidate bubble collision signatures are detected for follow-up analysis.

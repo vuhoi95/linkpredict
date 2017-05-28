@@ -1,0 +1,4 @@
+Paper: 160304347
+Title: One-loop divergences in non-Abelian supersymmetric theories regularized  by BRST-invariant version of the higher derivative regularization
+Authors: S. S. Aleshin and A. E. Kazantsev and M. B. Skoptsov and K. V. Stepanyantz
+Abstract: We consider a general non-Abelian renormalizable ${\cal N}=1$ supersymmetric gauge theory, regularized by higher covariant derivatives without breaking the BRST invariance, and calculate one-loop divergences for a general form of higher derivative regulator and of the gauge fixing term. It is demonstrated that the momentum integrals giving the one-loop $\beta$-function are integrals of double total derivatives independently of a particular choice of the higher derivative term. Evaluating them we reproduce the well-known result for the one-loop $\beta$-function. Also we find that the three-point ghost vertices with a single line of the quantum gauge superfield are not renormalized in the considered approximation.

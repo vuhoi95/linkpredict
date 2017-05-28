@@ -1,0 +1,4 @@
+Paper: 09090551
+Title: Division Algebras and Supersymmetry I
+Authors: John C. Baez and John Huerta
+Abstract: Supersymmetry is deeply related to division algebras. Nonabelian Yang-Mills fields minimally coupled to massless spinors are supersymmetric if and only if the dimension of spacetime is 3, 4, 6 or 10. The same is true for the Green-Schwarz superstring. In both cases, supersymmetry relies on the vanishing of a certain trilinear expression involving a spinor field. The reason for this, in turn, is the existence of normed division algebras in dimensions 1, 2, 4 and 8: the real numbers, complex numbers, quaternions and octonions. Here we provide a self-contained account of how this works.

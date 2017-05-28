@@ -1,0 +1,4 @@
+Paper: 160200708
+Title: Poisson algebras for non-linear field theories in the Cahiers topos
+Authors: Marco Benini and Alexander Schenkel
+Abstract: We develop an approach to construct Poisson algebras for non-linear scalar field theories that is based on the Cahiers topos model for synthetic differential geometry. In this framework the solution space of the field equation carries a natural smooth structure and, following Zuckerman's ideas, we can endow it with a presymplectic current. We formulate the Hamiltonian vector field equation in this setting and show that it selects a family of observables which forms a Poisson algebra. Our approach provides a clean splitting between geometric and algebraic aspects of the construction of a Poisson algebra, which are sufficient to guarantee existence, and analytical aspects that are crucial to analyze its properties.

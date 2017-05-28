@@ -1,0 +1,4 @@
+Paper: 9402016
+Title: Looking for the Logarithms in Four-Dimensional Nambu-Jona-Lasinio Models
+Authors: Seyong Kim and Aleksandar Kocic and John Kogut
+Abstract: We study the problem of triviality in the four dimensional Nambu-Jona-Lasinio model with discrete chiral symmetry using both large-N expansions and lattice simulations. We find that logarithmic corrections to scaling appear in the equation of state as predicted by the large-N expansion. The data from $16^4$ lattice simulations is sufficiently accurate to distinguish logarithmically trivial scaling from power law scaling. Simulations on different lattice sizes reveal an interesting interplay of finite size effects and triviality. We argue that such effects are qualitatively different for theories based on fundamental scalar rather than fermion fields. Several lessons learned here can be applied to simulations and analyses of more challenging field theories.

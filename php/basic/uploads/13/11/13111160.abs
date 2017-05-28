@@ -1,0 +1,4 @@
+Paper: 13111160
+Title: Higher Order Corrections to the Asymptotic Perturbative Solution of a  Schwinger-Dyson Equation
+Authors: Marc P. Bellon and Pierre J. Clavier
+Abstract: Building on our previous works on perturbative solutions to a Schwinger-Dyson for the massless Wess-Zumino model, we show how to compute 1/n corrections to its asymptotic behavior. The coefficients are analytically determined through a sum on all the poles of the Mellin transform of the one loop diagram. We present results up to the fourth order in 1/n as well as a comparison with numerical results. Unexpected cancellations of zetas are observed in the solution, so that no even zetas appear and the weight of the coefficients is lower than expected, which suggests the existence of more structure in the theory.

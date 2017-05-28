@@ -1,0 +1,4 @@
+Paper: 9411008
+Title: Computational Ergodicity of $s^4$
+Authors: J. Ambjorn and J. Jurkiewicz
+Abstract: It is known that there are four-manifolds which are not algorithmically recognizable. This implies that there exist triangulations of these manifolds which are separated by large barriers from the point of view of the computer algorithm. We have not observed these barriers for triangulations of $S^4$.

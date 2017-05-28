@@ -1,0 +1,4 @@
+Paper: 9903027
+Title: Inverse Symmetry Breaking on the lattice: an accurate MC study
+Authors: G. Bimonte and D. Iniguez and A. Tarancon and C. L. Ullod
+Abstract: We present here a new MC study of ISB at finite temperature in a $Z_2\times Z_2$ $\lambda\phi^4$ model in four dimensions. The results of our simulations, even if not conclusive, are favourable to ISB. Detection of the effect required measuring some critical couplings with six-digits precision, a level of accuracy that could be achieved only by a careful use of FSS techniques. The gap equations for the Debye masses, resulting from the resummation of the ring diagrams, seem to provide a qualitatively correct description of the data, while the simple one-loop formulae appear to be inadequate.

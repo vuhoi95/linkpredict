@@ -1,0 +1,4 @@
+Paper: 13022423
+Title: A new approach to the epsilon expansion of generalized hypergeometric  functions
+Authors: David Greynat and Javier Sesma
+Abstract: Assumed that the parameters of a generalized hypergeometric function depend linearly on a small variable $\varepsilon$, the successive derivatives of the function with respect to that small variable are evaluated at $\varepsilon=0$ to obtain the coefficients of the $\varepsilon$-expansion of the function. The procedure, quite naive, benefits from simple explicit expressions of the derivatives, to any order, of the Pochhammer and reciprocal Pochhammer symbols with respect to their argument. The algorithm may be used algebraically, irrespective of the values of the parameters. It reproduces the exact results obtained by other authors in cases of especially simple parameters. Implemented numerically, the procedure improves considerably the numerical expansions given by other methods.

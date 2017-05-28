@@ -1,0 +1,4 @@
+Paper: 9512130
+Title: The Correlated Block Renormalization Group
+Authors: Miguel A. Martin-Delgado and Javier Rodriguez-Laguna and German Sierra
+Abstract: We formulate the standard real-space renormalization group method in a way which takes into account the correlation between blocks. This is achieved in a dynamical way by means of operators which reflect the influence on a given block of its neighbours. We illustrate our method in the example of the tight-binding model in 1D and 2D for various types of boundary conditions.

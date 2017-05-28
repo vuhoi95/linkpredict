@@ -1,0 +1,4 @@
+Paper: 160701704
+Title: Landauer Bound for Analog Computing Systems
+Authors: M. Cristina Diamantini and Luca Gammaitoni and Carlo A. Trugenberger
+Abstract: By establishing a relation between information erasure and continuous phase transitions we generalise the Landauer bound to analog computing systems. The entropy production per degree of freedom during erasure of an analog variable (reset to standard value) is given by the logarithm of the configurational volume measured in units of its minimal quantum. As a consequence every computation has to be carried on with a finite number of bits and infinite precision is forbidden by the fundamental laws of physics, since it would require an infinite amount of energy.

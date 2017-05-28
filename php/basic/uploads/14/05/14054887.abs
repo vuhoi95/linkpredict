@@ -1,0 +1,4 @@
+Paper: 14054887
+Title: Conjugation properties of tensor product multiplicities
+Authors: Robert Coquereaux and Jean-Bernard Zuber
+Abstract: It was recently proven that the total multiplicity in the decomposition into irreducibles of the tensor product lambda x mu of two irreducible representations of a simple Lie algebra is invariant under conjugation of one of them; at a given level, this also applies to the fusion multiplicities of affine algebras. Here, we show that, in the case of SU(3), the lists of multiplicities, in the tensor products lambda x mu and lambda x bar{mu}, are identical up to permutations. This latter property does not hold in general for other Lie algebras. We conjecture that the same property should hold for the fusion product of the affine algebra of su(3) at finite levels, but this is not investigated in the present paper.

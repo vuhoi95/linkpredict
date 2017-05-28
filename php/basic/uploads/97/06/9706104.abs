@@ -1,0 +1,4 @@
+Paper: 9706104
+Title: Dualities in Spin Ladders
+Authors: German Sierra and Miguel A. Martin-Delgado
+Abstract: We introduce a set of discrete modular transformations $T_\ell,U_\ell$ and $S_\ell$ in order to study the relationships between the different phases of the Heisenberg ladders obtained with all possible exchange coupling constants. For the 2 legged ladder we show that the $RVB$ phase is invariant under the $S_\ell$ transformation, while the Haldane phase is invariant under $U_\ell$. These two phases are related by $T_\ell$. Moreover there is a "mixed" phase, that is invariant under $T_\ell$, and which under $U_\ell$ becomes the RVB phase, while under $S_\ell$ becomes the Haldane phase. For odd ladders there exists only the $T_\ell$ transformation which, for strong coupling, maps the effective antiferromagnetic spin 1/2 chain into the spin 3/2 chain.

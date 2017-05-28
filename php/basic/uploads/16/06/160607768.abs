@@ -1,0 +1,4 @@
+Paper: 160607768
+Title: Non-Equilibrium Random Matrix Theory : Transition Probabilities
+Authors: Francisco Gil Pedro and Alexander Westphal
+Abstract: In this letter we present an analytic method for calculating the transition probability between two random Gaussian matrices with given eigenvalue spectra in the context of Dyson Brownian motion. We show that in the Coulomb gas language, in large $N$ limit, memory of the initial state is preserved in the form of a universal linear potential acting on the eigenvalues. We compute the likelihood of any given transition as a function of time, showing that as memory of the initial state is lost, transition probabilities converge to those of the static ensemble.

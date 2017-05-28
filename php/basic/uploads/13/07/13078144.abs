@@ -1,0 +1,4 @@
+Paper: 13078144
+Title: A Rosetta Stone for Parameterized Tests of Gravity
+Authors: Laura Sampson and Nicolas Yunes and Neil Cornish
+Abstract: Several model-independent parameterizations of deviations from General Relativity have been developed to test Einstein's theory. Although these different parameterizations were developed for different gravitational observables, they ultimately all test the same underlying physics. In this paper, we develop connections between the parameterized post-Newtonian, parameterized post-Keplerian, and the parameterized post-Einsteinian frameworks, developed to carry out tests of General Relativity with Solar System, binary pulsar, and gravitational wave observations respectively. These connections allow us to use knowledge gained from one framework to inform and guide tests using the others. Relating these parameterizations and combining the results from each approach strengthens our tests of General Relativity.

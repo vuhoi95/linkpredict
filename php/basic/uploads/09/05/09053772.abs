@@ -1,0 +1,4 @@
+Paper: 09053772
+Title: Group field theory renormalization - the 3d case: power counting of  divergences
+Authors: Laurent Freidel and Razvan Gurau and Daniele Oriti
+Abstract: We take the first steps in a systematic study of Group Field Theory renormalization, focusing on the Boulatov model for 3D quantum gravity. We define an algorithm for constructing the 2D triangulations that characterize the boundary of the 3D bubbles, where divergences are located, of an arbitrary 3D GFT Feynman diagram. We then identify a special class of graphs for which a complete contraction procedure is possible, and prove, for these, a complete power counting. These results represent important progress towards understanding the origin of the continuum and manifold-like appearance of quantum spacetime at low energies, and of its topology, in a GFT framework.

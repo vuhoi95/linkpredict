@@ -1,0 +1,4 @@
+Paper: 09054673
+Title: Nonunique C operator in PT Quantum Mechanics
+Authors: Carl M. Bender and S. P. Klevansky
+Abstract: The three simultaneous algebraic equations, $C^2=1$, $[C,PT]=0$, $[C,H]=0$, which determine the $C$ operator for a non-Hermitian $PT$-symmetric Hamiltonian $H$, are shown to have a nonunique solution. Specifically, the $C$ operator for the Hamiltonian $H={1/2}p^2+{1/2}\mu^2q^2+i\epsilon q^3$ is determined perturbatively to first order in $\epsilon$ and it is demonstrated that the $C$ operator contains an infinite number of arbitrary parameters. For each different $C$ operator, the corresponding equivalent isospectral Dirac-Hermitian Hamiltonian $h$ is calculated.

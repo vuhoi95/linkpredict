@@ -1,0 +1,4 @@
+Paper: 9601223
+Title: Restoration of chiral symmetry in quark models with effective one gluon  exchange
+Authors: Kurt Langfeld and Hugo Reinhardt
+Abstract: The restoration of chiral symmetry at finite density and/or temperature is investigated in a wide class of one-gluon exchange models in the instantaneous approximation. If the effective quark interaction is less divergent than $1/k^2$ for small momentum transfer $k$, we obtain Gaussian critical exponents for the chiral phase transitions at finite temperature and density, respectively. In the opposite case, for an interaction diverging faster than $1/k^2$ in the infrared region, a qualitative different behavior of the quark self-energy near the critical Fermi momentum $k_c$ and the critical temperature $T_c$, respectively, is observed. In the first scenario, we find $k_c \approx 2 \ln 2 \; T_c$, which compares well with recent data from QCD lattice simulations.

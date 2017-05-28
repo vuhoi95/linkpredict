@@ -1,0 +1,4 @@
+Paper: 9812045
+Title: Perturbation of infra-red fixed points and duality in quantum impurity  problems
+Authors: F. Lesage and H. Saleur
+Abstract: We explain in this paper how a meaningful irrelevant perturbation theory around the infra-red (strong coupling) fixed point can be carried out for integrable quantum impurity problems. This is illustrated in details for the spin 1/2 Kondo model, where our approach gives rise to the complete low temperature expansion of the resistivity, beyond the well known $T^2$ Fermi liquid behaviour. We also consider the edge states tunneling problem, and demonstrate by Keldysh techniques that the DC current satisfies an exact duality between the UV and IR regimes. This corresponds physically to a duality between the tunneling of Laughlin quasi particles and electrons, and, more formally, to the existence of an exact instantons expansion. The duality is deeply connected with integrability, and could not have been expected a priori.

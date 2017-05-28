@@ -1,0 +1,4 @@
+Paper: 09090289
+Title: QCD thermodynamics with effective models
+Authors: Bernd-Jochen Schaefer and Mathias Wagner and Jochen Wambach
+Abstract: In this talk we extend the Polyakov-quark-meson model to N_f=2+1 quark flavors and study its bulk thermodynamics at finite temperatures in mean-field approximation. Three different Polyakov-loop potentials are considered. Our findings are confronted to recent QCD lattice simulations of the RBC-Bielefeld and HotQCD collaborations. Furthermore, the finite chemical potential expansion of the quark-number susceptibility in a Taylor series around vanishing chemical potential is analyzed. By means of a novel algorithmic differentiation technique, we have calculated Taylor coefficients up to 24th order in the model for the first time. This allows the systematic study of convergence properties of the Taylor series.

@@ -1,0 +1,4 @@
+Paper: 160104720
+Title: Partition Functions with spin in AdS_2 via Quasinormal Mode Methods
+Authors: Cynthia Keeler and Pedro Lisbao and Gim Seng Ng
+Abstract: We extend the results of arXiv:1401.7016, computing one loop partition functions for massive fields with spin half in AdS_2 using the quasinormal mode method proposed by Denef, Hartnoll, and Sachdev in arXiv:0908.2657. We find the finite representations of SO(2,1) for spin zero and spin half, consisting of a highest weight state |h\rangle and descendants with non-unitary values of h. These finite representations capture the poles and zeroes of the one loop determinants. Together with the asymptotic behavior of the partition functions (which can be easily computed using a large mass heat kernel expansion), these are sufficient to determine the full answer for the one loop determinants. We also discuss extensions to higher dimensional AdS_{2n} and higher spins.

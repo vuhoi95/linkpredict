@@ -1,0 +1,4 @@
+Paper: 13073920
+Title: Stabilizing the Semilocal String with a Dilatonic Coupling
+Authors: Leandros Perivolaropoulos and Nikos Platis
+Abstract: We demonstrate that the stability of the semilocal vortex can be significantly improved by the presence of a dilatonic coupling of the form e^\frac{q | \Phi |^2}{\eta^2} F_{\mu \nu}F^{\mu \nu} with q>0 where \eta is the scale of symmetry breaking that gives rise to the vortex. For q=0 we obtain the usual embedded (semilocal) Nielsen-Olesen vortex. We find the stability region of the parameter \beta = (\frac{m_\Phi}{m_A})^2 (m_\Phi and m_A are the masses of the scalar and gauge fields respectively). We show that the stability region of \beta is 0<\beta<\beta_{max}(q) where \beta_{max}(q=0)=1 (as expected) and \beta_{max}(q) is an increasing function of q. This result may have significant implications for the stability of the electroweak vortex in the presence of a dilatonic coupling (dilatonic electroweak vortex).

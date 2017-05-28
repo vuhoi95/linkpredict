@@ -1,0 +1,4 @@
+Paper: 07112524
+Title: Finite-temperature lineshapes in gapped quantum spin chains
+Authors: Fabian H. L. Essler and Robert M. Konik
+Abstract: We consider the finite-temperature dynamical structure factor (DSF) of gapped quantum spin chains such as the spin one Heisenberg model and the transverse field Ising model in the disordered phase. At zero temperature the DSF in these models is dominated by a delta-function line arising from the coherent propagation of single particle modes. Using methods of integrable quantum field theory we determine the evolution of the lineshape at low temperatures. We show that the line shape is in general asymmetric in energy and becomes Lorentzian only at temperatures far below the gap. We discuss the relevance of our results for the analysis of inelastic neutron scattering experiments on gapped spin chain systems such as CsNiCl_3 and YBaNiO_5.

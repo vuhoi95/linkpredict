@@ -1,0 +1,4 @@
+Paper: 09081989
+Title: D-modules on 1|1 Supercurves
+Authors: Mitchell J. Rothstein and Jeffrey M. Rabin
+Abstract: It is known that to every 1|1 dimensional supercurve X there is associated a dual supercurve \hat{X}, and a superdiagonal \Delta in their product. We establish that the categories of D-modules on X, \hat{X}, and \Delta are equivalent. This follows from a more general result about D-modules and purely odd submersions. The equivalences preserve tensor products, and take vector bundles to vector bundles. Line bundles with connection are studied, and examples are given where X is a superelliptic curve.

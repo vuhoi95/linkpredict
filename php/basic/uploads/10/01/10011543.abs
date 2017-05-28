@@ -1,0 +1,4 @@
+Paper: 10011543
+Title: Ultraviolet and Infrared Divergences in Implicit Regularization: a  Consistent Approach
+Authors: H. G. Fargnoli and A. P. Baeta Scarpelli and L. C. T. Brito and B. Hiller and Marcos Sampaio and M. C. Nemes and A. A. Osipov
+Abstract: Implicit Regularization is a 4-dimensional regularization initially conceived to treat ultraviolet divergences. It has been successfully tested in several instances in the literature, more specifically in those where Dimensional Regularization does not apply. In the present contribution we extend the method to handle infrared divergences as well. We show that the essential steps which rendered Implicit Regularization adequate in the case of ultraviolet divergences have their counterpart for infrared ones. Moreover we show that a new scale appears, typically an infrared scale which is completely independent of the ultraviolet one. Examples are given.

@@ -1,0 +1,4 @@
+Paper: 13116829
+Title: Form factor decomposition of the off-shell four-gluon amplitudes
+Authors: Naser Ahmadiniaz and Christian Schubert
+Abstract: We show how to use the Bern-Kosower master formula, originally a generating functional for on-shell gluon matrix elements, to derive well-organized form factor decompositions of the off-shell one-particle-irreducible N - gluon vertices. Two such algorithms are presented which can be used for any N, the first one optimized with respect to the nonabelian gauge invariance, the second one with respect to transversality. We give explicit results for the three- and four-gluon cases. The second algorithm in the three-point case reproduces precisely the well-known Ball-Chiu decomposition, and in the four-point case a natural generalization thereof. A particularly simple structure emerges in the N=4 SYM case.

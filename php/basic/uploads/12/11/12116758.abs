@@ -1,0 +1,4 @@
+Paper: 12116758
+Title: Influence of long-range interactions on the critical behavior of the  Ising model
+Authors: Thibault Blanchard and Marco Picco and M. A. Rajabpour
+Abstract: We study the ferromagnetic Ising model with long-range interactions in two dimensions. We first present results of a Monte Carlo study which shows that the long-range interactions dominate over the short-range ones in the intermediate regime of interaction range. Based on a renormalization group analysis, we propose a way of computing the influence of the long-range interactions as a dimensional change.

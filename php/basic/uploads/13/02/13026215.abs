@@ -1,0 +1,4 @@
+Paper: 13026215
+Title: Multiple polylogarithms and linearly reducible Feynman graphs
+Authors: Christian Bogner and Martin Lüders
+Abstract: We review an approach for the computation of Feynman integrals by use of multiple polylogarithms, with an emphasis on the related criterion of linear reducibility of the graph. We show that the set of graphs which satisfies the linear reducibility with respect to both Symanzik polynomials is closed under taking minors. As a step towards a classification of Feynman integrals, we discuss the concept of critical minors and exhibit an example at three loops with four on-shell legs.

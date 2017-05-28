@@ -1,0 +1,4 @@
+Paper: 11090283
+Title: 4d Index to 3d Index and 2d TQFT
+Authors: Francesco Benini and Tatsuma Nishioka and Masahito Yamazaki
+Abstract: We compute the 4d superconformal index for N=1,2 gauge theories on S^1 x L(p,1), where L(p,1) is a lens space. We find that the 4d N=1,2 index on S^1 x L(p,1) reduces to a 3d N=2,4 index on S^1 x S^2 in the large p limit, and to a 3d partition function on a squashed L(p,1) when the size of temporal S^1 shrinks to zero. As an application of our index, we study 4d N=2 superconformal field theories arising from the 6d N=(2,0) A_1 theory on a punctured Riemann surface, and conjecture the existence of a 2d Topological Quantum Field Theory on the Riemann surface whose correlation function coincides with the 4d N=2 index on S^1 x L(p,1).

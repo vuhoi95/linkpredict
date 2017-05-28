@@ -1,0 +1,4 @@
+Paper: 14123152
+Title: Strings of Minimal 6d SCFTs
+Authors: Babak Haghighat and Albrecht Klemm and Guglielmo Lockhart and Cumrun Vafa
+Abstract: We study strings associated with minimal 6d SCFTs, which by definition have only one string charge and no Higgs branch. These theories are labelled by a number n with 1 <= n <= 8 or n = 12. Quiver theories have previously been proposed which describe strings of SCFTs for n = 1, 2. For n > 2 the strings interact with the bulk gauge symmetry. In this paper we find a quiver description for the n = 4 string using Sen's limit of F-theory and calculate its elliptic genus with localization techniques. This result is checked using the duality of F-theory with M-theory and topological string theory whose refined BPS partition function captures the elliptic genus of the SCFT strings. We use the topological string theory to gain insight into the elliptic genus for other values of n.

@@ -1,0 +1,4 @@
+Paper: 08013657
+Title: A Matrix Model for Black Hole Thermalization
+Authors: Norihiro Iizuka and Joseph Polchinski
+Abstract: We present a matrix model which is intended as a toy model of the gauge dual of an AdS black hole. In particular, it captures the key property that at infinite $N$ correlators decay to zero on long time scales, while at finite $N$ this cannot happen. The model consists of a harmonic oscillator in the adjoint which acts as a heat bath for a particle in the fundamental representation. The Schwinger-Dyson equation reduces to a closed recursion relation, which we study by various analytical and numerical methods. We discuss some implications for the information problem.

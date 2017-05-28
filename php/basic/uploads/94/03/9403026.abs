@@ -1,0 +1,4 @@
+Paper: 9403026
+Title: Sphalerons and Other Saddles from Cooling
+Authors: Margarita Garcia Perez and Pierre van Baal
+Abstract: We describe a new cooling algorithm for SU(2) lattice gauge theory. It has any critical point of the energy or action functional as a fixed point. In particular, any number of unstable modes may occur. We also provide insight in the convergence of the cooling algorithms. A number of solutions will be discussed, in particular the sphalerons for twisted and periodic boundary conditions which are important for the low-energy dynamics of gauge theories. For a unit cubic volume we find a sphaleron energy of resp. $\cE_s=34.148(2)$ and $\cE_s=72.605(2)$ for the twisted and periodic case. Remarkably, the magnetic field for the periodic sphaleron satisfies at all points $\Tr B_x^2=\Tr B_y^2=\Tr B_z^2$.

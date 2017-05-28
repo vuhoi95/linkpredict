@@ -1,0 +1,4 @@
+Paper: 9305022
+Title: Finite Size Analysis of the One-dimensional $q = \infty$ Clock Model
+Authors: M. Asorey and J. G. Esteve and J. Salas
+Abstract: We analyze the finite size scaling of the $q$-state clock model in the $q \rightarrow \infty$ limit. The behaviors of the specific heat, Binder-Landau and U4 cumulants agree with the Borgs-Koteck\'y ans\"atz for first order phase transitions. However, we find that the leading correction to the position of the extremal points of these quantities is not universal. On the other hand, the finite size corrections to the mass gap behave like for second order phase transitions. In particular, the curves corresponding to different size approximations do not cross in the vicinity of the transition points. The feature is associated to the existence of a divergent correlation length and holds for a wider class of models.

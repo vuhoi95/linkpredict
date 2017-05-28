@@ -1,0 +1,4 @@
+Paper: 9701004
+Title: Separation of variables for the Ruijsenaars system
+Authors: V. B. Kuznetsov and F. W. Nijhoff and E. K. Sklyanin
+Abstract: We construct a separation of variables for the classical n-particle Ruijsenaars system (the relativistic analog of the elliptic Calogero-Moser system). The separated coordinates appear as the poles of the properly normalised eigenvector (Baker-Akhiezer function) of the corresponding Lax matrix. Two different normalisations of the BA functions are analysed. The canonicity of the separated variables is verified with the use of r-matrix technique. The explicit expressions for the generating function of the separating canonical transform are given in the simplest cases n=2 and n=3. Taking nonrelativistic limit we also construct a separation of variables for the elliptic Calogero-Moser system.

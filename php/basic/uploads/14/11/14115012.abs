@@ -1,0 +1,4 @@
+Paper: 14115012
+Title: Dilogarithm ladders from Wilson loops
+Authors: Marco S. Bianchi and Matias Leoni
+Abstract: We consider a light-like Wilson loop in N=4 SYM evaluated on a regular n-polygon contour. Sending the number of edges to infinity the polygon approximates a circle and the expectation value of the light-like WL is expected to tend to the localization result for the circular one. We show this explicitly at one loop, providing a prescription to deal with the divergences of the light-like WL and the large n limit. Taking this limit entails evaluating certain sums of dilogarithms which, for a regular polygon, evaluate to the same constant independently of n. We show that this occurs thanks to underpinning dilogarithm identities, related to the so-called polylogarithm ladders, which appear in rather different contexts of physics and mathematics and enable us to perform the large n limit analytically.

@@ -1,0 +1,4 @@
+Paper: 08120620
+Title: Simplified Vacuum Energy Expressions for Radial Backgrounds and Domain  Walls
+Authors: Gerald Dunne and Klaus Kirsten
+Abstract: We extend our previous results of simplified expressions for functional determinants for radial Schr\"odinger operators to the computation of vacuum energy, or mass corrections, for static but spatially radial backgrounds, and for domain wall configurations. Our method is based on the zeta function approach to the Gel'fand-Yaglom theorem, suitably extended to higher dimensional systems on separable manifolds. We find new expressions that are easy to implement numerically, for both zero and nonzero temperature.

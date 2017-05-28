@@ -1,0 +1,4 @@
+Paper: 12015710
+Title: Comparison of Improved Perturbative Methods
+Authors: Y. Meurice and Haiyuan Zou
+Abstract: In many cases of interest, the perturbative series based on conventional Feynman diagrams have a zero radius of convergence. Series with a finite radius of convergence can be obtained by either introducing a large field cutoff or by replacing the exponential of the perturbation by a sequence of approximants as recently proposed by Pollet, Prokof'ev, and Svistunov. We compare these two methods for integrals and quantum mechanical problems. The two methods perform well in complementary regime (strong coupling for the large field cutoff and intermediate coupling for the other method). We briefly discuss potential applications for lattice gauge theory with compact groups (which have a build-in large field cutoff).

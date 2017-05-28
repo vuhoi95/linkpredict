@@ -1,0 +1,4 @@
+Paper: 08075081
+Title: Boosting Nearest-Neighbour to Long-Range Integrable Spin Chains
+Authors: Till Bargheer and Niklas Beisert and Florian Loebbert
+Abstract: We present an integrability-preserving recursion relation for the explicit construction of long-range spin chain Hamiltonians. These chains are generalizations of the Haldane-Shastry and Inozemtsev models and they play an important role in recent advances in string/gauge duality. The method is based on arbitrary nearest-neighbour integrable spin chains and it sheds light on the moduli space of deformation parameters. We also derive the closed chain asymptotic Bethe equations.

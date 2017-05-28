@@ -1,0 +1,4 @@
+Paper: 150308640
+Title: New first order Lagrangian for General Relativity
+Authors: Yannick Herfray and Kirill Krasnov
+Abstract: We describe a new BF-type first-order in derivatives Lagrangian for General Relativity. The Lagrangian depends on a connection field as well as a Lie-algebra valued two-form field, with no other fields present. There are two free parameters, which translate into the cosmological constant and the coefficient in front of a topological term. When one of the parameters is set to zero, the theory becomes topological. When the other parameter is zero, the theory reduces to the (anti-) self-dual gravity. Thus, our new Lagrangian interpolates between the topological and anti-self-dual gravities. It also interprets GR as the (anti-) self-dual gravity with an extra quadratic in the auxiliary two-form field term added to the Lagrangian, precisely paralleling the situation in Yang-Mills theory.

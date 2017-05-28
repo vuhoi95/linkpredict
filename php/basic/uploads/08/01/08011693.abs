@@ -1,0 +1,4 @@
+Paper: 08011693
+Title: Impure AdS/CFT
+Authors: Sean A. Hartnoll and Christopher P. Herzog
+Abstract: We study momentum relaxation due to dilute, weak impurities in a strongly coupled CFT, a truncation of the M2 brane theory. Using the AdS/CFT correspondence, we compute the relaxation time scale as a function of the background magnetic field B and charge density \rho. The theory admits two different types of impurities. We find that for magnetic impurities, momentum relaxation due to the impurity is suppressed by a background B or \rho. For electric impurities, due to an underlying instability in the theory towards an ordered phase, the inverse relaxation time scale increases dramatically near \sqrt{B^2 + \rho^2/\sigma^2_0} \sim 21 T^2. We compute the Nernst response for the impure theory, and comment on similarities with recent measurements in superconductors.

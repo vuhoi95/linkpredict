@@ -1,0 +1,4 @@
+Paper: 12126600
+Title: Generalized Rogers Ramanujan Identities from AGT Correspondence
+Authors: Alexander Belavin and Doron Gepner
+Abstract: AGT correspondence and its generalizations attracted a great deal of attention recently. In particular it was suggested that $U(r)$ instantons on $R^4/Z_p$ describe the conformal blocks of the coset ${\cal A}(r,p)=U(1)\times sl(p)_r\times {sl(r)_p\times sl(r)_n\over sl(r)_{n+p}}$, where $n$ is a parameter. Our purpose here is to describe Generalized Rogers Ramanujan (GRR) identities for these cosets, which expresses the characters as certain $q$ series. We propose that such identities exist for the coset ${\cal A}(r,p)$ for all positive integers $n$ and all $r$ and $p$. We treat here the case of $n=1$ and $r=2$, finding GRR identities for all the characters.

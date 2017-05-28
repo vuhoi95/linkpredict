@@ -1,0 +1,4 @@
+Paper: 151006975
+Title: A Holographic c-Theorem for Schrodinger Spacetimes
+Authors: James T. Liu and Weishun Zhong
+Abstract: We prove a c-theorem for holographic renormalization group flows in a Schrodinger spacetime that demonstrates that the effective radius L(r) monotonically decreases from the UV to the IR, where r is the bulk radial coordinate. This result assumes that the bulk matter satisfies the null energy condition, but holds regardless of the value of the critical exponent z. We also construct several numerical examples in a model where the Schrodinger background is realized by a massive vector coupled to a real scalar. The full Schrodinger group is realized when z=2, and in this case it is possible to construct solutions with constant effective z(r)=2 along the entire flow.

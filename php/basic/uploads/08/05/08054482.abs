@@ -1,0 +1,4 @@
+Paper: 08054482
+Title: Some properties of angular integrals
+Authors: Michel Bergère and Bertrand Eynard
+Abstract: We find new representations for Itzykson-Zuber like angular integrals for arbitrary beta, in particular for the orthogonal group O(n), the unitary group U(n) and the symplectic group Sp(2n). We rewrite the Haar measure integral, as a flat Lebesge measure integral, and we deduce some recursion formula on n. The same methods gives also the Shatashvili's type moments. Finally we prove that, in agreement with Brezin and Hikami's observation, the angular integrals are linear combinations of exponentials whose coefficients are polynomials in the reduced variables (x_i-x_j)(y_i-y_j).

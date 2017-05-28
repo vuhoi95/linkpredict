@@ -1,0 +1,4 @@
+Paper: 9711012
+Title: Coset approach to the N=2 supersymmetric matrix GNLS hierarchies
+Authors: L. Bonora and S. Krivonos and A. Sorin
+Abstract: We discuss a large class of coset constructions of the N=2 sl(n|n-1) affine superalgebra. We select admissible subalgebras, i.e. subalgebras that induce linear chiral/antichiral constraints on the coset supercurrents. We show that all the corresponding coset constructions lead to N=2 matrix GNLS hierarchies. We develop an algorithm to compute the relative Hamiltonians and flows. We spell out completely the case of the N=2 affine sl(3|2), which possesses four admissible subalgebras. The non-local second Hamiltonian structure of the N=2 matrix GNLS hierarchies is obtained via Dirac procedure from the local N=2 sl(n|n-1) affine superalgebra. We observe that to any second Hamiltonian structure with pure bosonic or pure fermionic superfield content there correspond two different N=2 matrix GNLS hierarchies.

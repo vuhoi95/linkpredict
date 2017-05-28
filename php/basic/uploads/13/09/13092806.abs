@@ -1,0 +1,4 @@
+Paper: 13092806
+Title: HYPERgeometric functions DIfferential REduction: MATHEMATICA based  packages for differential reduction of generalized hypergeometric functions:  Horn hypergeometric functions of two variables
+Authors: V. Bytev and B. Kniehl
+Abstract: HYPERDIRE is a project devoted to the creation of a set of Mathematica-based programs for the differential reduction of hypergeometric functions. The current version allows for manipulations involving the full set of Horn-type hypergeometric functions of two variables, including 30 functions.

@@ -1,0 +1,4 @@
+Paper: 10093837
+Title: On the existence of non-abelian monopoles: the algebro-geometric  approach
+Authors: H. W. Braden and V. Z. Enolski
+Abstract: We develop the Atiyah-Drinfeld-Manin-Hitchin-Nahm construction to study SU(2) non-abelian charge 3 monopoles within the algebro-geometric method. The method starts with finding an algebraic curve, the monopole spectral curve, subject to Hitchin's constraints. We take as the monopole curve the genus four curve that admits a $C_3$ symmetry, $\eta^3+\alpha\eta\zeta^2+\beta\zeta^6+\gamma\zeta^3-\beta=0$, with real parameters $\alpha$, $\beta$ and $\gamma$. In the case $\alpha=0$ we prove that the only suitable values of $\gamma/\beta$ are $\pm 5\sqrt{2}$ ($\beta$ is given below) which corresponds to the tetrahedrally symmetric solution. We then extend this result by continuity to non-zero values of the parameter $\alpha$ and find finally a {\em new} one-parameter family of monopole curves with $C_3$ symmetry.

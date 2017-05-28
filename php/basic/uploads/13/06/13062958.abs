@@ -1,0 +1,4 @@
+Paper: 13062958
+Title: Supersymmetric Renyi Entropy
+Authors: Tatsuma Nishioka and Itamar Yaakov
+Abstract: We consider 3d N>= 2 superconformal field theories on a branched covering of a three-sphere. The Renyi entropy of a CFT is given by the partition function on this space, but conical singularities break the supersymmetry preserved in the bulk. We turn on a compensating R-symmetry gauge field and compute the partition function using localization. We define a supersymmetric observable, called the super Renyi entropy, parametrized by a real number q. We show that the super Renyi entropy is duality invariant and reduces to entanglement entropy in the q -> 1 limit. We provide some examples.

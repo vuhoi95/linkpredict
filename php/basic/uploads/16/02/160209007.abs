@@ -1,0 +1,4 @@
+Paper: 160209007
+Title: Quantum difference equation for Nakajima varieties
+Authors: Andrei Okounkov and Andrey Smirnov
+Abstract: For an arbitrary Nakajima quiver variety $X$, we construct an analog of the quantum dynamical Weyl group acting in its equivariant K-theory. The correct generalization of the Weyl group here is the fundamental groupoid of a certain periodic locally finite hyperplane arrangement in $Pic(X)\otimes {\mathbb{C}}$. We identify the lattice part of this groupoid with the operators of quantum difference equation for $X$. The cases of quivers of finite and affine type are illustrated by explicit examples.

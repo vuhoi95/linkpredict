@@ -1,0 +1,4 @@
+Paper: 10011579
+Title: PT-Rotations, PT-Spherical Harmonics and the PT-Hydrogen Atom
+Authors: Juan M. Romero and R. Bernal-Jaquez and O. Gonzalez-Gaxiola
+Abstract: We have constructed a set of non-Hermitian operators that satisfy the commutation relations of the SO(3)-Lie algebra. It is shown that this operators generate rotations in the configuration space and not in the momentum space but in a modified non-Hermitian momentum space. This generators are related with a new type of spherical harmonics that result to be PT-orthonormal. Additionally, we have shown that this operators represent conserved quantities for a non-Hermitian Hamiltonian with an additional complex term. As a particular case, the solutions of the corresponding PT-Hydrogen atom that includes a complex term are obtained, and it is found that a non-Hermitian Runge-Lenz vector is a conserved quantity. In this way, we obtain a set of non-Hermitian operators that satisfy the SO(4)-Lie algebra.

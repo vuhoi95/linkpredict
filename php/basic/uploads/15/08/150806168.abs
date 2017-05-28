@@ -1,0 +1,4 @@
+Paper: 150806168
+Title: Dirac Geometry of the Holonomy Fibration
+Authors: Alejandro Cabrera and Marco Gualtieri and Eckhard Meinrenken
+Abstract: In this paper, we solve the problem of giving a gauge-theoretic description of the natural Dirac structure on a Lie Group which plays a prominent role in the theory of D- branes for the Wess-Zumino-Witten model as well as the theory of quasi-Hamiltonian spaces. We describe the structure as an infinite-dimensional reduction of the space of connections over the circle. Our insight is that the formal Poisson structure on the space of connections is not an actual Poisson structure, but is itself a Dirac structure, due to the fact that it is defined by an unbounded operator. We also develop general tools for reducing Courant algebroids and morphisms between them, allowing us to give a precise correspondence between Hamiltonian loop group spaces and quasi- Hamiltonian spaces.

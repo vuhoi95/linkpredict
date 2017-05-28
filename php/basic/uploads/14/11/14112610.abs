@@ -1,0 +1,4 @@
+Paper: 14112610
+Title: Vortex annihilation and inverse cascades in two dimensional superfluid  turbulence
+Authors: Paul M. Chesler and Andrew Lucas
+Abstract: We study two dimensional superfluid turbulence by employing an effective description valid in the limit where the density of superfluid vortices is parametrically small. At sufficiently low temperatures the effective description yields an inverse cascade with Kolmogorov energy spectrum $E(k) \sim k^{-5/3}$. Denoting the number of vortices as a function of time by $N(t)$, we find that the vortex annihilation rate scales like $\dot N \sim N^{5/3}$ in states with an inverse cascade and $\dot N \sim N^2$ for laminar flow.

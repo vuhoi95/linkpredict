@@ -1,0 +1,4 @@
+Paper: 14110452
+Title: Determination of Boundary Contributions in Recursion Relation
+Authors: Bo Feng and Kang Zhou and Chenkai Qiao and Junjie Rao
+Abstract: In this paper, we propose a new algorithm to systematically determine the missing boundary contributions, when one uses the BCFW on-shell recursion relation to calculate tree amplitudes for general quantum field theories. After an instruction of the algorithm, we will use several examples to demonstrate its application, including amplitudes of color-ordered phi-4 theory, Yang-Mills theory, Einstein-Maxwell theory and color-ordered Yukawa theory with phi-4 interaction.

@@ -1,0 +1,4 @@
+Paper: 9403285
+Title: Spherical Shells of Classical Gauge Field and their Topological Charge  as a Perturbative Expansion
+Authors: Edward Farhi and Valentin V. Khoze and Krishna Rajagopal and Robert Singleton Jr
+Abstract: We consider the classical equations of motion of $SU(2)$ gauge theory, without a Higgs field, in Minkowski space. We work in the spherical ansatz and develop a perturbative expansion in the coupling constant $g$ for solutions which in the far past look like freely propagating spherical shells. The topological charge $Q$ of these solutions is typically non-integer. We then show that $Q$ can be expressed as a power series expansion in $g$ which can be nonzero at finite order. We give an explicit analytic calculation of the order $g^5$ contribution to $Q$ for specific initial pulses. We discuss the relation between our findings and anomalous fermion number violation, and speculate on the physical implications of our results.

@@ -1,0 +1,4 @@
+Paper: 14125613
+Title: Entanglement entropy of dispersive media from thermodynamic entropy in  one higher dimension
+Authors: Mohammad F. Maghrebi and Homer Reid
+Abstract: A dispersive medium becomes entangled with zero-point fluctuations in the vacuum. We consider an arbitrary array of material bodies weakly interacting with a quantum field and compute the quantum mutual information between them. It is shown that the mutual information in D dimensions can be mapped to classical thermodynamic entropy in D+1 dimensions. As a specific example, we compute the mutual information both analytically and numerically for a range of separation distances between two bodies in D=2 dimensions and find a logarithmic correction to the area law at short separations. A key advantage of our method is that it allows the strong subadditivity property---notoriously difficult to prove for quantum systems---to be easily verified.

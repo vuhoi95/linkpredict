@@ -1,0 +1,4 @@
+Paper: 09120617
+Title: Adaptive stepsize and instabilities in complex Langevin dynamics
+Authors: Gert Aarts and Frank A. James and Erhard Seiler and Ion-Olimpiu Stamatescu
+Abstract: Stochastic quantization offers the opportunity to simulate field theories with a complex action. In some theories unstable trajectories are prevalent when a constant stepsize is employed. We construct algorithms for generating an adaptive stepsize in complex Langevin simulations and find that unstable trajectories are completely eliminated. To illustrate the generality of the approach, we apply it to the three-dimensional XY model at nonzero chemical potential and the heavy dense limit of QCD.

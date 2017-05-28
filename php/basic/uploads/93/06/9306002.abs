@@ -1,0 +1,4 @@
+Paper: 9306002
+Title: Hamiltonian Dynamics of Yang-Mills Fields on a Lattice
+Authors: T. S. Biro and C. Gong and B. Mueller and A. Trayanov
+Abstract: We review recent results from studies of the dynamics of classical Yang-Mills fields on a lattice. We discuss the numerical techniques employed in solving the classical lattice Yang-Mills equations in real time, and present results exhibiting the universal chaotic behavior of nonabelian gauge theories. The complete spectrum of Lyapunov exponents is determined for the gauge group SU(2). We survey results obtained for the SU(3) gauge theory and other nonlinear field theories. We also discuss the relevance of these results to the problem of thermalization in gauge theories.

@@ -1,0 +1,4 @@
+Paper: 9609249
+Title: Yangian Symmetry and Quantum Inverse Scattering Method for the  One-Dimensional Hubbard Model
+Authors: Shuichi Murakami and Frank Göhmann
+Abstract: We develop the quantum inverse scattering method for the one-dimensional Hubbard model on the infinite interval at zero density. $R$-matrix and monodromy matrix are obtained as limits from their known counterparts on the finite interval. The $R$-matrix greatly simplifies in the considered limit. The new $R$-matrix contains a submatrix which turns into the rational $R$-matrix of the XXX-chain by an appropriate reparametrization. The corresponding submatrix of the monodromy matrix thus provides a representation of the Y(su(2)) Yangian. From its quantum determinant we obtain an infinite series of mutually commuting Yangian invariant operators which includes the Hamiltonian.

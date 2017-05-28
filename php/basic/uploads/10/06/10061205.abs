@@ -1,0 +1,4 @@
+Paper: 10061205
+Title: Anderson Localization in Quark-Gluon Plasma
+Authors: Tamas G. Kovacs and Ferenc Pittler
+Abstract: At low temperature the low end of the QCD Dirac spectrum is well described by chiral random matrix theory. In contrast, at high temperature there is no similar statistical description of the spectrum. We show that at high temperature the lowest part of the spectrum consists of a band of statistically uncorrelated eigenvalues obeying essentially Poisson statistics and the corresponding eigenvectors are extremely localized. Going up in the spectrum the spectral density rapidly increases and the eigenvectors become more and more delocalized. At the same time the spectral statistics gradually crosses over to the bulk statistics expected from the corresponding random matrix ensemble. This phenomenon is reminiscent of Anderson localization in disordered conductors. Our findings are based on staggered Dirac spectra in quenched SU(2) lattice simulations.

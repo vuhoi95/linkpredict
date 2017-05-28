@@ -1,0 +1,4 @@
+Paper: 07110825
+Title: Gauge symmetry and Slavnov-Taylor identities for randomly stirred fluids
+Authors: A. Berera and D. Hochberg
+Abstract: The path integral for randomly forced incompressible fluids is shown to have an underlying Becchi-Rouet-Stora (BRS) symmetry as a consequence of Galilean invariance. This symmetry must be respected to have a consistent generating functional, free from both an overall infinite factor and spurious relations amongst correlation functions. We present a procedure for respecting this BRS symmetry, akin to gauge fixing in quantum field theory. Relations are derived between correlation functions of this gauge fixed, BRS symmetric theory, analogous to the Slavnov-Taylor identities of quantum field theory.

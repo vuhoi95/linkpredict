@@ -1,0 +1,4 @@
+Paper: 08101239
+Title: Breakdown of large-N reduction in the quenched Eguchi-Kawai model
+Authors: Barak Bringoltz and Stephen R. Sharpe
+Abstract: We study the validity of the large-N equivalence between four-dimensional SU(N) lattice gauge theory and its momentum quenched version -- the Quenched Eguchi-Kawai (QEK) model. We have found strong evidence that this equivalence does not hold in the weak-coupling regime (and thus in the continuum limit). This is based on weak-coupling analytic arguments and Monto-Carlo simulations at intermediate couplings with 20 <= N <= 200. Since detailed expositions of our arguments, methods and results have already appeared in Phys. Rev. D78:034507 (2008) and Phys. Rev. D78:074503 (2008), we attempt here to give a more intuitive explanation of our results. The breakdown of reduction that we find is due to a dynamically generated correlation between different Euclidean components of the gauge fields.

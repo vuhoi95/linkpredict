@@ -1,0 +1,4 @@
+Paper: 150107863
+Title: Nernst branes from special geometry
+Authors: Paul Dempster and David Errington and Thomas Mohaupt
+Abstract: We construct new black brane solutions in $U(1)$ gauged ${\cal N}=2$ supergravity with a general cubic prepotential, which have entropy density $s\sim T^{1/3}$ as $T \rightarrow 0$ and thus satisfy the Nernst Law. By using the real formulation of special geometry, we are able to obtain analytical solutions in closed form as functions of two parameters, the temperature $T$ and the chemical potential $\mu$. Our solutions interpolate between hyperscaling violating Lifshitz geometries with $(z,\theta)=(0,2)$ at the horizon and $(z,\theta)=(1,-1)$ at infinity. In the zero temperature limit, where the entropy density goes to zero, we recover the extremal Nernst branes of Barisch et al, and the parameters of the near horizon geometry change to $(z,\theta)=(3,1)$.

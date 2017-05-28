@@ -1,0 +1,4 @@
+Paper: 13082926
+Title: Topological Field Theory on a Lattice, Discrete Theta-Angles and  Confinement
+Authors: Anton Kapustin and Ryan Thorngren
+Abstract: We study a topological field theory describing confining phases of gauge theories in four dimensions. It can be formulated on a lattice using a discrete 2-form field talking values in a finite abelian group (the magnetic gauge group). We show that possible theta-angles in such a theory are quantized and labeled by quadratic functions on the magnetic gauge group. When the theta-angles vanish, the theory is dual to an ordinary topological gauge theory, but in general it is not isomorphic to it. We also explain how to couple a lattice Yang-Mills theory to a TQFT of this kind so that the 't Hooft flux is well-defined, and quantized values of the theta-angles are allowed. The quantized theta-angles include the discrete theta-angles recently identified by Aharony, Seiberg and Tachikawa.

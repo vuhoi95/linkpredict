@@ -1,0 +1,4 @@
+Paper: 10040789
+Title: Boundary conditions and consistency of effective theories
+Authors: Janos Polonyi and Alicja Siwek
+Abstract: Effective theories are non-local at the scale of the eliminated heavy particles modes. The gradient expansion which represents such non-locality must be truncated to have treatable models. This step leads to the proliferation of the degrees of freedom which renders the identification of the states of the effective theory nontrivial. Furthermore it generates non-definite metric in the Fock space which in turn endangers the unitarity of the effective theory. It is shown that imposing a generalized KMS boundary conditions for the new degrees of freedom leads to reflection positivity for a wide class of Euclidean effective theories, thereby these lead to acceptable theories when extended to real time.

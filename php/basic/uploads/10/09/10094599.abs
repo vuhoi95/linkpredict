@@ -1,0 +1,4 @@
+Paper: 10094599
+Title: Non-Gaussian wave functionals in Coulomb gauge Yang--Mills theory
+Authors: Davide R. Campagnari and Hugo Reinhardt
+Abstract: A general method to treat non-Gaussian vacuum wave functionals in the Hamiltonian formulation of a quantum field theory is presented. By means of Dyson--Schwinger techniques, the static Green functions are expressed in terms of the kernels arising in the Taylor expansion of the exponent of the vacuum wave functional. These kernels are then determined by minimizing the vacuum expectation value of the Hamiltonian. The method is applied to Yang--Mills theory in Coulomb gauge, using a vacuum wave functional whose exponent contains up to quartic terms in the gauge field. An estimate of the cubic and quartic interaction kernels is given using as input the gluon and ghost propagators found with a Gaussian wave functional.

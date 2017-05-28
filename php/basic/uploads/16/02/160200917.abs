@@ -1,0 +1,4 @@
+Paper: 160200917
+Title: HYPERgeometric functions DIfferential REduction: Mathematica-based  packages for the differential reduction of generalizedhypergeometric  functions: Fc hypergeometric function of three variables
+Authors: V. Bytev and B. Kniehl
+Abstract: We present a further extension of the HYPERDIRE project, which is devoted to the creation of a set of Mathematica-based program packages for manipulations with Horn-type hypergeometric functions on the basis of differential equations. Specifically, we present the implementation of the differential reduction for the Lauricella function $F_C$ of three variables.

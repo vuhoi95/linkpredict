@@ -1,0 +1,4 @@
+Paper: 13094335
+Title: Complex Langevin Dynamics for chiral Random Matrix Theory
+Authors: A. Mollgaard and K. Splittorff
+Abstract: We apply complex Langevin dynamics to chiral random matrix theory at nonzero chemical potential. At large quark mass the simulations agree with the analytical results while incorrect convergence is found for small quark masses. The region of quark masses for which the complex Langevin dynamics converges incorrectly is identified as the region where the fermion determinant frequently traces out a path surrounding the origin of the complex plane during the Langevin flow. This links the incorrect convergence to an ambiguity in the Langevin force due to the presence of the logarithm of the fermion determinant in the action.

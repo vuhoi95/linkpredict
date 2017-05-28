@@ -1,0 +1,4 @@
+Paper: 09095086
+Title: Leading Logarithms in the Massive O(N) Nonlinear Sigma Model
+Authors: Johan Bijnens and Lisa Carloni
+Abstract: We review Buchler and Colangelo's result that leading divergences at any loop order can be calculated using only one-loop calculations and we provide an alternative proof. We then use this method to calculate the leading divergences of and thus the leading logarithmic corrections to the meson mass in the massive O(N) nonlinear sigma model to five-loop order. We also calculate the all-loop result to leading order in the large $N$ expansion by showing that only cactus diagrams contribute and by summing these via a generalized gap equation.

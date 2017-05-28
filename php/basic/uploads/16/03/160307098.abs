@@ -1,0 +1,4 @@
+Paper: 160307098
+Title: Consistency of non-minimal renormalisation schemes
+Authors: I. Jack and C. Poole
+Abstract: Non-minimal renormalisation schemes such as the momentum subtraction scheme (MOM) have frequently been used for physical computations. The consistency of such a scheme relies on the existence of a coupling redefinition linking it to MSbar. We discuss the implementation of this procedure in detail for a general theory and show how to construct the relevant redefinition up to three-loop order, for the case of a general theory of fermions and scalars in four dimensions and a general scalar theory in six dimensions.

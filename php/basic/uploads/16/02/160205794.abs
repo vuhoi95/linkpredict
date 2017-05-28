@@ -1,0 +1,4 @@
+Paper: 160205794
+Title: Conformal Bootstrap in Embedding Space
+Authors: Jean-François Fortin and Witold Skiba
+Abstract: It is shown how to obtain conformal blocks from embedding space with the help of the operator product expansion. The minimal conformal block originates from scalar exchange in a four-point correlation functions of four scalars. All remaining conformal blocks are simple derivatives of the minimal conformal block. With the help of the orthogonality properties of the conformal blocks, the analytic conformal bootstrap can be implemented directly in embedding space, leading to a Jacobi-like definition of conformal field theories.

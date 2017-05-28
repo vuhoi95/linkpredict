@@ -1,0 +1,4 @@
+Paper: 12116461
+Title: Dissipation in the effective field theory for hydrodynamics: First order  effects
+Authors: Solomon Endlich and Alberto Nicolis and Rafael A. Porto and Junpu Wang
+Abstract: We introduce dissipative effects in the effective field theory of hydrodynamics. We do this in a model-independent fashion by coupling the long-distance degrees of freedom explicitly kept in the effective field theory to a generic sector that "lives in the fluid", which corresponds physically to the microscopic constituents of the fluid. At linear order in perturbations, the symmetries, the derivative expansion, and the assumption that this microscopic sector is thermalized, allow us to characterize the leading dissipative effects at low frequencies via three parameters only, which correspond to bulk viscosity, shear viscosity, and--in the presence of a conserved charge--heat conduction. Using our methods we re-derive the Kubo relations for these transport coefficients.

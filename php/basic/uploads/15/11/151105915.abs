@@ -1,0 +1,4 @@
+Paper: 151105915
+Title: Elimination and recursions in the scattering equations
+Authors: Carlos Cardona and Chrysostomos Kalousios
+Abstract: We use the elimination theory to explicitly construct the (n-3)! order polynomial in one of the variables of the scattering equations. The answer can be given either in terms of a determinant of Sylvester type of dimension (n-3)! or a determinant of B\'ezout type of dimension (n-4)!. We present a recursive formula for the Sylvester determinant. Expansion of the determinants yields expressions in terms of Pl\"ucker coordinates. Elimination of the rest of the variables of the scattering equations is also presented.

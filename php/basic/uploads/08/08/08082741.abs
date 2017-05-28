@@ -1,0 +1,4 @@
+Paper: 08082741
+Title: Entanglement, combinatorics and finite-size effects in spin-chains
+Authors: Bernard Nienhuis and Massimo Campostrini and Pasquale Calabrese
+Abstract: We carry out a systematic study of the exact block entanglement in XXZ spin-chain at Delta=-1/2. We present, the first analytic expressions for reduced density matrices of n spins in a chain of length L (for n<=6 and arbitrary but odd L) of a truly interacting model. The entanglement entropy, the moments of the reduced density matrix, and its spectrum are then easily derived. We explicitely construct the "entanglement Hamiltonian" as the logarithm of this matrix. Exploiting the degeneracy of the ground-state, we find the scaling behavior of entanglement of the zero-temperature mixed state.

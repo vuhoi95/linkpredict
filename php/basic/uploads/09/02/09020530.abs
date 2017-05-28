@@ -1,0 +1,4 @@
+Paper: 09020530
+Title: Detours and Paths: BRST Complexes and Worldline Formalism
+Authors: F. Bastianelli and O. Corradini and A. Waldron
+Abstract: We construct detour complexes from the BRST quantization of worldline diffeomorphism invariant systems. This yields a method to efficiently extract physical quantum field theories from particle models with first class constraint algebras. As an example, we show how to obtain the Maxwell detour complex by gauging N=2 supersymmetric quantum mechanics in curved space. Then we concentrate on first class algebras belonging to a class of recently introduced orthosymplectic quantum mechanical models and give generating functions for detour complexes describing higher spins of arbitrary symmetry types. The first quantized approach facilitates quantum calculations and we employ it to compute the number of physical degrees of freedom associated to the second quantized, field theoretical actions.

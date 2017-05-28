@@ -1,0 +1,4 @@
+Paper: 13126382
+Title: Residue Formulas for Prepotentials, Instanton Expansions and Conformal  Blocks
+Authors: P. Gavrylenko and A. Marshakov
+Abstract: We study the extended prepotentials for the S-duality class of quiver gauge theories, considering them as quasiclassical tau-functions, depending on gauge theory condensates and bare couplings. The residue formulas for the third derivatives of extended prepotentials are proven, which lead to effective way of their computation, as expansion in the weak-coupling regime. We discuss also the differential equations, following from the residue formulas, including the WDVV equations, proven to be valid for the $SU(2)$ quiver gauge theories. As a particular example we consider the constrained conformal quiver gauge theory, corresponding to the Zamolodchikov conformal blocks by 4d/2d duality. In this case part of the found differential equations turn into nontrivial relations for the period matrices of hyperelliptic curves.

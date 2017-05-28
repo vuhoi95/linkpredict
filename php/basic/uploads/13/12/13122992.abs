@@ -1,0 +1,4 @@
+Paper: 13122992
+Title: Vector-valued automorphic forms and vector bundles
+Authors: Hicham Saber and Abdellah Sebbar
+Abstract: While vector-valued automorphic forms can be defined for an arbitrary Fuchsian group $\Gamma$ and an arbitrary representation $R$ of $\Gamma$ in GL$(n,{\mathbb C})$, their existence has been established in the literature only when restrictions are imposed on both $\Gamma$ and $R$. In this paper, we prove the existence of $n$ linearly independent vector-valued automorphic forms for any Fuchsian group $\Gamma$ and any $n$-dimensional complex representation $R$ of $\Gamma$. To this end, we realize these automorphic forms as global sections of a special rank $n$ vector bundle built using solutions to the Riemann-Hilbert problem over various noncompact Riemann surfaces and Kodaira's vanishing theorem.

@@ -1,0 +1,4 @@
+Paper: 14117692
+Title: Non-local gravity and comparison with observational datasets
+Authors: Yves Dirian and Stefano Foffa and Martin Kunz and Michele Maggiore and Valeria Pettorino
+Abstract: We study the cosmological predictions of two recently proposed non-local modifications of General Relativity. Both models have the same number of parameters as $\Lambda$CDM, with a mass parameter $m$ replacing the cosmological constant. We implement the cosmological perturbations of the non-local models into a modification of the CLASS Boltzmann code, and we make a full comparison to CMB, BAO and supernova data. We find that the non-local models fit these datasets as well as $\Lambda$CDM. For both non-local models parameter estimation using Planck+JLA+BAO data gives a value of $H_0$ higher than in $\Lambda$CDM, and in better agreement with the values obtained from local measurements.

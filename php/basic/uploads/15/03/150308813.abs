@@ -1,0 +1,4 @@
+Paper: 150308813
+Title: Hopping parameter expansion to all orders using the complex Langevin  equation
+Authors: G. Aarts and E. Seiler and D. Sexty and I. -O. Stamatescu
+Abstract: We propose two novel formulations of the hopping parameter expansion for finite density QCD using Wilson fermions, while keeping the gauge action intact. We use the complex Langevin equation to circumvent the sign problem in the theory. We perform simulations at very high order of the expansion, such that convergence is directly observable. We compare results to the full QCD results, and see agreement at sufficiently high orders. These results provide support for the use of complex Langevin dynamics to study QCD at nonzero density, both in the full and the expanded theory, and for the convergence of the latter.

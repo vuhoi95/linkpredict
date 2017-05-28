@@ -1,0 +1,4 @@
+Paper: 9503004
+Title: Quantum Langevin equation from forward--backward path integral
+Authors: H. Kleinert and S. V. Shabanov
+Abstract: The quantum Langevin equation is derived from the Feynman-Veron forward--backward path integral representation for a density matrix of a quantum system in a thermal oscillator bath. We exhibit the mechanism by which the classical, $c$-valued noise in the Feynman-Vernon theory turns into an operator-valued quantum noise fulfilling characteristic commutation relation necessary for the unitarity of the time evolution in the quantum Langevin equation.

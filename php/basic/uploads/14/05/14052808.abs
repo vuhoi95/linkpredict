@@ -1,0 +1,4 @@
+Paper: 14052808
+Title: Weighting bubbles in group field theory
+Authors: Aristide Baratin and Laurent Freidel and Razvan Gurau
+Abstract: Group field theories (GFT) are higher dimensional generalizations of matrix models whose Feynman diagrams are dual to triangulations. Here we propose a modification of GFT models that includes extra field indices keeping track of the bubbles of the graphs in the Feynman evaluations. In dimension three, our model exhibits new symmetries, interpreted as the action of the vertex translations of the triangulation. The extra field indices have an elegant algebraic interpretation: they encode the structure of a semi-simple algebra. Remarkably, when the algebra is chosen to be associative, the new structure contributes a topological invariant from each bubble of the graph to the Feynman amplitudes.

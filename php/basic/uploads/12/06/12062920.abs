@@ -1,0 +1,4 @@
+Paper: 12062920
+Title: Large N Free Energy of 3d N=4 SCFTs and AdS/CFT
+Authors: Benjamin Assel and John Estes and Masahito Yamazaki
+Abstract: We provide a non-trivial check of the AdS_4/CFT_3 correspondence recently proposed in arXiv:1106.4253 by verifying the GKPW relation in the large N limit. The CFT free energy is obtained from the previous works (arXiv:1105.2551, arXiv:1105.4390) on the S^3 partition function for 3-dimensional N=4 SCFT T[SU(N)]. This is matched with the computation of the type IIB action on the corresponding gravity background. We unexpectedly find that the leading behavior of the free energy at large N is 1/2 N^2 ln N. We also extend our results to richer theories and argue that 1/2 N^2 ln N is the maximal free energy at large N in this class of gauge theories.

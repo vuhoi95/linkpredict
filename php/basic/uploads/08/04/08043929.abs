@@ -1,0 +1,4 @@
+Paper: 08043929
+Title: Polyakov loops and spectral properties of the staggered Dirac operator
+Authors: Falk Bruckmann and Stefan Keppeler and Marco Panero and Tilo Wettig
+Abstract: We study the spectrum of the staggered Dirac operator in SU(2) gauge fields close to the free limit, for both the fundamental and the adjoint representation. Numerically we find a characteristic cluster structure with spacings of adjacent levels separating into three scales. We derive an analytical formula which explains the emergence of these different spectral scales. The behavior on the two coarser scales is determined by the lattice geometry and the Polyakov loops, respectively. Furthermore, we analyze the spectral statistics on all three scales, comparing to predictions from random matrix theory.

@@ -1,0 +1,4 @@
+Paper: 13021763
+Title: Trees and spatial topology change in CDT
+Authors: Jan Ambjorn and Timothy G. Budd
+Abstract: Generalized causal dynamical triangulations (generalized CDT) is a model of two-dimensional quantum gravity in which a limited number of spatial topology changes is allowed to occur. We solve the model at the discretized level using bijections between quadrangulations and trees. In the continuum limit (scaling limit) the amplitudes are shown to agree with known formulas and explicit expressions are obtained for loop propagators and two-point functions. It is shown that from a combinatorial point of view generalized CDT can be viewed as the scaling limit of planar maps with a finite number of faces and we determine the distance function on this ensemble of planar maps. Finally, the relation with planar maps is used to illuminate a mysterious identity of certain continuum cylinder amplitudes.

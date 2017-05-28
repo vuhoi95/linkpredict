@@ -1,0 +1,4 @@
+Paper: 10091552
+Title: Simulation of gauge transformations on systems of ultracold atoms
+Authors: O. Boada and A. Celi and J. I. Latorre and V Picó
+Abstract: We show that gauge transformations can be simulated on systems of ultracold atoms. We discuss observables that are invariant under these gauge transformations and compute them using a tensor network ansatz that escapes the phase problem. We determine that the Mott-insulator-to-superfluid critical point is monotonically shifted as the induced magnetic flux increases. This result is stable against the inclusion of a small amount of entanglement in the variational ansatz.

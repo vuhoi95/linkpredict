@@ -1,0 +1,4 @@
+Paper: 11071832
+Title: Derivation of Invariant Varieties of Periodic Points from Singularity  Confinement in the case of Toda Map
+Authors: Tsukasa Yumibayashi and Satoru Saito and Yuki Wakimoto
+Abstract: In our previous work we have shown that the invariant varieties of periodic points (IVPP) of all periods of the 3 dimensional Lotka-Volterra map can be derived, iteratively, from the singularity confinement (SC). The method developed there can be applied to any integrable maps of dimension $d$ only when the number of the invariants $p$ equals to $d-1$. We propose, in this note, a new algorithm of the derivation which can be used in the cases ${d\over 2}\le p\le d-2$. Applying this algorithm to the 3 point Toda map, we derive a series of its IVPP's.

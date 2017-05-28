@@ -1,0 +1,4 @@
+Paper: 14113586
+Title: Real-Virtual-Virtual contributions to the inclusive Higgs cross section  at N3LO
+Authors: Falko Dulat and Bernhard Mistlberger
+Abstract: We present the computation of the contributions to N3LO inclusive Higgs boson production due to two-loop amplitudes. Our result is a Laurent expansion in the dimensional regulator, with coefficients that are linear combinations of harmonic polylogarithms of the ratio of the Higgs boson mass and the partonic center of mass energy. We outline our method of solving the differential equations for master integrals appearing in the cross section. Solving these differential equations requires the determination of boundary conditions and we present a new technique for decomposing the boundary conditions into physical contributions. We show how these boundary conditions can be calculated using the method of expansion by regions.

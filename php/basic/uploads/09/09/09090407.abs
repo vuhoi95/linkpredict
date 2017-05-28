@@ -1,0 +1,4 @@
+Paper: 09090407
+Title: The 2-loop partition function of large N gauge theories with adjoint  matter on S^3
+Authors: Matan Mussel and Ran Yacoby
+Abstract: We compute the 2-loop thermal partition function of Yang-Mills theory on a small 3-sphere, in the large N limit with weak 't Hooft coupling. We include N_s scalars and N_f chiral fermions in the adjoint representation of the gauge group (S)U(N), with arbitrary Yukawa and quartic scalar couplings, assuming only commutator interactions. From this computation one can extract information on the perturbative corrections to the spectrum of the theory, and the correction to its Hagedorn temperature. Furthermore, the computation of the 2-loop partition function is a necessary step towards determining the order of the deconfinement phase transition at weak coupling, for which a 3-loop computation is needed.

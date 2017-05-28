@@ -1,0 +1,4 @@
+Paper: 150707351
+Title: Hamilton dynamics for the Lefschetz thimble integration akin to the  complex Langevin method
+Authors: Kenji Fukushima and Yuya Tanizaki
+Abstract: The Lefschetz thimble method, i.e., the integration along the steepest descent cycles, is an idea to evade the sign problem by complexifying the theory. We discuss that such steepest descent cycles can be identified as ground-state wave-functions of a supersymmetric Hamilton dynamics, which is described with a framework akin to the complex Langevin method. We numerically construct the wave-functions on a grid using a toy model and confirm their well-localized behavior.

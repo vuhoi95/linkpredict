@@ -1,0 +1,4 @@
+Paper: 13041803
+Title: The N=4 Superconformal Bootstrap
+Authors: Christopher Beem and Leonardo Rastelli and Balt C. van Rees
+Abstract: We implement the conformal bootstrap for N=4 superconformal field theories in four dimensions. Consistency of the four-point function of the stress-energy tensor multiplet imposes significant upper bounds for the scaling dimensions of unprotected local operators as functions of the central charge of the theory. At the threshold of exclusion, a particular operator spectrum appears to be singled out by the bootstrap constraints. For large values of the central charge, this extremal spectrum is compatible with that of supergravity in AdS_5 x S^5. For finite central charge, we conjecture that the extremal spectrum is that of N=4 SYM at an S-duality invariant value of the complexified gauge coupling.

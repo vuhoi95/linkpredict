@@ -1,0 +1,4 @@
+Paper: 11034986
+Title: Nahm's conjecture and coset models
+Authors: Sinéad Keegan and Werner Nahm
+Abstract: When is a $q$-series modular? This is an interesting open question in mathematics that has deep connections to conformal field theory. In this paper we define a particular $r$-fold $q$-hypergeometric series $f_{A,B,C}$, with data given by a matrix $A$, a vector $B$, and a scalar $C$, all rational, and ask when $f_{A,B,C}$ is modular. In the past much work has been done to predict which values of $A$ give rise to modular $f_{A,B,C}$, however there is no straightforward method for calculating corresponding values of $B$. We approach this problem from the point of view of conformal field theory, by considering $(2n+3,2)$--minimal models, and coset models of the form $\hat{su}(2)_k /\hat{u}(1)$. By calculating the characters of these models and comparing them to the functions $f_{A,B,C}$, we succeed in computing appropriate $B$-values in many cases.

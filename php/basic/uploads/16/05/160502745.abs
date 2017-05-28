@@ -1,0 +1,4 @@
+Paper: 160502745
+Title: An exact limit of ABJM
+Authors: Marco S. Bianchi and Matias Leoni
+Abstract: We study planar ABJM in a limit where one coupling is negligible compared to the other. We provide a recipe for exactly solving the expectation value of bosonic BPS Wilson loops on arbitrary smooth contours, or the leading divergence for cusped ones, using results from localization. As an application, we compute the exact (generalized) cusp anomalous dimension and Bremsstrahlung function and use it to determine the interpolating $h$-function. We finally prove a conjecture on the exact form of the dilatation operator in a closed sector, hinting at the integrability of this limit.

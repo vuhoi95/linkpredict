@@ -1,0 +1,4 @@
+Paper: 9911452
+Title: The effective potential of N-vector models: a field-theoretic study to  O(ε^3)
+Authors: A. Pelissetto and E. Vicari
+Abstract: We study the effective potential of three-dimensional O($N$) models. In statistical physics the effective potential represents the free-energy density as a function of the order parameter (Helmholtz free energy), and, therefore, it is related to the equation of state. In particular, we consider its small-field expansion in the symmetric (high-temperature) phase, whose coefficients are related to the zero-momentum $2j$-point renormalized coupling constants $g_{2j}$. For generic values of $N$, we calculate $g_{2j}$ to three loops in the field-theoretic approach based on the $\epsilon$-expansion. The estimates of $g_{2j}$, or equivalently of $r_{2j}\equiv g_{2j}/g_4^{j-1}$, are obtained by a constrained analysis of the series that takes into account the exact results in one and zero dimensions.

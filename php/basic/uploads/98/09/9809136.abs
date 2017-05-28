@@ -1,0 +1,4 @@
+Paper: 9809136
+Title: Monte Carlo Renormalization of 2d Simplicial Quantum Gravity Coupled to  Gaussian Matter
+Authors: Eric B. Gregory and Simon M. Catterall and Gudmar Thorleifsson
+Abstract: We extend a recently proposed real-space renormalization group scheme for dynamical triangulations to situations where the lattice is coupled to continuous scalar fields. Using Monte Carlo simulations in combination with a linear, stochastic blocking scheme for the scalar fields we are able to determine the leading eigenvalues of the stability matrix with good accuracy both for c = 1 and c = 10 theories.

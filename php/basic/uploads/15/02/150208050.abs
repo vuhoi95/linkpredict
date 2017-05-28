@@ -1,0 +1,4 @@
+Paper: 150208050
+Title: Counting Trees in Supersymmetric Quantum Mechanics
+Authors: Clay Cordova and Shu-Heng Shao
+Abstract: We study the supersymmetric ground states of the Kronecker model of quiver quantum mechanics. This is the simplest quiver with two gauge groups and bifundamental matter fields, and appears universally in four-dimensional N=2 systems. The ground state degeneracy may be written as a multi-dimensional contour integral, and the enumeration of poles can be simply phrased as counting bipartite trees. We solve this combinatorics problem, thereby obtaining exact formulas for the degeneracies of an infinite class of models. We also develop an algorithm to compute the angular momentum of the ground states, and present explicit expressions for the refined indices of theories where one rank is small.

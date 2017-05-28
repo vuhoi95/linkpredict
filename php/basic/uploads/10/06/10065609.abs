@@ -1,0 +1,4 @@
+Paper: 10065609
+Title: Rigidity and defect actions in Landau-Ginzburg models
+Authors: Nils Carqueville and Ingo Runkel
+Abstract: Studying two-dimensional field theories in the presence of defect lines naturally gives rise to monoidal categories: their objects are the different (topological) defect conditions, their morphisms are junction fields, and their tensor product describes the fusion of defects. These categories should be equipped with a duality operation corresponding to reversing the orientation of the defect line, providing a rigid and pivotal structure. We make this structure explicit in topological Landau-Ginzburg models with potential x^d, where defects are described by matrix factorisations of x^d-y^d. The duality allows to compute an action of defects on bulk fields, which we compare to the corresponding N=2 conformal field theories. We find that the two actions differ by phases.

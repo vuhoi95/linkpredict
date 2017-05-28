@@ -1,0 +1,4 @@
+Paper: 10111250
+Title: Cohomology and Hodge Theory on Symplectic Manifolds: II
+Authors: Li-Sheng Tseng and Shing-Tung Yau
+Abstract: We show that the exterior derivative operator on a symplectic manifold has a natural decomposition into two linear differential operators, analogous to the Dolbeault operators in complex geometry. These operators map primitive forms into primitive forms and therefore lead directly to the construction of primitive cohomologies on symplectic manifolds. Using these operators, we introduce new primitive cohomologies that are analogous to the Dolbeault cohomology in the complex theory. Interestingly, the finiteness of these primitive cohomologies follows directly from an elliptic complex. We calculate the known primitive cohomologies on a nilmanifold and show that their dimensions can vary depending on the class of the symplectic form.

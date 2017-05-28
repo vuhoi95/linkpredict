@@ -1,0 +1,4 @@
+Paper: 150807330
+Title: The Halo Boltzmann Equation
+Authors: Matteo Biagetti and Vincent Desjacques and Alex Kehagias and Davide Racco and Antonio Riotto
+Abstract: Dark matter halos are the building blocks of the universe as they host galaxies and clusters. The knowledge of the clustering properties of halos is therefore essential for the understanding of the galaxy statistical properties. We derive an effective halo Boltzmann equation which can be used to describe the halo clustering statistics. In particular, we show how the halo Boltzmann equation encodes a statistically biased gravitational force which generates a bias in the peculiar velocities of virialized halos with respect to the underlying dark matter, as recently observed in N-body simulations.

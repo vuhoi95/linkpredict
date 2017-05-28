@@ -1,0 +1,4 @@
+Paper: 160806504
+Title: Fast analytic solver of rational Bethe equations
+Authors: Christian Marboe and Dmytro Volin
+Abstract: In this note we propose an approach for a fast analytic determination of all possible eigenstates of rational GL(N|M) integrable spin chains of given not too large length, in terms of Baxter Q-functions. We observe that all exceptional solutions, if any, are automatically correctly accounted. The key intuition behind the approach is that the equations on the Q-functions are determined solely by the Young diagram, and not by the choice of the rank of the GL symmetry. Hence we can choose arbitrary N and M that accommodate the desired representation. Then we consider all distinguished Q-functions at once, not only those following a certain Kac-Dynkin path.

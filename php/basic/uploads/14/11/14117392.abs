@@ -1,0 +1,4 @@
+Paper: 14117392
+Title: A quasi-finite basis for multi-loop Feynman integrals
+Authors: Andreas von Manteuffel and Erik Panzer and Robert M. Schabinger
+Abstract: We present a new method for the decomposition of multi-loop Euclidean Feynman integrals into quasi-finite Feynman integrals. These are defined in shifted dimensions with higher powers of the propagators, make explicit both infrared and ultraviolet divergences, and allow for an immediate and trivial expansion in the parameter of dimensional regularization. Our approach avoids the introduction of spurious structures and thereby leaves integrals particularly accessible to direct analytical integration techniques. Alternatively, the resulting convergent Feynman parameter integrals may be evaluated numerically. Our approach is guided by previous work by the second author but overcomes practical limitations of the original procedure by employing integration by parts reduction.

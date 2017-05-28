@@ -1,0 +1,4 @@
+Paper: 11030499
+Title: On the $AdS_5/CFT_4$ TBA and its analytic properties
+Authors: Andrea Cavaglià and Davide Fioravanti and Massimo Mattelliano and Roberto Tateo
+Abstract: The thermodynamic Bethe Ansatz equations arising in the context of the $AdS_5/CFT_4$ correspondence exhibit an important difference with respect to their analogues in relativistic integrable quantum field theories: their solutions (the Y functions) are not meromorphic functions of the rapidity, but live on a complicated Riemann surface with an infinite number of branch points and therefore enjoy a new kind of extended Y-system. In this paper we review the analytic properties of the TBA solutions, and present new information coming from their numerical study. An identity allowing to simplify the equations and the numerical implementation is presented, together with various plots which highlight the analytic structure of the Y functions.

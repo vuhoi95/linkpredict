@@ -1,0 +1,4 @@
+Paper: 12031091
+Title: Chiral symmetry breaking in lattice QED model with fermion brane
+Authors: E. Shintani and T. Onogi
+Abstract: We propose a novel approach to the Graphene system using a local field theory of 4 dimensional QED model coupled to 2+1 dimensional Dirac fermions, whose velocity is much smaller than the speed of light. Performing hybrid Monte Carlo simulations of this model on the lattice, we compute the chiral condensate and its susceptibility with different coupling constant, velocity parameter and flavor number. We find that the chiral symmetry is dynamically broken in the small velocity regime and obtain a qualitatively consistent behavior with the prediction from Schwinger-Dyson equations.

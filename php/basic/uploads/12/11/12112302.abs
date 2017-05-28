@@ -1,0 +1,4 @@
+Paper: 12112302
+Title: Think globally, compute locally
+Authors: Vincent Bouchard and Bertrand Eynard
+Abstract: We introduce a new formulation of the so-called topological recursion, that is defined globally on a compact Riemann surface. We prove that it is equivalent to the generalized recursion for spectral curves with arbitrary ramification. Using this global formulation, we also prove that the correlation functions constructed from the recursion for curves with arbitrary ramification can be obtained as suitable limits of correlation functions for curves with only simple ramification. It then follows that they both satisfy the properties that were originally proved only for curves with simple ramification.

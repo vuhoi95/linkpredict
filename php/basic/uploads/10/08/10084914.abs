@@ -1,0 +1,4 @@
+Paper: 10084914
+Title: On the perturbative S-matrix of generalized sine-Gordon models
+Authors: B. Hoare and A. A. Tseytlin
+Abstract: Motivated by its relation to the Pohlmeyer reduction of AdS_5 x S^5 superstring theory we continue the investigation of the generalized sine-Gordon model defined by SO(N+1)/SO(N) gauged WZW theory with an integrable potential. Extending our previous work (arXiv:0912.2958) we compute the one-loop two-particle S-matrix for the elementary massive excitations. In the N = 2 case corresponding to the complex sine-Gordon theory it agrees with the charge-one sector of the quantum soliton S-matrix proposed in hep-th/9410140. In the case of N > 2 when the gauge group SO(N) is non-abelian we find a curious anomaly in the Yang-Baxter equation which we interpret as a gauge artifact related to the fact that the scattered particles are not singlets under the residual global subgroup of the gauge group.

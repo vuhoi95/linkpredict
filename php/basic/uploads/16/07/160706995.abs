@@ -1,0 +1,4 @@
+Paper: 160706995
+Title: Perturbation Theory in Supersymmetric QED: Infrared Divergences and  Gauge Invariance
+Authors: Michael Dine and Patrick Draper and Howard E. Haber and Laurel Stephenson Haskins
+Abstract: We study some aspects of perturbation theory in $N=1$ supersymmetric abelian gauge theories with massive charged matter. In general gauges, infrared (IR) divergences and nonlocal behavior arise in 1PI diagrams, associated with a $1/k^4$ term in the propagator for the vector superfield. We examine this structure in supersymmetric QED. The IR divergences are gauge-dependent and must cancel in physical quantities like the electron pole mass. We demonstrate that cancellation takes place in a nontrivial way, amounting to a reorganization of the perturbative series from powers of $e^2$ to powers of $e$. We also show how these complications are avoided in cases where a Wilsonian effective action can be defined.

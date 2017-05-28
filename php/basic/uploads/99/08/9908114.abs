@@ -1,0 +1,4 @@
+Paper: 9908114
+Title: The Hubbard chain: Lieb-Wu equations and norm of the eigenfunctions
+Authors: F. Göhmann and V. E. Korepin
+Abstract: We argue that the square of the norm of the Hubbard wave function is proportional to the determinant of a matrix, which is obtained by linearization of the Lieb-Wu equations around a solution. This means that in the vicinity of a solution the Lieb-Wu equations are non-degenerate, if the corresponding wave function is non-zero. We further derive an action that generates the Lieb-Wu equations and express our determinant formula for the square of the norm in terms of the Hessian determinant of this action.

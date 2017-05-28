@@ -1,0 +1,4 @@
+Paper: 07123036
+Title: Quenched mesonic spectrum at large N
+Authors: Luigi Del Debbio and Biagio Lucini and Agostino Patella and Claudio Pica
+Abstract: We compute the masses of the $\pi$ and of the $\rho$ mesons in the quenched approximation on a lattice with fixed lattice spacing $a \simeq 0.145 \ \mathrm{fm}$ for SU($N$) gauge theory with $N = 2,3,4,6$. We find that a simple linear expression in $1/N^2$ correctly captures the features of the lowest-lying meson states at those values of $N$. This enables us to extrapolate to $N = \infty$ the behaviour of $m_{\pi}$ as a function of the quark mass and of $m_{\rho}$ as a function of $m_{\pi}$. Our results for the latter agree within 5% with recent predictions obtained in the AdS/CFT framework.

@@ -1,0 +1,4 @@
+Paper: 150406323
+Title: On-Shell Methods for the Two-Loop Dilatation Operator and Finite  Remainders
+Authors: Florian Loebbert and Dhritiman Nandan and Christoph Sieg and Matthias Wilhelm and Gang Yang
+Abstract: We compute the two-loop minimal form factors of all operators in the SU(2) sector of planar N=4 SYM theory via on-shell unitarity methods. From the UV divergence of this result, we obtain the two-loop dilatation operator in this sector. Furthermore, we calculate the corresponding finite remainder functions. Since the operators break the supersymmetry, the remainder functions do not have the property of uniform transcendentality. However, the leading transcendentality part turns out to be universal and is identical to the corresponding BPS expressions. The remainder functions are shown to satisfy linear relations which can be explained by Ward identities of form factors following from R-symmetry.

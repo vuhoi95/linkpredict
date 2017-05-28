@@ -1,0 +1,4 @@
+Paper: 150307926
+Title: What is the probability that a large random matrix has no real  eigenvalues?
+Authors: Eugene Kanzieper and Mihail Poplavskyi and Carsten Timm and Roger Tribe and Oleg Zaboronski
+Abstract: We study the large-$n$ limit of the probability $p_{2n,2k}$ that a random $2n\times 2n$ matrix sampled from the real Ginibre ensemble has $2k$ real eigenvalues. We prove that, $$\lim_{n\rightarrow \infty}\frac {1}{\sqrt{2n}} \log p_{2n,2k}=\lim_{n\rightarrow \infty}\frac {1}{\sqrt{2n}} \log p_{2n,0}= -\frac{1}{\sqrt{2\pi}}\zeta\left(\frac{3}{2}\right),$$ where $\zeta$ is the Riemann zeta-function. Moreover, for any sequence of non-negative integers $(k_n)_{n\geq 1}$, $$\lim_{n\rightarrow \infty}\frac {1}{\sqrt{2n}} \log p_{2n,2k_n}=-\frac{1}{\sqrt{2\pi}}\zeta\left(\frac{3}{2}\right),$$ provided $\lim_{n\rightarrow \infty} \left(n^{-1/2}\log(n)\right) k_{n}=0$.

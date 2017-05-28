@@ -1,0 +1,4 @@
+Paper: 13096630
+Title: Twists of Plücker coordinates as dimer partition functions
+Authors: Robert J. Marsh and Jeanne Scott
+Abstract: The homogeneous coordinate ring of the Grassmannian Gr(k,n) has a cluster structure defined in terms of planar diagrams known as Postnikov diagrams. The cluster corresponding to such a diagram consists entirely of Pluecker coordinates. We introduce a twist map on Gr(k,n), related to the Berenstein-Fomin-Zelevinsky-twist, and give an explicit Laurent expansion for the twist of an arbitrary Pluecker coordinate in terms of the cluster variables associated with a fixed Postnikov diagram. The expansion arises as a (scaled) dimer partition function of a weighted version of the bipartite graph dual to the Postnikov diagram, modified by a boundary condition determined by the Pluecker coordinate. We also relate the twist map to a maximal green sequence.

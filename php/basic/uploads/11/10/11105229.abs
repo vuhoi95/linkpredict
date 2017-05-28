@@ -1,0 +1,4 @@
+Paper: 11105229
+Title: The Orbifolder: A Tool to study the Low Energy Effective Theory of  Heterotic Orbifolds
+Authors: Hans Peter Nilles and Saul Ramos-Sanchez and Patrick K. S. Vaudrevange and Akin Wingerter
+Abstract: The orbifolder is a program developed in C++ that computes and analyzes the low-energy effective theory of heterotic orbifold compactifications. The program includes routines to compute the massless spectrum, to identify the allowed couplings in the superpotential, to automatically generate large sets of orbifold models, to identify phenomenologically interesting models (e.g. MSSM-like models) and to analyze their vacuum-configurations.

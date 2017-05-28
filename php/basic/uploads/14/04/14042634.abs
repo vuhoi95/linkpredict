@@ -1,0 +1,4 @@
+Paper: 14042634
+Title: Lattice Gerbe Theory
+Authors: Arthur E. Lipstein and Ronald A. Reid-Edwards
+Abstract: We formulate the theory of a 2-form gauge field on a Euclidean spacetime lattice. In this approach, the fundamental degrees of freedom live on the faces of the lattice, and the action can be constructed from the sum over Wilson surfaces associated with each fundamental cube of the lattice. If we take the gauge group to be $U(1)$, the theory reduces to the well-known abelian gerbe theory in the continuum limit. We also propose a very simple and natural non-abelian generalization with gauge group $U(N) \times U(N)$, which gives rise to $U(N)$ Yang-Mills theory upon dimensional reduction. Formulating the theory on a lattice has several other advantages. In particular, it is possible to compute many observables, such as the expectation value of Wilson surfaces, analytically at strong coupling and numerically for any value of the coupling.

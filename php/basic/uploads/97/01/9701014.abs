@@ -1,0 +1,4 @@
+Paper: 9701014
+Title: The Svetitsky-Yaffe conjecture for the plaquette operator
+Authors: F. Gliozzi and P. Provero
+Abstract: According to the Svetitsky-Yaffe conjecture, a (d+1)-dimensional pure gauge theory undergoing a continuous deconfinement transition is in the same universality class as a d-dimensional statistical model with order parameter taking values in the center of the gauge group. We show that the plaquette operator of the gauge theory is mapped into the energy operator of the statistical model. For d=2, this identification allows us to use conformal field theory techniques to evaluate exactly the correlation functions of the plaquette operator at the critical point. In particular, we can evaluate exactly the plaquette expectation value in presence of static sources, which gives some new insight in the structure of the color flux tube in mesons and baryons.

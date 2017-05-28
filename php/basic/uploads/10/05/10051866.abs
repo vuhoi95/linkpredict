@@ -1,0 +1,4 @@
+Paper: 10051866
+Title: Large-spin asymptotics of Euclidean LQG flat-space wavefunctions
+Authors: Aleksandar Mikovic and Marko Vojinovic
+Abstract: We analyze the large-spin asymptotics of a class of spin-network wavefunctions of Euclidean Loop Quantum Gravity, which corresponds to a flat spacetime. A wavefunction from this class can be represented as a sum over the spins of an amplitude for a spin network whose graph is a composition of the the wavefunction spin network graph with the dual one-complex graph and the tetrahedron graphs for a triangulation of the spatial 3-manifold. This spin-network amplitude can be represented as a product of 6j symbols, which is then used to find the large-spin asymptotics of the wavefunction. By using the Laplace method we show that the large-spin asymptotics is given by a sum of Gaussian functions. However, these Gaussian functions are not of the type which gives the correct graviton propagator.

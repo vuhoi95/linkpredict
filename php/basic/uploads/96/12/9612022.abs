@@ -1,0 +1,4 @@
+Paper: 9612022
+Title: Computer Aided Series Expansions for Critical Phenomena
+Authors: Hildegard Meyer-Ortmanns and Thomas Reisz
+Abstract: Under quite general conditions critical phenomena can be described with high order linked cluster expansions. The coefficients of the series admit a graphical expansion that is generated with the aid of computers. Our generalization of linked cluster expansions from an infinite to a finite volume allows to perform a finite size scaling analysis. We also indicate a generalization to Dynamical Linked Cluster Expansions with possible applications to spin glasses and neural networks with coupled spin and interaction dynamics.

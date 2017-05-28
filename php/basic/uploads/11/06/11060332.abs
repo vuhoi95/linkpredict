@@ -1,0 +1,4 @@
+Paper: 11060332
+Title: Loop equations and topological recursion for the arbitrary-$β$  two-matrix model
+Authors: Michel Bergère and Bertrand Eynard and Olivier Marchal and Aleix Prats-Ferrer
+Abstract: We write the loop equations for the $\beta$ two-matrix model, and we propose a topological recursion algorithm to solve them, order by order in a small parameter. We find that to leading order, the spectral curve is a "quantum" spectral curve, i.e. it is given by a differential operator (instead of an algebraic equation for the hermitian case). Here, we study the case where that quantum spectral curve is completely degenerate, it satisfies a Bethe ansatz, and the spectral curve is the Baxter TQ relation.

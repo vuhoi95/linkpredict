@@ -1,0 +1,4 @@
+Paper: 12053924
+Title: How to add a boundary condition
+Authors: Sebastiano Carpi and Yasuyuki Kawahigashi and Roberto Longo
+Abstract: Given a conformal QFT local net of von Neumann algebras B_2 on the two-dimensional Minkowski spacetime with irreducible subnet A\otimes\A, where A is a completely rational net on the left/right light-ray, we show how to consistently add a boundary to B_2: we provide a procedure to construct a Boundary CFT net B of von Neumann algebras on the half-plane x>0, associated with A, and locally isomorphic to B_2. All such locally isomorphic Boundary CFT nets arise in this way. There are only finitely many locally isomorphic Boundary CFT nets and we get them all together. In essence, we show how to directly redefine the C* representation of the restriction of B_2 to the half-plane by means of subfactors and local conformal nets of von Neumann algebras on S^1.

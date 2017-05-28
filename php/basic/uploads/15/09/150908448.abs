@@ -1,0 +1,4 @@
+Paper: 150908448
+Title: Breaking integrability at the boundary: the sine-Gordon model with Robin  boundary conditions
+Authors: Robert Arthur and Patrick Dorey and Robert Parini
+Abstract: We explore boundary scattering in the sine-Gordon model with a non-integrable family of Robin boundary conditions. The soliton content of the field after collision is analysed using a numerical implementation of the direct scattering problem associated with the inverse scattering method. We find that an antikink may be reflected into various combinations of an antikink, a kink, and one or more breathers, depending on the values of the initial antikink velocity and a parameter associated with the boundary condition. In addition we observe regions with an intricate resonance structure arising from the creation of an intermediate breather whose recollision with the boundary is highly dependent on the breather phase.

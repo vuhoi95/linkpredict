@@ -1,0 +1,4 @@
+Paper: 150609076
+Title: Noether-Like Theorems for Causal Variational Principles
+Authors: Felix Finster and Johannes Kleiner
+Abstract: The connection between symmetries and conservation laws as made by Noether's theorem is extended to the context of causal variational principles and causal fermion systems. Different notions of continuous symmetries are introduced. It is proven that these symmetries give rise to corresponding conserved quantities, expressed in terms of so-called surface layer integrals. In a suitable limiting case, the Noether-like theorems for causal fermion systems reproduce charge conservation and the conservation of energy and momentum in Minkowski space. Thus the conservation of charge and energy-momentum are found to be special cases of general conservation laws which are intrinsic to causal fermion systems.

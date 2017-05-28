@@ -1,0 +1,4 @@
+Paper: 9707342
+Title: Classical approximation for time dependent quantum field theory:  diagrammatic analysis for hot scalar fields
+Authors: Gert Aarts and Jan Smit
+Abstract: We study time dependent correlation functions in hot quantum and classical field theory for the $\lambda\phi^4$ case. We set up the classical analogue of thermal field theory and make a direct comparison between the quantum and classical diagrams. A restriction to time independent correlation functions gives the connection with conventional dimensional reduction. If the parameters in the classical theory are chosen according to the dimensional reduction matching relations, the classical expressions are cutoff independent and they approximate the quantum expressions, provided that the external momenta and frequencies are small with respect to the temperature.

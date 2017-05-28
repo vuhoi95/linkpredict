@@ -1,0 +1,4 @@
+Paper: 9912093
+Title: Optical Holonomic Quantum Computer
+Authors: Jiannis Pachos and Spiros Chountasis
+Abstract: In this paper the idea of holonomic quantum computation is realized within quantum optics. In a non-linear Kerr medium the degenerate states of laser beams are interpreted as qubits. Displacing devices, squeezing devices and interferometers provide the classical control parameter space where the adiabatic loops are performed. This results into logical gates acting on the states of the combined degenerate subspaces of the lasers, producing any one qubit rotations and interactions between any two qubits. Issues such as universality, complexity and scalability are addressed and several steps are taken towards the physical implementation of this model.

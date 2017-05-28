@@ -1,0 +1,4 @@
+Paper: 9912505
+Title: Renormalization of the nonequilibrium dynamics of fermions in a flat FRW  universe
+Authors: J. Baacke and C. Patzold
+Abstract: We derive the renormalized equations of motion and the renormalized energy-momentum tensor for fermions coupled to a spatially homogeneous scalar field (inflaton) in a flat FRW geometry. The fermion back reaction to the metric and to the inflaton field is formulated in one-loop approximation. Having determined the infinite counter terms in an $\bar{MS}$ scheme we formulate the finite terms in a form suitable for numerical computation. We comment on the trace anomaly which is inferred from the standard analysis. We also address the problem of initial singularities and determine the Bogoliubov transformation by which they are removed.

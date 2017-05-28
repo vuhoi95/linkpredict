@@ -1,0 +1,4 @@
+Paper: 07111909
+Title: Consistent Orientation of Moduli Spaces
+Authors: Daniel S. Freed and Michael J. Hopkins and Constantin Teleman
+Abstract: We give an a priori construction of the two-dimensional reduction of three-dimensional quantum Chern-Simons theory. This reduction is a two-dimensional topological quantum field theory and so determines to a Frobenius ring, which here is the twisted equivariant K-theory of a compact Lie group. We construct the theory via correspondence diagrams of moduli spaces, which we "linearize" using complex K-theory. A key point in the construction is to consistently orient these moduli spaces to define pushforwards; the consistent orientation induces twistings of complex K-theory. The Madsen-Tillmann spectra play a crucial role.

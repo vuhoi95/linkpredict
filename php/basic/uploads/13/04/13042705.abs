@@ -1,0 +1,4 @@
+Paper: 13042705
+Title: From state integrals to q-series
+Authors: Stavros Garoufalidis and Rinat Kashaev
+Abstract: It is well-known to the experts that multi-dimensional state integrals of products of Faddeev's quantum dilogarithm which arise in Quantum Topology can be written as finite sums of products of basic hypergeometric series in q=e^{2\pi i\tau} and \tilde{q}=e^{-2\pi i/\tau}. We illustrate this fact by giving a detailed proof for a family of one-dimensional integrals which includes state-integral invariants of 4_1 and 5_2 knots.

@@ -1,0 +1,4 @@
+Paper: 9805300
+Title: The Glassy Potts Model
+Authors: E. Marinari and S. Mossa and G. Parisi
+Abstract: We introduce a Potts model with quenched, frustrated disorder, that enjoys of a gauge symmetry that forbids spontaneous magnetization, and allows the glassy phase to extend from $T_c$ down to T=0. We study numerical the 4 dimensional model with $q=4$ states. We show the existence of a glassy phase, and we characterize it by studying the probability distributions of an order parameter, the binder cumulant and the divergence of the overlap susceptibility. We show that the dynamical behavior of the system is characterized by aging.

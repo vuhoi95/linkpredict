@@ -1,0 +1,4 @@
+Paper: 13072216
+Title: Cabling procedure for the colored HOMFLY polynomials
+Authors: A. Anokhina and An. Morozov
+Abstract: In the present paper we discuss the cabling procedure for the colored HOMFLY polynomial. We describe how it can be used and how one can find all the quantities such as projectors and $\mathcal{R}$-matrices, which are needed in this procedure. The constructed matrix forms of the projectors and the fundamental $\mathcal{R}$-matrices allow one in principle (neglecting the computational difficulties) to find the HOMFLY polynomial in any representation for any knot. We also discuss the group theory explanation of the cabling procedure. This leads to the explanations of the form of the fundamental $\mathcal{R}$-matrices and illuminates several conjectures proposed in previous papers.

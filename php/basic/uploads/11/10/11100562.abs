@@ -1,0 +1,4 @@
+Paper: 11100562
+Title: Solving the AdS/CFT Y-system
+Authors: Nikolay Gromov and Vladimir Kazakov and Sebastien Leurent and Dmytro Volin
+Abstract: Using integrability and analyticity properties of the AdS5/CFT4 Y-system we reduce it to a finite set of nonlinear integral equations. The Z4 symmetry of the underlying coset sigma model, in its quantum version, allows for a deeper insight into the analyticity structure of the underlying Y-functions and T-functions, as well as for their analyticity friendly parameterization in terms of Wronskian determinants of Q-functions. As a check for the new equations, we reproduce the numerical results for the Konishi operator previously obtained from the original infinite Y-system.

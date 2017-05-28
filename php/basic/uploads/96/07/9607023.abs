@@ -1,0 +1,4 @@
+Paper: 9607023
+Title: Anyonic Realization of the Quantum Affine Lie Algebras
+Authors: L. Frappat and A. Sciarrino and S. Sciuto and P. Sorba
+Abstract: We give a realization of the quantum affine Lie algebras $\uqa$ and $\uqc$ in terms of anyons defined on a one-dimensional chain (or on a two-dimensional lattice), the deformation parameter $q$ being related to the statistical parameter $\nu$ of the anyons by $q = e^{i\pi\nu}$. In the limit of the deformation parameter going to one we recover the Feingold-Frenkel fermionic construction of undeformed affine Lie algebras.

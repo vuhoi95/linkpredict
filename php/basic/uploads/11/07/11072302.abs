@@ -1,0 +1,4 @@
+Paper: 11072302
+Title: An off-shell I.R. regularization strategy in the analysis of collinear  divergences
+Authors: Carlo M. Becchi and Alessandra Repetto
+Abstract: We present a method for the analysis of singularities of Feynman amplitudes based on the Speer sector decomposition of the Schwinger parametric integrals combined with the Mellin-Barnes transform. The sector decomposition method is described in some details. We suggest the idea of applying the method to the analysis of collinear singularities in inclusive QCD cross sections in the mass-less limit regularizing the forward amplitudes by an off-shell choice of the initial particle momenta. It is shown how the suggested strategy works in the well known case of the one loop corrections to Deep Inelastic Scattering.

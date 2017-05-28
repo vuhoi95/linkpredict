@@ -1,0 +1,4 @@
+Paper: 150503750
+Title: Deconstructing Conformal Blocks in 4D CFT
+Authors: Alejandro Castedo Echeverri and Emtinan Elkhidir and Denis Karateev and Marco Serone
+Abstract: We show how conformal partial waves (or conformal blocks) of spinor/tensor correlators can be related to each other by means of differential operators in four dimensional conformal field theories. We explicitly construct such differential operators for all possible conformal partial waves associated to four-point functions of arbitrary traceless symmetric operators. Our method allows any conformal partial wave to be extracted from a few "seed" correlators, simplifying dramatically the computation needed to bootstrap tensor correlators.

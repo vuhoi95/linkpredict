@@ -1,0 +1,4 @@
+Paper: 160102649
+Title: On the reduction of generalized polylogarithms to $\text{Li}_n$ and  $\text{Li}_{2,2}$ and on the evaluation thereof
+Authors: Hjalte Frellesvig and Damiano Tommasini and Christopher Wever
+Abstract: We give expressions for all generalized polylogarithms up to weight four in terms of the functions log, $\text{Li}_n$, and $\text{Li}_{2,2}$, valid for arbitrary complex variables. Furthermore we provide algorithms for manipulation and numerical evaluation of $\text{Li}_n$ and $\text{Li}_{2,2}$, and add codes in Mathematica and C++ implementing the results. With these results we calculate a number of previously unknown integrals, which we add in App. C.

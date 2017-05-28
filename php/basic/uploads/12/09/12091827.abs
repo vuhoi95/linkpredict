@@ -1,0 +1,4 @@
+Paper: 12091827
+Title: On the Langevin description of nonequilibrium quantum fields
+Authors: Florian Gautier and Julien Serreau
+Abstract: We consider the non-equilibrium dynamics of a real quantum scalar field. We show the formal equivalence of the exact evolution equations for the statistical and spectral two-point functions with a fictitious Langevin process and examine the conditions under which a local Markovian dynamics is a valid approximation. In quantum field theory, the memory kernel and the noise correlator typically exhibit long time power laws and are thus highly non-local, thereby questioning the possibility of a local description. We show that despite this fact, there is a finite time range during which a local description is accurate. This requires the theory to be (effectively) weakly coupled. We illustrate the use of such a local description for studies of decoherence and entropy production in quantum field theory.

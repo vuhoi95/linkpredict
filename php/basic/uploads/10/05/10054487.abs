@@ -1,0 +1,4 @@
+Paper: 10054487
+Title: Six-point gluon scattering amplitudes from Z_4-symmetric integrable  model
+Authors: Yasuyuki Hatsuda and Katsushi Ito and Kazuhiro Sakai and Yuji Satoh
+Abstract: We study six-point gluon scattering amplitudes in N=4 super Yang-Mills theory at strong coupling by investigating the thermodynamic Bethe ansatz equations of the underlying Z_4-symmetric integrable model both analytically and numerically. By the conformal field theory (CFT) perturbation, we compute the free energy part of the remainder function with generic chemical potential near the CFT/small mass limit. Combining this with the expansion of the Y-functions, we obtain the remainder function near the small mass limit up to a function of the chemical potential, which can be evaluated numerically. We also find the leading corrections to the remainder function near the large mass limit. We confirm that these results are in good agreement with numerical computations.

@@ -1,0 +1,4 @@
+Paper: 10031679
+Title: Exponential renormalization
+Authors: Kurusch Ebrahimi-Fard and Frederic Patras
+Abstract: Moving beyond the classical additive and multiplicative approaches, we present an "exponential" method for perturbative renormalization. Using Dyson's identity for Green's functions as well as the link between the Faa di Bruno Hopf algebra and the Hopf algebras of Feynman graphs, its relation to the composition of formal power series is analyzed. Eventually, we argue that the new method has several attractive features and encompasses the BPHZ method. The latter can be seen as a special case of the new procedure for renormalization scheme maps with the Rota-Baxter property. To our best knowledge, although very natural from group-theoretical and physical points of view, several ideas introduced in the present paper seem to be new (besides the exponential method, let us mention the notions of counterfactors and of order n bare coupling constants).

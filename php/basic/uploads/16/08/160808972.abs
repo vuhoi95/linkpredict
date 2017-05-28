@@ -1,0 +1,4 @@
+Paper: 160808972
+Title: The smallest matrix black hole model in the classical limit
+Authors: David Berenstein and Daisuke Kawai
+Abstract: We study the smallest non-trivial matrix model that can be considered to be a (toy) model of a black hole. The model consists of a pair of $2\times 2$ traceless hermitian matrices with a commutator squared potential and an $SU(2)$ gauge symmetry, plus an $SO(2)$ rotation symmetry. We show that using the symmetries of the system, all but two of the variables can be separated. The two variables that remain display chaos and a transition from chaos to integrability when a parameter related to an $SO(2)$ angular momentum is tuned to a critical value. We compute the Lyapunov exponents near this transition and study the critical exponent of the Lyapunov exponents near the critical point. We compare this transition to extremal rotating black holes.

@@ -1,0 +1,4 @@
+Paper: 10085288
+Title: Relative entropy as a measure of inhomogeneity in general relativity
+Authors: Nikolas Akerblom and Gunther Cornelissen
+Abstract: We introduce the notion of relative volume entropy for two spacetimes with preferred compact spacelike foliations. This is accomplished by applying the notion of Kullback-Leibler divergence to the volume elements induced on spacelike slices. The resulting quantity gives a lower bound on the number of bits which are necessary to describe one metric given the other. For illustration, we study some examples, in particular gravitational waves, and conclude that the relative volume entropy is a suitable device for quantitative comparison of the inhomogeneity of two spacetimes.

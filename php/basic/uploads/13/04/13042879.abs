@@ -1,0 +1,4 @@
+Paper: 13042879
+Title: Ising models and topological codes: classical algorithms and quantum  simulation
+Authors: M. Van den Nest and W. Dür
+Abstract: We present an algorithm to approximate partition functions of 3-body classical Ising models on two-dimensional lattices of arbitrary genus, in the real-temperature regime. Even though our algorithm is purely classical, it is designed by exploiting a connection to topological quantum systems, namely the color codes. The algorithm performance is exponentially better than other approaches which employ mappings between partition functions and quantum state overlaps. In addition, our approach gives rise to a protocol for quantum simulation of such Ising models by simply measuring local observables on color codes.

@@ -1,0 +1,4 @@
+Paper: 160305014
+Title: Cluster algebras and category O for representations of Borel subalgebras  of quantum affine algebras
+Authors: David Hernandez and Bernard Leclerc
+Abstract: Let $\mathcal{O}$ be the category of representations of the Borel subalgebra of a quantum affine algebra introduced by Jimbo and the first author. We show that the Grothendieck ring of a certain monoidal subcategory of $\mathcal{O}$ has the structure of a cluster algebra of infinite rank, with an initial seed consisting of prefundamental representations. In particular, the celebrated Baxter relations for the 6-vertex model get interpreted as Fomin-Zelevinsky mutation relations.

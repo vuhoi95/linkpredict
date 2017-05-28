@@ -1,0 +1,4 @@
+Paper: 10101373
+Title: Linear broadening of the confining string in Yang-Mills theory at low  temperature
+Authors: F. Gliozzi and M. Pepe and U. -J. Wiese
+Abstract: The logarithmic broadening predicted by the systematic low-energy effective field theory for the confining string has recently been verified in numerical simulations of (2+1)-d SU(2) lattice Yang-Mills theory at zero temperature. The same effective theory predicts linear broadening of the string at low non-zero temperature. In this paper, we verify this prediction by comparison with very precise Monte Carlo data. The comparison involves no additional adjustable parameters, because the low-energy constants of the effective theory have already been fixed at zero temperature. It yields very good agreement between the underlying Yang-Mills theory and the effective string theory.

@@ -1,0 +1,4 @@
+Paper: 12082266
+Title: Fractional Canonical Quantization: a Parallel with Noncommutativity
+Authors: Cresus F. L. Godinho and Jose Weberszpil and J. A. Helayël Neto
+Abstract: Adopting a particular approach to fractional calculus, this paper sets out to build up a consistent extension of the Faddeev-Jackiw (or Symplectic) algorithm to carry out the quantization procedure of coarse-grained models in the standard canonical way. In our treatment, we shall work with the Modified Riemman Liouville (MRL) approach for fractional derivatives, where the chain rule is as efficient as it is in the standard differential calculus. We still present a case where we consider the situation of charged particles moving on a plane with velocity $\dot{r}$, subject to an external and intense magnetic field in a coarse-grained scenario. We propose an interesting parallelism with the noncommutative case.

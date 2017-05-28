@@ -1,0 +1,4 @@
+Paper: 9801105
+Title: Deformed W_N algebras from elliptic sl(N) algebras
+Authors: J. Avan and L. Frappat and M. Rossi and P. Sorba
+Abstract: We extend to the sl(N) case the results that we previously obtained on the construction of W_{q,p} algebras from the elliptic algebra A_{q,p}(\hat{sl}(2)_c). The elliptic algebra A_{q,p}(\hat{sl}(N)_c) at the critical level c=-N has an extended center containing trace-like operators t(z). Families of Poisson structures indexed by N(N-1)/2 integers, defining q-deformations of the W_N algebra, are constructed. The operators t(z) also close an exchange algebra when (-p^1/2)^{NM} = q^{-c-N} for M in Z. It becomes Abelian when in addition p=q^{Nh} where h is a non-zero integer. The Poisson structures obtained in these classical limits contain different q-deformed W_N algebras depending on the parity of h, characterizing the exchange structures at p \ne q^{Nh} as new W_{q,p}(sl(N)) algebras.

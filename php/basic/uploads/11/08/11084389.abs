@@ -1,0 +1,4 @@
+Paper: 11084389
+Title: Gauge Theories Labelled by Three-Manifolds
+Authors: Tudor Dimofte and Davide Gaiotto and Sergei Gukov
+Abstract: We propose a dictionary between geometry of triangulated 3-manifolds and physics of three-dimensional N=2 gauge theories. Under this duality, standard operations on triangulated 3-manifolds and various invariants thereof (classical as well as quantum) find a natural interpretation in field theory. For example, independence of the SL(2) Chern-Simons partition function on the choice of triangulation translates to a statement that S^3_b partition functions of two mirror 3d N=2 gauge theories are equal. Three-dimensional N=2 field theories associated to 3-manifolds can be thought of as theories that describe boundary conditions and duality walls in four-dimensional N=2 SCFTs, thus making the whole construction functorial with respect to cobordisms and gluing.

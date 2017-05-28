@@ -1,0 +1,4 @@
+Paper: 12070609
+Title: Orthogonal multiplet bases in SU(Nc) color space
+Authors: Stefan Keppeler and Malin Sjodahl
+Abstract: We develop a general recipe for constructing orthogonal bases for the calculation of color structures appearing in QCD for any number of partons and arbitrary Nc. The bases are constructed using hermitian gluon projectors onto irreducible subspaces invariant under SU(Nc). Thus, each basis vector is associated with an irreducible representation of SU(Nc). The resulting multiplet bases are not only orthogonal, but also minimal for finite Nc. As a consequence, for calculations involving many colored particles, the number of basis vectors is reduced significantly compared to standard approaches employing overcomplete bases. We exemplify the method by constructing multiplet bases for all processes involving a total of 6 external colored partons.

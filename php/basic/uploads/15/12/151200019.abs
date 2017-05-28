@@ -1,0 +1,4 @@
+Paper: 151200019
+Title: Chaos in Classical D0-Brane Mechanics
+Authors: Guy Gur-Ari and Masanori Hanada and Stephen H. Shenker
+Abstract: We study chaos in the classical limit of the matrix quantum mechanical system describing D0-brane dynamics. We determine a precise value of the largest Lyapunov exponent, and, with less precision, calculate the entire spectrum of Lyapunov exponents. We verify that these approach a smooth limit as $N \rightarrow \infty$. We show that a classical analog of scrambling occurs with fast scrambling scaling, $t_* \sim \log S$. These results confirm the k-locality property of matrix mechanics discussed by Sekino and Susskind.

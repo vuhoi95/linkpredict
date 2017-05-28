@@ -1,0 +1,4 @@
+Paper: 160601177
+Title: Axodraw Version 2
+Authors: John C. Collins and J. A. M. Vermaseren
+Abstract: We present version two of the Latex graphical style file Axodraw. It has a number of new drawing primitives and many extra options, and it can now work with \program{pdflatex} to directly produce output in PDF file format (but with the aid of an auxiliary program).

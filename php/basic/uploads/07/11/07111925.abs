@@ -1,0 +1,4 @@
+Paper: 07111925
+Title: Phase structure of twisted Eguchi-Kawai model
+Authors: Tatsuo Azeyanagi and Masanori Hanada and Tomoyoshi Hirata and Tomomi Ishikawa
+Abstract: Twisted Eguchi-Kawai model is a useful tool for studying the large-N gauge theory. It can also provide a nonperturbative formulation of the gauge theory on noncommutative spaces. Recently it was found that the Z_N^4 symmetry in this model, which is crucial for the above applications, can break spontaneously in the intermediate coupling region. In this article, we study the phase structure of this model using the Monte-Carlo simulation. In particular, we elaborately investigate the symmetry breaking point from the weak coupling side. The simulation results show that we cannot take a continuum limit for this model.

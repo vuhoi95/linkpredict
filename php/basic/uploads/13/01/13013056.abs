@@ -1,0 +1,4 @@
+Paper: 13013056
+Title: Framings for graph hypersurfaces
+Authors: Francis Brown and Dzmitry Doryn
+Abstract: We present a method for computing the framing on the cohomology of graph hypersurfaces defined by the Feynman differential form. This answers a question of Bloch, Esnault and Kreimer in the affirmative for an infinite class of graphs for which the framings are Tate motives. Applying this method to the modular graphs of Brown and Schnetz, we find that the Feynman differential form is not of Tate type in general. This finally disproves a folklore conjecture stating that the periods of Feynman integrals of primitive graphs in phi^4 theory factorise through a category of mixed Tate motives.

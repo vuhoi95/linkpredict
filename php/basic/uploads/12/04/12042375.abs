@@ -1,0 +1,4 @@
+Paper: 12042375
+Title: Positivity of Kac polynomials and DT-invariants for quivers
+Authors: Tamas Hausel and Emmanuel Letellier and Fernando Rodriguez-Villegas
+Abstract: We give a cohomological interpretation of both the Kac polynomial and the refined Donaldson-Thomas- invariants of quivers. This interpretation yields a proof of a conjecture of Kac from 1982 and gives a new perspective on recent work of Kontsevich-Soibelman. This is achieved by computing, via an arithmetic Fourier transform, the dimensions of the isoytpical components of the cohomology of associated Nakajima quiver varieties under the action of a Weyl group. The generating function of the corresponding Poincar\'e polynomials is an extension of Hua's formula for Kac polynomials of quivers involving Hall-Littlewood symmetric functions. The resulting formulae contain a wide range of information on the geometry of the quiver varieties.

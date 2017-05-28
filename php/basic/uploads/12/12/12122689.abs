@@ -1,0 +1,4 @@
+Paper: 12122689
+Title: Spinors and the Weyl Tensor Classification in Six Dimensions
+Authors: Carlos Batista and Bruno Carneiro da Cunha
+Abstract: A spinorial approach to 6-dimensional differential geometry is constructed and used to analyze tensor fields of low rank, with special attention to the Weyl tensor. We perform a study similar to the 4-dimensional case, making full use of the SO(6) symmetry to uncover results not easily seen in the tensorial approach. Using spinors, we propose a classification of the Weyl tensor by reinterpreting it as a map from 3-vectors to 3-vectors. This classification is shown to be intimately related to the integrability of maximally isotropic subspaces, establishing a natural framework to generalize the Goldberg-Sachs theorem. We work in complexified spaces, showing that the results for any signature can be obtained by taking the desired real slice.

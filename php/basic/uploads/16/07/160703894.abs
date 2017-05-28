@@ -1,0 +1,4 @@
+Paper: 160703894
+Title: Shear viscosity at the Ising-nematic quantum critical point in two  dimensional metals
+Authors: Andreas Eberlein and Aavishkar A. Patel and Subir Sachdev
+Abstract: In an isotropic strongly interacting quantum liquid without quasiparticles, general scaling arguments imply that the dimensionless ratio $(k_B /\hbar)\, \eta/s$, where $\eta$ is the shear viscosity and $s$ is the entropy density, is a universal number. We compute the shear viscosity of the Ising-nematic critical point of metals in spatial dimension $d=2$ by an expansion below $d=5/2$. The anisotropy associated with directions parallel and normal to the Fermi surface leads to a violation of the scaling expectations: $\eta$ scales in the same manner as a chiral conductivity, and the ratio $\eta/s$ diverges at low temperature ($T$) as $T^{-2/z}$, where $z$ is the dynamic critical exponent for fermionic excitations dispersing normal to the Fermi surface.

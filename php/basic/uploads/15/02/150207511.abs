@@ -1,0 +1,4 @@
+Paper: 150207511
+Title: Global solutions of functional fixed point equations via pseudo-spectral  methods
+Authors: Julia Borchardt and Benjamin Knorr
+Abstract: We apply pseudo-spectral methods to construct global solutions of functional renormalisation group equations in field space to high accuracy. For this, we introduce a basis to resolve both finite as well as asymptotic regions of effective potentials. Our approach is benchmarked using the critical behaviour of the scalar $O(1)$ model, providing results for the global fixed point potential as well as leading critical exponents and their respective global eigenfunctions. We provide new results for (1) multi-critical $O(1)$ models in fractional dimensions, (2) the three-dimensional Gross-Neveu model at both small and large $N$, and (3) the scalar-tensor model, also in three dimensions.

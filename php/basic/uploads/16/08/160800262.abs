@@ -1,0 +1,4 @@
+Paper: 160800262
+Title: The universal coefficient of the exact correlator of a large-$N$ matrix  field theory
+Authors: Eytan Katzav and Peter Orland
+Abstract: Exact expressions have been proposed for correlation functions of the large-$N$ (planar) limit of the $(1+1)$-dimensional ${\rm SU}(N)\times {\rm SU}(N)$ principal chiral sigma model. These were obtained with the form-factor bootstrap. The short-distance form of the two-point function of the scaling field $\Phi(x)$, was found to be $N^{-1}\langle {\rm Tr}\,\Phi(0)^{\dagger} \Phi(x)\rangle=C_{2}\ln^{2}mx$, where $m$ is the mass gap, in agreement with the perturbative renormalization group. Here we point out that the universal coefficient $C_{2}$, is proportional to the mean first-passage time of a L\'{e}vy flight in one dimension. This observation enables us to calculate $C_{2}=1/16\pi$.

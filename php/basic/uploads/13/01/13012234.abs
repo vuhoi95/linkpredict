@@ -1,0 +1,4 @@
+Paper: 13012234
+Title: All-loop infrared-divergent behavior of most-subleading-color  gauge-theory amplitudes
+Authors: Stephen G. Naculich and Horatiu Nastase and Howard J. Schnitzer
+Abstract: The infrared singularities of gravitational amplitudes are one-loop exact, in that higher-loop divergences are characterized by the exponential of the one-loop divergence. We show that the contributions to SU(N) gauge-theory amplitudes that are most-subleading in the 1/N expansion are also one-loop exact, provided that the dipole conjecture holds. Possible corrections to the dipole conjecture, beginning at three loops, could violate one-loop-exactness, though would still maintain the absence of collinear divergences. We also demonstrate a relation between L-loop four-point N=8 supergravity and most-subleading-color N=4 SYM amplitudes that holds for the two leading IR divergences, O(1/\epsilon^L) and O(1/\epsilon^{L-1}), but breaks down at O(1/\epsilon^{L-2}).

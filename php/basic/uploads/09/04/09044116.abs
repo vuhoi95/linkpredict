@@ -1,0 +1,4 @@
+Paper: 09044116
+Title: Eigenvalue density of Wilson loops in 2D SU(N) YM
+Authors: Robert Lohmayer and Herbert Neuberger and Tilo Wettig
+Abstract: In 1981 Durhuus and Olesen (DO) showed that at infinite N the eigenvalue density of a Wilson loop matrix W associated with a simple loop in two-dimensional Euclidean SU(N) Yang-Mills theory undergoes a phase transition at a critical size. The averages of det(z-W), 1/det(z-W), and det(1+uW)/(1-vW) at finite N lead to three different smoothed out expressions, all tending to the DO singular result at infinite N. These smooth extensions are obtained and compared to each other.

@@ -1,0 +1,4 @@
+Paper: 150308839
+Title: Homotopy colimits and global observables in Abelian gauge theory
+Authors: Marco Benini and Alexander Schenkel and Richard J. Szabo
+Abstract: We study chain complexes of field configurations and observables for Abelian gauge theory on contractible manifolds, and show that they can be extended to non-contractible manifolds by using techniques from homotopy theory. The extension prescription yields functors from a category of manifolds to suitable categories of chain complexes. The extended functors properly describe the global field and observable content of Abelian gauge theory, while the original gauge field configurations and observables on contractible manifolds are recovered up to a natural weak equivalence.

@@ -1,0 +1,4 @@
+Paper: 12035116
+Title: Measuring Gaussian quantum information and correlations using the Renyi  entropy of order 2
+Authors: Gerardo Adesso and Davide Girolami and Alessio Serafini
+Abstract: We demonstrate that the Renyi-2 entropy provides a natural measure of information for any multimode Gaussian state of quantum harmonic systems, operationally linked to the phase-space Shannon sampling entropy of the Wigner distribution of the state. We prove that, in the Gaussian scenario, such an entropy satisfies the strong subadditivity inequality, a key requirement for quantum information theory. This allows us to define and analyze measures of Gaussian entanglement and more general quantum correlations based on such an entropy, which are shown to satisfy relevant properties such as monogamy.

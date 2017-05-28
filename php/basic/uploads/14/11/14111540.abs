@@ -1,0 +1,4 @@
+Paper: 14111540
+Title: Partially quenched chiral perturbation theory for N=1 supersymmetric  Yang-Mills theory
+Authors: Gernot Münster and Hendrik Stüwe
+Abstract: Adding a gluino mass term to N=1 supersymmetric Yang-Mills theory breaks supersymmetry softly. In order to approach the supersymmetric continuum limit in numerical simulations with the Wilson action, the bare gluino mass has to be tuned to the limit of vanishing renormalised gluino mass. This can be done efficiently by means of the mass of the adjoint pion, which is, however, an unphysical particle. We discuss how the adjoint pion can be defined in the framework of partially quenched chiral perturbation theory. A relation between its mass and the mass of the gluino, analogous to the Gell-Mann-Oakes-Renner relation of QCD, can be derived.

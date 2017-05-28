@@ -1,0 +1,4 @@
+Paper: 161107221
+Title: Perturbative running of the twisted Yang-Mills coupling in the gradient  flow scheme
+Authors: Eduardo I. Bribian and Margarita Garcia Perez
+Abstract: We report on our ongoing computation of the perturbative running of the Yang-Mills coupling using gradient flow techniques. In particular, we use the gradient flow method with twisted boundary conditions to perform a perturbative expansion of the expectation value of the Yang-Mills energy density up to fourth order in the coupling at finite flow time. We regularise the resulting integrals using dimensional regularisation, and reproduce the universal coefficient of the 1/{\epsilon} term in the relation between bare and renormalised couplings. The computation of the finite part leading to a determination of the {\Lambda} parameter in this scheme is underway.

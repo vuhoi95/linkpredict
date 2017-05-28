@@ -1,0 +1,4 @@
+Paper: 11106861
+Title: Conformal boundary state for the rectangular geometry
+Authors: Roberto Bondesan and Jerome Dubail and Jesper Lykke Jacobsen and Hubert Saleur
+Abstract: We discuss conformal field theories (CFTs) in rectangular geometries, and develop a formalism that involves a conformal boundary state for the 1+1d open system. We focus on the case of homogeneous boundary conditions (no insertion of a boundary condition changing operator), for which we derive an explicit expression of the associated boundary state, valid for any arbitrary CFT. We check the validity of our solution, comparing it with known results for partition functions, numerical simulations of lattice discretizations, and coherent state expressions for free theories.

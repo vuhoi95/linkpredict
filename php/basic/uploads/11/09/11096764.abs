@@ -1,0 +1,4 @@
+Paper: 11096764
+Title: The large central charge limit of conformal blocks
+Authors: Vladimir Fateev and Sylvain Ribault
+Abstract: We study conformal blocks of conformal field theories with a W3 symmetry algebra in the limit where the central charge is large. In this limit, we compute the four-point block as a special case of an sl3-invariant function. In the case when two of the four fields are semi-degenerate, we check that our results agree with the block's combinatorial expansion as a sum over Young diagrams. We also show that such a block obeys a sixth-order differential equation, and that it has an unexpected singularity at z=-1, in addition to the expected singularities at z=0,1,infinity.

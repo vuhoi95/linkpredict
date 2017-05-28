@@ -1,0 +1,4 @@
+Paper: 160202811
+Title: Born-Oppenheimer Approximation for a Singular System
+Authors: Haci Akbas and O. Teoman Turgut
+Abstract: We discuss a simple singular system in one dimension, two heavy particles interacting with a light particle via an attractive contact interaction. It is natural to apply Born-Oppenheimer approximation to this problem. We present a detailed discussion of this approach, the advantage of this simple model is that one can estimate the error terms self-consistently. Moreover, a Fock space approach to this problem is presented where a systematic expansion can be proposed to get higher order corrections. A slight modification of the same problem in which the light particle is relativistic is discussed in a later section. Here, the second quantized description is more challenging but with some care one can recover the first order term as well as introducing a more systematic approach to higher orders.

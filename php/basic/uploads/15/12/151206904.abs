@@ -1,0 +1,4 @@
+Paper: 151206904
+Title: TBA-like integral equations from quantized mirror curves
+Authors: Kazumi Okuyama and Szabolcs Zakany
+Abstract: Quantizing the mirror curve of certain toric Calabi-Yau (CY) three-folds leads to a family of trace class operators. The resolvent function of these operators is known to encode topological data of the CY. In this paper, we show that in certain cases, this resolvent function satisfies a system of non-linear integral equations whose structure is very similar to the Thermodynamic Bethe Ansatz (TBA) systems. This can be used to compute spectral traces, both exactly and as a semiclassical expansion. As a main example, we consider the system related to the quantized mirror curve of local $\mathbb P^2$. According to a recent proposal, the traces of this operator are determined by the refined BPS indices of the underlying CY. We use our non-linear integral equations to test that proposal.

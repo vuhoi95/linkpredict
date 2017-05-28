@@ -1,0 +1,4 @@
+Paper: 9410110
+Title: Remarks on the entropy of 3-manifolds
+Authors: Bergfinnur Durhuus and Thordur Jonsson
+Abstract: We give a simple combinatoric proof of an exponential upper bound on the number of distinct 3-manifolds that can be constructed by successively identifying nearest neighbour pairs of triangles in the boundary of a simplicial 3-ball and show that all closed simplicial manifolds that can be constructed in this manner are homeomorphic to $S^3$. We discuss the problem of proving that all 3-dimensional simplicial spheres can be obtained by this construction and give an example of a simplicial 3-ball whose boundary triangles can be identified pairwise such that no triangle is identified with any of its neighbours and the resulting 3-dimensional simplicial complex is a simply connected 3-manifold.

@@ -1,0 +1,4 @@
+Paper: 13108202
+Title: MCRG Flow for the nonlinear Sigma Model
+Authors: Daniel Koerner and Bjoern H. Wellegehausen and Andreas Wipf
+Abstract: A study of the renormalization group flow in the three-dimensional nonlinear O(N) sigma model using Monte Carlo Renormalization Group (MCRG) techniques is presented. To achieve this, we combine an improved blockspin transformation with the canonical demon method to determine the flow diagram for a number of different truncations. Systematic errors of the approach are highlighted. Results are discussed with hindsight on the fixed point structure of the model and the corresponding critical exponents. Special emphasis is drawn on the existence of a nontrivial ultraviolet fixed point as required for theories modeling the asymptotic safety scenario of quantum gravity.

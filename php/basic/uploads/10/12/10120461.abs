@@ -1,0 +1,4 @@
+Paper: 10120461
+Title: Renormalization Group Analysis of Turbulent Hydrodynamics
+Authors: Dirk Barbi and Gernot Münster
+Abstract: Turbulent hydrodynamics is characterised by universal scaling properties of its structure functions. The basic framework for investigations of these functions has been set by Kolmogorov in 1941. His predictions for the scaling exponents, however, deviate from the numbers found in experiments and numerical simulations. It is a challenge for theoretical physics to derive these deviations on the basis of the Navier-Stokes equations. The renormalisation group is believed to be a very promising tool for the analysis of turbulent systems, but a derivation of the scaling properties of the structure functions has so far not been achieved. In this work, we recall the problems involved, present an approach in the framework of the exact renormalisation group to overcome them, and present first numerical results.

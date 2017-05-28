@@ -1,0 +1,4 @@
+Paper: 150503135
+Title: Lifting flat directions in lattice supersymmetry
+Authors: Simon Catterall and David Schaich
+Abstract: We present a procedure to improve the lattice definition of $\mathcal N = 4$ supersymmetric Yang--Mills theory. The lattice construction necessarily involves U(1) flat directions, and we show how these can be lifted without violating the exact lattice supersymmetry. The basic idea is to modify the equations of motion of an auxiliary field, which determine the moduli space of the system. Applied to numerical calculations, the resulting improved lattice action leads to dramatically reduced violations of supersymmetric Ward identities and much more rapid approach to the continuum limit.

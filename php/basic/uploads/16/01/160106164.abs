@@ -1,0 +1,4 @@
+Paper: 160106164
+Title: A Quantum Correction To Chaos
+Authors: A. Liam Fitzpatrick and Jared Kaplan
+Abstract: We use results on Virasoro conformal blocks to study chaotic dynamics in CFT$_2$ at large central charge c. The Lyapunov exponent $\lambda_L$, which is a diagnostic for the early onset of chaos, receives $1/c$ corrections that may be interpreted as $\lambda_L = \frac{2 \pi}{\beta} \left( 1 + \frac{12}{c} \right)$. However, out of time order correlators receive other equally important $1/c$ suppressed contributions that do not have such a simple interpretation. We revisit the proof of a bound on $\lambda_L$ that emerges at large $c$, focusing on CFT$_2$ and explaining why our results do not conflict with the analysis leading to the bound. We also comment on relationships between chaos, scattering, causality, and bulk locality.

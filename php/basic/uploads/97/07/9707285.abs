@@ -1,0 +1,4 @@
+Paper: 9707285
+Title: Thermodynamic Gross-Neveu model under constant electromagnetic field
+Authors: Shinya Kanemura and Haru-Tada Sato and Hiroshi Tochimura
+Abstract: Analyzed is the effective potential of D-dimensional thermodynamic Gross-Neveu model (defined by large-N leading order, $2\leq D<4$) under constant electromagnetic field ($\vec{E}\cdot\vec{B}=0$). The potential is derived from a thermal analogy of the worldline formalism. In the magnetic case, the potential is expressed in terms of a discretized momentum sum instead of a continuum momentum integral, and it reproduces known critical values of $\mu$ and $T$ in the continuum limit. In the electric case, chiral symmetry is restored at finite $T$ (with arbitrary $\mu$) against instability of fermion vacuum. An electromagnetic duality is pointed out as well. Phase diagrams are obtained in both cases.

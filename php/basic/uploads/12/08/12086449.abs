@@ -1,0 +1,4 @@
+Paper: 12086449
+Title: OPE Convergence in Conformal Field Theory
+Authors: Duccio Pappadopulo and Slava Rychkov and Johnny Espin and Riccardo Rattazzi
+Abstract: We clarify questions related to the convergence of the OPE and conformal block decomposition in unitary Conformal Field Theories (for any number of spacetime dimensions). In particular, we explain why these expansions are convergent in a finite region. We also show that the convergence is exponentially fast, in the sense that the operators of dimension above Delta contribute to correlation functions at most exp(-a Delta). Here the constant a>0 depends on the positions of operator insertions and we compute it explicitly.

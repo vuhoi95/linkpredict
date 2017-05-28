@@ -1,0 +1,4 @@
+Paper: 12086585
+Title: High temperature limit in static backgrounds
+Authors: F. T. Brandt and J. B. Siqueira
+Abstract: We prove that the hard thermal loop contribution to static thermal amplitudes can be obtained by setting all the external four-momenta to zero before performing the Matsubara sums and loop integrals. At the one-loop order we do an iterative procedure for all the 1PI one-loop diagrams and at the two-loop order we consider the self-energy. Our approach is sufficiently general to the extent that it includes theories with any kind of interaction vertices, such as gravity in the weak field approximation, for $d$ space-time dimensions. This result is valid whenever the external fields are all bosonic.

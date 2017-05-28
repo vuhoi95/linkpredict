@@ -1,0 +1,4 @@
+Paper: 9602014
+Title: The universal Vassiliev invariant for the Lie superalgebra gl(1|1)
+Authors: José M Figueroa-O'Farrill and Takashi Kimura and Arkady Vaintrob
+Abstract: We compute the universal weight system for Vassiliev invariants coming from the Lie superalgebra gl(1|1) applying the construction of \cite{YB}. This weight system is a function from the space of chord diagrams to the center $Z$ of the universal enveloping algebra of gl(1|1), and we find a combinatorial expression for it in terms of the standard generators of $Z$. The resulting knot invariants generalize the Alexander-Conway polynomial.

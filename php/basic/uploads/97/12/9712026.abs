@@ -1,0 +1,4 @@
+Paper: 9712026
+Title: Hecke algebraic properties of dynamical R-matrices. Application to  related quantum matrix algebras
+Authors: L. K. Hadjiivanov and A. P. Isaev and O. V. Ogievetsky and P. N. Pyatov and I. T. Todorov
+Abstract: The quantum dynamical Yang-Baxter (or Gervais-Neveu-Felder) equation defines an R-matrix R(p), where $p$ stands for a set of mutually commuting variables. A family of SL(n)-type solutions of this equation provides a new realization of the Hecke algebra. We define quantum antisymmetrizers, introduce the notion of quantum determinant and compute the inverse quantum matrix for matrix algebras of the type R(p) a_1 a_2 = a_1 a_2 R. It is pointed out that such a quantum matrix algebra arises in the operator realization of the chiral zero modes of the WZNW model.

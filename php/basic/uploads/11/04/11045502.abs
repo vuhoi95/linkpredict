@@ -1,0 +1,4 @@
+Paper: 11045502
+Title: From Petrov-Einstein to Navier-Stokes
+Authors: Vyacheslav Lysov and Andrew Strominger
+Abstract: We consider a p+1-dimensional timelike hypersurface \Sigma_c embedded with a flat induced metric in a p+2-dimensional Einstein geometry. It is shown that imposing a Petrov type I condition on the geometry reduces the degrees of freedom in the extrinsic curvature of \Sigma_c to those of a fluid in \Sigma_c. Moreover, expanding around a limit in which the mean curvature of the embedding diverges, the leading-order Einstein constraint equations on \Sigma_c are shown to reduce to the non-linear incompressible Navier-Stokes equation for a fluid moving in \Sigma_c.

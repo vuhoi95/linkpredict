@@ -1,0 +1,4 @@
+Paper: 9404156
+Title: The Decoupling Theorem in Effective Scalar Field Theory
+Authors: R. D. Ball and R. S. Thorne
+Abstract: We consider decoupling in the context of an effective quantum field theory of two scalar fields with well separated mass scales and a $Z_2\times Z_2$ symmetry. We first prove, using Wilson's exact renormalization group equation, that the theory is renormalizable, in the same way that we showed in a previous paper that theories with a single mass scale were renormalizable. We then state and prove a decoupling theorem: at scales below the mass of the heavy particle the full theory may be approximated arbitrarily closely by an effective theory of the light particle alone, with naturalness scale the heavy particle mass. We also compare our formulation of effective field theory with the more conventional local formulation.

@@ -1,0 +1,4 @@
+Paper: 160308531
+Title: Limitations on Dimensional Regularization in Renyi Entropy
+Authors: Ning Bao and Temple He
+Abstract: Dimensional regularization is a common method used to regulate the UV divergence of field theoretic quantities. When it is used in the context of Renyi entropy, however, it is important to consider whether such a procedure eliminates the statistical interpretation thereof as a measure of entanglement of states living on a Hilbert space. We therefore examine the dimensionally regularized Renyi entropy of a 4d unitary CFT and show that it admits no underlying Hilbert space in the state-counting sense. This gives a concrete proof that dimensionally regularized Renyi entropy cannot always be obtained as a limit of the Renyi entropy of some finite-dimensional quantum system.

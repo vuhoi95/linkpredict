@@ -1,0 +1,4 @@
+Paper: 13046733
+Title: A Zig-Zag Index
+Authors: Prarit Agarwal and Antonio Amariti and Alberto Mariotti
+Abstract: We study the large N superconformal index of quiver gauge theories describing the worldvolume of D3 branes probing toric Calabi Yau singularities. The index has been previously noticed to factorize over the set of the extremal BPS mesonic operators of the gauge theory. We review this factorization and reformulate it in terms of zig-zag paths in the dimer model associated to the quiver. By using this reformulation, we argue that the factorization is valid not only for the exact R charge but for every set of R_{trial} respecting the marginality constraints. Moreover, we show the factorization of the index also in theories with orbifold singularities, previously not investigated. We conclude by providing an expression for the index in terms of the toric data of the dual geometry.

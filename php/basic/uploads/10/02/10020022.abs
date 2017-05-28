@@ -1,0 +1,4 @@
+Paper: 10020022
+Title: Hard thermal loops for soft or collinear external momenta
+Authors: Denis Besak and Dietrich Bodeker
+Abstract: We consider finite temperature 1-loop diagrams with hard loop momenta and an arbitrary number of external gauge fields when the external momenta are either soft, or near the light cone and nearly collinear with the loop momentum. We obtain a recursion relation for these diagrams which we translate into an equation for their generating functional. By integrating out the soft fields while keeping two collinear ones we find an integral equation, originally due to Arnold, Moore, and Yaffe, which sums the bremsstrahlung and pair annihilation contribution to the thermal photon production rate.

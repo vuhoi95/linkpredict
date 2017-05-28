@@ -1,0 +1,4 @@
+Paper: 160106451
+Title: Holomorphic Symplectic Fermions
+Authors: Alexei Davydov and Ingo Runkel
+Abstract: Let V be the even part of the vertex operator super-algebra of r pairs of symplectic fermions. Up to two conjectures, we show that V admits a unique holomorphic extension if r is a multiple of 8, and no holomorphic extension otherwise. This is implied by two results obtained in this paper: 1) If r is a multiple of 8, one possible holomorphic extension is given by the lattice vertex operator algebra for the even self dual lattice $D_r^+$ with shifted stress tensor. 2) We classify Lagrangian algebras in SF(h), a ribbon category associated to symplectic fermions. The classification of holomorphic extensions of V follows from 1) and 2) if one assumes that SF(h) is ribbon equivalent to Rep(V), and that simple modules of extensions of V are in one-to-one relation with simple local modules of the corresponding commutative algebra in SF(h).

@@ -1,0 +1,4 @@
+Paper: 160201715
+Title: Loop equations from differential systems
+Authors: Bertrand Eynard and Raphaël Belliard and Olivier Marchal
+Abstract: To any differential system $d\Psi=\Phi\Psi$ where $\Psi$ belongs to a Lie group (a fiber of a principal bundle) and $\Phi$ is a Lie algebra $\mathfrak g$ valued 1-form on a Riemann surface $\Sigma$, is associated an infinite sequence of "correlators" $W_n$ that are symmetric $n$-forms on $\Sigma^n$. The goal of this article is to prove that these correlators always satisfy "loop equations", the same equations satisfied by correlation functions in random matrix models, or the same equations as Virasoro or W-algebra constraints in CFT.

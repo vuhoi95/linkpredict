@@ -1,0 +1,4 @@
+Paper: 10020749
+Title: Entropy and Correlators in Quantum Field Theory
+Authors: Jurjen F. Koksma and Tomislav Prokopec and Michael G. Schmidt
+Abstract: It is well known that loss of information about a system, for some observer, leads to an increase in entropy as perceived by this observer. We use this to propose an alternative approach to decoherence in quantum field theory in which the machinery of renormalisation can systematically be implemented: neglecting observationally inaccessible correlators will give rise to an increase in entropy of the system. As an example we calculate the entropy of a general Gaussian state and, assuming the observer's ability to probe this information experimentally, we also calculate the correction to the Gaussian entropy for two specific non-Gaussian states.

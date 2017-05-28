@@ -1,0 +1,4 @@
+Paper: 12045530
+Title: Nonlinear PT-symmetric plaquettes
+Authors: Kai Li and P. G. Kevrekidis and Boris A. Malomed and Uwe Guenther
+Abstract: We introduce four basic two-dimensional (2D) plaquette configurations with onsite cubic nonlinearities, which may be used as building blocks for 2D PT -symmetric lattices. For each configuration, we develop a dynamical model and examine its PT symmetry. The corresponding nonlinear modes are analyzed starting from the Hamiltonian limit, with zero value of the gain-loss coefficient. Once the relevant waveforms have been identified (chiefly, in an analytical form), their stability is examined by means of linearization in the vicinity of stationary points. This reveals diverse and, occasionally, fairly complex bifurcations. The evolution of unstable modes is explored by means of direct simulations. In particular, stable localized modes are found in these systems, although the majority of identified solutions is unstable.

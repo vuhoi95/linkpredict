@@ -1,0 +1,4 @@
+Paper: 150301409
+Title: A bound on chaos
+Authors: Juan Maldacena and Stephen H. Shenker and Douglas Stanford
+Abstract: We conjecture a sharp bound on the rate of growth of chaos in thermal quantum systems with a large number of degrees of freedom. Chaos can be diagnosed using an out-of-time-order correlation function closely related to the commutator of operators separated in time. We conjecture that the influence of chaos on this correlator can develop no faster than exponentially, with Lyapunov exponent $\lambda_L \le 2 \pi k_B T/\hbar$. We give a precise mathematical argument, based on plausible physical assumptions, establishing this conjecture.

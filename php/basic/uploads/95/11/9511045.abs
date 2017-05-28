@@ -1,0 +1,4 @@
+Paper: 9511045
+Title: The density matrix renormalisation group and critical phenomena
+Authors: R. J. Bursill and F. Gode
+Abstract: We adapt White's density matrix renormalisation group (DMRG) to the direct study of critical phenomena. We use the DMRG to generate transformations in the space of coupling constants. We postulate that a study of density matrix eigenvalues leads to a natural identification of renormalised blocks, operators and Hamiltonians. We apply the scheme to the phase transition in the anisotropic spin-1/2 Heisenberg chain. In the simplest case where the two most probable states in odd sized blocks are used to construct approximate renormalisation group transformations, we find qualitative improvement upon the standard real space renormalisation group method for the thermal exponent $\nu$.

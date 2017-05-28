@@ -1,0 +1,4 @@
+Paper: 160706448
+Title: Renormalization group coefficients and the S-matrix
+Authors: Simon Caron-Huot and Matthias Wilhelm
+Abstract: We show how to use on-shell unitarity methods to calculate renormalisation group coefficients such as beta functions and anomalous dimensions. The central objects are the form factors of composite operators. Their discontinuities can be calculated via phase-space integrals and are related to corresponding anomalous dimensions. In particular, we find that the dilatation operator, which measures the anomalous dimensions, is given by minus the phase of the S-matrix divided by pi. We illustrate our method using several examples from Yang-Mills theory, perturbative QCD and Yukawa theory at one-loop level and beyond.

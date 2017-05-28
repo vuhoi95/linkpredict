@@ -1,0 +1,4 @@
+Paper: 14027078
+Title: Two-loop planar master integrals for the production of off-shell vector  bosons in hadron collisions
+Authors: Johannes M. Henn and Kirill Melnikov and Vladimir A. Smirnov
+Abstract: We describe the calculation of all planar master integrals that are needed for the computation of NNLO QCD corrections to the production of two off-shell vector bosons in hadron collisions. The most complicated representatives of integrals in this class are the two-loop four-point functions where two external lines are on the light-cone and two other external lines have different invariant masses. We compute these and other relevant integrals analytically using differential equations in external kinematic variables and express our results in terms of Goncharov polylogarithms. The case of two equal off-shellnesses, recently considered in Ref. [1], appears as a particular case of our general solution.

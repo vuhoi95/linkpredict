@@ -1,0 +1,4 @@
+Paper: 9602011
+Title: Quantum Decoherence in a Four-Dimensional Black Hole Background
+Authors: John Ellis and N. E. Mavromatos and D. V. Nanopoulos and E. Winstanley
+Abstract: We display a logarithmic divergence in the density matrix of a scalar field in the presence of an Einstein-Yang-Mills black hole in four dimensions. This divergence is related to a previously-found logarithmic divergence in the entropy of the scalar field, which cannot be absorbed into a renormalization of the Hawking-Bekenstein entropy of the black hole. As the latter decays, the logarithmic divergence induces a non-commutator term $\nd{\delta H}\rho$ in the quantum Liouville equation for the density matrix $\rho$ of the scalar field, leading to quantum decoherence. The order of magnitude of $\nd{\delta H}$ is $\mu^2/M_P$, where $\mu$ is the mass of the scalar particle.

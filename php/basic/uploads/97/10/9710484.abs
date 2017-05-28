@@ -1,0 +1,4 @@
+Paper: 9710484
+Title: XLOOPS -- A Program Package calculating One- and Two-Loop Feynman  Diagrams
+Authors: L. Brücher and J. Franzkowski and D. Kreimer
+Abstract: The aim of XLOOPS is to calculate one-particle irreducible Feynman diagrams with one or two closed loops for arbitrary processes in the Standard model of particles and related theories. Up to now this aim is realized for all one-loop diagrams with at most three external lines and for two-loop diagrams with two external lines.

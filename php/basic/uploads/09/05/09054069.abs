@@ -1,0 +1,4 @@
+Paper: 09054069
+Title: Improved Hydrodynamics from the AdS/CFT
+Authors: Michael Lublinsky and Edward Shuryak
+Abstract: We generalize (linearized) relativistic hydrodynamics by including all order gradient expansion of the energy momentum tensor, parametrized by four momenta-dependend transport coefficients, one of which is the usual shear viscosity. We then apply the AdS/CFT duality for ${\cal N}=4$ SUSY in order to compute the retarded correlators of the energy-momentum tensor. From these correlators we determine a large set of transport coefficients of third- and fourth-order hydrodynamics. We find that higher order terms have a tendency to reduce the effect of viscosity.

@@ -1,0 +1,4 @@
+Paper: 9910535
+Title: Quantum Transport Equations for a Scalar Field
+Authors: Michael Joyce and Kimmo Kainulainen and Tomislav Prokopec
+Abstract: We derive quantum Boltzmann equations from Schwinger-Dyson equations in gradient expansion for a weakly coupled scalar field theory with a spatially varying mass. We find that at higher order in gradients a full description of the system requires specifying not only an on shell distribution function but also a finite number of its derivatives, or equivalently its higher moments. These derivatives describe quantum coherence arising as a consequence of localization in position space. We then show that in the limit of frequent scatterings coherent quantum effects are suppressed, and the transport equations reduce to the single Boltzmann equation for particle density, in which particles flow along modified semiclassical trajectories in phase space.

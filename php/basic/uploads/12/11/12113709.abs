@@ -1,0 +1,4 @@
+Paper: 12113709
+Title: Gauge cooling in complex Langevin for QCD with heavy quarks
+Authors: Erhard Seiler and Dénes Sexty and Ion-Olimpiu Stamatescu
+Abstract: We employ a new method, "gauge cooling", to stabilize complex Langevin simulations of QCD with heavy quarks. The results are checked against results obtained with reweigthing; we find agreement within the estimated errors. The method allows us to go to previously unaccessible high densities.

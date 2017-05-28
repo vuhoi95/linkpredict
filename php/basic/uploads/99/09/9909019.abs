@@ -1,0 +1,4 @@
+Paper: 9909019
+Title: Finding and solving Calogero-Moser type systems using Yang-Mills gauge  theories
+Authors: Jonas Blom and Edwin Langmann
+Abstract: Yang-Mills gauge theory models on a cylinder coupled to external matter charges provide powerful means to find and solve certain non-linear integrable systems. We show that, depending on the choice of gauge group and matter charges, such a Yang-Mills model is equivalent to trigonometric Calogero-Moser systems and certain known spin generalizations thereof. Choosing a more general ansatz for the matter charges allows us to obtain and solve novel integrable systems. The key property we use to prove integrability and to solve these systems is gauge invariance of the corresponding Yang-Mills model.

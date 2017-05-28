@@ -1,0 +1,4 @@
+Paper: 11033961
+Title: Bubble divergences: sorting out topology from cell structure
+Authors: Valentin Bonzom and Matteo Smerlak
+Abstract: We conclude our analysis of bubble divergences in the flat spinfoam model. In [arXiv:1008.1476] we showed that the divergence degree of an arbitrary two-complex Gamma can be evaluated exactly by means of twisted cohomology. Here, we specialize this result to the case where Gamma is the two-skeleton of the cell decomposition of a pseudomanifold, and sharpen it with a careful analysis of the cellular and topological structures involved. Moreover, we explain in detail how this approach reproduces all the previous powercounting results for the Boulatov-Ooguri (colored) tensor models, and sheds light on algebraic-topological aspects of Gurau's 1/N expansion.

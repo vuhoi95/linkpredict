@@ -1,0 +1,4 @@
+Paper: 9911096
+Title: Spacetime metric from linear electrodynamics II
+Authors: Friedrich W. Hehl and Yuri N. Obukhov and Guillermo F. Rubilar
+Abstract: Following Kottler, \'E.Cartan, and van Dantzig, we formulate the Maxwell equations in a metric independent form in terms of the field strength $F=(E,B)$ and the excitation $H=({\cal D}, {\cal H})$. We assume a linear constitutive law between $H$ and $F$. First we split off a pseudo-scalar (axion) field from the constitutive tensor; its remaining 20 components can be used to define a duality operator $^#$ for 2-forms. If we enforce the constraint $^{##}=-1$, then we can derive of that the conformally invariant part of the {\em metric} of spacetime.

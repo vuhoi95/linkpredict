@@ -1,0 +1,4 @@
+Paper: 13105516
+Title: Renormalization group-like proof of the universality of the Tutte  polynomial for matroids
+Authors: G. H. E. Duchamp and N. Hoang-Nghia and T. Krajewski and A. Tanasa
+Abstract: In this paper we give a new proof of the universality of the Tutte polynomial for matroids. This proof uses appropriate characters of Hopf algebra of matroids, algebra introduced by Schmitt (1994). We show that these Hopf algebra characters are solutions of some differential equations which are of the same type as the differential equations used to describe the renormalization group flow in quantum field theory. This approach allows us to also prove, in a different way, a matroid Tutte polynomial convolution formula published by Kook, Reiner and Stanton (1999). This FPSAC contribution is an extended abstract.

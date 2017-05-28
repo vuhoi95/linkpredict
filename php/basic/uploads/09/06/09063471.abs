@@ -1,0 +1,4 @@
+Paper: 09063471
+Title: On the Central Charge of a Factorizable Hopf Algebra
+Authors: Yorck Sommerhaeuser and Yongchang Zhu
+Abstract: For a semisimple factorizable Hopf algebra over a field of characteristic zero, we show that the value that an integral takes on the inverse Drinfel'd element differs from the value that it takes on the Drinfel'd element itself at most by a fourth root of unity. This can be reformulated by saying that the central charge of the Hopf algebra is an integer. If the dimension of the Hopf algebra is odd, we show that these two values differ at most by a sign, which can be reformulated by saying that the central charge is even. We give a precise condition on the dimension that determines whether the plus sign or the minus sign occurs. To formulate our results, we use the language of modular data.

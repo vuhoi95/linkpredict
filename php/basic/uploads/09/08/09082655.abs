@@ -1,0 +1,4 @@
+Paper: 09082655
+Title: Discontinuous quantum evolutions in the presence of closed timelike  curves
+Authors: Richard DeJonghe and Kimberly Frey and Tom Imbo
+Abstract: We consider Deutsch's computational model of a quantum system evolving in a spacetime containing closed timelike curves. Although it is known that this model predicts non-linear and non-unitary evolutions of the system, we demonstrate that it also gives rise to evolutions which are a discontinuous function of the input state. These discontinuities persist for the most natural modifications of Deutsch's approach.

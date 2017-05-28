@@ -1,0 +1,4 @@
+Paper: 13042159
+Title: Generalized states in SFT
+Authors: Loriano Bonora and Stefano Giaccari
+Abstract: The search for analytic solutions in open string fields theory \`a la Witten often meets with singular expressions, which need an adequate mathematical formalism to be interpreted. In this paper we discuss this problem and propose a way to resolve the related ambiguities. Our claim is that a correct interpretation requires a formalism similar to distribution theory in functional analysis. To this end we concretely construct a locally convex space of test string states together with the dual space of functionals. We show that the above suspicious expressions can be identified with well defined elements of the dual.

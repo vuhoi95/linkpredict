@@ -1,0 +1,4 @@
+Paper: 10064519
+Title: Regularization of Diagrammatic Series with Zero Convergence Radius
+Authors: Lode Pollet and Nikolay V. Prokof'ev and Boris V. Svistunov
+Abstract: The divergence of perturbative expansions for the vast majority of macroscopic systems, which follows from Dyson's collapse argument, prevents Feynman's diagrammatic technique from being directly used for controllable studies of strongly interacting systems. We show how the problem of divergence can be solved by replacing the original model with a convergent sequence of successive approximations which have a convergent perturbative series. As a prototypical model, we consider the zero-dimensional $\vert \psi \vert^4$ theory.

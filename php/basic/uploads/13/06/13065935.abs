@@ -1,0 +1,4 @@
+Paper: 13065935
+Title: Broken planar Skyrmions -- statics and dynamics
+Authors: Paul Jennings and Thomas Winyard
+Abstract: The broken planar Skyrme model is a theory that breaks global O(3) symmetry to the dihedral group D_N. It has been shown that the single soliton solution is formed of N constituent parts, named partons, that are topologically confined. The multi-soliton solutions have already been computed for N = 3 and were shown to be related to polyiamonds. We extend this for larger N and demonstrate that this polyform structure continues (planar figures formed by regular N-gons joined along their edges, of which polyiamonds are the N=3 subset). Furthermore, we numerically simulate the dynamics of this model for the first time. It will be demonstrated that the time dependent behaviour of these solutions can be broken down into the interactions of its constituent partons. The results are then compared with those of the standard planar Skyrme model.

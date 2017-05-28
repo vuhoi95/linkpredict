@@ -1,0 +1,4 @@
+Paper: 150801209
+Title: Precise space-time positioning for entanglement harvesting
+Authors: Eduardo Martin-Martinez and Barry C. Sanders
+Abstract: We explore the crucial role of relative space-time positioning between the two detectors in an operational two-party entanglement-harvesting protocol. Specifically we show that the protocol is robust if imprecision in spatial positioning and clock synchronization are much smaller than the spatial separation between the detectors and its light-crossing time thereof. This in principle guarantees robustness if the imprecision is comparable to a few times the size of the detectors, which suggests entanglement harvesting could be explored for tabletop experiments. On the other hand, keeping the effects of this imprecision under control would be demanding on astronomical scales.

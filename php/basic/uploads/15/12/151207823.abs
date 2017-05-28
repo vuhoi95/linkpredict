@@ -1,0 +1,4 @@
+Paper: 151207823
+Title: Wavefront sets and polarizations on supermanifolds
+Authors: Claudio Dappiaggi and Heiko Gimperlein and Simone Murro and Alexander Schenkel
+Abstract: In this paper we develop the foundations for microlocal analysis on supermanifolds. Making use of pseudodifferential operators on supermanifolds as introduced by Rempel and Schmitt, we define a suitable notion of super wavefront set for superdistributions which generalizes Dencker's polarization sets for vector-valued distributions to supergeometry. In particular, our super wavefront sets detect polarization information of the singularities of superdistributions. We prove a refined pullback theorem for superdistributions along supermanifold morphisms, which as a special case establishes criteria when two superdistributions may be multiplied. As an application of our framework, we study the singularities of distributional solutions of a supersymmetric field theory.

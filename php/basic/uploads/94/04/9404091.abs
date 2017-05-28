@@ -1,0 +1,4 @@
+Paper: 9404091
+Title: Differential equation for a correlation function of the spin-${1\over2}$  Heisenberg chain
+Authors: Holger Frahm and Alexander R. Its and Vladimir E. Korepin
+Abstract: We consider the probability to find a string of $x$ adjacent parallel spins in the antiferromagnetic ground state of the model (in a magnetic field). We derive a system of integro-difference equations which define this probability. This system is completely integrable, it has Lax representation and a corresponding Riemann-Hilbert problem. The quantum correlation funtion is a $\tau$-function of this system.

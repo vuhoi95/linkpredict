@@ -1,0 +1,4 @@
+Paper: 10096087
+Title: Quantum W-symmetry in AdS_3
+Authors: Matthias R. Gaberdiel and Rajesh Gopakumar and Arunabha Saha
+Abstract: It has recently been argued that, classically, massless higher spin theories in AdS_3 have an enlarged W_N-symmetry as the algebra of asymptotic isometries. In this note we provide evidence that this symmetry is realised (perturbatively) in the quantum theory. We perform a one loop computation of the fluctuations for a massless spin $s$ field around a thermal AdS_3 background. The resulting determinants are evaluated using the heat kernel techniques of arXiv:0911.5085. The answer factorises holomorphically, and the contributions from the various spin $s$ fields organise themselves into vacuum characters of the W_N symmetry. For the case of the hs(1,1) theory consisting of an infinite tower of massless higher spin particles, the resulting answer can be simply expressed in terms of (two copies of) the MacMahon function.

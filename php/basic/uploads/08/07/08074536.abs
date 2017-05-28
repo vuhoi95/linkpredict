@@ -1,0 +1,4 @@
+Paper: 08074536
+Title: Private information via the Unruh effect
+Authors: Kamil Bradler and Patrick Hayden and Prakash Panangaden
+Abstract: In a relativistic theory of quantum information, the possible presence of horizons is a complicating feature placing restrictions on the transmission and retrieval of information. We consider two inertial participants communicating via a noiseless qubit channel in the presence of a uniformly accelerated eavesdropper. Owing to the Unruh effect, the eavesdropper's view of any encoded information is noisy, a feature the two inertial participants can exploit to achieve perfectly secure quantum communication. We show that the associated private quantum capacity is equal to the entanglement-assisted quantum capacity for the channel to the eavesdropper's environment, which we evaluate for all accelerations.

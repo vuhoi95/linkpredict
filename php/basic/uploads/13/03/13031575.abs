@@ -1,0 +1,4 @@
+Paper: 13031575
+Title: A unified approach to Fierz identities
+Authors: Elena-Mirela Babalic and Ioana-Alexandra Coman and Calin Iuliu Lazaroiu
+Abstract: We summarize a unified and computationally efficient treatment of Fierz identities for form-valued pinor bilinears in various dimensions and signatures, using concepts and techniques borrowed from a certain approach to spinors known as geometric algebra. Our formulation displays the real, complex and quaternionic structures in a conceptually clear manner, which is moreover amenable to implementation in various symbolic computation systems.

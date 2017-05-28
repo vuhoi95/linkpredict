@@ -1,0 +1,4 @@
+Paper: 11113158
+Title: Confining dyon gas with finite-volume effects under control
+Authors: Falk Bruckmann and Simon Dinter and Ernst-Michael Ilgenfritz and Benjamin Maier and Michael Muller-Preussker and Marc Wagner
+Abstract: As an approach to describe the long-range properties of non-Abelian gauge theories at non-zero temperature T < T_c, we consider a non-interacting ensemble of dyons (magnetic monopoles) with non-trivial holonomy. We show analytically, that the quark-antiquark free energy from the Polyakov loop correlator grows linearly with the distance, and how the string tension scales with the dyon density. In numerical treatments, the long-range tails of the dyon fields cause severe finite-volume effects. Therefore, we demonstrate the application of Ewald's summation method to this system. Finite-volume effects are shown to be under control, which is a crucial requirement for numerical studies of interacting dyon ensembles.

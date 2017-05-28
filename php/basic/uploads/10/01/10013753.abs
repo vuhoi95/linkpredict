@@ -1,0 +1,4 @@
+Paper: 10013753
+Title: Quantum Computing with Superqubits
+Authors: Leonardo Castellani and Pietro Antonio Grassi and Luca Sommovigo
+Abstract: We analyze some aspects of quantum computing with super-qubits (squbits). We propose the analogue of a superfield formalism, and give a physical interpretation for the Grassmann coefficients in the squbit expansion as fermionic creation operators of an auxiliary quantum system. In the simplest case the squbit is a superposition of one Bose X Bose and one Fermi X Fermi state, and its norm is invariant under a U(2) group realized with Clifford-valued matrices. This case can be generalized to a superposition of n_B bosonic and n_F fermionic states, with a norm invariant under U(n_B + n_F). Entanglement between squbits, super quantum gates and teleportation are discussed.

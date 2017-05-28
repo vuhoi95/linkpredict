@@ -1,0 +1,4 @@
+Paper: 08081419
+Title: Gerbe-holonomy for surfaces with defect networks
+Authors: Ingo Runkel and Rafal R. Suszek
+Abstract: We define the sigma-model action for world-sheets with embedded defect networks in the presence of a three-form field strength. We derive the defect gluing condition for the sigma-model fields and their derivatives, and use it to distinguish between conformal and topological defects. As an example, we treat the WZW model with defects labelled by elements of the centre Z(G) of the target Lie group G; comparing the holonomy for different defect networks gives rise to a 3-cocycle on Z(G). Next, we describe the factorisation properties of two-dimensional quantum field theories in the presence of defects and compare the correlators for different defect networks in the quantum WZW model. This, again, results in a 3-cocycle on Z(G). We observe that the cocycles obtained in the classical and in the quantum computation are cohomologous.

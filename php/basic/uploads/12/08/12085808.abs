@@ -1,0 +1,4 @@
+Paper: 12085808
+Title: Nature of light correlations in ghost imaging
+Authors: Sammy Ragy and Gerardo Adesso
+Abstract: We investigate the nature of correlations in Gaussian light sources used for ghost imaging. We adopt methods from quantum information theory to distinguish genuinely quantum from classical correlations. Combining a microscopic analysis of speckle-speckle correlations with an effective coarse-grained description of the beams, we show that quantum correlations exist even in `classical'-like thermal light sources, and appear relevant for the implementation of ghost imaging in the regime of low illumination. We further demonstrate that the total correlations in the thermal source beams effectively determine the quality of the imaging, as quantified by the signal-to-noise ratio.

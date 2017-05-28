@@ -1,0 +1,4 @@
+Paper: 150201859
+Title: On the reality of spectra of $\boldsymbol{U_q(sl_2)}$-invariant XXZ  Hamiltonians
+Authors: Alexi Morin-Duchesne and Jorgen Rasmussen and Philippe Ruelle and Yvan Saint-Aubin
+Abstract: A new inner product is constructed on each standard module over the Temperley-Lieb algebra $\mathsf{TL}_n(\beta)$ for $\beta\in \mathbb R$ and $n \ge 2$. On these modules, the Hamiltonian $h = -\sum_i e_i$ is shown to be self-adjoint with respect to this inner product. This implies that its action on these modules is diagonalisable with real eigenvalues. A representation theoretic argument shows that the reality of spectra of the Hamiltonian extends to all other Temperley-Lieb representations. In particular, this result applies to the celebrated $U_q(sl_2)$-invariant XXZ Hamiltonian, for all $q+q^{-1}\in \mathbb R$.

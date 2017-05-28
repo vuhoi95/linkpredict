@@ -1,0 +1,4 @@
+Paper: 150309114
+Title: Partial transpose of two disjoint blocks in XY spin chains
+Authors: Andrea Coser and Erik Tonni and Pasquale Calabrese
+Abstract: We consider the partial transpose of the spin reduced density matrix of two disjoint blocks in spin chains admitting a representation in terms of free fermions, such as XY chains. We exploit the solution of the model in terms of Majorana fermions and show that such partial transpose in the spin variables is a linear combination of four Gaussian fermionic operators. This representation allows to explicitly construct and evaluate the integer moments of the partial transpose. We numerically study critical XX and Ising chains and we show that the asymptotic results for large blocks agree with conformal field theory predictions if corrections to the scaling are properly taken into account.

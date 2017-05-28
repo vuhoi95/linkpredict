@@ -1,0 +1,4 @@
+Paper: 07111111
+Title: The Spin-Statistics Theorem in Arbitrary Dimensions
+Authors: Luis J. Boya and E. C. G. Sudarshan
+Abstract: We investigate the spin-statistics connection in arbitrary dimensions for hermitian spinor or tensor quantum fields with a rotationally invariant bilinear Lagrangian density. We use essentially the same simple method as for space dimension D = 3. We find the usual connection (tensors as bosons and spinors as fermions) for D = 8n + 3; 8n + 4; 8n + 5, but only bosons for spinors and tensors in dimensions 8n +/- 1 and 8n. In dimensions 4n + 2 the spinors may be chosen as bosons or fermions. The argument hinges on finding the identity representation of the rotation group either on the symmetric or the antisymmetric part of the square of the field representation.

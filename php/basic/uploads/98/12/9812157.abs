@@ -1,0 +1,4 @@
+Paper: 9812157
+Title: A Quasi-Exactly Solvable N-Body Problem with the sl(N+1) Algebraic  Structure
+Authors: Xinrui Hou and M. Shifman
+Abstract: Starting from a one-particle quasi-exactly solvable system, which is characterized by an intrinsic sl(2) algebraic structure and the energy-reflection symmetry, we construct a daughter N-body Hamiltonian presenting a deformation of the Calogero model. The features of this Hamiltonian are (i) it reduces to a quadratic combination of the generators of sl(N+1); (ii) the interaction potential contains two-body terms and interaction with the force center at the origin; (iii) for quantized values of a certain cohomology parameter n it is quasi-exactly solvable, the multiplicity of states in the algebraic sector is (N+n)!/(N!n!); (iv) the energy-reflection symmetry of the parent system is preserved.

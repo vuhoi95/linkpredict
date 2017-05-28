@@ -1,0 +1,4 @@
+Paper: 13061948
+Title: Link between quantum measurement and the iε term in the QFT  propagator
+Authors: Roman Sverdlov and Luca Bombelli
+Abstract: Mensky has suggested to account for "continuous measurement" by attaching to a path integral a weight function centered around the classical path that the integral assigns a probability amplitude to. We show that in fact this weight function doesn't have to be viewed as an additional ingredient put in by hand. It can be derived instead from the conventional path integral if the infinitesimal term i\epsilon\ in the propagator is made finite; the "classical trajectory" is proportional to the current.

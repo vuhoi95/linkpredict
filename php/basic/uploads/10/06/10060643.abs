@@ -1,0 +1,4 @@
+Paper: 10060643
+Title: Resummation of Threshold, Low- and High-Energy Expansions for  Heavy-Quark Correlators
+Authors: D. Greynat and S. Peris
+Abstract: With the help of the Mellin-Barnes transform, we show how to simultaneously resum the expansion of a heavy-quark correlator around q^2=0 (low-energy), q^2= 4 m^2 (threshold, where m is the quark mass) and q^2=-\infty (high-energy) in a systematic way. We exemplify the method for the perturbative vector correlator at O(alpha_s^2) and O(alpha_s^3). We show that the coefficients, Omega(n), of the Taylor expansion of the vacuum polarization function in terms of the conformal variable \omega admit, for large n, an expansion in powers of 1/n (up to logarithms of n) that we can calculate exactly. This large-n expansion has a sign-alternating component given by the logarithms of the OPE, and a fixed-sign component given by the logarithms of the threshold expansion in the external momentum q^2.

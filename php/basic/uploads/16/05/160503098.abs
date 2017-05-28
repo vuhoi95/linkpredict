@@ -1,0 +1,4 @@
+Paper: 160503098
+Title: Quantum Racah matrices and 3-strand braids in irreps R with |R|=4
+Authors: A. Mironov and A. Morozov and An. Morozov and A. Sleptsov
+Abstract: We describe the inclusive Racah matrices for the first non-(anti)symmetric rectangular representation R=[2,2] for quantum groups U_q(sl_N). Most of them have sizes 2, 3, and 4 and are fully described by the eigenvalue hypothesis. Of two 6x6 matrices, one is also described in this way, but the other one corresponds to the case of degenerate eigenvalues and is evaluated by the highest weight method. Together with the much harder calculation for R=[3,1] in arXiv:1605.02313 and with the new method to extract exclusive matrices S and \bar S from the inclusive ones, this completes the story of Racah matrices for |R|\leq 4 and allows one to calculate and investigate the corresponding colored HOMFLY polynomials for arbitrary 3-strand and arborescent knots.

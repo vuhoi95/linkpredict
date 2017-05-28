@@ -1,0 +1,4 @@
+Paper: 9409144
+Title: Doubly discrete Lagrangian systems related to the Hirota and Sine-Gordon  equation
+Authors: C. Emmrich and N. Kutz
+Abstract: We extend the action for evolution equations of KdV and MKdV type which was derived in [Capel/Nijhoff] to the case of not periodic, but only equivariant phase space variables, introduced in [Faddeev/Volkov]. The difference of these variables may be interpreted as reduced phase space variables via a Marsden-Weinstein reduction where the monodromies play the role of the momentum map. As an example we obtain the doubly discrete sine-Gordon equation and the Hirota equation and the corresponding symplectic structures.

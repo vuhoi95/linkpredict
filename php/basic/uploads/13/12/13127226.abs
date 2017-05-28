@@ -1,0 +1,4 @@
+Paper: 13127226
+Title: The Multiscale Loop Vertex Expansion
+Authors: Razvan Gurau and Vincent Rivasseau
+Abstract: The loop vertex expansion (LVE) is a constructive technique which uses only canonical combinatorial tools and no space-time dependent lattices. It works for quantum field theories without renormalization. Renormalization requires scale analysis. In this paper we provide an enlarged formalism which we call the multiscale loop vertex expansion (MLVE). We test it on what is probably the simplest quantum field theory which requires some kind of renormalization, namely a combinatorial model of the vector type with quartic interaction and a propagator which mimicks the power counting of $\phi^4_2$. An ordinary LVE would fail to treat even this simplest superrenormalizable model, but we show how to perform the ultraviolet limit and prove its analyticity in the Borel summability domain of the model with the MLVE.

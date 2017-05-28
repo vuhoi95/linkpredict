@@ -1,0 +1,4 @@
+Paper: 9510437
+Title: Ultraviolet renormalons in abelian gauge theories
+Authors: M. Beneke and V. A. Smirnov
+Abstract: We analyze the large-order behaviour in perturbation theory of classes of diagrams with an arbitrary number of chains (i.e. photon lines, dressed by vacuum polarization insertions). We derive explicit formulae for the leading and subleading divergence as $n\to\infty$, and a complete result for the vacuum polarization at the next-to-leading order in $1/N_f$. In general, diagrams with more chains yield stronger divergence. We define an analogue of the familiar diagrammatic $R$-operation, which extracts ultraviolet renormalon counterterms as insertions of higher-dimension operators. We then use renormalization group equations to sum the leading $(\ln n/N_f)^k$-corrections to all orders in $1/N_f$ and find the asymptotic behaviour in $n$ up to a constant that must be calculated explicitly order by order in $1/N_f$.

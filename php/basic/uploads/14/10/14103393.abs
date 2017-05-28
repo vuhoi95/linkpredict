@@ -1,0 +1,4 @@
+Paper: 14103393
+Title: Locally-smeared operator product expansions
+Authors: Christopher Monahan and Kostas Orginos
+Abstract: We propose a "locally-smeared Operator Product Expansion" (sOPE) to decompose non-local operators in terms of a basis of locally-smeared operators. The sOPE formally connects nonperturbative matrix elements of smeared degrees of freedom, determined numerically using the gradient flow, to non-local operators in the continuum. The nonperturbative matrix elements do not suffer from power-divergent mixing on the lattice, provided the smearing scale is kept fixed in the continuum limit. The presence of this smearing scale prevents a simple connection to the standard operator product expansion and therefore requires the construction of a two-scale formalism. We demonstrate the feasibility of our approach using the example of real scalar field theory.

@@ -1,0 +1,4 @@
+Paper: 08121620
+Title: Quantum Group as Semi-infinite Cohomology
+Authors: Igor B. Frenkel and Anton M. Zeitlin
+Abstract: We obtain the quantum group $SL_q(2)$ as semi-infinite cohomology of the Virasoro algebra with values in a tensor product of two braided vertex operator algebras with complementary central charges $c+\bar{c}=26$. Each braided VOA is constructed from the free Fock space realization of the Virasoro algebra with an additional q-deformed harmonic oscillator degree of freedom. The braided VOA structure arises from the theory of local systems over configuration spaces and it yields an associative algebra structure on the cohomology. We explicitly provide the four cohomology classes that serve as the generators of $SL_q(2)$ and verify their relations. We also discuss the possible extensions of our construction and its connection to the Liouville model and minimal string theory.

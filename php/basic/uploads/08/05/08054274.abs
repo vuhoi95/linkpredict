@@ -1,0 +1,4 @@
+Paper: 08054274
+Title: Baxter's Q-operators for supersymmetric spin chains
+Authors: Vladimir V. Bazhanov and Zengo Tsuboi
+Abstract: We develop Yang-Baxter integrability structures connected with the quantum affine superalgebra Uq(\hat sl(2|1)). Baxter's Q-operators are explicitly constructed as supertraces of certain monodromy matrices associated with (q-deformed) bosonic and fermionic oscillator algebras. There are six different Q-operators in this case, obeying a few fundamental fusion relations, which imply all functional relations between various commuting transfer matrices. The results are universal in the sense that they do not depend on the quantum space of states and apply both to lattice models and to continuous quantum field theory models as well.

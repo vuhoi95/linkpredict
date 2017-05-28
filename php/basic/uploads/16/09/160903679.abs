@@ -1,0 +1,4 @@
+Paper: 160903679
+Title: Basis Tensor Gauge Theory
+Authors: Daniel J. H. Chung and Ran Lu
+Abstract: We reformulate gauge theories in analogy with the vierbein formalism of general relativity. More specifically, we reformulate gauge theories such that their gauge dynamical degrees of freedom are local fields that transform linearly under the dual representation of the charged matter field. These local fields, which naively have the interpretation of non-local operators similar to Wilson lines, satisfy constraint equations. A set of basis tensor fields are used to solve these constraint equations, and their field theory is constructed. A new local symmetry in terms of the basis tensor fields is used to make this field theory local and maintain a Hamiltonian that is bounded from below. The field theory of the basis tensor fields is what we call the basis tensor gauge theory.

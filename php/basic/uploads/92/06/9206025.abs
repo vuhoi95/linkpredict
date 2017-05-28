@@ -1,0 +1,4 @@
+Paper: 9206025
+Title: A finite model of two-dimensional ideal hydrodynamics
+Authors: J. S. Dowker and A. Wolski
+Abstract: A finite-dimensional su($N$) Lie algebra equation is discussed that in the infinite $N$ limit (giving the area preserving diffeomorphism group) tends to the two-dimensional, inviscid vorticity equation on the torus. The equation is numerically integrated, for various values of $N$, and the time evolution of an (interpolated) stream function is compared with that obtained from a simple mode truncation of the continuum equation. The time averaged vorticity moments and correlation functions are compared with canonical ensemble averages.

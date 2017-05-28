@@ -1,0 +1,4 @@
+Paper: 160406527
+Title: Reflection positivity and invertible topological phases
+Authors: Daniel S. Freed and Michael J. Hopkins
+Abstract: We implement an extended version of reflection positivity (Wick-rotated unitarity) for invertible topological quantum field theories and compute the abelian group of deformation classes using stable homotopy theory. This produces a general formula for the group of Symmetry Protected Topological (SPT) phases in terms of Thom's bordism spectra; the only input is the dimension and symmetry group. We provide computations for fermionic systems in physically relevant dimensions. Other topics include symmetry in quantum field theories, a relativistic 10-fold way, the homotopy theory of relativistic free fermions, and a topological spin-statistics theorem.

@@ -1,0 +1,4 @@
+Paper: 08014203
+Title: Proving Abelian dominance in the Wilson loop operator
+Authors: Kei-Ichi Kondo and Akihiro Shibata
+Abstract: We give a gauge-independent definition of Abelian dominance in the Wilson loop operator and a constructive proof of the Abelian dominance through a non-Abelian Stokes theorem via lattice regularization. We obtain a necessary and sufficient condition for the Abelian dominance in the Wilson loop operator in the fundamental representation. In the continuum limit, the gauge field is decomposed such that the Abelian dominance is given as an exact operator relation, leading to the exact (100%) Abelian dominance. On a lattice, we estimate the deviation from the exact Abelian dominance due to non-zero lattice spacing. In order to obtain the best Abelian dominance on a lattice by minimizing the deviation, we discuss how to decompose the gauge field variable into the dominant part and the remaining one to be decoupled on a lattice.

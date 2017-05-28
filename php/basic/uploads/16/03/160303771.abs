@@ -1,0 +1,4 @@
+Paper: 160303771
+Title: A Proof of the Conformal Collider Bounds
+Authors: Diego M. Hofman and Daliang Li and David Meltzer and David Poland and Fernando Rejon-Barrera
+Abstract: In this paper, we prove that the "conformal collider bounds" originally proposed by Hofman and Maldacena hold for any unitary parity-preserving conformal field theory (CFT) with a unique stress tensor in spacetime dimensions larger than 2. In particular this implies that the ratio of central charges for a unitary 4d CFT lies in the interval $\frac{31}{18} \geq \frac{a}{c} \geq \frac{1}{3}$. For superconformal theories this is further reduced to $\frac{3}{2} \geq \frac{a}{c} \geq \frac{1}{2}$. The proof relies only on CFT first principles - in particular, bootstrap methods - and thus constitutes the first complete field theory proof of these bounds. We further elaborate on similar bounds for non-conserved currents and relate them to results obtained recently from deep inelastic scattering.

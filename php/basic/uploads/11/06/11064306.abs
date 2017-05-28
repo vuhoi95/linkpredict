@@ -1,0 +1,4 @@
+Paper: 11064306
+Title: Calculation of shear viscosity using Green-Kubo relations within a  parton cascade
+Authors: C. Wesp and A. El and F. Reining and Z. Xu and I. Bouras and C. Greiner
+Abstract: The shear viscosity of a gluon gas is calculated using the Green-Kubo relation. Time correlations of the energy-momentum tensor in thermal equilibrium are extracted from microscopic simulations using a parton cascade solving various Boltzmann collision processes. We find that the pQCD based gluon bremsstrahlung described by Gunion-Bertsch processes significantly lowers the shear viscosity by a factor of 3-8 compared to elastic scatterings. The shear viscosity scales with the coupling as 1/(alpha_s^2\log(1/alpha_s)). For a constant coupling constant the shear viscosity to entropy density ratio has no dependence on temperature. Replacing the pQCD-based collision angle distribution of binary scatterings by an isotropic form decreases the shear viscosity by a factor of 3.

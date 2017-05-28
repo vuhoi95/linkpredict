@@ -1,0 +1,4 @@
+Paper: 08064615
+Title: Star products made (somewhat) easier
+Authors: V. G. Kupriyanov and D. V. Vassilevich
+Abstract: We develop an approach to the deformation quantization on the real plane with an arbitrary Poisson structure which based on Weyl symmetrically ordered operator products. By using a polydifferential representation for deformed coordinates $\hat x^j$ we are able to formulate a simple and effective iterative procedure which allowed us to calculate the fourth order star product (and may be extended to the fifth order at the expense of tedious but otherwise straightforward calculations). Modulo some cohomology issues which we do not consider here, the method gives an explicit and physics-friendly description of the star products.

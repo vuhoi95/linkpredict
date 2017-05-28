@@ -1,0 +1,4 @@
+Paper: 9705232
+Title: Monte Carlo Measurement of the Global Persistence Exponent
+Authors: L. Schuelke and B. Zheng
+Abstract: The scaling behaviour of the persistence probability in the critical dynamics is investigated with both the heat-bath and the Metropolis algorithm for the two-dimensional Ising model and Potts model. Special attention is drawn to the dependence on the initial magnetization. The global persistence exponent is measured. Universality is confirmed.

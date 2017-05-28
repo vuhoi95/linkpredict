@@ -1,0 +1,4 @@
+Paper: 10024951
+Title: Algebraic Bethe Ansatz for deformed Gaudin model
+Authors: N. Cirilo-Antonio and N. Manojlovic and A. Stolin
+Abstract: The Gaudin model based on the sl_2-invariant r-matrix with an extra Jordanian term depending on the spectral parameters is considered. The appropriate creation operators defining the Bethe states of the system are constructed through a recurrence relation. The commutation relations between the generating function t(\lambda) of the integrals of motion and the creation operators are calculated and therefore the algebraic Bethe Ansatz is fully implemented. The energy spectrum as well as the corresponding Bethe equations of the system coincide with the ones of the sl_2-invariant Gaudin model. As opposed to the sl_2-invariant case, the operator t(\lambda) and the Gaudin Hamiltonians are not hermitian. Finally, the inner products and norms of the Bethe states are studied.

@@ -1,0 +1,4 @@
+Paper: 09112396
+Title: Nekrasov Functions from Exact BS Periods: the Case of SU(N)
+Authors: A. Mironov and A. Morozov
+Abstract: In arXiv:0910.5670 we suggested that the Nekrasov function with one non-vanishing deformation parameter \epsilon is obtained by the standard Seiberg-Witten contour-integral construction. The only difference is that the Seiberg-Witten differential pdx is substituted by its quantized version for the corresponding integrable system, and contour integrals become exact monodromies of the wave function. This provides an explicit formulation of the earlier guess in arXiv:0908.4052. In this paper we successfully check this suggestion in the first order in \epsilon^2 and the first order in instanton expansion for the SU(N) model, where non-trivial is already consistency of the so deformed Seiberg-Witten equations.

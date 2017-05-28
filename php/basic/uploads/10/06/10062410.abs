@@ -1,0 +1,4 @@
+Paper: 10062410
+Title: Soliton form factors from lattice simulations
+Authors: Arttu Rajantie and David J. Weir
+Abstract: The form factor provides a convenient way to describe properties of topological solitons in the full quantum theory, when semiclassical concepts are not applicable. It is demonstrated that the form factor can be calculated numerically using lattice Monte Carlo simulations. The approach is very general and can be applied to essentially any type of soliton. The technique is illustrated by calculating the kink form factor near the critical point in 1+1-dimensional scalar field theory. As expected from universality arguments, the result agrees with the exactly calculable scaling form factor of the two-dimensional Ising model.

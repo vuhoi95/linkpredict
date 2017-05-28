@@ -1,0 +1,4 @@
+Paper: 9901004
+Title: The glueball spectrum from an anisotropic lattice study
+Authors: Colin J. Morningstar and Mike Peardon
+Abstract: The spectrum of glueballs below 4 GeV in the SU(3) pure-gauge theory is investigated using Monte Carlo simulations of gluons on several anisotropic lattices with spatial grid separations ranging from 0.1 to 0.4 fm. Systematic errors from discretization and finite volume are studied, and the continuum spin quantum numbers are identified. Care is taken to distinguish single glueball states from two-glueball and torelon-pair states. Our determination of the spectrum significantly improves upon previous Wilson action calculations.

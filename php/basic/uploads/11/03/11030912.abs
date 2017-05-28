@@ -1,0 +1,4 @@
+Paper: 11030912
+Title: Second Order Perturbations During Inflation Beyond Slow-roll
+Authors: Ian Huston and Karim A. Malik
+Abstract: We numerically calculate the evolution of second order cosmological perturbations for an inflationary scalar field without resorting to the slow-roll approximation or assuming large scales. In contrast to previous approaches we therefore use the full non-slow-roll source term for the second order Klein-Gordon equation which is valid on all scales. The numerical results are consistent with the ones obtained previously where slow-roll is a good approximation. We investigate the effect of localised features in the scalar field potential which break slow-roll for some portion of the evolution. The numerical package solving the second order Klein-Gordon equation has been released under an open source license and is available for download.

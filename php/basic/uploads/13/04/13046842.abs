@@ -1,0 +1,4 @@
+Paper: 13046842
+Title: Radiation reaction from QED: lightfront perturbation theory in a plane  wave background
+Authors: Anton Ilderton and Greger Torgrimsson
+Abstract: We derive dynamical, real time radiation reaction effects from lightfront QED. Combining the Hamiltonian formalism with a plane wave background field, the calculation is performed in the Furry picture for which the background is treated exactly while interactions between quantum fields are treated in perturbation theory as normal. We work to a fixed order in perturbation theory, but no other approximation is made. The literature contains many proposals for the correct classical equation describing a radiating particle; we take the classical limit of our results and identify which equations are consistent with QED.

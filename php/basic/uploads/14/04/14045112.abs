@@ -1,0 +1,4 @@
+Paper: 14045112
+Title: Scalar-Tensor Anti-Cross-Correlation does not Help to Reconcile the  Tension between BICEP2 and Planck
+Authors: Razieh Emami and Hassan Firouzjahi and Yi Wang
+Abstract: We examine the recent proposal [1] that the anti-cross-correlation of the scalar and tensor primordial fluctuations reconciles the tension between BICEP2 and Planck observations. We show that unfortunately the contribution from the scalar-tensor correlation to the CMB temperature power spectrum vanishes once summed over the angular mode $m$ so the tension between BICEP2 and Planck can not be reconciled. The reason is that one has to use the spin-weighted spherical harmonics when projecting fields with nonzero spins into the CMB sky. These nonzero spin-weighted spherical harmonics are subject to orthogonality conditions when summed over the angular direction and thus the desired cross-correlation between the scalar and tensor perturbations in CMB map vanishes.

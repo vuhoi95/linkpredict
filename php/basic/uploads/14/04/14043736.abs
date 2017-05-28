@@ -1,0 +1,4 @@
+Paper: 14043736
+Title: Seiberg-Witten for $Spin(n)$ with Spinors
+Authors: Oscar Chacaltana and Jacques Distler and Anderson Trimm
+Abstract: $\mathcal{N}=2$ supersymmetric $Spin(n)$ gauge theory admits hypermultiplets in spinor representations of the gauge group, compatible with $\beta\leq0$, for $n\leq 14$. The theories with $\beta<0$ can be obtained as mass-deformations of the $\beta=0$ theories, so it is of greatest interest to construct the $\beta=0$ theories. In previous works, we discussed the $n\leq8$ theories. Here, we turn to the $9\leq n\leq 14$ cases. By compactifying the $D_N$ (2,0) theory on a 4-punctured sphere, we find Seiberg-Witten solutions to almost all of the remaining cases. There are five theories, however, which do not seem to admit a realization from six dimensions.

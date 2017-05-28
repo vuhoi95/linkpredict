@@ -1,0 +1,4 @@
+Paper: 9710006
+Title: AKS scheme for face and Calogero-Moser-Sutherland type models
+Authors: Branislav Jurco and Peter Schupp
+Abstract: We give the construction of quantum Lax equations for IRF models and difference versions of Calogero-Moser-Sutherland models introduced by Ruijsenaars. We solve the equations using factorization properties of the underlying face Hopf algebras/elliptic quantum groups. This construction is in the spirit of the Adler-Kostant-Symes method and generalizes our previous work to the case of face Hopf algebras/elliptic quantum groups with dynamical R-matrices.

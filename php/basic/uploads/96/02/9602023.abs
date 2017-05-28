@@ -1,0 +1,4 @@
+Paper: 9602023
+Title: Separation of variables for A2 Ruijsenaars model and new integral  representation for A2 Macdonald polynomials
+Authors: Vadim B. Kuznetsov and Evgueni K. Sklyanin
+Abstract: Using the Baker-Akhiezer function technique we construct a separation of variables for the classical trigonometric 3-particle Ruijsenaars model (relativistic generalization of Calogero-Moser-Sutherland model). In the quantum case, an integral operator M is constructed from the Askey-Wilson contour integral. The operator M transforms the eigenfunctions of the commuting Hamiltonians (Macdonald polynomials for the root sytem A2) into the factorized form S(y1)S(y2) where S(y) is a Laurent polynomial of one variable expressed in terms of the 3phi2(y) basic hypergeometric series. The inversion of M produces a new integral representation for the A2 Macdonald polynomials. We also present some results and conjectures for general n-particle case.

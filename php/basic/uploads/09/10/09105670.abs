@@ -1,0 +1,4 @@
+Paper: 09105670
+Title: Nekrasov Functions and Exact Bohr-Sommerfeld Integrals
+Authors: A. Mironov and A. Morozov
+Abstract: In the case of SU(2), associated by the AGT relation to the 2d Liouville theory, the Seiberg-Witten prepotential is constructed from the Bohr-Sommerfeld periods of 1d sine-Gordon model. If the same construction is literally applied to monodromies of exact wave functions, the prepotential turns into the one-parametric Nekrasov prepotential F(a,\epsilon_1) with the other epsilon parameter vanishing, \epsilon_2=0, and \epsilon_1 playing the role of the Planck constant in the sine-Gordon Shroedinger equation, \hbar=\epsilon_1. This seems to be in accordance with the recent claim in arXiv:0908.4052 and poses a problem of describing the full Nekrasov function as a seemingly straightforward double-parametric quantization of sine-Gordon model. This also provides a new link between the Liouville and sine-Gordon theories.

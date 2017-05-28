@@ -1,0 +1,4 @@
+Paper: 09013386
+Title: Regularizing Cubic Open Neveu-Schwarz String Field Theory
+Authors: Nathan Berkovits and Warren Siegel
+Abstract: After introducing non-minimal variables, the midpoint insertion of Y\bar Y in cubic open Neveu-Schwarz string field theory can be replaced with an operator N_\rho depending on a constant parameter \rho. As in cubic open superstring field theory using the pure spinor formalism, the operator N_\rho is invertible and is equal to 1 up to a BRST-trivial quantity. So unlike the linearized equation of motion Y\bar Y QV=0 which requires truncation of the Hilbert space in order to imply QV=0, the linearized equation N_\rho QV=0 directly implies QV=0.

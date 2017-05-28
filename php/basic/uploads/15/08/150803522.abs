@@ -1,0 +1,4 @@
+Paper: 150803522
+Title: Positivity of center subsets for QCD
+Authors: Jacques Bloch and Falk Bruckmann
+Abstract: We further pursue an approach to the sign problem of quantum chromodynamics at nonzero chemical potential, in which configurations of the lattice path integral are gathered into subsets. In the subset construction we multiply each temporal link by center elements independently and in a first step neglect the gauge action. The positivity of the subset weights -- shown for 0+1 dimensions in an earlier study -- extends to larger lattices: for two sites in the temporal direction and arbitrary spatial extent we give a proof of the positivity by decomposing the subset weight in positive summands. From numerical evidence we conjecture that the positivity persists on larger lattices and that the gauge action can be reintroduced through mild reweighting. First results on the quark number obtained with this method in two dimensions are shown as well.

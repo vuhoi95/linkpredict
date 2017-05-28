@@ -1,0 +1,4 @@
+Paper: 160608429
+Title: Infrared Computations of Defect Schur Indices
+Authors: Clay Cordova and Davide Gaiotto and Shu-Heng Shao
+Abstract: We conjecture a formula for the Schur index of N=2 four-dimensional theories in the presence of boundary conditions and/or line defects, in terms of the low-energy effective Seiberg-Witten description of the system together with massive BPS excitations. We test our proposal in a variety of examples for SU(2) gauge theories, either conformal or asymptotically free. We use the conjecture to compute these defect-enriched Schur indices for theories which lack a Lagrangian description, such as Argyres-Douglas theories. We demonstrate in various examples that line defect indices can be expressed as sums of characters of the associated two-dimensional chiral algebra and that for Argyres-Douglas theories the line defect OPE reduces in the index to the Verlinde algebra.

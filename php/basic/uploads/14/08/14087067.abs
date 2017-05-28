@@ -1,0 +1,4 @@
+Paper: 14087067
+Title: Real space renormalization group for twisted lattice N=4 super  Yang-Mills
+Authors: Simon Catterall and Joel Giedt
+Abstract: A necessary ingredient for our previous results on the form of the long distance effective action of the twisted lattice N=4 super Yang-Mills theory is the existence of a real space renormalization group which preserves the lattice structure, both the symmetries and the geometric interpretation of the fields. In this brief article we provide an explicit example of such a blocking scheme and illustrate its practicality in the context of a small scale Monte Carlo renormalization group calculation. We also discuss the implications of this result, and the possible ways in which to use it in order to obtain further information about the long distance theory.

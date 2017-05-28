@@ -1,0 +1,4 @@
+Paper: 13035808
+Title: Abstract loop equations, topological recursion, and applications
+Authors: Gaëtan Borot and Bertrand Eynard and Nicolas Orantin
+Abstract: We formulate a notion of abstract loop equations, and show that their solution is provided by a topological recursion under some assumptions, in particular the result takes a universal form. The Schwinger-Dyson equation of the one and two hermitian matrix models, and of the O(n) model appear as special cases. We study applications to repulsive particles systems, and explain how our notion of loop equations are related to Virasoro constraints. Then, as a special case, we study in detail applications to enumeration problems in a general class of non-intersecting loop models on the random lattice of all topologies, to SU(N) Chern-Simons invariants of torus knots in the large N expansion. We also mention an application to Liouville theory on surfaces of positive genus.

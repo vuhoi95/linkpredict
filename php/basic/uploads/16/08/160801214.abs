@@ -1,0 +1,4 @@
+Paper: 160801214
+Title: Ultraviolet cutoffs and the photon mass
+Authors: Piotr H. Chankowski and Adrian Lewandowski and Krzysztof A. Meissner
+Abstract: The momentum UV cutoff in Quantum Field Theory is usually treated as an auxiliary device allowing to obtain finite amplitudes satisfying all physical requirements. It is even absent (not explicit) in the most popular approach - the dimensional regularization. We point out that the momentum cutoff treated as a bona fide physical scale, presumably equal or related to the Planck scale, would lead to unacceptable predictions. One of the dangers is a non-zero mass of the photon. In the naive approach, even with the cutoff equal to the Planck scale, this mass would grossly exceed the existing experimental bounds. We present the actual calculation using a concrete realization of the physical cutoff and speculate about the way to restore gauge symmetry order by order in the inverse powers of the cutoff scale.

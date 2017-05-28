@@ -1,0 +1,4 @@
+Paper: 11106300
+Title: Derivative expansion of the heat kernel at finite temperature
+Authors: F. J. Moral-Gamez and L. L. Salcedo
+Abstract: The method of covariant symbols of Pletnev and Banin is extended to space-times with topology $\R^n\times S^1\times ... \times S^1$. By means of this tool, we obtain explicit formulas for the diagonal matrix elements and the trace of the heat kernel at finite temperature to fourth order in a strict covariant derivative expansion. The role of the Polyakov loop is emphasized. Chan's formula for the effective action to one loop is similarly extended. The expressions obtained formally apply to a larger class of spaces, $h$-spaces, with an arbitrary weight function $h(p)$ in the integration over the momentum of the loop.

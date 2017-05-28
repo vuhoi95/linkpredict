@@ -1,0 +1,4 @@
+Paper: 12046307
+Title: On the form factors of local operators in the lattice sine-Gordon model
+Authors: N. Grosjean and J. M. Maillet and G. Niccoli
+Abstract: We develop a method for computing form factors of local operators in the framework of Sklyanin's separation of variables (SOV) approach to quantum integrable systems. For that purpose, we consider the sine-Gordon model on a finite lattice and in finite dimensional cyclic representations as our main example. We first build our two central tools for computing matrix elements of local operators, namely, a generic determinant formula for the scalar products of states in the SOV framework and the reconstruction of local fields in terms of the separate variables. The general form factors are then obtained as sums of determinants of finite dimensional matrices, their matrix elements being given as weighted sums running over the separate variables and involving the Baxter Q-operator eigenvalues.

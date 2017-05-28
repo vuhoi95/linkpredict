@@ -1,0 +1,4 @@
+Paper: 08120445
+Title: Gravitational instability of simply rotating AdS black holes in higher  dimensions
+Authors: Hideo Kodama and R. A. Konoplya and A. Zhidenko
+Abstract: We study the stability of AdS black hole holes rotating in a single two plane for tensor-type gravitational perturbations in $D > 6$ space-time dimensions. First, by an analytic method, we show that there exists no unstable mode when the magnitude $a$ of the angular momentum is smaller than $r_h^2/R$ where $r_h$ is the horizon radius, and $R$ is the AdS curvature radius. Then, by numerical calculations of quasinormal modes, using the separability of the relevant perturbation equations, we show that an instability occurs for rapidly rotating black holes with $a>r_h^2/R$, although the growth rate is tiny (of order $10^{-12}$ of the inverse horizon radius). We give numerical evidences indicating that this instability is caused by superradiance.

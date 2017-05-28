@@ -1,0 +1,4 @@
+Paper: 11106276
+Title: Entanglement entropies in free fermion gases for arbitrary dimension
+Authors: Pasquale Calabrese and Mihail Mintchev and Ettore Vicari
+Abstract: We study the entanglement entropy of connected bipartitions in free fermion gases of N particles in arbitrary dimension d. We show that the von Neumann and Renyi entanglement entropies grow asymptotically as N^(1-1/d) ln N, with a prefactor that is analytically computed using the Widom conjecture both for periodic and open boundary conditions. The logarithmic correction to the power-law behavior is related to the area-law violation in lattice free fermions. These asymptotic large-N behaviors are checked against exact numerical calculations for N-particle systems.

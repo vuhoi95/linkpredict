@@ -1,0 +1,4 @@
+Paper: 9904011
+Title: Holonomic Quantum Computation
+Authors: Paolo Zanardi and Mario Rasetti
+Abstract: We show that the notion of generalized Berry phase i.e., non-abelian holonomy, can be used for enabling quantum computation. The computational space is realized by a $n$-fold degenerate eigenspace of a family of Hamiltonians parametrized by a manifold $\cal M$. The point of $\cal M$ represents classical configuration of control fields and, for multi-partite systems, couplings between subsystem. Adiabatic loops in the control $\cal M$ induce non trivial unitary transformations on the computational space. For a generic system it is shown that this mechanism allows for universal quantum computation by composing a generic pair of loops in $\cal M.$

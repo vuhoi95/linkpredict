@@ -1,0 +1,4 @@
+Paper: 10052617
+Title: Finite size corrections to the radiation reaction force in classical  electrodynamics
+Authors: Chad R. Galley and Adam K. Leibovich and Ira Z. Rothstein
+Abstract: We introduce an effective field theory approach that describes the motion of finite size objects under the influence of electromagnetic fields. We prove that leading order effects due to the finite radius $R$ of a spherically symmetric charge is order $R^2$ rather than order $R$ in any physical model, as widely claimed in the literature. This scaling arises as a consequence of Poincar\'e and gauge symmetries, which can be shown to exclude linear corrections. We use the formalism to calculate the leading order finite size correction to the Abraham-Lorentz-Dirac force.

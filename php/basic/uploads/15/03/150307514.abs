@@ -1,0 +1,4 @@
+Paper: 150307514
+Title: Hydrodynamics Beyond the Gradient Expansion: Resurgence and Resummation
+Authors: Michal P. Heller and Michal Spalinski
+Abstract: Consistent formulations of relativistic viscous hydrodynamics involve short lived modes, leading to asymptotic rather than convergent gradient expansions. In this Letter we consider the Mueller-Israel-Stewart theory applied to a longitudinally expanding quark-gluon plasma system and identify hydrodynamics as a universal attractor without invoking the gradient expansion. We give strong evidence for the existence of this attractor and then show that it can be recovered from the divergent gradient expansion by Borel summation. This requires careful accounting for the short-lived modes which leads to an intricate mathematical structure known from the theory of resurgence.

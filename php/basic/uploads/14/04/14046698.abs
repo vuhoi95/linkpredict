@@ -1,0 +1,4 @@
+Paper: 14046698
+Title: The Katz-Klemm-Vafa conjecture for K3 surfaces
+Authors: R. Pandharipande and R. P. Thomas
+Abstract: We prove the KKV conjecture expressing Gromov-Witten invariants of K3 surfaces in terms of modular forms. Our results apply in every genus and for every curve class. The proof uses the Gromov-Witten/Pairs correspondence for K3-fibered hypersurfaces of dimension 3 to reduce the KKV conjecture to statements about stable pairs on (thickenings of) K3 surfaces. Using degeneration arguments and new multiple cover results for stable pairs, we reduce the KKV conjecture further to the known primitive cases. Our results yield a new proof of the full Yau-Zaslow formula, establish new Gromov-Witten multiple cover formulas, and express the fiberwise Gromov-Witten partition functions of K3-fibered 3-folds in terms of explicit modular forms.

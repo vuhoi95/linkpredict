@@ -1,0 +1,4 @@
+Paper: 13123916
+Title: Simplifying instanton corrections to N=4 SYM correlators
+Authors: Massimo Bianchi and Andreas Brandhuber and Gabriele Travaglini and Congkao Wen
+Abstract: We compute instanton corrections to non-minimal correlation functions of chiral primary operators in the N=4 super Yang-Mills super-current multiplet. Using a representation in terms of Mellin integrals, we find that these corrections can be written as conformal integrals in AdS_5 times certain "kinematic" prefactors that are independent of the instanton moduli. We then consider the consecutive, pairwise light-like limit x_{i, i+1}^2 -> 0 of such correlators, and prove that the ratio between the instanton contribution and the corresponding tree-level expression vanishes in this limit. We also speculate on the extension to the non-perturbative level of the proposed duality with polygonal Wilson loops and briefly discuss its potential implications for scattering amplitudes.

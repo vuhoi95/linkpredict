@@ -1,0 +1,4 @@
+Paper: 10045140
+Title: Taming the b antighost with Ramond-Ramond flux
+Authors: Nathan Berkovits and Luca Mazzucato
+Abstract: In the pure spinor formalism for the superstring, the b antighost is necessary for multiloop amplitude computations and is a composite operator constructed to satisfy {Q,b}=T where Q is the BRST operator and T is the holomorphic stress-tensor. In superstring backgrounds with only NS-NS fields turned on, or in flat space, one needs to introduce "non-minimal" variables in order to construct the b antighost. However, in Type II backgrounds where the Ramond-Ramond bispinor field-strength satisfies certain conditions, the b antighost can be constructed without the non-minimal variables. Although the b antighost in these backgrounds is not holomorphic, its antiholomorphic derivative is BRST-trivial. We discuss the properties of this operator both in the AdS_5 x S^5 background and in a generic curved background.

@@ -1,0 +1,4 @@
+Paper: 14062055
+Title: An analytic result for the two-loop seven-point MHV amplitude in N=4 SYM
+Authors: John Golden and Marcus Spradlin
+Abstract: We describe a general algorithm which builds on several pieces of data available in the literature to construct explicit analytic formulas for two-loop MHV amplitudes in N=4 super-Yang-Mills theory. The non-classical part of an amplitude is built from $A_3$ cluster polylogarithm functions; classical polylogarithms with (negative) cluster X-coordinate arguments are added to complete the symbol of the amplitude; beyond-the-symbol terms proportional to $\pi^2$ are determined by comparison with the differential of the amplitude; and the overall additive constant is fixed by the collinear limit. We present an explicit formula for the seven-point amplitude $R_7^{(2)}$ as a sample application.

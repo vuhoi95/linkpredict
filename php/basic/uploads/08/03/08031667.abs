@@ -1,0 +1,4 @@
+Paper: 08031667
+Title: A Dual Path Integral Representation for Finite Temperature Quantum Field  Theory
+Authors: C. Ccapa Ttira and C. D. Fosco and A. P. C. Malbouisson and I. Roditi
+Abstract: We impose the periodicity conditions corresponding to the Matsubara formalism for Thermal Field Theory as constraints in the imaginary time path integral. These constraints are introduced by means of time-independent auxiliary fields which, by integration of the original variables, become dynamical fields in the resulting `dual' representation for the theory. This alternative representation has the appealing property of involving fields which live in one dimension less than the original ones, with a quantum partition function whose integration measure is identical to the one of its classical counterpart, albeit with a different (spatially nonlocal) action.

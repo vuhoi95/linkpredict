@@ -1,0 +1,4 @@
+Paper: 13057479
+Title: Generalized Fuzzy Torus and its Modular Properties
+Authors: Paul Schreivogl and Harold Steinacker
+Abstract: We consider a generalization of the basic fuzzy torus to a fuzzy torus with non-trivial modular parameter, based on a finite matrix algebra. We discuss the modular properties of this fuzzy torus, and compute the matrix Laplacian for a scalar field. In the semi-classical limit, the generalized fuzzy torus can be used to approximate a generic commutative torus represented by two generic vectors in the complex plane, with generic modular parameter $\tau$. The effective classical geometry and the spectrum of the Laplacian are correctly reproduced in the limit. The spectrum of a matrix Dirac operator is also computed.

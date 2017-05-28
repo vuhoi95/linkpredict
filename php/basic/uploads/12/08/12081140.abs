@@ -1,0 +1,4 @@
+Paper: 12081140
+Title: $κ$-deformation, affine group and spectral triples
+Authors: B. Iochum and T. Masson and A. Sitarz
+Abstract: A regular spectral triple is proposed for a two-dimensional $\kappa$-deformation. It is based on the naturally associated affine group $G$, a smooth subalgebra of $C^*(G)$, and an operator $\caD$ defined by two derivations on this subalgebra. While $\caD$ has metric dimension two, the spectral dimension of the triple is one. This bypasses an obstruction described in \cite{IochMassSchu11a} on existence of finitely-summable spectral triples for a compactified $\kappa$-deformation.

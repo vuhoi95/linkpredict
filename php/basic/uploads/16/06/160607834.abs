@@ -1,0 +1,4 @@
+Paper: 160607834
+Title: Zeta Functions of the Dirac Operator on Quantum Graphs
+Authors: J. M. Harrison and T. Weyand and K. Kirsten
+Abstract: We construct spectral zeta functions for the Dirac operator on metric graphs. We start with the case of a rose graph, a graph with a single vertex where every edge is a loop. The technique is then developed to cover any finite graph with general energy independent matching conditions at the vertices. The regularized spectral determinant of the Dirac operator is also obtained as the derivative of the zeta function at a special value. In each case the zeta function is formulated using a contour integral method, which extends results obtained for Laplace and Schrodinger operators on graphs.

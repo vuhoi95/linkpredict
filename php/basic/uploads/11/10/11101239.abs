@@ -1,0 +1,4 @@
+Paper: 11101239
+Title: Entanglement entropy in all dimensions
+Authors: Samuel L. Braunstein and Saurya Das and S. Shankaranarayanan
+Abstract: It has long been conjectured that the entropy of quantum fields across boundaries scales as the boundary area. This conjecture has not been easy to test in spacetime dimensions greater than four because of divergences in the von Neumann entropy. Here we show that the Renyi entropy provides a convergent alternative, yielding a quantitative measure of entanglement between quantum field theoretic degrees of freedom inside and outside hypersurfaces. For the first time, we show that the entanglement entropy in higher dimensions is proportional to the higher dimensional area. We also show that the Renyi entropy diverges at specific values of the Renyi parameter (q) in each dimension, but this divergence can be tamed by introducing a mass of the quantum field.

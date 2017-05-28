@@ -1,0 +1,4 @@
+Paper: 9607020
+Title: Rogers-Schur-Ramanujan type identities for the $M(p,p')$ minimal models  of conformal field theory
+Authors: Alexander Berkovich and Barry M. McCoy and Anne Schilling
+Abstract: We present and prove Rogers-Schur-Ramanujan (Bose/Fermi) type identities for the Virasoro characters of the minimal model $M(p,p').$ The proof uses the continued fraction decomposition of $p'/p$ introduced by Takahashi and Suzuki for the study of the Bethe's Ansatz equations of the XXZ model and gives a general method to construct polynomial generalizations of the fermionic form of the characters which satisfy the same recursion relations as the bosonic polynomials of Forrester and Baxter. We use this method to get fermionic representations of the characters $\chi_{r,s}^{(p,p')}$ for many classes of $r$ and $s.$

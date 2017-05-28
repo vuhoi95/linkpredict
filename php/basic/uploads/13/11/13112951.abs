@@ -1,0 +1,4 @@
+Paper: 13112951
+Title: Non-Perturbative Time-Dependent Quantum Field Evolution
+Authors: Xingbo Zhao and Anton Ilderton and Pieter Maris and James P. Vary
+Abstract: We present a nonperturbative, first-principles numerical approach for time-dependent problems in the framework of quantum field theory. In this approach the time evolution of quantum field systems is treated in real time and at the amplitude level. As a test application, we apply this method to QED and study photon emission from an electron in a strong, time-dependent external field. Coherent superposition of electron acceleration and photon emission is observed in the nonperturbative regime.

@@ -1,0 +1,4 @@
+Paper: 150802780
+Title: Emmrich--Weinstein theorem for graded manifolds
+Authors: Hsuan-Yi Liao and Mathieu Stiénon
+Abstract: We introduce, for every graded manifold, a formal exponential map defined in a purely algebraic way and then use it to give a simple new construction of a resolution of the algebra of smooth functions of the graded manifold. More precisely, given a torsionfree connection on the tangent bundle to a graded manifold $\mathcal{M}$, we obtain a flat connection on the completed symmetric algebra $\hat{S}(T^\vee_{\mathcal{M}})$ of the cotangent bundle and an identification of the smooth functions on $\mathcal{M}$ with the flat sections of $\hat{S}(T^\vee_{\mathcal{M}})$. Hence the Emmrich--Weinstein theorem is extended to graded geometry.

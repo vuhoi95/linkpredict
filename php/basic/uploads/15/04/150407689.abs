@@ -1,0 +1,4 @@
+Paper: 150407689
+Title: Non-toric bases for elliptic Calabi-Yau threefolds and 6D F-theory vacua
+Authors: Washington Taylor and Yi-Nan Wang
+Abstract: We develop a combinatorial approach to the construction of general smooth compact base surfaces that support elliptic Calabi-Yau threefolds. This extends previous analyses that have relied on toric or semi-toric structure. The resulting algorithm is used to construct all classes of such base surfaces $S$ with $h^{1, 1} (S) < 8$ and all base surfaces over which there is an elliptically fibered Calabi-Yau threefold $X$ with Hodge number $h^{2, 1} (X) \geq 150$. These two sets can be used todescribe all 6D F-theory models that have fewer than seven tensor multiplets or more than 150 neutral scalar fields respectively in their maximally Higgsed phase. Technical challenges to constructing the complete list of base surfaces for all Hodge numbers are discussed.

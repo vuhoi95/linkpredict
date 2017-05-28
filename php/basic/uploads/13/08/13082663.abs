@@ -1,0 +1,4 @@
+Paper: 13082663
+Title: The regularization and determination of the Yang-Mills vacuum wave  functional in three dimensions at O(e^2)
+Authors: Sebastian Krug and Antonio Pineda
+Abstract: We complete the computation of the Yang-Mills vacuum wave functional in three dimensions at weak coupling with O(e^2) precision. We use two different methods to solve the functional Schroedinger equation. One of them generalizes to O(e^2) the method followed by Hatfield at O(e). The other uses the weak coupling version of the gauge invariant formulation of the Schroedinger equation and the ground state wave functional followed by Karabali, Nair, and Yelnikov. These methods need to be carefully regularized to yield correct results. This is done in this paper with full detail.

@@ -1,0 +1,4 @@
+Paper: 9909141
+Title: QCD Fishnets Revisited
+Authors: Klaus Bering and Joel S. Rozowsky and Charles B. Thorn
+Abstract: We look back at early efforts to approximate the large N_c Feynman diagrams of QCD as very large fishnet diagrams. We consider more carefully the uniqueness of rules for discretizing P^+ and ix^+ which fix the fishnet model in the strong 't Hooft coupling limit, and we offer some refinements that allow more of the crucial QCD interactions to be retained in the fishnet approximation. This new discretization has a better chance to lead to a physically sensible `bare QCD string' model. Not surprisingly the resulting fishnet diagrams are both richer in structure and harder to evaluate than those considered in older work. As warm-ups we analyze arbitrarily large fishnets of a paradigm scalar cubic theory and very small fishnets of QCD.

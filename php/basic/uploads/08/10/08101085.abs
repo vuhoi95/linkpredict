@@ -1,0 +1,4 @@
+Paper: 08101085
+Title: Computing topological invariants with one and two-matrix models
+Authors: E. Brezin and S. Hikami
+Abstract: A generalization of the Kontsevich Airy-model allows one to compute the intersection numbers of the moduli space of p-spin curves. These models are deduced from averages of characteristic polynomials over Gaussian ensembles of random matrices in an external matrix source. After use of a duality, and of an appropriate tuning of the source, we obtain in a double scaling limit these intersection numbers as polynomials in p. One can then take the limit p to -1 which yields a matrix model for orbifold Euler characteristics. The generalization to a time-dependent matrix model, which is equivalent to a two-matrix model, may be treated along the same lines ; it also yields a logarithmic potential with additional vertices for general p.

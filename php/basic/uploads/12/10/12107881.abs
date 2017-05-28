@@ -1,0 +1,4 @@
+Paper: 12107881
+Title: Twisted reduction in large N QCD with two adjoint Wilson fermions
+Authors: Antonio González-Arroyo and Masanori Okawa
+Abstract: The twisted reduced model of large $N$ QCD with two adjoint Wilson fermions is studied numerically using the Hybrid Monte Carlo method. This is the one-site model, whose large $N$ limit (large volume limit) is expected to be conformal or nearly conformal. The symmetric twist boundary condition with flux $k$ is used. $k$=0 corresponds to periodic boundary conditions. It is shown that the quark mass and $N$ dependencies of the model with non-vanishing $k$ differ significantly from those of the $k$=0 model. A preliminary result for the string tension calculated at $N$=289 is presented. The string tension seems to vanish as the physical quark mass decreases to zero in a way consistent with the theory being governed by an infrared fixed point with $\gamma_* = 0.8 \sim 1.2$.

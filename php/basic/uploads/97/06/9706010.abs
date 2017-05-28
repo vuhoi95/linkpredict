@@ -1,0 +1,4 @@
+Paper: 9706010
+Title: Quantum Fluctuations versus Topology - a Study in U(1)_2 Lattice Gauge  Theory
+Authors: C. R. Gattringer and I. Hip and C. B. Lang
+Abstract: Using the geometric definition of the topological charge we decompose the path integral of 2-dimensional U(1) lattice gauge theory into topological sectors. In a Monte Carlo simulation we compute the average value of the action as well as the distribution of its values for each sector separately. These numbers are compared with analytic lower bounds of the action which are relevant for classical configurations carrying topological charge. We find that quantum fluctuations entirely dominate the path integral. Our results for the probability distribution of the Monte Carlo generated configurations among the topological sectors can be understood by a semi-phenomenological argument.

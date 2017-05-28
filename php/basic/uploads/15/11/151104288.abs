@@ -1,0 +1,4 @@
+Paper: 151104288
+Title: Tensor networks for gauge field theories
+Authors: Boye Buyens and Jutho Haegeman and Frank Verstraete and Karel Van Acoleyen
+Abstract: Over the last decade tensor network states (TNS) have emerged as a powerful tool for the study of quantum many body systems. The matrix product states (MPS) are one particular class of TNS and are used for the simulation of (1+1)-dimensional systems. In this proceeding we use MPS to determine the elementary excitations of the Schwinger model in the presence of an electric background field. We obtain an estimate for the value of the background field where the one-particle excitation with the largest energy becomes unstable and decays into two other elementary particles with smaller energy.

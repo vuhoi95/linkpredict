@@ -1,0 +1,4 @@
+Paper: 11116078
+Title: Leading order infrared quantum chromodynamics in Coulomb gauge
+Authors: Peter Watson and Hugo Reinhardt
+Abstract: A truncation scheme for the Dyson-Schwinger equations of quantum chromodynamics in Coulomb gauge within the first order formalism is presented. The truncation is based on an Ansatz for the Coulomb kernel occurring in the action. Results at leading loop order and in the infrared are discussed for both the Yang-Mills and quark sectors. It is found that the resulting equations for the static gluon and quark propagators agree with those derived in a quasi-particle approximation to the canonical Hamiltonian approach. Moreover, a connection to the heavy quark limit is established. The equations are analyzed numerically and it is seen that in both the gluonic and quark sectors, a nontrivial dynamical infrared mass scale emerges.

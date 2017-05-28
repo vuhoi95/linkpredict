@@ -1,0 +1,4 @@
+Paper: 13092496
+Title: Self Energy Correction in Light Front QED And Coherent State Basis
+Authors: Jai D. More and Anuradha Misra
+Abstract: We discuss the calculation of fermion self energy correction in Light Front QED using a coherent state basis. We show that if one uses coherent state basis instead of fock basis to calculate the transition matrix elements, the true infrared divergences in electron mass renormalization $\delta m^2$ get canceled up to $O(e^4)$ in Light Front gauge. We have also verified this cancellation in Feynman gauge up to $O(e^2)$.

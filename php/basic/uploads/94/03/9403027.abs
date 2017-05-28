@@ -1,0 +1,4 @@
+Paper: 9403027
+Title: The Spatial String Tension in High Temperature Lattice Gauge Theories
+Authors: M. Caselle and A. D'Adda
+Abstract: We develop some techniques which allow an analytic evaluation of space-like observables in high temperature lattice gauge theories. We show that such variables are described extremely well by dimensional reduction. In particular, by using results obtained in the context of ``Induced QCD'', we evaluate the contributions to space-like observables coming from the Higgs sector of the dimensionally reduced action, we find that they are of higher order in the coupling constant compared to those coming from the space-like action and hence neglegible near the continuum limit. In the case of SU(2) gauge theory our results agree with those obtained through Montecarlo simulations both in (2+1) and (3+1) dimensions and they also indicate a possible way of removing the gap between the two values of $g^2(T)$ recently appeared in the literature.

@@ -1,0 +1,4 @@
+Paper: 12020239
+Title: Energy flow in non-equilibrium conformal field theory
+Authors: Denis Bernard and Benjamin Doyon
+Abstract: We study the energy current and its fluctuations in quantum gapless 1d systems far from equilibrium modeled by conformal field theory, where two separated halves are prepared at distinct temperatures and glued together at a point contact. We prove that these systems converge towards steady states, and give a general description of such non-equilibrium steady states in terms of quantum field theory data. We compute the large deviation function, also called the full counting statistics, of energy transfer through the contact. These are universal and satisfy fluctuation relations. We provide a simple representation of these quantum fluctuations in terms of classical Poisson processes whose intensities are proportional to Boltzmann weights.

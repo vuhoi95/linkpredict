@@ -1,0 +1,4 @@
+Paper: 11112037
+Title: Quantum su(n)_k monodromy matrices
+Authors: Paolo Furlan and Ludmil Hadjiivanov
+Abstract: The canonical quantization of the chiral Wess-Zumino-Novikov-Witten (WZNW) monodromy matrices (both the diagonal and the general one) requires additional numerical factors that can be attributed to renormalization. We discuss, for G=SU(n), the field-theoretic and algebraic aspects of this phenomenon and show that these renormalization factors are compatible with the natural definitions of quantum determinants possessing the factorization property (i.e., the determinant of a product is equal to the product of determinants, which is a non-trivial fact for matrices with non-commuting entries).

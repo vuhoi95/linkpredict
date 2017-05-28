@@ -1,0 +1,4 @@
+Paper: 14102211
+Title: Full Colored HOMFLYPT Invariants, Composite Invariants and Congruent  Skein Relation
+Authors: Qingtao Chen and Shengmao Zhu
+Abstract: In this paper, we investigate the properties of the full colored HOMFLYPT invariants in the full skein of the annulus $\mathcal{C}$. We show that the full colored HOMFLYPT invariant has a nice structure when $q\rightarrow 1$. The composite invariant is a combination of the full colored HOMFLYPT invariants. In order to study the framed LMOV type conjecture for composite invariants, we introduce the framed reformulated composite invariant $\check{\mathcal{R}}_{p}(\mathcal{L})$. By using the HOMFLY skein theory, we prove that $\check{\mathcal{R}}_{p}(\mathcal{L})$ lies in the ring $2\mathbb{Z}[(q-q^{-1})^2,t^{\pm 1}]$. Furthermore, we propose a conjecture of congruent skein relation for $\check{\mathcal{R}}_{p}(\mathcal{L})$ and prove it for certain special cases.

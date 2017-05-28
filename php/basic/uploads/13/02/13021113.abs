@@ -1,0 +1,4 @@
+Paper: 13021113
+Title: Entanglement negativity in the critical Ising chain
+Authors: Pasquale Calabrese and Luca Tagliacozzo and Erik Tonni
+Abstract: We study the scaling of the traces of the integer powers of the partially transposed reduced density matrix and of the entanglement negativity for two spin blocks as function of their length and separation in the critical Ising chain. For two adjacent blocks, we show that tensor network calculations agree with universal conformal field theory (CFT) predictions. In the case of two disjoint blocks the CFT predictions are recovered only after taking into account the finite size corrections induced by the finite length of the blocks.

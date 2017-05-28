@@ -1,0 +1,4 @@
+Paper: 13122941
+Title: A Grassmann Path From AdS_3 to Flat Space
+Authors: Chethan Krishnan and Avinash Raju and Shubho Roy
+Abstract: We show that interpreting the inverse AdS_3 radius 1/l as a Grassmann variable results in a formal map from gravity in AdS_3 to gravity in flat space. The underlying reason for this is the fact that ISO(2,1) is the Inonu-Wigner contraction of SO(2,2). We show how this works for the Chern-Simons actions, demonstrate how the general (Banados) solution in AdS_3 maps to the general flat space solution, and how the Killing vectors, charges and the Virasoro algebra in the Brown-Henneaux case map to the corresponding quantities in the BMS_3 case. Our results straightforwardly generalize to the higher spin case: the recently constructed flat space higher spin theories emerge automatically in this approach from their AdS counterparts. We conclude with a discussion of singularity resolution in the BMS gauge as an application.

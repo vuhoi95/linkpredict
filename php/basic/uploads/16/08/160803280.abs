@@ -1,0 +1,4 @@
+Paper: 160803280
+Title: Slow scrambling in disordered quantum systems
+Authors: Brian Swingle and Debanjan Chowdhury
+Abstract: Recent work has studied the growth of commutators as a probe of chaos and information scrambling in quantum many-body systems. In this work we study the effect of static disorder on the growth of commutators in a variety of contexts. We find generically that disorder slows the onset of scrambling, and, in the case of a many-body localized state, partially halts it. We access the many-body localized state using a standard fixed point Hamiltonian, and we show that operators exhibit slow logarithmic growth under time evolution. We compare the result with the expected growth of commutators in both localized and delocalized non-interacting disordered models. Finally, based on a scaling argument, we state a conjecture about the effect of weak interactions on the growth of commutators in an interacting diffusive metal.

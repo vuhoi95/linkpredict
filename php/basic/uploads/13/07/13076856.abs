@@ -1,0 +1,4 @@
+Paper: 13076856
+Title: Bootstrapping the O(N) Vector Models
+Authors: Filip Kos and David Poland and David Simmons-Duffin
+Abstract: We study the conformal bootstrap for 3D CFTs with O(N) global symmetry. We obtain rigorous upper bounds on the scaling dimensions of the first O(N) singlet and symmetric tensor operators appearing in the $\phi_i \times \phi_j$ OPE, where $\phi_i$ is a fundamental of O(N). Comparing these bounds to previous determinations of critical exponents in the O(N) vector models, we find strong numerical evidence that the O(N) vector models saturate the bootstrap constraints at all values of N. We also compute general lower bounds on the central charge, giving numerical predictions for the values realized in the O(N) vector models. We compare our predictions to previous computations in the 1/N expansion, finding precise agreement at large values of N.

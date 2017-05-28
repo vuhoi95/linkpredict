@@ -1,0 +1,4 @@
+Paper: 12021206
+Title: Operadic construction of the renormalization group
+Authors: Jean-Louis Loday and Nikolay M. Nikolov
+Abstract: First, we give a functorial construction of a group associated to a symmetric operad. Applied to the endomorphism operad it gives the group of formal diffeomorphisms. Second, we associate a symmetric operad to any family of decorated graphs stable by contraction. In the case of Quantum Field Theory models it gives the renormalization group. As an example we get an operadic interpretation of the group of "diffeographisms" attached to the Connes-Kreimer Hopf algebra.

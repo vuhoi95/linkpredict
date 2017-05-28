@@ -1,0 +1,4 @@
+Paper: 12010025
+Title: Explicit computation of Drinfeld associator in the case of the  fundamental representation of gl(N)
+Authors: Petr Dunin-Barkowski and Alexey Sleptsov and Andrey Smirnov
+Abstract: We solve the regularized Knizhnik-Zamolodchikov equation and find an explicit expression for the Drinfeld associator. We restrict to the case of the fundamental representation of $gl(N)$. Several tests of the results are presented. It can be explicitly seen that components of this solution for the associator coincide with certain components of WZW conformal block for primary fields. We introduce the symmetrized version of the Drinfeld associator by dropping the odd terms. The symmetrized associator gives the same knot invariants, but has a simpler structure and is fully characterized by one symmetric function which we call the Drinfeld prepotential.

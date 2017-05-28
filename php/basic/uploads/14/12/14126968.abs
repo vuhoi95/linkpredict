@@ -1,0 +1,4 @@
+Paper: 14126968
+Title: A trace for bimodule categories
+Authors: Jurgen Fuchs and Gregor Schaumann and Christoph Schweigert
+Abstract: We study a 2-functor that assigns to a bimodule category over a finite k-linear tensor category a k-linear abelian category. This 2-functor can be regarded as a category-valued trace for 1-morphisms in the tricategory of finite tensor categories. It is defined by a universal property that is a categorification of Hochschild homology of bimodules over an algebra. We present several equivalent realizations of this 2-functor and show that it has a coherent cyclic invariance. Our results have applications to categories associated to circles in three-dimensional topological field theories with defects. This is made explicit for the subclass of Dijkgraaf-Witten topological field theories.

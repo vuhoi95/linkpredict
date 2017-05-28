@@ -1,0 +1,4 @@
+Paper: 07105873
+Title: Monte Carlo Studies of the GWW Phase Transition in Large-N Gauge  Theories
+Authors: Takehiro Azuma and Pallab Basu and Spenta R. Wadia
+Abstract: In the study of the small ten-dimensional Schwarzschild blackhole, the blackhole to string transition is an important problem. In hep-th/0605041, a possible identification is made between the Gross-Witten-Wadia (GWW) type third-order large-N phase transition in the boundary gauge theory and the string-black hole transition in the bulk. In this paper, we exhibit the existence of the GWW transition by Monte Carlo simulation in the zero mode bosonic action of the finite-temperature N=4 SYM theory on S^3. Exhibiting this transition in the truncated but highly non-trivial gauge theory implies that in the vicinity of the critical temperature T_c, the system goes critical, and the fluctuations give rise to universal formulas derived in hep-th/0605041 We also discuss the issue of SO(6) R-symmetry breaking.

@@ -1,0 +1,4 @@
+Paper: 14064858
+Title: Bootstrapping Mixed Correlators in the 3D Ising Model
+Authors: Filip Kos and David Poland and David Simmons-Duffin
+Abstract: We study the conformal bootstrap for systems of correlators involving non-identical operators. The constraints of crossing symmetry and unitarity for such mixed correlators can be phrased in the language of semidefinite programming. We apply this formalism to the simplest system of mixed correlators in 3D CFTs with a $\mathbb{Z}_2$ global symmetry. For the leading $\mathbb{Z}_2$-odd operator $\sigma$ and $\mathbb{Z}_2$-even operator $\epsilon$, we obtain numerical constraints on the allowed dimensions $(\Delta_\sigma, \Delta_\epsilon)$ assuming that $\sigma$ and $\epsilon$ are the only relevant scalars in the theory. These constraints yield a small closed region in $(\Delta_\sigma, \Delta_\epsilon)$ space compatible with the known values in the 3D Ising CFT.

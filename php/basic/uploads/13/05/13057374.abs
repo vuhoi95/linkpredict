@@ -1,0 +1,4 @@
+Paper: 13057374
+Title: Adiabatic regularization for spin-1/2 fields
+Authors: Aitor Landete and Jose Navarro-Salas and Francisco Torrenti
+Abstract: We extend the adiabatic regularization method to spin-1/2 fields. The ansatz for the adiabatic expansion for fermionic modes differs significantly from the WKB-type template that works for scalar modes. We give explicit expressions for the first adiabatic orders and analyze particle creation in de Sitter spacetime. As for scalar fields, the adiabatic method can be distinguished by its capability to overcome the UV divergences of the particle number operator. We also test the consistency of the extended method by working out the conformal and axial anomalies for a Dirac field in a FLRW spacetime, in exact agreement with those obtained from other renormalization prescriptions. We finally show its power by computing the renormalized stress-energy tensor for Dirac fermions in de Sitter space.

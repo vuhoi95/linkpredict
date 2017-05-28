@@ -1,0 +1,4 @@
+Paper: 14106724
+Title: Time-optimal navigation through quantum wind
+Authors: Dorje C. Brody and Gary W. Gibbons and David M. Meier
+Abstract: The quantum navigation problem of finding the time-optimal control Hamiltonian that transports a given initial state to a target state through quantum wind, that is, under the influence of external fields or potentials, is analysed. By lifting the problem from the state space to the space of unitary gates realising the required task, we are able to deduce the form of the solution to the problem by deriving a universal quantum speed limit. The expression thus obtained indicates that further simplifications of this apparently difficult problem are possible if we switch to the interaction picture of quantum mechanics. A complete solution to the navigation problem for an arbitrary quantum system is then obtained, and the behaviour of the solution is illustrated in the case of a two-level system.

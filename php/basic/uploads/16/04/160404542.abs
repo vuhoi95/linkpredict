@@ -1,0 +1,4 @@
+Paper: 160404542
+Title: Untangling knots via reaction-diffusion dynamics of vortex strings
+Authors: Fabian Maucher and Paul Sutcliffe
+Abstract: We introduce and illustrate a new approach to the unknotting problem via the dynamics of vortex strings in a nonlinear partial differential equation of reaction-diffusion type. To untangle a given knot, a Biot-Savart construction is used to initialize the knot as a vortex string in the FitzHugh-Nagumo equation. Remarkably, we find that the subsequent evolution preserves the topology of the knot and can untangle an unknot into a circle. Illustrative test case examples are presented, including the untangling of a hard unknot known as the culprit. Our approach to the unknotting problem has two novel features, in that it applies field theory rather than particle mechanics and uses reaction-diffusion dynamics in place of energy minimization.

@@ -1,0 +1,4 @@
+Paper: 10021965
+Title: The QCD static potential in D<4 dimensions at weak coupling
+Authors: Antonio Pineda and Maximilian Stahlhofen
+Abstract: We study the static potential of a color singlet quark-antiquark pair with (fixed) distance r in D=3 and D=2 space-time dimensions at weak coupling (alpha r << 1 and g r << 1, respectively). Using the effective theory pNRQCD we determine the ultrasoft contributions, which cannot be computed in conventional perturbative QCD. We show in detail how the ultrasoft renormalization in pNRQCD is carried out. In three dimensions the precision of our results reaches O(alpha^3 r^2), i.e. NNLO in the multipole expansion, and NNLL in a alpha/DeltaV expansion, where DeltaV ~ alpha ln(alpha r). We even present results up to partly N^4LL order and compare them to existing lattice data. Finally we discuss the relevance of the perturbative calculation in two dimensions, where the exact result is known.

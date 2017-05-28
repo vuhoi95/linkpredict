@@ -1,0 +1,4 @@
+Paper: 12073360
+Title: Is Renormalized Entanglement Entropy Stationary at RG Fixed Points?
+Authors: Igor R. Klebanov and Tatsuma Nishioka and Silviu S. Pufu and Benjamin R. Safdi
+Abstract: The renormalized entanglement entropy (REE) across a circle of radius R has been proposed as a c-function in Poincar\'e invariant (2+1)-dimensional field theory. A proof has been presented of its monotonic behavior as a function of R, based on the strong subadditivity of entanglement entropy. However, this proof does not directly establish stationarity of REE at conformal fixed points of the renormalization group. In this note we study the REE for the free massive scalar field theory near the UV fixed point described by a massless scalar. Our numerical calculation indicates that the REE is not stationary at the UV fixed point.

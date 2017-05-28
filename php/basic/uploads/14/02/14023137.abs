@@ -1,0 +1,4 @@
+Paper: 14023137
+Title: Topological gauge fixing
+Authors: Laurent Gallot and Enore Guadagnini and Eric Pilon and Frank Thuillier
+Abstract: We implement the metric-independent Fock-Schwinger gauge in the abelian quantum Chern-Simons field theory defined in ${\mathbb R}^3$. The expressions of the various components of the propagator are determined. Although the gauge field propagator differs from the Gauss linking density, we prove that its integral along two oriented knots is equal to the linking number.

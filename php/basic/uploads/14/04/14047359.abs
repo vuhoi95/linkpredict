@@ -1,0 +1,4 @@
+Paper: 14047359
+Title: Genetic Algorithms and the Search for Viable String Vacua
+Authors: Steven Abel and John Rizos
+Abstract: Genetic Algorithms are introduced as a search method for finding string vacua with viable phenomenological properties. It is shown, by testing them against a class of Free Fermionic models, that they are orders of magnitude more efficient than a randomised search. As an example, three generation, exophobic, Pati-Salam models with a top Yukawa occur once in every 10^{10} models, and yet a Genetic Algorithm can find them after constructing only 10^5 examples. Such non-deterministic search methods may be the only means to search for Standard Model string vacua with detailed phenomenological requirements.

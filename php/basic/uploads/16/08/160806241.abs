@@ -1,0 +1,4 @@
+Paper: 160806241
+Title: Modular Bootstrap Revisited
+Authors: Scott Collier and Ying-Hsuan Lin and Xi Yin
+Abstract: We constrain the spectrum of two-dimensional unitary, compact conformal field theories with central charge c > 1 using modular bootstrap. Upper bounds on the gap in the dimension of primary operators of any spin, as well as in the dimension of scalar primaries, are computed numerically as functions of the central charge using semi-definite programming. Our bounds refine those of Hellerman and Friedan-Keller, and are in some cases saturated by known CFTs. In particular, we show that unitary CFTs with c < 8 must admit relevant deformations, and that a nontrivial bound on the gap of scalar primaries exists for c < 25. We also study bounds on the dimension gap in the presence of twist gaps, bounds on the degeneracy of operators, and demonstrate how "extremal spectra" which maximize the degeneracy at the gap can be determined numerically.

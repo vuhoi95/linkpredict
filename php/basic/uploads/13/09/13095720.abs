@@ -1,0 +1,4 @@
+Paper: 13095720
+Title: Jacobi trace functions in the theory of vertex operator algebras
+Authors: Matthew Krauel and Geoffrey Mason
+Abstract: We describe a type of n-point function associated to strongly regular vertex operator algebras V and their irreducible modules. Transformation laws with respect to the Jacobi group are developed for 1-point functions. For certain elements in V, the finite-dimensional space spanned by the corresponding 1-point functions for the inequivalent irreducible modules is shown to be a vector-valued weak Jacobi form. A decomposition of 1-point functions for general elements is proved, and shows that such functions are typically quasi-Jacobi forms. Zhu-type recursion formulas are proved; they show how an n-point function can be written as a linear combination of (n-1)-point functions with coefficients that are quasi-Jacobi forms.

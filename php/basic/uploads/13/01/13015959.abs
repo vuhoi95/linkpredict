@@ -1,0 +1,4 @@
+Paper: 13015959
+Title: Chern-Weil forms and abstract homotopy theory
+Authors: Daniel S. Freed and Michael J. Hopkins
+Abstract: We prove that Chern-Weil forms are the only natural differential forms associated to a connection on a principal G-bundle. We use the homotopy theory of simplicial sheaves on smooth manifolds to formulate the theorem and set up the proof. Other arguments come from classical invariant theory. We identify the Weil algebra as the de Rham complex of a specific simplicial sheaf, and similarly give a new interpretation of the Weil model in equivariant de Rham theory. There is an appendix proving a general theorem about set-theoretic transformations of polynomial functors. This paper is dedicated to the memory of Dan Quillen.

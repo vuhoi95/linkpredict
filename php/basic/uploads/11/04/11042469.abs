@@ -1,0 +1,4 @@
+Paper: 11042469
+Title: Wilson loop remainder function for null polygons in the limit of  self-crossing
+Authors: Harald Dorn and Sebastian Wuttke
+Abstract: The remainder function of Wilson loops for null polygons becomes divergent if two vertices approach each other. We apply RG techniques to the limiting configuration of a contour with self-intersection. As a result for the two loop remainder we find a quadratic divergence in the logarithm of the distance between the two approaching vertices. The divergence is multiplied by a factor, which is given by a pure number plus the product of two logarithms of cross-ratios characterising the conformal geometry of the self-crossing.

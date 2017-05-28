@@ -1,0 +1,4 @@
+Paper: 11105318
+Title: A new look at one-loop integrals in string theory
+Authors: Carlo Angelantonj and Ioannis Florakis and Boris Pioline
+Abstract: We revisit the evaluation of one-loop modular integrals in string theory, employing new methods that, unlike the traditional 'orbit method', keep T-duality manifest throughout. In particular, we apply the Rankin-Selberg-Zagier approach to cases where the integrand function grows at most polynomially in the IR. Furthermore, we introduce new techniques in the case where `unphysical tachyons' contribute to the one-loop couplings. These methods can be viewed as a modular invariant version of dimensional regularisation. As an example, we treat one-loop BPS-saturated couplings involving the $d$-dimensional Narain lattice and the invariant Klein $j$-function, and relate them to (shifted) constrained Epstein Zeta series of O(d,d;Z). In particular, we recover the well-known results for d=2 in a few easy steps.

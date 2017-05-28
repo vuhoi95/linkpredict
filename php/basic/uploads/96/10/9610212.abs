@@ -1,0 +1,4 @@
+Paper: 9610212
+Title: A unified treatment of Ising model magnetizations
+Authors: Brian Davies and Ingo Peschel
+Abstract: We show how the spontaneous bulk, surface and corner magnetizations in the square lattice Ising model can all be obtained within one approach. The method is based on functional equations which follow from the properties of corner transfer matrices and vertex operators and which can be derived graphically. In all cases, exact analytical expressions for general anisotropy are obtained. Known results, including several for which only numerical computation was previously possible, are verified and new results related to general anisotropy and corner angles are obtained.

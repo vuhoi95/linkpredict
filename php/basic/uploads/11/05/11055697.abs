@@ -1,0 +1,4 @@
+Paper: 11055697
+Title: Isobar of an ideal Bose gas within the grand canonical ensemble
+Authors: Imtak Jeon and Sang-Woo Kim and Jeong-Hyuck Park
+Abstract: We investigate the isobar of an ideal Bose gas confined in a cubic box within the grand canonical ensemble, for a large yet finite number of particles, N. After solving the equation of the spinodal curve, we derive precise formulae for the supercooling and the superheating temperatures which reveal an N^{-1/3} or N^{-1/4} power correction to the known Bose-Einstein condensation temperature in the thermodynamic limit. Numerical computations confirm the accuracy of our analytical approximation, and further show that the isobar zigzags on the temperature-volume plane if N is greater than or equal to 14393. In particular, for the Avogadro's number of particles, the volume expands discretely about 10^5 times. Our results quantitatively agree with a previous study on the canonical ensemble within 0.1% error.

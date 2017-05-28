@@ -1,0 +1,4 @@
+Paper: 10091948
+Title: Ising exponents from the functional renormalisation group
+Authors: Daniel F. Litim and Dario Zappalá
+Abstract: We study the 3d Ising universality class using the functional renormalisation group. With the help of background fields and a derivative expansion up to fourth order we compute the leading index, the subleading symmetric and anti-symmetric corrections to scaling, the anomalous dimension, the scaling solution, and the eigenperturbations at criticality. We also study the cross-correlations of scaling exponents, and their dependence on dimensionality. We find a very good numerical convergence of the derivative expansion, also in comparison with earlier findings. Evaluating the data from all functional renormalisation group studies to date, we estimate the systematic error which is found to be small and in good agreement with findings from Monte Carlo simulations, \epsilon-expansion techniques, and resummed perturbation theory.

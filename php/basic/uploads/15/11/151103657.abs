@@ -1,0 +1,4 @@
+Paper: 151103657
+Title: Sums of Random Matrices and the Potts Model on Random Planar Maps
+Authors: Max R. Atkin and Benjamin Niedner and John F. Wheater
+Abstract: We compute the partition function of the $q$-states Potts model on a random planar lattice with $p\leq q$ allowed, equally weighted colours on a connected boundary. To this end, we employ its matrix model representation in the planar limit, generalising a result by Voiculescu for the addition of random matrices to a situation beyond free probability theory. We show that the partition functions with $p$ and $q-p$ colours on the boundary are related algebraically. Finally, we investigate the phase diagram of the model when $0\leq q\leq 4$ and comment on the conformal field theory description of the critical points.

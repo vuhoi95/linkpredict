@@ -1,0 +1,4 @@
+Paper: 08020279
+Title: Measurement-Only Topological Quantum Computation
+Authors: Parsa Bonderson and Michael Freedman and Chetan Nayak
+Abstract: We remove the need to physically transport computational anyons around each other from the implementation of computational gates in topological quantum computing. By using an anyonic analog of quantum state teleportation, we show how the braiding transformations used to generate computational gates may be produced through a series of topological charge measurements.

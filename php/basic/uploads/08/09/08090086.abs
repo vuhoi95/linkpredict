@@ -1,0 +1,4 @@
+Paper: 08090086
+Title: Twisted de Rham cohomology, homological definition of the integral and  "Physics over a ring"
+Authors: Albert Schwarz and Ilya Shapiro
+Abstract: We define the twisted de Rham cohomology and show how to use it to define the notion of an integral of the form $\int g(x) e^{f(x)}dx$ over an arbitrary ring. We discuss also a definition of a family of integrals and some properties of the homological definition of integral. We show how to use the twisted de Rham cohomology in order to define the Frobenius map on the p-adic cohomology. Finally, we consider two-dimensional topological quantum field theories with general coefficients.

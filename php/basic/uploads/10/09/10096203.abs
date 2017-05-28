@@ -1,0 +1,4 @@
+Paper: 10096203
+Title: Curved infinity-algebras and their characteristic classes
+Authors: Andrey Lazarev and Travis Schedler
+Abstract: In this paper we study a natural extension of Kontsevich's characteristic class construction for A-infinity and L-infinity algebras to the case of curved algebras. These define homology classes on a variant of his graph homology which allows vertices of valence >0. We compute this graph homology, which is governed by star-shaped graphs with odd-valence vertices. We also classify nontrivially curved cyclic A-infinity and L-infinity algebras over a field up to gauge equivalence, and show that these are essentially reduced to algebras of dimension at most two with only even-ary operations. We apply the reasoning to compute stability maps for the homology of Lie algebras of formal vector fields. Finally, we explain a generalization of these results to other types of algebras, using the language of operads.

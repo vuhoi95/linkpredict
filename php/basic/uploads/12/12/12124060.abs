@@ -1,0 +1,4 @@
+Paper: 12124060
+Title: Black Hole Entropy from complex Ashtekar variables
+Authors: Ernesto Frodden and Marc Geiller and Karim Noui and Alejandro Perez
+Abstract: In loop quantum gravity, the number $N_\Gamma(A,\gamma)$ of microstates of a black hole for a given discrete geometry $\Gamma$ depends on the so-called Barbero-Immirzi parameter $\gamma$. Using a suitable analytic continuation of $\gamma$ to complex values, we show that the number $N_\Gamma(A,\pm i)$ of microstates behaves as $\exp(A/(4\ell_\text{Pl}^2))$ for large area $A$ in the large spin semiclassical limit. Such a correspondence with the semiclassical Bekenstein-Hawking entropy law points towards an unanticipated and remarkable feature of the original complex Ashtekar variables for quantum gravity.

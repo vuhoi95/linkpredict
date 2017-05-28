@@ -1,0 +1,4 @@
+Paper: 9304005
+Title: A New Discretization of Classical and Quantum General Relativity
+Authors: O. Bostrom and M. Miller and L. Smolin
+Abstract: We propose a new discrete approximation to the Einstein equations, based on the Capovilla-Dell-Jacobson form of the action for the Ashtekar variables. This formulation is analogous to the Regge calculus in that the curvature has support on sets of measure zero. Both a Lagrangian and Hamiltonian formulation are proposed and we report partial results about the constraint algebra of the Hamiltonian formulation. We find that the discrete versions of the diffeomorphism constraints do not commute with each other or with the Hamiltonian constraint.

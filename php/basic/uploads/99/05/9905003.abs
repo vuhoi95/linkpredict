@@ -1,0 +1,4 @@
+Paper: 9905003
+Title: A lattice implementation of the eta-invariant and effective action for  chiral fermions on the lattice
+Authors: Tatsumi Aoyama and Yoshio Kikukawa
+Abstract: We consider a lattice implementation of the eta-invariant, using the complex phase of the determinant of the simplified domain-wall fermion, which couples to an interpolating five-dimensional gauge field. We clarify the relation to the effective action for chiral Ginsparg-Wilson fermions. The integrability, which holds true for anomaly-free theories in the classical continuum limit, is not assured on the lattice with a finite spacing. A lattice expression for the five-dimensional Chern-Simons term is obtained.

@@ -1,0 +1,4 @@
+Paper: 11105713
+Title: Entanglement Entropy of Quantum Wire Junctions
+Authors: Pasquale Calabrese and Mihail Mintchev and Ettore Vicari
+Abstract: We consider a fermion gas on a star graph modeling a quantum wire junction and derive the entanglement entropy of one edge with respect to the rest of the junction. The gas is free in the bulk of the graph, the interaction being localized in its vertex and described by a non-trivial scattering matrix. We discuss all point-like interactions, which lead to unitary time evolution of the system. We show that for a finite number of particles N, the Renyi entanglement entropies of one edge grow as ln N with a calculable prefactor, which depends not only on the central charge, but also on the total transmission probability from the considered edge to the rest of the graph. This result is extended to the case with an harmonic potential in the bulk.

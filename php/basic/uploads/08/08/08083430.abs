@@ -1,0 +1,4 @@
+Paper: 08083430
+Title: Ward-Takahashi identity for Yang-Mills theory in the Exact  Renormalization Group
+Authors: Yuji Igarashi and Katsumi Itoh and Hidenori Sonoda
+Abstract: We give a functional derivation of the Ward-Takahashi identity for Yang-Mills theory in the framework of the exact renormalization group. The identity realizes non-abelian gauge symmetry nontrivially despite the presence of a momentum cutoff. The cutoff deforms the gauge transformation by introducing composite operators. In our functional method, which is an extension of the method used in our previous work on QED, these composite operators are expressed in terms of the Wilson action that depends on both a UV cutoff and an IR cutoff.

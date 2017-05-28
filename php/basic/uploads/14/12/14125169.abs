@@ -1,0 +1,4 @@
+Paper: 14125169
+Title: Biased Tracers and Time Evolution
+Authors: Mehrdad Mirbabayi and Fabian Schmidt and Matias Zaldarriaga
+Abstract: We study the effect of time evolution on galaxy bias. We argue that at any order in perturbations, the galaxy density contrast can be expressed in terms of a finite set of locally measurable operators made of spatial and temporal derivatives of the Newtonian potential. This is checked in an explicit third order calculation. There is a systematic way to derive a basis for these operators. This basis spans a larger space than the expansion in gravitational and velocity potentials usually employed, although new operators only appear at fourth order. The basis is argued to be closed under renormalization. Most of the arguments also apply to the structure of the counter-terms in the effective theory of large-scale structure.

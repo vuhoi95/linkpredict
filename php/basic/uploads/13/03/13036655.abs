@@ -1,0 +1,4 @@
+Paper: 13036655
+Title: Crossover physics in the non-equilibrium dynamics of quenched quantum  impurity systems
+Authors: Romain Vasseur and Kien Trinh and Stephan Haas and Hubert Saleur
+Abstract: A general framework is proposed to tackle analytically local quantum quenches in integrable impurity systems, combining a mapping onto a boundary problem with the form factor approach to boundary-condition-changing operators introduced in Phys. Rev. Lett. 80, 4370 (1998). We discuss how to compute exactly two central quantities of interest: the Loschmidt echo and the distribution of the work done during the quantum quench. Our results display an interesting crossover physics characterized by the energy scale T_b of the impurity corresponding to the Kondo temperature. We discuss in detail the non-interacting case as a paradigm and benchmark for more complicated integrable impurity models, and check our results using numerical methods.

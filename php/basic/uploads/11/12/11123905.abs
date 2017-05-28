@@ -1,0 +1,4 @@
+Paper: 11123905
+Title: Nahm sums, stability and the colored Jones polynomial
+Authors: Stavros Garoufalidis and Thang T. Q. Le
+Abstract: Nahm sums are $q$-series of a special hypergeometric type that appear in character formulas in Conformal Field Theory, and give rise to elements of the Bloch group, and have interesting modularity properties. In our paper, we show how Nahm sums arise naturally in Quantum Knot Theory, namely we prove the stability of the coefficients of the colored Jones polynomial of an alternating link and present a Nahm sum formula for the resulting power series, defined in terms of a reduced diagram of the alternating link. The Nahm sum formula comes with a computer implementation, illustrated in numerous examples of proven or conjectural identities among $q$-series.

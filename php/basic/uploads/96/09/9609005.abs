@@ -1,0 +1,4 @@
+Paper: 9609005
+Title: Intermittency of Burgers' Turbulence
+Authors: E. Balkovsky and G. Falkovich and I. Kolokolov and V. Lebedev
+Abstract: We consider the tails of probability density function (PDF) for the velocity that satisfies Burgers equation driven by a Gaussian large-scale force. The saddle-point approximation is employed in the path integral so that the calculation of the PDF tails boils down to finding the special field-force configuration (instanton) that realizes the extremum of probability. For the PDFs of velocity and it's derivatives $u^{(k)} = \partial_x^ku$, the general formula is found: $ln P (|u^{(k)}|) \propto -(|u^{(k)}|/(Re)^k)^{3/(k+1)}$.

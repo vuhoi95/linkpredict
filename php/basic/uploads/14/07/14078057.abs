@@ -1,0 +1,4 @@
+Paper: 14078057
+Title: Order-by-order Analytic Solution to the BFKL Equation
+Authors: D. A. Ross and Agustin Sabio Vera
+Abstract: We propose a regularization of the BFKL equation which allows for its solution in each order of perturbation theory by means of a sum over multiple poles. This sum can be presented in a rather simple formula for the Fourier transform in the azimuthal angle of the gluon Green function. In order to test our method, we have compared a few orders in the expansion to previous results by Del Duca, Dixon, Duhr and Pennington, finding agreement. Our formalism is general and can be applied to other, more complicated, kernels.

@@ -1,0 +1,4 @@
+Paper: 9902296
+Title: Commuting quantum transfer matrix approach to intrinsic Fermion system:  Correlation length of a spinless Fermion model
+Authors: Kazumitsu Sakai and Masahiro Shiroishi and Junji Suzuki and Yukiko Umeno
+Abstract: The quantum transfer matrix (QTM) approach to integrable lattice Fermion systems is presented. As a simple case we treat the spinless Fermion model with repulsive interaction in critical regime. We derive a set of non-linear integral equations which characterize the free energy and the correlation length of $<c_j^{\dagger}c_i>$ for arbitrary particle density at any finite temperatures. The correlation length is determined by solving the integral equations numerically. Especially in low temperature limit this result agrees with the prediction from conformal field theory (CFT) with high accuracy.

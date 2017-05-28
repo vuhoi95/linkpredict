@@ -1,0 +1,4 @@
+Paper: 09013674
+Title: Non-Abelian statistics as a Berry phase in exactly solvable models
+Authors: Ville Lahtinen and Jiannis K. Pachos
+Abstract: We demonstrate how to directly study non-Abelian statistics for a wide class of exactly solvable many-body quantum systems. By employing exact eigenstates to simulate the adiabatic transport of a model's quasiparticles, the resulting Berry phase provides a direct demonstration of their non-Abelian statistics. We apply this technique to Kitaev's honeycomb lattice model and explicitly demonstrate the existence of non-Abelian Ising anyons confirming the previous conjectures. Finally, we present the manipulations needed to transport and detect the statistics of these quasiparticles in the laboratory. Various physically realistic system sizes are considered and exact predictions for such experiments are provided.

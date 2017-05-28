@@ -1,0 +1,4 @@
+Paper: 08092960
+Title: Topological Phase Transitions and Holonomies in the Dimer Model
+Authors: Charles Nash and Denjoe O'Connor
+Abstract: We demonstrate that the classical dimer model defined on a toroidal hexagonal lattice acquires holonomy phases in the thermodynamic limit. When all activities are equal the lattice sizes must be considered mod 6 in which case the finite size corrections to the bulk partition function correspond to a massless Dirac Fermion in the presence of a flat connection with nontrivial holonomy. For general bond activities we find that the phase transition in this model is a topological one, where the torus degenerates and its modular parameter becomes real at the critical temperature. We argue that these features are generic to bipartite dimer models and we present a more general lattice whose continuum partition function is that of a massive Dirac Fermion.

@@ -1,0 +1,4 @@
+Paper: 08044295
+Title: From nesting to dressing
+Authors: Romuald A. Janik and Tomasz Lukowski
+Abstract: In integrable field theories the S-matrix is usually a product of a relatively simple matrix and a complicated scalar factor. We make an observation that in many relativistic integrable field theories the scalar factor can be expressed as a convolution of simple kernels appearing in the nested levels of the nested Bethe ansatz. We formulate a proposal, up to some discrete ambiguities, how to reconstruct the scalar factor from the nested Bethe equations and check it for several relativistic integrable field theories. We then apply this proposal to the AdS asymptotic Bethe ansatz and recover the dressing factor in the integral representation of Dorey, Hofman and Maldacena.

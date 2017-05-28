@@ -1,0 +1,4 @@
+Paper: 161006456
+Title: Dyson--Schwinger Approach to Hamiltonian QCD
+Authors: Davide R. Campagnari and Hugo Reinhardt and Markus Q. Huber and Peter Vastag and Ehsan Ebadati
+Abstract: Dyson--Schwinger equations are an established, powerful non-perturbative tool for QCD. In the Hamiltonian formulation of a quantum field theory they can be used to perform variational calculations with non-Gaussian wave functionals. By means of the DSEs the various $n$-point functions, needed in expectation values of observables like the Hamilton operator, can be thus expressed in terms of the variational kernels of our trial ansatz. Equations of motion for these variational kernels are derived by minimizing the energy density and solved numerically.

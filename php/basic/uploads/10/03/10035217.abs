@@ -1,0 +1,4 @@
+Paper: 10035217
+Title: Cohomology of Line Bundles: A Computational Algorithm
+Authors: Ralph Blumenhagen and Benjamin Jurke and Thorsten Rahn and Helmut Roschy
+Abstract: We present an algorithm for computing line bundle valued cohomology classes over toric varieties. This is the basic starting point for computing massless modes in both heterotic and Type IIB/F-theory compactifications, where the manifolds of interest are complete intersections of hypersurfaces in toric varieties supporting additional vector bundles.

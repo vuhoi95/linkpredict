@@ -1,0 +1,4 @@
+Paper: 12063700
+Title: QCD in the Color-Flow Representation
+Authors: W. Kilian and T. Ohl and J. Reuter and C. Speckner
+Abstract: For many practical purposes, it is convenient to formulate unbroken non-abelian gauge theories like QCD in a color-flow basis. We present a new derivation of SU(N) interactions in the color-flow basis by extending the gauge group to U(N)xU(1)' in such a way that the two U(1) factors cancel each other. We use the quantum action principles to show the equivalence to the usual basis to all orders in perturbation theory. We extend the known Feynman rules to exotic color representations (e.g. sextets) and interactions (e.g. $\epsilon_{ijk}$). We discuss practical applications as they occur in automatic computation programs.

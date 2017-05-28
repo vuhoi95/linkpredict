@@ -1,0 +1,4 @@
+Paper: 160604193
+Title: Small flow-time representation of fermion bilinear operators
+Authors: Kenji Hieda and Hiroshi Suzuki
+Abstract: Fermion bilinear operators of mass dimension~$3$, such as the axial-vector and vector currents, the pseudo-scalar and scalar densities, whose normalizations are fixed by Ward--Takahashi (WT) relations, are related to small flow-time behavior of composite operators of fermion fields evolved by L\"uscher's flow equation. The representations can be useful in lattice numerical simulations, as recently demonstrated by the WHOT QCD collaboration for the chiral condensation of the $N_f=2+1$ quantum chromodynamics (QCD) at finite temperature.

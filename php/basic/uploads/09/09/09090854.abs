@@ -1,0 +1,4 @@
+Paper: 09090854
+Title: Universal scaling limits of matrix models, and (p,q) Liouville gravity
+Authors: Michel Bergere and Bertrand Eynard
+Abstract: We show that near a point where the equilibrium density of eigenvalues of a matrix model behaves like y ~ x^{p/q}, the correlation functions of a random matrix, are, to leading order in the appropriate scaling, given by determinants of the universal (p,q)-minimal models kernels. Those (p,q) kernels are written in terms of functions solutions of a linear equation of order q, with polynomial coefficients of degree at most p. For example, near a regular edge y ~ x^{1/2}, the (1,2) kernel is the Airy kernel and we recover the Airy law. Those kernels are associated to the (p,q) minimal model, i.e. the (p,q) reduction of the KP hierarchy solution of the string equation. Here we consider only the 1-matrix model, for which q=2.

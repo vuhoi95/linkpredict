@@ -1,0 +1,4 @@
+Paper: 13084092
+Title: Painlevé VI connection problem and monodromy of c=1 conformal blocks
+Authors: N. Iorgov and O. Lisovyy and Yu. Tykhyy
+Abstract: Generic c=1 four-point conformal blocks on the Riemann sphere can be seen as the coefficients of Fourier expansion of the tau function of Painlev\'e VI equation with respect to one of its integration constants. Based on this relation, we show that c=1 fusion matrix essentially coincides with the connection coefficient relating tau function asymptotics at different critical points. Explicit formulas for both quantities are obtained by solving certain functional relations which follow from the tau function expansions. The final result does not involve integration and is given by a ratio of two products of Barnes G-functions with arguments expressed in terms of conformal dimensions/monodromy data. It turns out to be closely related to the volume of hyperbolic tetrahedron.

@@ -1,0 +1,4 @@
+Paper: 13011501
+Title: A dynamical composition law for boundary conditions
+Authors: Manuel Asorey and Paolo Facchi and Giuseppe Marmo and Saverio Pascazio
+Abstract: We analyze the quantum dynamics of a non-relativistic particle moving in a bounded domain of physical space, when the boundary conditions are rapidly changed. In general, this yields new boundary conditions, via a dynamical composition law that is a very simple instance of superposition of different topologies. In all cases unitarity is preserved and the quick change of boundary conditions does not introduce any decoherence in the system. Among the emerging boundary conditions, the Dirichlet case (vanishing wave function at the boundary) plays the role of an attractor. Possible experimental implementations with superconducting quantum interference devices are explored and analyzed.

@@ -1,0 +1,4 @@
+Paper: 10054676
+Title: Running Boundary Condition
+Authors: Satoshi Ohya and Makoto Sakamoto and Motoi Tachibana
+Abstract: In this paper we argue that boundary condition may run with energy scale. As an illustrative example, we consider one-dimensional quantum mechanics for a spinless particle that freely propagates in the bulk yet interacts only at the origin. In this setting we find the renormalization group flow of U(2) family of boundary conditions exactly. We show that the well-known scale-independent subfamily of boundary conditions are realized as fixed points. We also discuss the duality between two distinct boundary conditions from the renormalization group point of view. Generalizations to conformal mechanics and quantum graph are also discussed.

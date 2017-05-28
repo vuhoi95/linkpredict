@@ -1,0 +1,4 @@
+Paper: 12074499
+Title: Functional renormalization group of the non-linear sigma model and the  O(N) universality class
+Authors: Raphael Flore and Andreas Wipf and Omar Zanusso
+Abstract: We study the renormalization group flow of the O(N) non-linear sigma model in arbitrary dimensions. The effective action of the model is truncated to fourth order in the derivative expansion and the flow is obtained by combining the non-perturbative renormalization group and the background field method. We investigate the flow in three dimensions and analyze the phase structure for arbitrary N. The corresponding results about the critical properties of the models will serve as a reference for upcoming simulations with the Monte-Carlo renormalization group.

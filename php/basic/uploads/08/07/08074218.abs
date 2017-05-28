@@ -1,0 +1,4 @@
+Paper: 08074218
+Title: Adiabatic approximation, Gell-Mann and Low theorem and degeneracies: A  pedagogical example
+Authors: Christian Brouder and Gabriel Stoltz and Gianluca Panati
+Abstract: We study a simple system described by a 2x2 Hamiltonian and the evolution of the quantum states under the influence of a perturbation. More precisely, when the initial Hamiltonian is not degenerate,we check analytically the validity of the adiabatic approximation and verify that, even if the evolution operator has no limit for adiabatic switchings, the Gell-Mann and Low formula allows to follow the evolution of eigenstates. In the degenerate case, for generic initial eigenstates, the adiabatic approximation (obtained by two different limiting procedures) is either useless or wrong, and the Gell-Mann and Low formula does not hold. We show how to select initial states in order to avoid such failures.

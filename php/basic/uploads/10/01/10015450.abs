@@ -1,0 +1,4 @@
+Paper: 10015450
+Title: Thermodynamics of the quantum $su(1,1)$ Landau-Lifshitz model
+Authors: A. Melikyan and A. Pinzul
+Abstract: We present thermodynamics of the quantum su(1,1) Landau-Lifshitz model, following our earlier exposition [J. Math. Phys. 50, 103518 (2009)] of the quantum integrability of the theory, which is based on construction of self-adjoint extensions, leading to a regularized quantum Hamiltonian for an arbitrary n-particle sector. Starting from general discontinuity properties of the functions used to construct the self-adjoint extensions, we derive the thermodynamic Bethe Ansatz equations. We show that due to non-symmetric and singular kernel, the self-consistency implies that only negative chemical potential values are allowed, which leads to the conclusion that, unlike its su(2) counterpart, the su(1,1) LL theory at T=0 has no instabilities.

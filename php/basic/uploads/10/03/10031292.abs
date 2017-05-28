@@ -1,0 +1,4 @@
+Paper: 10031292
+Title: Violation of area-law scaling for the entanglement entropy in spin 1/2  chains
+Authors: G. Vitagliano and A. Riera and J. I. Latorre
+Abstract: Entanglement entropy obeys area law scaling for typical physical quantum systems. This may naively be argued to follow from locality of interactions. We show that this is not the case by constructing an explicit simple spin chain Hamiltonian with nearest neighbor interactions that presents an entanglement volume scaling law. This non-translational model is contrived to have couplings that force the accumulation of singlet bonds across the half chain. Our result is complementary to the known relation between non-translational invariant, nearest neighbor interacting Hamiltonians and QMA complete problems.

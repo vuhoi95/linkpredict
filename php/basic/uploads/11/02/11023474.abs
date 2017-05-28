@@ -1,0 +1,4 @@
+Paper: 11023474
+Title: A Hamiltonian Formulation of the BKL Conjecture
+Authors: Abhay Ashtekar and Adam Henderson and David Sloan
+Abstract: The Belinskii, Khalatnikov and Lifshitz conjecture \cite{bkl1} posits that on approach to a space-like singularity in general relativity the dynamics are well approximated by `ignoring spatial derivatives in favor of time derivatives.' In \cite{ahs1} we examined this idea from within a Hamiltonian framework and provided a new formulation of the conjecture in terms of variables well suited to loop quantum gravity. We now present the details of the analytical part of that investigation. While our motivation came from quantum considerations, thanks to some of its new features, our formulation should be useful also for future analytical and numerical investigations within general relativity.

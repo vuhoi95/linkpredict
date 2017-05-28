@@ -1,0 +1,4 @@
+Paper: 160607349
+Title: Solution of the Bartels-Kwiecinski-Praszalowicz equation via Monte Carlo  integration
+Authors: Grigorios Chachamis and Agustin Sabio Vera
+Abstract: We present a method of solution of the Bartels-Kwiecinski-Praszalowicz (BKP) equation based on the numerical integration of iterated integrals in transverse momentum and rapidity space. As an application, our procedure, which makes use of Monte Carlo integration techniques, is applied to obtain the gluon Green function in the odderon case at leading order. The same approach can be used for more complicated scenarios.

@@ -1,0 +1,4 @@
+Paper: 160902074
+Title: Nesting statistics in the $O(n)$ loop model on random maps of arbitrary  topologies
+Authors: Gaëtan Borot and Elba Garcia-Failde
+Abstract: We pursue the analysis of nesting statistics in the $O(n)$ loop model on random maps, initiated for maps with the topology of disks and cylinders in math-ph/1605.02239, here for arbitrary topologies. For this purpose we rely on the topological recursion results of math-ph/0910.5896 and math-ph/1303.5808 for the enumeration of maps in the $O(n)$ model. We characterize the generating series of maps of genus $g$ with $k'$ marked points and $k$ boundaries and realizing a fixed nesting graph. These generating series are amenable to explicit computations in the loop model with bending energy on triangulations, and we characterize their behavior at criticality in the dense and in the dilute phase.

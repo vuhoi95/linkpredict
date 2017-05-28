@@ -1,0 +1,4 @@
+Paper: 08112772
+Title: General moment theorems for non-distinct unrestricted partitions
+Authors: Michael Coons and Klaus Kirsten
+Abstract: A well-known result from Hardy and Ramanujan gives an asymptotic expression for the number of possible ways to express an integer as the sum of smaller integers. In this vein, we consider the general partitioning problem of writing an integer $n$ as a sum of summands from a given sequence $\gL$ of non-decreasing integers. Under suitable assumptions on the sequence $\gL$, we obtain results using associated zeta-functions and saddle-point techniques. We also calculate higher moments of the sequence $\gL$ as well as the expected number of summands. Applications are made to various sequences, including those of Barnes and Epstein types. These results are of potential interest in statistical mechanics in the context of Bose-Einstein condensation.

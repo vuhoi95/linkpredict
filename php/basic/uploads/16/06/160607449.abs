@@ -1,0 +1,4 @@
+Paper: 160607449
+Title: Universal behavior of coupled order parameters below three dimensions
+Authors: Julia Borchardt and Astrid Eichhorn
+Abstract: We explore universal critical behavior in models with two competing order parameters, and an O(N)+O(M) symmetry for dimensions $d \leq 3$. In d=3, there is always exactly one stable Renormalization Group fixed point, corresponding to bicritical or tetracritical behavior. Employing novel, pseudo-spectral techniques to solve functional Renormalization Group equations in a two-dimensional field space, we uncover a more intricate structure of fixed points in d<3, where two additional bicritical fixed points play a role. Towards d=2, we discover ranges of N=M with several simultaneously stable fixed points, indicating the coexistence of several universality classes.

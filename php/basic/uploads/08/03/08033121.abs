@@ -1,0 +1,4 @@
+Paper: 08033121
+Title: Taming the Leibniz Rule on the Lattice
+Authors: Mitsuhiro Kato and Makoto Sakamoto and Hiroto So
+Abstract: We study a product rule and a difference operator equipped with Leibniz rule in a general framework of lattice field theory. It is shown that the difference operator can be determined by the product rule and some initial data through the Leibniz rule. This observation leads to a no-go theorem that it is impossible to construct any difference operator and product rule on a lattice with the properties of (i) translation invariance, (ii) locality and (iii) Leibniz rule. We present a formalism to overcome the difficulty by an infinite flavor extension or a matrix expression of a lattice field theory.

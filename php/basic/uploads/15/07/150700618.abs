@@ -1,0 +1,4 @@
+Paper: 150700618
+Title: Approximate Solutions of Dirac Equation with Hyperbolic-type Potential
+Authors: Altug Arda and Ramazan Sever
+Abstract: The energy eigenvalues of a Dirac particle for the hyperbolic-type potential field have been computed approximately. It is obtained a transcendental function of energy, $\mathcal{F}(E)$, by writing in terms of confluent Heun functions. The numerical values of energy are then obtained by fixing the zeros on "$E$-axis" for both complex functions $Re[\mathcal{F}(E)]$ and $Im[\mathcal{F}(E)]$.

@@ -1,0 +1,4 @@
+Paper: 14062215
+Title: Perfect Abelian dominance of quark confinement in SU(3) QCD
+Authors: Naoyuki Sakumichi and Hideo Suganuma
+Abstract: We study the Abelian projection of quark confinement in SU(3) quenched lattice QCD, in terms of the dual superconductor picture. In the maximal Abelian gauge, we perform the Cartan decomposition of the non-Abelian gauge field on a $32^4$ lattice with spacing $a \simeq0.058, 0.10$ fm (i.e., $\beta =6.4, 6.0$), and investigate the interquark potential $V(r)$, the Abelian part $V_{\mathrm{Abel}}(r)$, and the off-diagonal part $V_{\mathrm{off}}(r)$. For the potential analysis, we use both on-axis data and several types of off-axis data, with larger numbers of gauge configurations. Remarkably, we find almost perfect Abelian dominance of the string tension (quark-confining force) on the large-volume lattice. Also, we find a simple but nontrivial relation of $V(r) \simeq V_{\mathrm{Abel}}(r) + V_{\mathrm{off}}(r)$.

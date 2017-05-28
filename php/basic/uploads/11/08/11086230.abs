@@ -1,0 +1,4 @@
+Paper: 11086230
+Title: Determination of the Shear Viscosity Relaxation Time at Weak and Strong  Coupling
+Authors: G. S. Denicol and J. Noronha and H. Niemi and D. H. Rischke
+Abstract: We investigate the microscopic origin of the relaxation time coefficient in relativistic fluid dynamics. We show that the extraction of the shear viscosity relaxation time via the gradient expansion is ambiguous and in general fails to give the correct result. The correct value for the shear viscosity relaxation time is extracted from the slowest non-hydrodynamic pole of the corresponding retarded Green's function, if such a pole is purely imaginary. According to the AdS/CFT correspondence, in strongly-coupled $\mathcal{N}=4$ SYM the non-hydrodynamic poles of the shear stress tensor nearest to the origin have a nonzero real part, which implies that the transient fluid-dynamical equations for this gauge theory are not equivalent to the well-known Israel-Stewart equations.

@@ -1,0 +1,4 @@
+Paper: 13097053
+Title: Generalized quiver mutations and single-centered indices
+Authors: Jan Manschot and Boris Pioline and Ashoke Sen
+Abstract: Quiver quantum mechanics is invariant under Seiberg duality. A mathematical consequence is that the cohomology of the Higgs branch moduli space is invariant under mutations of the quiver. The Coulomb branch formula, on the other hand, conjecturally expresses the Poincar\'e / Dolbeault polynomial of the Higgs branch moduli space in terms of certain quantities known as single-centered indices. In this work we determine the transformations of these single-centered indices under mutations. Moreover, we generalize these mutations to quivers whose nodes carry single-centered indices different from unity. Although the Higgs branch description of these generalized quivers is currently unknown, the Coulomb branch formula is conjectured to be invariant under generalized mutations.

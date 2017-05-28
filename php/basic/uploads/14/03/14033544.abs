@@ -1,0 +1,4 @@
+Paper: 14033544
+Title: Optimized regulator for the quantized anharmonic oscillator
+Authors: J. Kovacs and S. Nagy and K. Sailer
+Abstract: The energy gap between the first excited state and the ground state is calculated for the quantized anharmonic oscillator in the framework of the functional renormalization group method. The compactly supported smooth regulator is used which includes various types of regulators as limiting cases. It was found that the value of the energy gap depends on the regulator parameters. We argue that the optimization based on the disappearance of the false, broken symmetric phase of the model leads to the Litim's regulator. The least sensitivity on the regulator parameters leads however to an IR regulator being somewhat different of the Litim's one, but it can be described as a perturbatively improved, or generalized Litim's regulator and provides analytic evolution equations, too.

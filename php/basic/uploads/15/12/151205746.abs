@@ -1,0 +1,4 @@
+Paper: 151205746
+Title: The renormalized Hamiltonian truncation method in the large $E_T$  expansion
+Authors: J. Elias-Miro and M. Montull and M. Riembau
+Abstract: Hamiltonian Truncation Methods are a useful numerical tool to study strongly coupled QFTs. In this work we present a new method to compute the exact corrections, at any order, in the Hamiltonian Truncation approach presented by Rychkov et al. in Refs. [1-3]. The method is general but as an example we calculate the exact $g^2$ and some of the $g^3$ contributions for the $\phi^4$ theory in two dimensions. The coefficients of the local expansion calculated in Ref. [1] are shown to be given by phase space integrals. In addition we find new approximations to speed up the numerical calculations and implement them to compute the lowest energy levels at strong coupling. A simple diagrammatic representation of the corrections and various tests are also introduced.

@@ -1,0 +1,4 @@
+Paper: 13045342
+Title: Modular forms in Quantum Field Theory
+Authors: Francis Brown and Oliver Schnetz
+Abstract: The amplitude of a Feynman graph in Quantum Field Theory is related to the point-count over finite fields of the corresponding graph hypersurface. This article reports on an experimental study of point counts over F_q modulo q^3, for graphs up to loop order 10. It is found that many of them are given by Fourier coefficients of modular forms of weights <=8 and levels <=17.

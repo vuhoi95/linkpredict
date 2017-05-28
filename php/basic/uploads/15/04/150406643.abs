@@ -1,0 +1,4 @@
+Paper: 150406643
+Title: Renormalization out of equilibrium in a superrenormalizable theory
+Authors: Mathias Garny and Urko Reinosa
+Abstract: We discuss the renormalization of the initial value problem in Nonequilibrium Quantum Field Theory within a simple, yet instructive, example and show how to obtain a renormalized time evolution for the two-point functions of a scalar field and its conjugate momentum at all times. The scheme we propose is applicable to systems that are initially far from equilibrium and compatible with non-secular approximation schemes which capture thermalization. It is based on Kadanoff-Baym equations for non-Gaussian initial states, complemented by usual vacuum counterterms. We explicitly demonstrate how various cutoff-dependent effects peculiar to nonequilibrium systems, including time-dependent divergences or initial-time singularities, are avoided by taking an initial non-Gaussian three-point vacuum correlation into account.

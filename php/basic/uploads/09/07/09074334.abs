@@ -1,0 +1,4 @@
+Paper: 09074334
+Title: Revisiting pinors, spinors and orientability
+Authors: Loriano Bonora and Fabio Ferrari Ruffino and Raffaele Savelli
+Abstract: We study the relations between pin structures on a non-orientable even-dimensional manifold, with or without boundary, and pin structures on its orientable double cover, requiring the latter to be invariant under sheet-exchange. We show that there is not a simple bijection, but that the natural map induced by pull-back is neither injective nor surjective: we thus find the conditions to recover a full correspondence. We also show how to describe such a correspondence using spinors instead of pinors on the double cover: this is in a certain sense possible, but in a way that contains anyhow an explicit reference to pinors. We then consider the example of surfaces, with detailed computations for the real projective plane, the Klein bottle and the Moebius strip.

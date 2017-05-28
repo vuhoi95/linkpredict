@@ -1,0 +1,4 @@
+Paper: 9602024
+Title: $SU(2)$ gauge theory in the maximally abelian gauge without monopoles
+Authors: S. Yu. Shmakov and A. M. Zadorozhny
+Abstract: We present an algorithm for simulation of $SU(2)$ lattice gauge theory under the MA gauge and first numerical results for the theory without abelian monopoles. The results support the idea that nonperturbative interaction arises between monopoles and residual abelian field and the other interactions are perturbative. It is shown that the Gribov region for the theory with the MA gauge fixed is non-connected.

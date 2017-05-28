@@ -1,0 +1,4 @@
+Paper: 11096186
+Title: Finite size scaling and triviality of φ^4 theory on an antiperiodic  torus
+Authors: Matthijs Hogervorst and Ulli Wolff
+Abstract: Worm methods to simulate the Ising model in the Aizenman random current representation including a low noise estimator for the connected four point function are extended to allow for antiperiodic boundary conditions. In this setup several finite size renormalization schemes are formulated and studied with regard to the triviality of \phi^4 theory in four dimensions. With antiperiodicity eliminating the zero momentum Fourier mode a closer agreement with perturbation theory is found compared to the periodic torus.

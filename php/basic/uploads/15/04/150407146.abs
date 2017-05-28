@@ -1,0 +1,4 @@
+Paper: 150407146
+Title: On the defect and stability of differential expansion
+Authors: Ya. Kononov and A. Morozov
+Abstract: Empirical analysis of many colored knot polynomials, made possible by recent computational advances in Chern-Simons theory, reveals their stability: for any given negative N and any given knot the set of coefficients of the polynomial in r-th symmetric representation does not change with r, if it is large enough. This fact reflects the non-trivial and previously unknown properties of the differential expansion, and it turns out that from this point of view there are universality classes of knots, characterized by a single integer, which we call defect, and which is in fact related to the power of Alexander polynomial.

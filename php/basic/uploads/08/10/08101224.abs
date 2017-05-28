@@ -1,0 +1,4 @@
+Paper: 08101224
+Title: Noncommutative quantum mechanics: uniqueness of the functional  description
+Authors: F. S. Bemfica and H. O. Girotti
+Abstract: The generalized Weyl transform of index $\alpha$ is used to implement the time-slice definition of the phase space path integral yielding the Feynman kernel in the case of noncommutative quantum mechanics. As expected, this representation for the Feynman kernel is not unique but labeled by the real parameter $\alpha$. We succeed in proving that the $\alpha$-dependent contributions disappear at the limit where the time slice goes to zero. This proof of consistency turns out to be intricate because the Hamiltonian involves products of noncommuting operators originating from the non-commutativity. The antisymmetry of the matrix parameterizing the non-commutativity plays a key role in the cancelation mechanism of the $\alpha$-dependent terms.

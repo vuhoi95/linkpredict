@@ -1,0 +1,4 @@
+Paper: 14023894
+Title: Fisher Exponent from Pseudo-$ε$ Expansion
+Authors: A. I. Sokolov and M. A. Nikitina
+Abstract: Critical exponent $\eta$ for three-dimensional systems with $n$-vector order parameter is evaluated in the frame of pseudo-$\epsilon$ expansion approach. Pseudo-$\epsilon$ expansion ($\tau$-series) for $\eta$ found up to $\tau^7$ term for $n$ = 0, 1, 2, 3 and within $\tau^6$ order for general $n$ is shown to have a structure rather favorable for getting numerical estimates. Use of Pad\'e approximants and direct summation of $\tau$-series result in iteration procedures rapidly converging to the asymptotic values that are very close to most reliable numerical estimates of $\eta$ known today. The origin of this fortune is discussed and shown to lie in general properties of the pseudo-$\epsilon$ expansion machinery interfering with some peculiarities of the renormalization group expansion of $\eta$.

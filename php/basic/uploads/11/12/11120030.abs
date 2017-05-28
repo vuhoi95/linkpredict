@@ -1,0 +1,4 @@
+Paper: 11120030
+Title: Homological algebra of knots and BPS states
+Authors: Sergei Gukov and Marko Stosic
+Abstract: It is known that knot homologies admit a physical description as spaces of open BPS states. We study operators and algebras acting on these spaces. This leads to a very rich story, which involves wall crossing phenomena, algebras of closed BPS states acting on spaces of open BPS states, and deformations of Landau-Ginzburg models. One important application to knot homologies is the existence of "colored differentials" that relate homological invariants of knots colored by different representations. Based on this structure, we formulate a list of properties of the colored HOMFLY homology that categorifies the colored HOMFLY polynomial. By calculating the colored HOMFLY homology for symmetric and anti-symmetric representations, we find a remarkable "mirror symmetry" between these triply-graded theories.

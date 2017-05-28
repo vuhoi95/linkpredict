@@ -1,0 +1,4 @@
+Paper: 161000526
+Title: Exact solution of matricial $Φ^3_2$ quantum field theory
+Authors: Harald Grosse and Akifumi Sako and Raimar Wulkenhaar
+Abstract: We apply a recently developed method to exactly solve the $\Phi^3$ matrix model with covariance of a two-dimensional theory, also known as regularised Kontsevich model. Its correlation functions collectively describe graphs on a multi-punctured 2-sphere. We show how Ward-Takahashi identities and Schwinger-Dyson equations lead in a special large-$\mathcal{N}$ limit to integral equations that we solve exactly for all correlation functions. Remarkably, these functions are analytic in the $\Phi^3$ coupling constant, although bounds on individual graphs justify only Borel summability. The solved model arises from noncommutative field theory in a special limit of strong deformation parameter. The limit defines ordinary 2D Schwinger functions which, however, do not satisfy reflection positivity.

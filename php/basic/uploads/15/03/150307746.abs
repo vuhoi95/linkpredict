@@ -1,0 +1,4 @@
+Paper: 150307746
+Title: Self-gravitating scalar breathers with negative cosmological constant
+Authors: Gyula Fodor and Péter Forgács and Philippe Grandclément
+Abstract: Breather-type (time-periodic and spatially localized) solutions with spherical symmetry are investigated in a massless scalar field theory coupled to Einstein's gravity with cosmological constant in $d$ spatial dimensions imposing anti de Sitter (AdS) asymptotics on space-time. Using a code constructed with the Kadath library that enables the use of spectral methods, the phase space of breather solutions is explored in detail for $d=3$ and $d=4$. It is found that there are discrete families of solutions indexed by an integer and by their frequency. Using a time evolution code these AdS breathers are found to be stable for up to a critical central density, in analogy to boson stars. Using an analytical perturbative expansion small amplitude breathers are worked out for arbitrary dimensions $d$.

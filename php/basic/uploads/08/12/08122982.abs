@@ -1,0 +1,4 @@
+Paper: 08122982
+Title: Eigenvalue Problem in Two Dimension for An Irregular Boundary
+Authors: S. Chakraborty and J. K. Bhattacharjee and S. P. Khastgir
+Abstract: An analytical perturbative method is suggested for solving the Helmholtz equation (\bigtriangledown^{2} + k^{2}){\psi} = 0 in two dimensions where {\psi} vanishes on an irregular closed curve. We can thus find the energy levels of a quantum mechanical particle confined in an infinitely deep potential well in two dimensions having an irregular boundary or the vibration frequencies of a membrane whose edge is an irregular closed curve. The method is tested by calculating the energy levels for an elliptical and a supercircular boundary and comparing with the results obtained numerically. Further, the phenomenon of level crossing due to shape variation is also discussed.

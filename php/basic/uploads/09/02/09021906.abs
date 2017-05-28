@@ -1,0 +1,4 @@
+Paper: 09021906
+Title: S-matrix equivalence restored
+Authors: Chih-Hao Fu and Jonathan Fudger and Paul R. W. Mansfield and Tim R. Morris and Zhiguang Xiao
+Abstract: The canonical transformation that maps light-cone Yang-Mills theory to a Lagrangian description of the MHV rules is non-local, consequently the two sets of fields do not necessarily generate the same S-matrix. By deriving a new recursion relation for the canonical transformation expansion coefficients, we find a direct map between these coefficients and tree level light-cone diagrams. We use this to show that, at least up to one-loop with dimensionally regularised MHV vertices, the only difference is the omission of the one-loop amplitudes in which all gluons have positive helicity.

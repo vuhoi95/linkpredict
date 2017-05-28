@@ -1,0 +1,4 @@
+Paper: 09091999
+Title: Entanglement entropy of excited states
+Authors: Vincenzo Alba and Maurizio Fagotti and Pasquale Calabrese
+Abstract: We study the entanglement entropy of a block of contiguous spins in excited states of spin chains. We consider the XY model in a transverse field and the XXZ Heisenberg spin-chain. For the latter, we developed a numerical application of algebraic Bethe Ansatz. We find two main classes of states with logarithmic and extensive behavior in the dimension of the block, characterized by the properties of excitations of the state. This behavior can be related to the locality properties of the Hamiltonian having a given state as ground state. We also provide several details of the finite size scaling.

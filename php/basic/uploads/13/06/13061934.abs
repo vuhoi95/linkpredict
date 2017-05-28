@@ -1,0 +1,4 @@
+Paper: 13061934
+Title: Derivation of the Dirac Equation from Principles of Information  Processing
+Authors: G. M. D'Ariano and P. Perinotti
+Abstract: We show how the Dirac equation in three space-dimensions emerges from the large-scale dynamics of the minimal nontrivial quantum cellular automaton satisfying unitariety, locality, homogeneity, and discrete isotropy, without using the relativity principle. The Dirac equation is recovered for small wave-vector and inertial mass, whereas Lorentz covariance is distorted in the ultra-relativistic limit. The automaton can thus be regarded as a theory unifying scales from Planck to Fermi. A simple asymptotic approach leads to a dispersive Schroedinger equation describing the evolution of narrow-band states at all scales.

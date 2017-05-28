@@ -1,0 +1,4 @@
+Paper: 11111000
+Title: Running Immirzi Parameter and Asymptotic Safety
+Authors: Jan-Eric Daum and Martin Reuter
+Abstract: We explore the renormalization group (RG) properties of quantum gravity, using the vielbein and the spin connection as the fundamental field variables. We require the effective action to be invariant under the semidirect product of spacetime diffeomorphisms and local frame rotations. Starting from the corresponding functional integral we review the construction of an appropriate theory space and an exact funtional RG equation operating on it. We then solve this equation on a truncated space defined by a three parameter family of Holst-type actions which involve a running Immirzi parameter. We find evidence for the existence of an asymptotically safe fundamental theory. It is probably inequivalent to metric quantum gravity constructed in the same way.

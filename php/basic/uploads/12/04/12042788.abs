@@ -1,0 +1,4 @@
+Paper: 12042788
+Title: Matrix embeddings on flat $R^3$ and the geometry of membranes
+Authors: David Berenstein and Eric Dzienkowski
+Abstract: We show that given three hermitian matrices, what one could call a fuzzy representation of a membrane, there is a well defined procedure to define a set of oriented Riemann surfaces embedded in $R^3$ using an index function defined for points in $R^3$ that is constructed from the three matrices and the point. The set of surfaces is covariant under rotations, dilatations and translation operations on $R^3$, it is additive on direct sums and the orientation of the surfaces is reversed by complex conjugation of the matrices. The index we build is closely related to the Hanany-Witten effect. We also show that the surfaces carry information of a line bundle with connection on them. We discuss applications of these ideas to the study of holographic matrix models and black hole dynamics.

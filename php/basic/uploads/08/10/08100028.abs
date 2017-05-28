@@ -1,0 +1,4 @@
+Paper: 08100028
+Title: Coulomb Phase Gluon Scattering at Strong Coupling
+Authors: Benjamin A. Burrington and Leopoldo A. Pando Zayas
+Abstract: We calculate corrections to gluon scattering amplitudes in a Coulomb phase using gauge/string duality. The Coulomb phase considered is a maximal rank breaking of $SU(n_1+n_2)\to SU(n_1)\times SU(n_2) \times U(1)$. This problem therefore has 3 scales involved: 1) the scale of the massive fields $M_W$ arising from the spontaneous breaking of the gauge group; 2) The scale of the scattering, characterized by the Mandelstam variables $s,t,u$; 3) The IR regulator $m_{IR}$. We find corrections in the hard scattering limit $ |s|,|t|,|u|\gg m_{IR}^2 \gg M_W^2$, and also find below threshold corrections with $M_W^2 \gg |s|,|t|,|u|$. We find that the corrections in the second case are finite, and so are IR regulator independent.

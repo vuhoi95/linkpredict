@@ -1,0 +1,4 @@
+Paper: 08123625
+Title: Modular application of an Integration by Fractional Expansion (IBFE)  method to multiloop Feynman diagrams
+Authors: Ivan Gonzalez and Ivan Schmidt
+Abstract: We present an alternative technique for evaluating multiloop Feynman diagrams, using the integration by fractional expansion method. Here we consider generic diagrams that contain propagators with radiative corrections which topologically correspond to recursive constructions of bubble type diagrams. The main idea is to reduce these subgraphs, replacing them by their equivalent multiregion expansion. One of the main advantages of this integration technique is that it allows to reduce massive cases with the same degree of difficulty as in the massless case.

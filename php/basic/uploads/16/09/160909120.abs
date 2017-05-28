@@ -1,0 +1,4 @@
+Paper: 160909120
+Title: Nonanalyticity of the induced Carroll-Field-Jackiw term at finite  temperature
+Authors: J. F. Assuncao and T. Mariz and A. Yu. Petrov
+Abstract: In this paper, we discuss the behavior of the Carroll-Field-Jackiw (CFJ) coefficient $k^{\mu}$ arising due to integration over massive fermions, and the modification suffered by its topological structure in the finite temperature case. Our study is based on the imaginary time formalism and summation over the Matsubara frequencies. We demonstrate that the self-energy of photon is non-analytic for the small $k^{\mu}$ limit, i.e., the static limit $(k_0=0,\vec k\rightarrow 0)$ and the long wavelength limit $(k_0\rightarrow 0,\vec k= 0)$ do not commute, while the tensorial structure of the CFJ term holds in both limits.

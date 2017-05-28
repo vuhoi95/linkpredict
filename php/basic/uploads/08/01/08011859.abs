@@ -1,0 +1,4 @@
+Paper: 08011859
+Title: Large N_c confinement and turbulence
+Authors: Jean-Paul Blaizot and Maciej A. Nowak
+Abstract: We suggest that the transition that occurs at large $N_c$ in the eigenvalue distribution of a Wilson loop may have a turbulent origin. We arrived at this conclusion by studying the complex-valued inviscid Burgers-Hopf equation that corresponds to the Makeenko-Migdal loop equation, and we demonstrate the appearance of a shock in the spectral flow of the Wilson loop eigenvalues. This picture supplements that of the Durhuus-Olesen transition with a particular realization of disorder. The critical behavior at the formation of the shock allows us to infer exponents that have been measured recently in lattice simulations by Narayanan and Neuberger in $d=2$ and $d=3$. Our analysis leads us to speculate that the universal behavior observed in these lattice simulations might be a generic feature of confinement, also in $d=4$ Yang-Mills theory.

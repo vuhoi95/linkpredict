@@ -1,0 +1,4 @@
+Paper: 12023320
+Title: Energy landscape analysis of the two-dimensional nearest-neighbor φ^4  model
+Authors: Dhagash Mehta and Jonathan D. Hauenstein and Michael Kastner
+Abstract: The stationary points of the potential energy function of the \phi^4 model on a two-dimensional square lattice with nearest-neighbor interactions are studied by means of two numerical methods: a numerical homotopy continuation method and a globally-convergent Newton-Raphson method. We analyze the properties of the stationary points, in particular with respect to a number of quantities that have been conjectured to display signatures of the thermodynamic phase transition of the model. Although no such signatures are found for the nearest-neighbor \phi^4 model, our study illustrates the strengths and weaknesses of the numerical methods employed.

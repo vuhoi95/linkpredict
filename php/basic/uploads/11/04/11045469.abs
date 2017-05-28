@@ -1,0 +1,4 @@
+Paper: 11045469
+Title: Evidence for fast thermalization in the plane-wave matrix model
+Authors: Curtis T. Asplund and David Berenstein and Diego Trancanelli
+Abstract: We perform a numerical simulation of the classical evolution of the plane-wave matrix model with semiclassical initial conditions. Some of these initial conditions thermalize and are dual to a black hole forming from the collision of D-branes in the plane wave geometry. In particular, we consider a large fuzzy sphere (a D2-brane) plus a single eigenvalue (a D0-particle) going exactly through the center of the fuzzy sphere and aimed to intersect it. Including quantum fluctuations of the off-diagonal modes in the initial conditions, with sufficient kinetic energy the configuration collapses to a small size. We also find evidence for fast thermalization: rapidly decaying autocorrelation functions at late times with respect to the natural time scale of the system.

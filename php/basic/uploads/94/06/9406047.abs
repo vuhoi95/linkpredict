@@ -1,0 +1,4 @@
+Paper: 9406047
+Title: Spectra of Quantum Chains without the Yang-Baxter Equation
+Authors: I. Peschel and V. Rittenberg and U. Schultze
+Abstract: We study one-dimensional reaction-diffusion models described by master equations and their associated two-state quantum Hamiltonians. By choosing appropriate rates, the equations of motion decouple into certain subsets. We solve the first subset which has a close relation to the problem of lattice electrons in an electric field. In this way we obtain $L (L - 1) + 1$ energy levels of a quantum chain with $L$ sites. The corresponding Hamiltonian depends on 7 parameters and does not look integrable using conventional methods. As an application, we compute the dynamical critical exponent of a new type of kinetic Ising model.

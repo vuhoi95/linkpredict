@@ -1,0 +1,4 @@
+Paper: 14104833
+Title: Hydrodynamics with gauge anomaly: Variational principle and Hamiltonian  formulation
+Authors: Gustavo M. Monteiro and Alexander G. Abanov and V. P. Nair
+Abstract: We present a variational principle for relativistic hydrodynamics with gauge-anomaly terms for a fluid coupled to an Abelian background gauge field. For this we utilize the Clebsch parametrization of the velocity field. We also set up the Hamiltonian formulation and the canonical framework for the theory. While the equations of motion only involve the density and velocity fields, i.e., the Clebsch potentials only appear in the combination which is the velocity field, the generators of symmetry transformations (including the Hamiltonian) depend explicitly on one of the Clebsch potentials, if the background field is time-dependent. For the special case of time-independent background fields, this feature is absent.

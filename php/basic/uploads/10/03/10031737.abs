@@ -1,0 +1,4 @@
+Paper: 10031737
+Title: A matrix model for the topological string I: Deriving the matrix model
+Authors: Bertrand Eynard and Amir-Kian Kashani-Poor and Olivier Marchal
+Abstract: We construct a matrix model that reproduces the topological string partition function on arbitrary toric Calabi-Yau 3-folds. This demonstrates, in accord with the BKMP "remodeling the B-model" conjecture, that Gromov-Witten invariants of any toric Calabi-Yau 3-fold can be computed in terms of the spectral invariants of a spectral curve. Moreover, it proves that the generating function of Gromov-Witten invariants is a tau function for an integrable hierarchy. In a follow-up paper, we will explicitly construct the spectral curve of our matrix model and argue that it equals the mirror curve of the toric Calabi-Yau manifold.

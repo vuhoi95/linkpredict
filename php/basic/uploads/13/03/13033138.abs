@@ -1,0 +1,4 @@
+Paper: 13033138
+Title: Gilkey-de Witt heat kernel expansion and zero modes
+Authors: Alberto Alonso-Izquierdo and Juan Mateos-Guilarte
+Abstract: In this paper we propose a generalization of the Gilkey-de Witt heat kernel expansion, designed to provide us with a precise estimation of the heat trace of non-negative Schroedinger type differential operators with non-trivial kernel over all the domain of its "inverse temperature" variable. We apply this modified approach to compute effectively the one-loop kink mass shift for some models whose kink fluctuation operator spectrum is unknown and the only alternative to estimate this magnitude is the use of the heat kernel expansion techniques.

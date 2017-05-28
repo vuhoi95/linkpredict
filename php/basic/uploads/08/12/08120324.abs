@@ -1,0 +1,4 @@
+Paper: 08120324
+Title: Random matrix analysis of the QCD sign problem for general topology
+Authors: Jacques Bloch and Tilo Wettig
+Abstract: Motivated by the important role played by the phase of the fermion determinant in the investigation of the sign problem in lattice QCD at nonzero baryon density, we derive an analytical formula for the average phase factor of the fermion determinant for general topology in the microscopic limit of chiral random matrix theory at nonzero chemical potential, for both the quenched and the unquenched case. The formula is a nontrivial extension of the expression for zero topology derived earlier by Splittorff and Verbaarschot. Our analytical predictions are verified by detailed numerical random matrix simulations of the quenched theory.

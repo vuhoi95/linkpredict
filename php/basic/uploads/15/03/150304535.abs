@@ -1,0 +1,4 @@
+Paper: 150304535
+Title: Relativistic hydrodynamics from quantum field theory on the basis of the  generalized Gibbs ensemble method
+Authors: Tomoya Hayata and Yoshimasa Hidaka and Masaru Hongo and Toshifumi Noumi
+Abstract: We derive relativistic hydrodynamics from quantum field theories by assuming that the density operator is given by a local Gibbs distribution at initial time. We decompose the energy-momentum tensor and particle current into nondissipative and dissipative parts, and analyze their time evolution in detail. Performing the path-integral formulation of the local Gibbs distribution, we microscopically derive the generating functional for the nondissipative hydrodynamics.We also construct a basis to study dissipative corrections. In particular, we derive the first-order dissipative hydrodynamic equations without a choice of frame such as the Landau-Lifshitz or Eckart frame.

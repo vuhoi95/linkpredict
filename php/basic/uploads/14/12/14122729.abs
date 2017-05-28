@@ -1,0 +1,4 @@
+Paper: 14122729
+Title: Full simulation of chiral Random Matrix Theory at non-zero chemical  potential by Complex Langevin
+Authors: A. Mollgaard and K. Splittorff
+Abstract: It is demonstrated that the complex Langevin method can simulate chiral random matrix theory at non-zero chemical potential. The successful match with the analytic prediction for the chiral condensate is established through a shift of matrix integration variables and choosing a polar representation for the new matrix elements before complexification. Furthermore, we test the proposal to work with a Langevin-time dependent quark mass and find that it allows us to control the fluctuations of the phase of the fermion determinant throughout the Langevin trajectory.

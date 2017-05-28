@@ -1,0 +1,4 @@
+Paper: 150804655
+Title: Continuity of Scalar Fields With Logarithmic Correlations
+Authors: S. G. Rajeev and Evan Ranken
+Abstract: We apply select ideas from the modern theory of stochastic processes in order to study the continuity/roughness of scalar quantum fields. A scalar field with logarithmic correlations (such as a massless field in 1+1 spacetime dimensions) has the mildest of singularities, making it a logical starting point. Instead of the usual inner product of the field with a smooth function, we introduce a moving average on an interval which allows us to obtain explicit results and has a simple physical interpretation. Using the mathematical work of Dudley, we prove that the averaged random process is in fact continuous, and give a precise modulus of continuity bounding the short-distance variation.

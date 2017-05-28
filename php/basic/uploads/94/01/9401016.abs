@@ -1,0 +1,4 @@
+Paper: 9401016
+Title: A Numerical Study of the Hierarchical Ising Model: High Temperature  Versus Epsilon Expansion
+Authors: Y. Meurice and G. Ordaz and V. G. J. Rodgers
+Abstract: We study numerically the magnetic susceptibility of the hierarchical model with Ising spins ($\sigma =\pm 1$) above the critical temperature and for two values of the epsilon parameter. The integrations are performed exactly, using recursive methods which exploit the symmetries of the model. Lattices with up to $2^18$ sites have been used. Surprisingly, the numerical data can be fitted very well with a simple power law of the form $(1- \beta /\beta _c )^{- \gamma} $for the {\it whole} temperature range. The numerical values for $\gamma $ agree within a few percent with the values calculated with a high-temperature expansion but show significant discrepancies with the epsilon-expansion. We would appreciate comments about these results.

@@ -1,0 +1,4 @@
+Paper: 11085654
+Title: Nonperturbative features of the axial current
+Authors: B. Z. Kopeliovich and Ivan Schmidt and M. Siddikov
+Abstract: We study the nonperturbative structure of the axial current and evaluate the two-point light-cone distribution amplitudes (DA) associated with the correlator \int d\xi exp(-iq\xi)<0|\bar{\psi}(x)\Gamma\psi(y)J_{\mu}^{5}(\xi)|0> within the instanton vacuum model in the leading order in O(1/N_c). Due to the built-in chiral symmetry, four of eight axial DAs are related to that for pions. Knowledge of these nonperturbative objects is important for phenomenological study of high-energy neutrino interactions and semileptonic decays of heavy quarks. We provide a code for evaluation of these DAs and an interpolation formula valid in the region Q^2 < 1 GeV^2.

@@ -1,0 +1,4 @@
+Paper: 10031568
+Title: The Hilbert scheme of a plane curve singularity and the HOMFLY  polynomial of its link
+Authors: Alexei Oblomkov and Vivek Shende
+Abstract: The intersection of a complex plane curve with a small three-sphere surrounding one of its singularities is a non-trivial link. The refined punctual Hilbert schemes of the singularity parameterize subschemes supported at the singular point of fixed length and whose defining ideals have a fixed number of generators. We conjecture that the generating function of Euler characteristics of refined punctual Hilbert schemes is the HOMFLY polynomial of the link. The conjecture is verified for irreducible singularities y^k = x^n, whose links are the k,n torus knots, and for the singularity y^4 = x^7 - x^6 + 4 x^5 y + 2 x^3 y^2, whose link is the 2,13 cable of the trefoil.

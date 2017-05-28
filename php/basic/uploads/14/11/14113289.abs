@@ -1,0 +1,4 @@
+Paper: 14113289
+Title: A Cluster Bootstrap for Two-Loop MHV Amplitudes
+Authors: John Golden and Marcus Spradlin
+Abstract: We apply a bootstrap procedure to two-loop MHV amplitudes in planar N=4 super-Yang-Mills theory. We argue that the mathematically most complicated part (the $\Lambda^2 B_2$ coproduct component) of the n-particle amplitude is uniquely determined by a simple cluster algebra property together with a few physical constraints (dihedral symmetry, analytic structure, supersymmetry, and well-defined collinear limits). We present a concise, closed-form expression which manifests these properties for all n.

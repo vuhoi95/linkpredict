@@ -1,0 +1,4 @@
+Paper: 13122979
+Title: Spectral networks and Fenchel-Nielsen coordinates
+Authors: Lotte Hollands and Andrew Neitzke
+Abstract: We explain that spectral networks are a unifying framework that incorporates both shear (Fock-Goncharov) and length-twist (Fenchel-Nielsen) coordinate systems on moduli spaces of flat SL(2,C) connections, in the following sense. Given a spectral network W on a punctured Riemann surface C, we explain the process of "abelianization" which relates flat SL(2)-connections (with an additional structure called "W-framing") to flat C*-connections on a covering. For any W, abelianization gives a construction of a local Darboux coordinate system on the moduli space of W-framed flat connections. There are two special types of spectral network, combinatorially dual to ideal triangulations and pants decompositions; these two types of network lead to Fock-Goncharov and Fenchel-Nielsen coordinates respectively.

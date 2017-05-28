@@ -1,0 +1,4 @@
+Paper: 150606588
+Title: Kerr Scattering Coefficients via Isomonodromy
+Authors: Bruno Carneiro da Cunha and Fábio Novaes
+Abstract: We study the scattering of a massless scalar field in a generic Kerr background. Using a particular gauge choice based on the current conservation of the radial equation, we give a generic formula for the scattering coefficient in terms of the composite monodromy parameter $\sigma$ between the inner and the outer horizons. Using the isomonodromy flow, we calculate $\sigma$ exactly in terms of the Painlev\'e V $\tau$-function. We also show that the eigenvalue problem for the angular equation (spheroidal harmonics) can be calculated using the same techniques. We use recent developments relating the Painlev\'e V $\tau$-function to Liouville irregular conformal blocks to claim that this scattering problem is solved in the combinatorial sense, with known expressions for the $\tau$-function near the critical points.

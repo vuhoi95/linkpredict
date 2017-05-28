@@ -1,0 +1,4 @@
+Paper: 160507310
+Title: One-dimensional Schrödinger equation with non-analytic potential  $V(x)= -g^2\exp (-|x|)$ and its exact Bessel-function solvability
+Authors: Ryu Sasaki and Miloslav Znojil
+Abstract: Exact solvability (ES) of one-dimensional quantum potentials $V(x)$ is a vague concept. We propose that beyond its most conventional range the ES status should be attributed also to many less common interaction models for which the wave functions remain piecewise proportional to special functions. The claim is supported by constructive analysis of a toy model $V(x)= -g^2\exp (-|x|)$. The detailed description of the related bound-state and scattering solutions of Schr\"{o}dinger equation is provided in terms of Bessel functions which are properly matched in the origin.

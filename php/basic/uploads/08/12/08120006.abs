@@ -1,0 +1,4 @@
+Paper: 08120006
+Title: Scaling of entanglement entropy and superselection rules
+Authors: I. Klich and L. S. Levitov
+Abstract: Particle number conservation in fermionic systems restricts the allowed local operations on bi-partite systems. We show how this restriction is related to measurement entropy of particle fluctuations and compute it for several regimes of practical relevance. The accessible entanglement entropy restricted by particle number conservation is equal, to leading order, to the full entanglement entropy. The correction is bounded by the log of the variance of particle number fluctuations. The results are applied to generic Fermi systems in dimension d>1 as well as to several critical systems in d=1.

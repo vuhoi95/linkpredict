@@ -1,0 +1,4 @@
+Paper: 12054425
+Title: Universal spectral behavior of $x^2(ix)^ε$ potentials
+Authors: Carl M. Bender and Daniel W. Hook
+Abstract: The PT-symmetric Hamiltonian $H=p^2+x^2(ix)^\epsilon$ ($\epsilon$ real) exhibits a phase transition at $\epsilon=0$. When $\epsilon\geq0$, the eigenvalues are all real, positive, discrete, and grow as $\epsilon$ increases. However, when $\epsilon<0$ there are only a finite number of real eigenvalues. As $\epsilon$ approaches -1 from above, the number of real eigenvalues decreases to one, and this eigenvalue becomes infinite at $\epsilon=-1$. In this paper it is shown that these qualitative spectral behaviors are generic and that they are exhibited by the eigenvalues of the general class of Hamiltonians $H^{(2n)}=p^{2n}+x^2(ix)^\epsilon$ ($\epsilon$ real, n=1, 2, 3, ...). The complex classical behaviors of these Hamiltonians are also examined.

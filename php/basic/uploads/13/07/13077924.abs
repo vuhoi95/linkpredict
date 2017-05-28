@@ -1,0 +1,4 @@
+Paper: 13077924
+Title: Ensemble fermions for electroweak dynamics and the fermion preheating  temperature
+Authors: Zong-Gang Mou and Paul M. Saffin and Anders Tranberg
+Abstract: We refine the implementation of ensemble fermions for the electroweak sector of the Standard Model, introduced previously. We consider the behavior of different observables as the size of the ensemble is increased and show that the dynamics converges for ensemble sizes small enough that simulations of the entire electroweak sector become numerically tractable. We apply the method to the computation of the effective preheating temperature during a fast electroweak transition, relevant for Cold Electroweak Baryogenesis. We find that this temperature is never below 20 GeV, and this in combination with the early results convincingly rules out Standard Model CP-violation as the origin of the baryon asymmetry of the Universe.

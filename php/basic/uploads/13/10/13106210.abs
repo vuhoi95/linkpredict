@@ -1,0 +1,4 @@
+Paper: 13106210
+Title: Finetuning the continuum limit in low-dimensional supersymmetric  theories
+Authors: Bjoern H. Wellegehausen and Daniel Koerner and Andreas Wipf
+Abstract: Supersymmetry is a prominent candidate for physics beyond the standard model. In order to compute the spectrum of supersymmetric theories, we employ nonperturbative lattice QFT techniques which due to the discretisation of spacetime violate supersymmetry at finite lattice spacings. Care has to be taken then to restore supersymmetry in the continuum limit. We discuss a discretisation of the supersymmetric Nonlinear O(N) Sigma model in two dimensions and argue that supersymmetry may be restored by finetuning of a single parameter. Furthermore, we show preliminary results for the vacuum physics of N = 2 Super-Yang-Mills theory in three dimensions.

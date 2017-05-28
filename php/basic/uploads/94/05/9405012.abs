@@ -1,0 +1,4 @@
+Paper: 9405012
+Title: Eta-Invariants and Determinant Lines
+Authors: Xianzhe Dai and Daniel S. Freed
+Abstract: We study eta-invariants on odd dimensional manifolds with boundary. The dependence on boundary conditions is best summarized by viewing the (exponentiated) eta-invariant as an element of the (inverse) determinant line of the boundary. We prove a gluing law and a variation formula for this invariant. This yields a new, simpler proof of the holonomy formula for the determinant line bundle of a family of Dirac operators, also known as the ``global anomaly'' formula. This paper is written using AMSTeX 2.1, which can be obtained via ftp from the American Mathematical Society (instructions included). A postscript file with figures was submitted separately in uuencoded tar-compressed format.

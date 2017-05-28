@@ -1,0 +1,4 @@
+Paper: 13062527
+Title: Algebraic Curve for a Cusped Wilson Line
+Authors: Grigory Sizov and Saulius Valatka
+Abstract: We consider the classical limit of the recently obtained exact result for the anomalous dimension of a cusped Wilson line with the insertion of an operator with L units of R-charge at the cusp in planar N=4 SYM. The classical limit requires taking both the 't Hooft coupling and L to infinity. Since the formula for the cusp anomalous dimension involves determinants of size proportional to L, the classical limit requires a matrix model reformulation of the result. We construct such matrix model-like representation and find corresponding classical algebraic curve. Using this we derive the classical value of the cusp anomalous dimension and the 1-loop correction to it. We check our results against the energy of the classical solution and numerically by extrapolating from the quantum regime of finite L.

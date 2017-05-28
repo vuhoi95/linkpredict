@@ -1,0 +1,4 @@
+Paper: 9904446
+Title: Non-universality of compact support probability distributions in random  matrix theory
+Authors: G. Akemann and G. M. Cicuta and L. Molinari and G. Vernizzi
+Abstract: The two-point resolvent is calculated in the large-n limit for the generalized fixed and bounded trace ensembles. It is shown to disagree with the one of the canonical Gaussian ensemble by a non-universal part which is given explicitly for all monomial potentials $V(M)=M^{2p}$. Moreover, we prove that for the generalized fixed and bounded trace ensemble all k-point resolvents agree in the large-n limit, despite their non-universality.

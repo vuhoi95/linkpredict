@@ -1,0 +1,4 @@
+Paper: 150402979
+Title: Evading the sign problem in the mean-field approximation through  Lefschetz-thimble path integral
+Authors: Yuya Tanizaki and Hiromichi Nishimura and Kouji Kashiwa
+Abstract: The fermion sign problem appearing in the mean-field approximation is considered, and the systematic computational scheme of the free energy is devised by using the Lefschetz-thimble method. We show that the Lefschetz-thimble method respects the reflection symmetry, which makes physical quantities manifestly real at any order of approximations using complex saddle points. The formula is demonstrated through the Airy integral as an example, and its application to the Polyakov-loop effective model of dense QCD is discussed in detail.

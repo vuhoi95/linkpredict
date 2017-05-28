@@ -1,0 +1,4 @@
+Paper: 10023387
+Title: Bethe Ansatz Matrix Elements as Non-Relativistic Limits of Form Factors  of Quantum Field Theory
+Authors: M. Kormos and G. Mussardo and B. Pozsgay
+Abstract: We show that the matrix elements of integrable models computed by the Algebraic Bethe Ansatz can be put in direct correspondence with the Form Factors of integrable relativistic field theories. This happens when the S-matrix of a Bethe Ansatz model can be regarded as a suitable non-relativistic limit of the S-matrix of a field theory, and when there is a well-defined mapping between the Hilbert spaces and operators of the two theories. This correspondence provides an efficient method to compute matrix elements of Bethe Ansatz integrable models, overpassing the technical difficulties of their direct determination. We analyze this correspondence for the simplest example in which it occurs, i.e. the Quantum Non-Linear Schrodinger and the Sinh-Gordon models.

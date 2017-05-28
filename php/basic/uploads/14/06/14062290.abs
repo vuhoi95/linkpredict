@@ -1,0 +1,4 @@
+Paper: 14062290
+Title: Light-Cone Analysis of the Pure Spinor Formalism for the Superstring
+Authors: Nathan Berkovits and Renann Lipinski Jusinskas
+Abstract: Physical states of the superstring can be described in light-cone gauge by acting with transverse bosonic $\alpha_{-n}^{j}$ and fermionic $\bar{q}_{-n}^{\dot{a}}$ operators on an $SO\left(8\right)$-covariant superfield where $j,\dot{a}=1$ to $8$. In the pure spinor formalism, these states are described in an $SO\left(9,1\right)$-covariant manner by the cohomology of the BRST charge $Q=\frac{1}{2\pi i}\oint\lambda^{\alpha}d_{\alpha}$. In this paper, a similarity transformation is found which simplifies the form of $Q$ and maps the light-cone description of the superstring vertices into DDF-like operators in the cohomology of $Q$.

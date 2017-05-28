@@ -1,0 +1,4 @@
+Paper: 11050338
+Title: Generalized coordinate Bethe ansatz for non diagonal boundaries
+Authors: N. Crampe and E. Ragoucy
+Abstract: We compute the spectrum and the eigenstates of the open XXX model with non-diagonal (triangular) boundary matrices. Since the boundary matrices are not diagonal, the usual coordinate Bethe ansatz does not work anymore, and we use a generalization of it to solve the problem.

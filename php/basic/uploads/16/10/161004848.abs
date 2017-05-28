@@ -1,0 +1,4 @@
+Paper: 161004848
+Title: Renormalized stress-energy tensor of an evaporating spinning black hole
+Authors: Adam Levi and Ehud Eilon and Amos Ori and Maarten van de Meent
+Abstract: We employ a recently developed mode-sum regularization method to compute the renormalized stress-energy tensor of a quantum field in the Kerr background metric (describing a stationary spinning black hole). More specifically, we consider a minimally-coupled massless scalar field in the Unruh vacuum state, the quantum state corresponding to an evaporating black hole. The computation is done here for the case $a=0.7M$, using two different variants of the method: $t$-splitting and $\varphi$-splitting, yielding good agreement between the two (in the domain where both are applicable). We briefly discuss possible implications of the results for computing semiclassical corrections to certain quantities, and also for simulating dynamical evaporation of a spinning black hole.

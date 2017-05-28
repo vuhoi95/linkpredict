@@ -1,0 +1,4 @@
+Paper: 11070952
+Title: Thermal diffractive corrections to Casimir energies
+Authors: Daniel Kabat and Dimitra Karabali
+Abstract: We study the interplay of thermal and diffractive effects in Casimir energies. We consider plates with edges, oriented either parallel or perpendicular to each other, as well as a single plate with a slit. We compute the Casimir energy at finite temperature using a formalism in which the diffractive effects are encoded in a lower dimensional non-local field theory that lives in the gap between the plates. The formalism allows for a clean separation between direct or geometric effects and diffractive effects, and makes an analytic derivation of the temperature dependence of the free energy possible. At low temperatures, with Dirichlet boundary conditions on the plates, we find that diffractive effects make a correction to the free energy which scales as T^6 for perpendicular plates, as T^4 for slits, and as T^4 log T for parallel plates.

@@ -1,0 +1,4 @@
+Paper: 9504070
+Title: The short-time Dynamics of the Critical Potts Model
+Authors: L. Schuelke and B. Zheng
+Abstract: The universal behaviour of the short-time dynamics of the three state Potts model in two dimensions at criticality is investigated with Monte Carlo methods. The initial increase of the order is observed. The new dynamic exponent $\theta$ as well as exponent $z$ and $\beta/\nu$ are determined. The measurements are carried out in the very beginning of the time evolution. The spatial correlation length is found to be very short compared with the lattice size.

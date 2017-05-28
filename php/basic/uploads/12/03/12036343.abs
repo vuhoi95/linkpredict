@@ -1,0 +1,4 @@
+Paper: 12036343
+Title: One-loop corrections to holographic Wilson loop in AdS4xCP3
+Authors: Hyojoong Kim and Nakwoo Kim and Jung Hun Lee
+Abstract: The evaluation of BPS Wilson loops in N=6, D=3 Chern-Simons matter theory is reduced to ordinary matrix integrals via localization technique. It is easy to check that the vacuum expectation value of 1/2 BPS Wilson loops at leading order in planar limit agrees with the regularized classical string action, via AdS/CFT. Then the subleading terms in principle can be calculated by treating the string theory semi-classically. In this article we calculate the one-loop determinant for fluctuation modes of holographic Wilson loop in the dual geometry AdS4xCP3. The fermionic normal mode frequencies are expressed in terms of the hypergeometric function, and we compute the one-loop effective action numerically. The discrepancy with localization formula is due to the zero mode normalization constant, which is yet to be determined.

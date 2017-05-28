@@ -1,0 +1,4 @@
+Paper: 12080206
+Title: Tensor Network and Black Hole
+Authors: Hiroaki Matsueda and Masafumi Ishihara and Yoichiro Hashizume
+Abstract: A tensor network formalism of thermofield dynamics is introduced. The formalism relates the original Hilbert space with its tilde space by a product of two copies of a tensor network. Then, their interface becomes an event horizon, and the logarithm of the tensor rank corresponds to the black hole entropy. Eventually, multiscale entanglement renormalization anzats (MERA) reproduces an AdS black hole at finite temperature. Our finding shows rich functionalities of MERA as efficient graphical representation of AdS/CFT correspondence.

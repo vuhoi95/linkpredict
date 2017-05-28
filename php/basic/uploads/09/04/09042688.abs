@@ -1,0 +1,4 @@
+Paper: 09042688
+Title: Network Models: Action formulation
+Authors: Sh. Khachatryan and A. Sedrakyan and P. Sorba
+Abstract: We develop a technique to formulate quantum field theory on arbitrary network, based on different, randomly disposed sets of scattering's. We define R-matrix of the whole network as a product of R-matrices attached to each of scattering nods. Then an action for a network in terms of fermionic fields is formulated, which allows to calculate the transition amplitudes as their Green functions. On so-called bubble and triangle diagrams it is shown that the method produces the same results as the one which uses the generalized star product. The approach allows to extend network models by including multiparticle interactions at the scattering nods.

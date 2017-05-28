@@ -1,0 +1,4 @@
+Paper: 9911485
+Title: Comments on the Instanton Size Distribution
+Authors: M. Garcia Perez and T. G. Kovacs and P. van Baal
+Abstract: By studying the non-linear effects of overlapping instanton pairs we address difficulties in the identification of instanton distributions when the average instanton size is comparable to the average distance. For the exact charge two solution, we study how its parametrisation relates to a description in terms of individual instantons. There exist two dual sets of parameters describing the same charge two instanton solution. This duality implies the existence of a minimal separation between two instantons. Conventionally used lattice instanton finder algorithms based on the assumption of diluteness tend to underestimate instanton sizes. Finally we numerically confirm this for realistic parameters of the instanton liquid. The effect is enhanced by parallel orientation in group space.

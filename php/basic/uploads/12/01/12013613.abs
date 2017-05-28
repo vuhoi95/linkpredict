@@ -1,0 +1,4 @@
+Paper: 12013613
+Title: On the exact evaluation of spin networks
+Authors: Laurent Freidel and Jeff Hnybida
+Abstract: We introduce a fully coherent spin network amplitude whose expansion generates all SU(2) spin networks associated with a given graph. We then give an explicit evaluation of this amplitude for an arbitrary graph. We show how this coherent amplitude can be obtained from the specialization of a generating functional obtained by the contraction of parametrized intertwiners a la Schwinger. We finally give the explicit evaluation of this generating functional for arbitrary graphs.

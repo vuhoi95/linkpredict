@@ -1,0 +1,4 @@
+Paper: 10052775
+Title: Quantum circuits for spin and flavor degrees of freedom of quarks  forming nucleons
+Authors: F. L. Semiao and M. Paternostro
+Abstract: We discuss the quantum-circuit realization of the state of a nucleon in the scope of simple symmetry groups. Explicit algorithms are presented for the preparation of the state of a neutron or a proton as resulting from the composition of their quark constituents. We estimate the computational resources required for such a simulation and design a photonic network for its implementation. Moreover, we highlight that current work on three-body interactions in lattices of interacting qubits, combined with the measurement-based paradigm for quantum information processing, may also be suitable for the implementation of these nucleonic spin states.

@@ -1,0 +1,4 @@
+Paper: 13124258
+Title: Reformulating the TBA equations for the quark anti-quark potential and  their two loop expansion
+Authors: Zoltan Bajnok and Janos Balog and Diego H. Correa and Arpad Hegedus and Fidel I. Schaposnik Massolo and Gabor Zsolt Toth
+Abstract: The boundary thermodynamic Bethe Ansatz (BTBA) equations introduced in arXiv:1203.1913 and arXiv:1203.1617 to describe the cusp anomalous dimension contain imaginary chemical potentials and singular boundary fugacities, which make its systematic expansion problematic. We propose an alternative formulation based on real chemical potentials and additional source terms. We expand our equations to double wrapping order and find complete agreement with the direct two-loop gauge theory computation of the cusp anomalous dimension.

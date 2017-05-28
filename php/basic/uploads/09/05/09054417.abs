@@ -1,0 +1,4 @@
+Paper: 09054417
+Title: Anomalous discrete chiral symmetry in the Gross-Neveu model and loop gas  simulations
+Authors: Oliver Bär and Willi Rath and Ulli Wolff
+Abstract: We investigate the discrete chiral transformation of a Majorana fermion on a torus. Depending on the boundary conditions the integration measure can change sign. Taking this anomalous behavior into account we define a chiral order parameter as a ratio of partition functions with differing boundary conditions. Then the lattice realization of the Gross-Neveu model with Wilson fermions is simulated using the recent `worm' technique on the loop gas or all-order hopping representation of the fermions. An algorithm is formulated that includes the Gross-Neveu interaction for N fermion species. The critical line m_c(g) is constructed for a range of couplings at N = 6 and for N = 2, the Thirring model, as examples.

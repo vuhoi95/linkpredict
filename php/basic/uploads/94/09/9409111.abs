@@ -1,0 +1,4 @@
+Paper: 9409111
+Title: Results on two-bit gate design for quantum computers
+Authors: David P. DiVincenzo and John Smolin
+Abstract: We present numerical results which show how two-bit logic gates can be used in the design of a quantum computer. We show that the Toffoli gate, which is a universal gate for all classical reversible computation, can be implemented using a particular sequence of exactly five two-bit gates. An arbitrary three-bit unitary gate, which can be used to build up any arbitrary quantum computation, can be implemented exactly with six two-bit gates. The ease of implementation of any particular quantum operation is dependent upon a very non-classical feature of the operation, its exact quantum phase factor.

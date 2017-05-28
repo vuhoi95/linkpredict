@@ -1,0 +1,4 @@
+Paper: 14073584
+Title: Dynamically assisted Sauter-Schwinger effect in inhomogeneous electric  fields
+Authors: Christian Schneider and Ralf Schützhold
+Abstract: Via the worldline instanton method, we study electron-positron pair creation by a strong electric field of the profile $E/\cosh^2(kx)$ superimposed by a weaker pulse $E'/\cosh^2(\omega t)$. If the temporal Keldysh parameter $\gamma_\omega=m\omega/(qE)$ exceeds a threshold value $\gamma_\omega^{\rm crit}$ which depends on the spatial Keldysh parameter $\gamma_k=mk/(qE)$, we find a drastic enhancement of the pair creation probability -- reporting on what we believe to be the first analytic non-perturbative result for the interplay between temporal and spatial field dependences $E(t,x)$ in the Sauter-Schwinger effect.

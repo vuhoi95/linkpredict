@@ -1,0 +1,4 @@
+Paper: 9506104
+Title: Exact perturbative solution of the Kondo problem
+Authors: P. Fendley and H. Saleur
+Abstract: We explicitly evaluate the infinite series of integrals that appears in the "Anderson-Yuval" reformulation of the anisotropic Kondo problem in terms of a one-dimensional Coulomb gas. We do this by developing a general approach relating the anisotropic Kondo problem of arbitrary spin with the boundary sine-Gordon model, which describes impurity tunneling in a Luttinger liquid and in the fractional quantum Hall effect. The Kondo solution then follows from the exact perturbative solution of the latter model in terms of Jack polynomials.

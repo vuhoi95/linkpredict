@@ -1,0 +1,4 @@
+Paper: 09072577
+Title: On the integrality of the Taylor coefficients of mirror maps
+Authors: Christian Krattenthaler and Tanguy Rivoal
+Abstract: We show that the Taylor coefficients of the series ${\bf q}(z)=z\exp({\bf G}(z)/{\bf F}(z))$ are integers, where ${\bf F}(z)$ and ${\bf G}(z)+\log(z) {\bf F}(z)$ are specific solutions of certain hypergeometric differential equations with maximal unipotent monodromy at $z=0$. We also address the question of finding the largest integer $u$ such that the Taylor coefficients of $(z ^{-1}{\bf q}(z))^{1/u}$ are still integers. As consequences, we are able to prove numerous integrality results for the Taylor coefficients of mirror maps of Calabi-Yau complete intersections in weighted projective spaces, which improve and refine previous results by Lian and Yau, and by Zudilin. In particular, we prove the general "integrality" conjecture of Zudilin about these mirror maps.

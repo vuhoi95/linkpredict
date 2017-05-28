@@ -1,0 +1,4 @@
+Paper: 13106948
+Title: A classification of 2-dim Lattice Theory
+Authors: Mario Kieburg and Jacobus J. M. Verbaarschot and Savvas Zafeiropoulos
+Abstract: A unified classification and analysis is presented of two dimensional Dirac operators of QCD-like theories in the continuum as well as in a naive lattice discretization. Thereby we consider the quenched theory in the strong coupling limit. We do not only consider the case of a lattice which has an even number of lattice sites in both directions and is thus equivalent to the case of staggered fermions. We also study lattices with one or both directions with an odd parity to understand the general mechanism of changing the universality class via a discretization. Furthermore we identify the corresponding random matrix ensembles sharing the global symmetries of these QCD-like theories. Despite the Mermin-Wagner-Coleman theorem we find good agreement of lattice data with our random matrix predictions.

@@ -1,0 +1,4 @@
+Paper: 9908067
+Title: A Quantum Field Theoretical Representation of Euler-Zagier Sums
+Authors: Uwe Muller and Christian Schubert
+Abstract: We establish a novel representation of arbitrary Euler-Zagier sums in terms of weighted vacuum graphs. This representation uses a toy quantum field theory with infinitely many propagators and interaction vertices. The propagators involve Bernoulli polynomials and Clausen functions to arbitrary orders. The Feynman integrals of this model can be decomposed in terms of an algebra of elementary vertex integrals whose structure we investigate. We derive a large class of relations between multiple zeta values, of arbitrary lengths and weights, using only a certain set of graphical manipulations on Feynman diagrams. Further uses and possible generalizations of the model are pointed out.

@@ -1,0 +1,4 @@
+Paper: 12023637
+Title: Random tensor models in the large N limit: Uncoloring the colored tensor  models
+Authors: Valentin Bonzom and Razvan Gurau and Vincent Rivasseau
+Abstract: Tensor models generalize random matrix models in yielding a theory of dynamical triangulations in arbitrary dimensions. Colored tensor models have been shown to admit a 1/N expansion and a continuum limit accessible analytically. In this paper we prove that these results extend to the most general tensor model for a single generic, i.e. non-symmetric, complex tensor. Colors appear in this setting as a canonical book-keeping device and not as a fundamental feature. In the large N limit, we exhibit a set of Virasoro constraints satisfied by the free energy and an infinite family of multicritical behaviors with entropy exponents \gamma_m=1-1/m.

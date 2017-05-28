@@ -1,0 +1,4 @@
+Paper: 9709171
+Title: Stability of Relativistic Matter With Magnetic Fields
+Authors: Elliott H. Lieb and Heinz Siedentop and Jan Philip Solovej
+Abstract: Stability of matter with Coulomb forces has been proved for non-relativistic dynamics, including arbitrarily large magnetic fields, and for relativistic dynamics without magnetic fields. In both cases stability requires that the fine structure constant alpha be not too large. It was unclear what would happen for both relativistic dynamics and magnetic fields, or even how to formulate the problem clearly. We show that the use of the Dirac operator allows both effects, provided the filled negative energy `sea' is defined properly. The use of the free Dirac operator to define the negative levels leads to catastrophe for any alpha, but the use of the Dirac operator with magnetic field leads to stability.

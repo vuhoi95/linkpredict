@@ -1,0 +1,4 @@
+Paper: 11113777
+Title: Non-homogenous disks in the chain of matrices
+Authors: Nicolas Orantin and Alvaro Veliz-Osorio
+Abstract: We investigate the generating functions of multi-colored discrete disks with non-homogenous boundary conditions in the context of the Hermitian multi-matrix model where the matrices are coupled in an open chain. We show that the study of the spectral curve of the matrix model allows one to solve a set of loop equations to get a recursive formula computing mixed trace correlation functions to leading order in the large matrix limit.

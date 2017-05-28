@@ -1,0 +1,4 @@
+Paper: 160301118
+Title: Backreaction Effects on Nonequilibrium Spectral Function
+Authors: Sebastian Mendizabal and Juan Cristobal Rojas
+Abstract: We show how to compute the spectral function for a scalar theory in two different scenarios: one which disregards back-reaction i.e. the response of the environment to the external particle, and the other one where back-reaction is considered. The calculation was performed using the Kadanoff-Baym equation through the Keldysh formalism. When back-reaction is neglected, the spectral function is equal to the equilibrium one, which can be represented as a Breit-Wigner distribution. When back-reaction is introduced we observed a damping in the spectral function of the thermal bath. Such behavior modifies the damping rate for particles created within the bath. This certainly implies phenomenological consequences right after the Big-Bang, when the primordial bath was created.

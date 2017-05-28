@@ -1,0 +1,4 @@
+Paper: 08081442
+Title: SO(3)-Donaldson invariants of CP^2 and Mock Theta Functions
+Authors: Andreas Malmendier and Ken Ono
+Abstract: We compute the Moore-Witten regularized u-plane integral on CP^2, and we confirm their conjecture that it is the generating function for the SO(3)-Donaldson invariants of CP^2. We prove this conjecture using the theory of mock theta functions and harmonic Maass forms. We also derive further such generating functions for the SO(3)-Donaldson invariants with 2N_f massless monopoles using the geometry of certain rational elliptic surfaces (N_f=0,2,3,4). We show that the partition function for N_f=4 is nearly modular. When combined with one of Ramanujan's mock theta functions, we obtain a weight 1/2 modular form. This fact is central to the proof of the conjecture.

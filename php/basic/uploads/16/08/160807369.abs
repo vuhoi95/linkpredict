@@ -1,0 +1,4 @@
+Paper: 160807369
+Title: Donaldson-Thomas invariants of local elliptic surfaces via the  topological vertex
+Authors: Jim Bryan and Martijn Kool
+Abstract: We compute the Donaldson-Thomas invariants of a local elliptic surface with section. We introduce a new computational technique which is a mixture of motivic and toric methods. This allows us to write the partition function for the invariants in terms of the topological vertex. Utilizing identities for the topological vertex proved in arXiv:1603.05271, we derive product formulas for the partition functions. The connected version of the partition function is written in terms of Jacobi forms. In the special case where the elliptic surface is a K3 surface, we get a new derivation of the Katz-Klemm-Vafa formula.

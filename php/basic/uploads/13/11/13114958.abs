@@ -1,0 +1,4 @@
+Paper: 13114958
+Title: Adiabatic regularization and particle creation for spin one-half fields
+Authors: Aitor Landete and Jose Navarro-Salas and Francisco Torrenti
+Abstract: The extension of the adiabatic regularization method to spin-$1/2$ fields requires a self-consistent adiabatic expansion of the field modes. We provide here the details of such expansion, which differs from the WKB ansatz that works well for scalars, to firmly establish the generalization of the adiabatic renormalization scheme to spin-$1/2$ fields. We focus on the computation of particle production in de Sitter spacetime and obtain an analytic expression of the renormalized stress-energy tensor for Dirac fermions.

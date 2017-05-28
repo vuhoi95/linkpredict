@@ -1,0 +1,4 @@
+Paper: 13117146
+Title: Spacetime Entanglement Entropy in 1+1 Dimensions
+Authors: Mehdi Saravani and Rafael D. Sorkin and Yasaman K. Yazdi
+Abstract: arXiv:1205.2953 defines an entropy for a gaussian scalar field $\phi$ in an arbitrary region of either a causal set or a continuous spacetime, given only the correlator $\langle\phi(x)\phi(y)\rangle$ within the region. As a first application, we compute numerically the entanglement entropy in two cases where the asymptotic form is known or suspected from conformal field theory, finding excellent agreement when the required ultraviolet cutoff is implemented as a truncation on spacetime mode-sums. We also show how the symmetry of entanglement entropy reflects the fact that $RS$ and $SR$ share the same eigenvalues, $R$ and $S$ being arbitrary matrices.

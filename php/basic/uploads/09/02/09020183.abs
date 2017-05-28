@@ -1,0 +1,4 @@
+Paper: 09020183
+Title: The Bound State S-Matrix for AdS5 x S5 Superstring
+Authors: Gleb Arutyunov and Marius de Leeuw and Alessandro Torrielli
+Abstract: We determine the S-matrix that describes scattering of arbitrary bound states in the light-cone string theory in AdS5 x S5. The corresponding construction relies on the Yangian symmetry and the superspace formalism for the bound state representations. The basic analytic structure supporting the S-matrix entries turns out to be the hypergeometric function 4F3. We show that for particular bound state numbers it reproduces all the scattering matrices previously obtained in the literature. Our findings should be relevant for the TBA and Luescher approaches to the finite-size spectral problem. They also shed some light on the construction of the universal R-matrix for the centrally-extended psu(2|2) superalgebra.

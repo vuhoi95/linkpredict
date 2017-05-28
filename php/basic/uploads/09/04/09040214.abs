@@ -1,0 +1,4 @@
+Paper: 09040214
+Title: Differential reduction of generalized hypergeometric functions from  Feynman diagrams: One-variable case
+Authors: Vladimir V. Bytev and Mikhail Yu. Kalmykov and Bernd A. Kniehl
+Abstract: The differential-reduction algorithm, which allows one to express generalized hypergeometric functions with parameters of arbitrary values in terms of such functions with parameters whose values differ from the original ones by integers, is discussed in the context of evaluating Feynman diagrams. Where this is possible, we compare our results with those obtained using standard techniques. It is shown that the criterion of reducibility of multiloop Feynman integrals can be reformulated in terms of the criterion of reducibility of hypergeometric functions. The relation between the numbers of master integrals obtained by differential reduction and integration by parts is discussed.

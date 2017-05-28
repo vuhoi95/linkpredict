@@ -1,0 +1,4 @@
+Paper: 9607144
+Title: Comparing conductance quantization in quantum wires and Quantum Hall  systems
+Authors: Anton Yu. Alekseev and Vadim V. Cheianov and Jürg Fröhlich
+Abstract: We propose a new calculation of the DC conductance of a 1-dimensional electron system described by the Luttinger model. Our approach is based on the ideas of Landauer and B\"{u}ttiker and on the methods of current algebra. We analyse in detail the way in which the system can be coupled to external reservoirs. This determines whether the conductance is renormalized or not. We show that although a quantum wire and a Fractional Quantum Hall system are described by the same effective theory, their coupling to external reservoirs is different. As a consequence, the conductance in the wire is quantized in integer units of $e^2/h$ per spin orientation whereas the Hall conductance allows for fractional quantization.

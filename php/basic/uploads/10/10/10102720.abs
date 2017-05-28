@@ -1,0 +1,4 @@
+Paper: 10102720
+Title: Wronskian Solution for AdS/CFT Y-system
+Authors: Nikolay Gromov and Vladimir Kazakov and Sebastien Leurent and Zengo Tsuboi
+Abstract: Using the discrete Hirota integrability we find the general solution of the full quantum Y-system for the spectrum of anomalous dimensions of operators in the planar AdS5/CFT4 correspondence in terms of Wronskian-like determinants parameterized by a finite number of Baxter's Q-functions. We consider it as a useful step towards the construction of a finite system of non-linear integral equations (FiNLIE) for the full spectrum. The explicit asymptotic form of all the Q-functions for the large size operators is presented. We establish the symmetries and the analyticity properties of the asymptotic Q-functions and discuss their possible generalization to any finite size operators.

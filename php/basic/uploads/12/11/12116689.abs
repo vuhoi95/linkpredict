@@ -1,0 +1,4 @@
+Paper: 12116689
+Title: Twist-nontwist correlators in M^N/S_N orbifold CFTs
+Authors: Benjamin A. Burrington and Amanda W. Peet and Ida G. Zadeh
+Abstract: We consider general 2D orbifold CFTs of the form M^N/S_N, with M a target space manifold and S_N the symmetric group, and generalize the Lunin-Mathur covering space technique in two ways. First, we consider excitations of twist operators by modes of fields that are not twisted by that operator, and show how to account for these excitations when computing correlation functions in the covering space. Second, we consider non-twist sector operators and show how to include the effects of these insertions in the covering space. We work two examples, one using a simple bosonic CFT, and one using the D1-D5 CFT at the orbifold point. We show that the resulting correlators have the correct form for a 2D CFT.

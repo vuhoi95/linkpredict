@@ -1,0 +1,4 @@
+Paper: 13091827
+Title: Towards reconstruction of unlensed, intrinsic CMB power spectra from  lensed map
+Authors: Barun Kumar Pal and Hamsa Padmanabhan and Supratik Pal
+Abstract: We propose a method to extract the unlensed, intrinsic CMB temperature and polarization power spectra from the observed (i.e., lensed) spectra. Using a matrix inversion technique, we demonstrate how one can reconstruct the intrinsic CMB power spectra directly from lensed data for both flat sky and full sky analyses. The delensed spectra obtained by the technique are calibrated against the Code for Anisotropies in the Microwave Background (CAMB) using WMAP 7-year best-fit data and applied to WMAP 9-year unbinned data as well. In principle, our methodology may help in subtracting out the E-mode lensing contribution in order to obtain the intrinsic B-mode power.

@@ -1,0 +1,4 @@
+Paper: 151101525
+Title: Boundary States of the Potts Model on Random Planar Maps
+Authors: Max Atkin and Benjamin Niedner and John Wheater
+Abstract: We revisit the 3-states Potts model on random planar triangulations as a Hermitian matrix model. As a novelty, we obtain an algebraic curve which encodes the partition function on the disc with both fixed and mixed spin boundary conditions. We investigate the critical behaviour of this model and find scaling exponents consistent with previous literature. We argue that the conformal field theory that describes the double scaling limit is Liouville quantum gravity coupled to the $(A_4,D_4)$ minimal model with extended $\mathcal{W}_3$-symmetry.

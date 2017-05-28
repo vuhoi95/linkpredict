@@ -1,0 +1,4 @@
+Paper: 150306993
+Title: A covariant variational approach to Yang-Mills Theory at finite  temperatures
+Authors: Markus Quandt and Hugo Reinhardt
+Abstract: We extend the covariant variational approach for SU(N) Yang-Mills theory in Landau gauge to non-zero temperatures. The renormalization of the zero-temperature case is revisited and it is shown that the same counterterms are sufficient to render the low-order Green's function finite at non-zero temperature. We compute the ghost and gluon propagator numerically and show that it agrees in all qualitative respects with the results of high-precision lattice calculations.

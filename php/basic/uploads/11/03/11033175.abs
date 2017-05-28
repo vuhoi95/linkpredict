@@ -1,0 +1,4 @@
+Paper: 11033175
+Title: On fundamental domains and volumes of hyperbolic Coxeter-Weyl groups
+Authors: Philipp Fleig and Michael Koehn and Hermann Nicolai
+Abstract: We present a simple method for determining the shape of fundamental domains of generalized modular groups related to Weyl groups of hyperbolic Kac-Moody algebras. These domains are given as subsets of certain generalized upper half planes, on which the Weyl groups act via generalized modular transformations. Our construction only requires the Cartan matrix of the underlying finite-dimensional Lie algebra and the associated Coxeter labels as input information. We present a simple formula for determining the volume of these fundamental domains. This allows us to re-produce in a simple manner the known values for these volumes previously obtained by other methods.

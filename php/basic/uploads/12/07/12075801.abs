@@ -1,0 +1,4 @@
+Paper: 12075801
+Title: Calabi-Yau Manifolds with Large Volume Vacua
+Authors: James Gray and Yang-Hui He and Vishnu Jejjala and Benjamin Jurke and Brent D. Nelson and Joan Simón
+Abstract: We describe an efficient, construction independent, algorithmic test to determine whether Calabi--Yau threefolds admit a structure compatible with the Large Volume moduli stabilization scenario of type IIB superstring theory. Using the algorithm, we scan complete intersection and toric hypersurface Calabi-Yau threefolds with $2 \leq h^{1,1} \le 4$ and deduce that 418 among 4434 manifolds have a Large Volume Limit with a single large four-cycle. We describe major extensions to this survey, which are currently underway.

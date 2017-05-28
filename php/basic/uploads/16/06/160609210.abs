@@ -1,0 +1,4 @@
+Paper: 160609210
+Title: Renormalization group functions of $φ^4$ theory in the MS-scheme to  six loops
+Authors: Mikhail Kompaniets and Erik Panzer
+Abstract: Subdivergences constitute a major obstacle to the evaluation of Feynman integrals and an expression in terms of finite quantities can be a considerable advantage for both analytic and numeric calculations. We report on our implementation of the suggestion by F. Brown and D. Kreimer, who proposed to use a modified BPHZ scheme where all counterterms are single-scale integrals. Paired with parametric integration via hyperlogarithms, this method is particularly well suited for the computation of renormalization group functions and easily automated. As an application of this approach we compute the 6-loop beta function and anomalous dimensions of the $\phi^4$ model.

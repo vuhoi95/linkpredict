@@ -1,0 +1,4 @@
+Paper: 9904038
+Title: Universal Amplitude Ratios in the Critical Two-Dimensional Ising Model  on a Torus
+Authors: Jesús Salas and Alan D. Sokal
+Abstract: Using results from conformal field theory, we compute several universal amplitude ratios for the two-dimensional Ising model at criticality on a symmetric torus. These include the correlation-length ratio x^\star = \lim_{L\to\infty} \xi(L)/L and the first four magnetization moment ratios V_{2n} = <{\cal M}^{2n}>/<{\cal M}^2>^n. As a corollary we get the first four renormalized 2n-point coupling constants for the massless theory on a symmetric torus, G_{2n}^*. We confirm these predictions by a high-precision Monte Carlo simulation.

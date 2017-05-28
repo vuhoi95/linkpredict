@@ -1,0 +1,4 @@
+Paper: 14053658
+Title: Heptagon Amplitude in the Multi-Regge Regime
+Authors: J. Bartels and V. Schomerus and M. Sprenger
+Abstract: As we have shown in previous work, the high energy limit of scattering amplitudes in N=4 supersymmetric Yang-Mills theory corresponds to the infrared limit of the 1-dimensional quantum integrable system that solves minimal area problems in AdS5. This insight can be developed into a systematic algorithm to compute the strong coupling limit of amplitudes in the multi-Regge regime through the solution of auxiliary Bethe Ansatz equations. We apply this procedure to compute the scattering amplitude for n=7 external gluons in different multi-Regge regions at infinite 't Hooft coupling. Our formulas are remarkably consistent with the expected form of 7-gluon Regge cut contributions in perturbative gauge theory. A full description of the general algorithm and a derivation of results will be given in a forthcoming paper.

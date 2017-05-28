@@ -1,0 +1,4 @@
+Paper: 14055844
+Title: Spherical T-Duality
+Authors: P. Bouwknegt and J. Evslin and V. Mathai
+Abstract: We introduce spherical T-duality, which relates pairs of the form $(P,H)$ consisting of a principal $SU(2)$-bundle $P\rightarrow M$ and a 7-cocycle $H$ on $P$. Intuitively spherical T-duality exchanges $H$ with the second Chern class $c_2(P)$. Unless $dim(M)\leq 4$, not all pairs admit spherical T-duals and the spherical T-duals are not always unique. Nonetheless, we prove that all spherical T-dualities induce a degree-shifting isomorphism on the 7-twisted cohomologies of the bundles and, when $dim(M)\leq 7$, also their integral twisted cohomologies and, when $dim(M)\leq 4$, even their 7-twisted K-theories. While spherical T-duality does not appear to relate equivalent string theories, it does provide an identification between conserved charges in certain distinct IIB supergravity and string compactifications.

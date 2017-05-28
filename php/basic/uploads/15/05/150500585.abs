@@ -1,0 +1,4 @@
+Paper: 150500585
+Title: Correlation functions in loop models
+Authors: Benoit Estienne and Yacine Ikhlef
+Abstract: In this paper we provide a step towards the understanding of the O($n$) bulk operator algebra. By using a mixture of analytical and numerical methods, we compute (ratios of) structure constants, and analyse the logarithmic structure of the transfer matrix. We believe that the O($n$) model for a generic value of $n = q + q^{-1}$ (i.e. for $q$ not a root of unity) provides a toy model of a bulk logarithmic CFT that is considerably simpler than its counterparts at $q$ a root of unity.

@@ -1,0 +1,4 @@
+Paper: 9509072
+Title: Electromagnetic Self-Duality in a Lattice Model
+Authors: Simon Hands and John B. Kogut
+Abstract: We formulate a Euclidean lattice theory of interacting elementary spin-half electric and magnetic charges, which we refer to as electrons and magnetic monopoles respectively. The model uses the polymer representation of the fermion determinant, and exhibits a self-dual symmetry provided electric charge $e$ and magnetic charge $g$ obey the minimal Dirac quantisation condition $eg=2\pi$. In a hopping parameter expansion at lowest order, we show that virtual electron and monopole loops contribute radiative corrections of opposite sign to the photon propagator. We argue that in the limit $e\to0$, fermion mass $\mu\to0$, the model describes QED together with strongly interacting monopoles whose chiral symmetry is spontaneously broken. Prospects for the existence of an interacting continuum limit at the self-dual point $e=g$ are discussed.

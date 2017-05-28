@@ -1,0 +1,4 @@
+Paper: 9805008
+Title: Exact Kink Solitons in the Presence of Diffusion, Dispersion, and  Polynomial Nonlinearity
+Authors: E. P. Raposo and D. Bazeia
+Abstract: We describe exact kink soliton solutions to nonlinear partial differential equations in the generic form u_{t} + P(u) u_{x} + \nu u_{xx} + \delta u_{xxx} = A(u), with polynomial functions P(u) and A(u) of u=u(x,t), whose generality allows the identification with a number of relevant equations in physics. We emphasize the study of chirality of the solutions, and its relation with diffusion, dispersion, and nonlinear effects, as well as its dependence on the parity of the polynomials $P(u)$ and $A(u)$ with respect to the discrete symmetry $u\to-u$. We analyze two types of kink soliton solutions, which are also solutions to 1+1 dimensional phi^{4} and phi^{6} field theories.

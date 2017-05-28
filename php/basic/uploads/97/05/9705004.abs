@@ -1,0 +1,4 @@
+Paper: 9705004
+Title: Singularities of the Partition Function for the Ising Model Coupled to  2d Quantum Gravity
+Authors: J. Ambjorn and K. N. Anagnostopoulos and U. Magnea
+Abstract: We study the zeros in the complex plane of the partition function for the Ising model coupled to 2d quantum gravity for complex magnetic field and real temperature, and for complex temperature and real magnetic field, respectively. We compute the zeros by using the exact solution coming from a two matrix model and by Monte Carlo simulations of Ising spins on dynamical triangulations. We present evidence that the zeros form simple one-dimensional curves in the complex plane, and that the critical behaviour of the system is governed by the scaling of the distribution of the singularities near the critical point. Despite the small size of the systems studied, we can obtain a reasonable estimate of the (known) critical exponents.

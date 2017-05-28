@@ -1,0 +1,4 @@
+Paper: 11041187
+Title: Computational Tools for Cohomology of Toric Varieties
+Authors: Ralph Blumenhagen and Benjamin Jurke and Thorsten Rahn
+Abstract: In this review, novel non-standard techniques for the computation of cohomology classes on toric varieties are summarized. After an introduction of the basic definitions and properties of toric geometry, we discuss a specific computational algorithm for the determination of the dimension of line-bundle valued cohomology groups on toric varieties. Applications to the computation of chiral massless matter spectra in string compactifications are discussed and, using the software package cohomCalg, its utility is highlighted on a new target space dual pair of (0,2) heterotic string models.

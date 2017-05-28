@@ -1,0 +1,4 @@
+Paper: 14105381
+Title: Universality of non-equilibrium dynamics of CFTs from holography
+Authors: Alex Buchel and Stephen R. Green and Luis Lehner and Steven L. Liebling
+Abstract: Motivated by a low-energy effective description of gauge theory/string theory duality, we conjecture that the dynamics of $SO(4)$-invariant states in a large class of four-dimensional conformal gauge theories on $S^3$ with non-equal central charges $c\ne a$ are universal on time scales $t_{\rm universal}\propto ({\cal E}-{\cal E}_{\rm vacuum})^{-1}$, in the limit where the energy ${\cal E}\to {\cal E}_{\rm vacuum}$. We show that low-energy excitations in $c\ne a$ CFTs do not thermalize in this limit. The holographic universality conjecture then implies that within the Einstein-scalar field system (dual to theories with $c=a$), $AdS_5$ is stable to spherically symmetric perturbations against formation of trapped surfaces within time scales $t_{\rm universal}$.

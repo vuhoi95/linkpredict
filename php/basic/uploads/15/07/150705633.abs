@@ -1,0 +1,4 @@
+Paper: 150705633
+Title: Scaling of the Holographic AC conductivity for non-Fermi liquids at  criticality
+Authors: Elias Kiritsis and Francisco Peña-Benitez
+Abstract: The frequency dependence of the AC conductivity is studied in a holographic model of a non-fermi liquid that is amenable to both analytical and numerical computation. In the regime that dissipation dominates the DC conductivity, the AC conductivity is described well in the IR by a Drude peak despite the absence of quasiparticles. In the regime where pair-production-like processes dominate the conductivity there is no Drude peak. A scaling tail is found for the AC conductivity that is independent of the charge density and momentum dissipation. Evidence is given that this scaling tail $\sigma_{AC}\sim \omega^m$ appears generically in quantum critical holographic systems and the associated scaling exponent $m$ is calculated in terms of the Lifshitz and conduction critical exponents.

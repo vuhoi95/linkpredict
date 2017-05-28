@@ -1,0 +1,4 @@
+Paper: 9707335
+Title: The Dimer-Hole-RVB State of the 2-Leg t-J Ladder: A Recurrent  Variational Ansatz
+Authors: G. Sierra and M. A. Martin-Delgado and J. Dukelsky and S. R. White and D. J. Scalapino
+Abstract: We present a variational treatment of the ground state of the 2-leg t-J ladder, which combines the dimer and the hard-core boson models into one effective model. This model allows us to study the local structure of the hole pairs as a function of doping. A second order recursion relation is used to generate the variational wave function, which substantially simplifies the computations. We obtain good agreement with numerical density matrix renormalization group results for the ground state energy in the strong coupling regime. We find that the local structure of the pairs depends upon whether the ladder is slightly or strongly dopped.

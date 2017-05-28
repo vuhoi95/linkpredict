@@ -1,0 +1,4 @@
+Paper: 09044171
+Title: Exact formfactors in the one-loop curved-space QED and the nonlocal  multiplicative anomaly
+Authors: Bruno Goncalves and Guilherme de Berredo-Peixoto and Ilya L. Shapiro
+Abstract: The well-known formula $det(A\cdot B)=\det A \cdot \det B$ can be easily proved for finite dimensional matrices but it may be incorrect for the functional determinants of differential operators, including the ones which are relevant for Quantum Field Theory applications. Considerable work has been done to prove that this equality can be violated, but in all previously known cases the difference could be reduced to renormalization ambiguity. We present the first example, where the difference between the two functional determinants is a nonlocal expression and therefore can not be explained by the renormalization ambiguity. Moreover, through the use of other even dimensions we explain the origin of this difference at qualitative level.

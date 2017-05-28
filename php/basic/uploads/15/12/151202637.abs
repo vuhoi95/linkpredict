@@ -1,0 +1,4 @@
+Paper: 151202637
+Title: From Wires to Cosmology
+Authors: Mustafa A. Amin and Daniel Baumann
+Abstract: We provide a statistical framework for characterizing stochastic particle production in the early universe via a precise correspondence to current conduction in wires with impurities. Our approach is particularly useful when the microphysics is uncertain and the dynamics are complex, but only coarse-grained information is of interest. We study scenarios with multiple interacting fields and derive the evolution of the particle occupation numbers from a Fokker-Planck equation. At late times, the typical occupation numbers grow exponentially which is the analog of Anderson localization for disordered wires. Some statistical features of the occupation numbers show hints of universality in the limit of a large number of interactions and/or a large number of fields. For test cases, excellent agreement is found between our analytic results and numerical simulations.

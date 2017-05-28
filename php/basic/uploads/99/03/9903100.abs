@@ -1,0 +1,4 @@
+Paper: 9903100
+Title: The Density Matrix Renormalization Group applied to single-particle  Quantum Mechanics
+Authors: M. A. Martin-Delgado and G. Sierra and R. M. Noack
+Abstract: A simplified version of White's Density Matrix Renormalization Group (DMRG) algorithm has been used to find the ground state of the free particle on a tight-binding lattice. We generalize this algorithm to treat the tight-binding particle in an arbitrary potential and to find excited states. We thereby solve a discretized version of the single-particle Schr\"odinger equation, which we can then take to the continuum limit. This allows us to obtain very accurate results for the lowest energy levels of the quantum harmonic oscillator, anharmonic oscillator and double-well potential. We compare the DMRG results thus obtained with those achieved by other methods.

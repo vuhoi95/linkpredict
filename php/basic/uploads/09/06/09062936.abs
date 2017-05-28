@@ -1,0 +1,4 @@
+Paper: 09062936
+Title: Three-loop HTL Free Energy for QED
+Authors: Jens O. Andersen and Michael Strickland and Nan Su
+Abstract: We calculate the free energy of a hot gas of electrons and photons to three loops using the hard-thermal-loop perturbation theory reorganization of finite-temperature perturbation theory. We calculate the free energy through three loops by expanding in a power series in m_D/T, m_f/T, and e^2, where m_D and m_f are thermal masses and e is the coupling constant. We demonstrate that the hard-thermal-loop perturbation reorganization improves the convergence of the successive approximations to the QED free energy at large coupling, e ~ 2. The reorganization is gauge invariant by construction, and due to cancellation among various contributions, we obtain a completely analytic result for the resummed thermodynamic potential at three loops. Finally, we compare our result with similar calculations that use the Phi-derivable approach.

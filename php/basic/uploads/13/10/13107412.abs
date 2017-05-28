@@ -1,0 +1,4 @@
+Paper: 13107412
+Title: Complex Langevin simulation for QCD-like models
+Authors: Gert Aarts and Lorenzo Bongiovanni and Erhard Seiler and Denes Sexty and Ion-Olimpiu Stamatescu
+Abstract: We first test the Complex Langevin method (CLE) on various simple models. We then introduce the method of Gauge Cooling to control the dynamics of the process and ensure thin distributions in the imaginary direction. We finally apply CLE with gauge cooling to a QCD-related lattice model (HQCD) and compare the results by CLE and by a refined Reweighting method (rRW). Very good agreement is found in all regions of physical interest.

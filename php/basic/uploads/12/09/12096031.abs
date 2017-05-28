@@ -1,0 +1,4 @@
+Paper: 12096031
+Title: Semi-classical Dynamical Triangulations
+Authors: Jan Ambjorn and Timothy G. Budd
+Abstract: For non-critical string theory the partition function reduces to an integral over moduli space after integrating over matter fields. The moduli integrand is known analytically for genus one surfaces. The formalism of dynamical triangulations provides us with a regularization of non-critical string theory and we show that even for very small triangulations it reproduces very well the continuum integrand when the central charge $c$ of the matter fields is large negative, thus providing a striking example of how the quantum fluctuations of geometry disappear when $c \to -\infty$.

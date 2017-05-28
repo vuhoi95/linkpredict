@@ -1,0 +1,4 @@
+Paper: 150500467
+Title: Spontaneous supersymmetry breaking in two dimensional lattice super QCD
+Authors: Simon Catterall and Aarti Veernala
+Abstract: We report on a non-perturbative study of two dimensional $\cN=(2,2)$ super QCD. Our lattice formulation retains a single exact supersymmetry at non-zero lattice spacing, and contains $N_f$ fermions in the fundamental representation of a $U(N_c)$ gauge group. The lattice action we employ contains an additional Fayet-Iliopoulos term which is also invariant under the exact lattice supersymmetry. This work constitutes the first numerical study of this theory which serves as a toy model for understanding some of the issues that are expected to arise in four dimensional super QCD. We present evidence that the exact supersymmetry breaks spontaneously when $N_f<N_c$ in agreement with theoretical expectations.

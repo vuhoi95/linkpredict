@@ -1,0 +1,4 @@
+Paper: 12115198
+Title: Quantum Field Theories and Prime Numbers Spectrum
+Authors: G. Menezes and N. F. Svaiter
+Abstract: The Riemann hypothesis states that all nontrivial zeros of the zeta function lie on the critical line $\Re(s)=1/2$. Hilbert and P\'olya suggested a possible approach to prove it, based on spectral theory. Within this context, some authors formulated the question: is there a quantum mechanical system related to the sequence of prime numbers? In this Letter we show that such a sequence is not zeta regularizable. Therefore, there are no physical systems described by self-adjoint operators with countably infinite number of degrees of freedom with spectra given by the sequence of primes numbers.

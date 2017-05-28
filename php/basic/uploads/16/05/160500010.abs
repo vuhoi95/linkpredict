@@ -1,0 +1,4 @@
+Paper: 160500010
+Title: Coulomb branches for rank 2 gauge groups in 3d N=4 gauge theories
+Authors: Amihay Hanany and Marcus Sperling
+Abstract: The Coulomb branch of 3-dimensional N=4 gauge theories is the space of bare and dressed BPS monopole operators. We utilise the conformal dimension to define a fan which, upon intersection with the weight lattice of a GNO-dual group, gives rise to a collection of semi-groups. It turns out that the unique Hilbert bases of these semi-groups are a sufficient, finite set of monopole operators which generate the entire chiral ring. Moreover, the knowledge of the properties of the minimal generators is enough to compute the Hilbert series explicitly. The techniques of this paper allow an efficient evaluation of the Hilbert series for general rank gauge groups. As an application, we provide various examples for all rank two gauge groups to demonstrate the novel interpretation.

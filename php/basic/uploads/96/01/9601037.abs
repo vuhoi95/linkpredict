@@ -1,0 +1,4 @@
+Paper: 9601037
+Title: Universality and Scaling in Short-time Critical Dynamics
+Authors: K. Okano and L. Schuelke and K. Yamagishi and B. Zheng
+Abstract: Numerically we simulate the short-time behaviour of the critical dynamics for the two dimensional Ising model and Potts model with an initial state of very high temperature and small magnetization. Critical initial increase of the magnetization is observed. The new dynamic critical exponent $\theta$ as well as the exponents $z$ and $2\beta/\nu$ are determined from the power law behaviour of the magnetization, auto-correlation and the second moment. Furthermore the calculation has been carried out with both Heat-bath and Metropolis algorithms. All the results are consistent and therefore universality and scaling are confirmed.

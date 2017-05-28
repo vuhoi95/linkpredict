@@ -1,0 +1,4 @@
+Paper: 9309134
+Title: Toeplitz Quantization of Kähler Manifolds and $gl(N)$ $N\to\infty$
+Authors: Martin Bordemann and Eckhard Meinrenken and Martin Schlichenmaier
+Abstract: For general compact K\"ahler manifolds it is shown that both Toeplitz quantization and geometric quantization lead to a well-defined (by operator norm estimates) classical limit. This generalizes earlier results of the authors and Klimek and Lesniewski obtained for the torus and higher genus Riemann surfaces, respectively. We thereby arrive at an approximation of the Poisson algebra by a sequence of finite-dimensional matrix algebras $gl(N)$, $N\to\infty$.

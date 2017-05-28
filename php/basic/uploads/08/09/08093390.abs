@@ -1,0 +1,4 @@
+Paper: 08093390
+Title: Effective convergence of the 2PI-1/N expansion for nonequilibrium  quantum fields
+Authors: Gert Aarts and Nathan Laurie and Anders Tranberg
+Abstract: The 1/N expansion of the two-particle irreducible effective action offers a powerful approach to study quantum field dynamics far from equilibrium. We investigate the effective convergence of the 1/N expansion in the O(N) model by comparing results obtained numerically in 1+1 dimensions at leading, next-to-leading and next-to-next-to-leading order in 1/N as well as in the weak coupling limit. A comparison in classical statistical field theory, where exact numerical results are available, is made as well. We focus on early-time dynamics and quasi-particle properties far from equilibrium and observe rapid effective convergence already for moderate values of 1/N or the coupling.

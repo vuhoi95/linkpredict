@@ -1,0 +1,4 @@
+Paper: 08080290
+Title: De Broglie-Bohm Guidance Equations for Arbitrary Hamiltonians
+Authors: Ward Struyve and Antony Valentini
+Abstract: In a pilot-wave theory, an individual closed system is described by a wavefunction $\psi(q)$ and configuration $q$. The evolution of the wavefunction and configuration are respectively determined by the Schr\"odinger and guidance equations. The guidance equation states that the velocity field for the configuration is given by the quantum current divided by the density $|\psi(q)|^2$. We present the currents and associated guidance equations for any Hamiltonian given by a differential operator. These are derived directly from the Schr\"odinger equation, and also as Noether currents arising from a global phase symmetry associated with the wavefunction in configuration space.

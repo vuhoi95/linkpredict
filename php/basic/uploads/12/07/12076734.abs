@@ -1,0 +1,4 @@
+Paper: 12076734
+Title: Renormalization of Tensorial Group Field Theories: Abelian U(1) Models  in Four Dimensions
+Authors: Sylvain Carrozza and Daniele Oriti and Vincent Rivasseau
+Abstract: We tackle the issue of renormalizability for Tensorial Group Field Theories (TGFT) including gauge invariance conditions, with the rigorous tool of multi-scale analysis, to prepare the ground for applications to quantum gravity models. In the process, we define the appropriate generalization of some key QFT notions, including: connectedness, locality and contraction of (high) subgraphs. We also define a new notion of Wick ordering, corresponding to the subtraction of (maximal) melonic tadpoles. We then consider the simplest examples of dynamical 4-dimensional TGFT with gauge invariance conditions for the Abelian U(1) case. We prove that they are super-renormalizable for any polynomial interaction.

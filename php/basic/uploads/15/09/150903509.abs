@@ -1,0 +1,4 @@
+Paper: 150903509
+Title: Worldline Numerics for Energy-Momentum Tensors in Casimir Geometries
+Authors: Marco Schafer and Idrish Huet and Holger Gies
+Abstract: We develop the worldline formalism for computations of composite operators such as the fluctuation induced energy-momentum tensor. As an example, we use a fluctuating real scalar field subject to Dirichlet boundary conditions. The resulting worldline representation can be evaluated by worldline Monte-Carlo methods in continuous spacetime. We benchmark this worldline numerical algorithm with the aid of analytically accessible single-plate and parallel-plate Casimir configurations, providing a detailed analysis of statistical and systematic errors. The method generalizes straightforwardly to arbitrary Casimir geometries and general background potentials.

@@ -1,0 +1,4 @@
+Paper: 10023592
+Title: Linearized Group Field Theory and Power Counting Theorems
+Authors: Joseph Ben Geloun and Thomas Krajewski and Jacques Magnen and Vincent Rivasseau
+Abstract: We introduce a linearized version of group field theory. It can be viewed either as a group field theory over the additive group of a vector space or as an asymptotic expansion of any group field theory around the unit group element. We prove exact power counting theorems for any graph of such models. For linearized colored models the power counting of any amplitude is further computed in term of the homology of the graph. An exact power counting theorem is also established for a particular class of graphs of the nonlinearized models, which satisfy a planarity condition. Examples and connections with previous results are discussed.

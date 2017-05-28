@@ -1,0 +1,4 @@
+Paper: 08111315
+Title: Hilbert series and obstructions to asymptotic semistability
+Authors: Akito Futaki and Hajime Ono and Yuji Sano
+Abstract: Given a polarized manifold there are obstructions for asymptotic Chow semistability described as integral invariants. One of them is an obstruction to the existence for the first Chern class of the polarization to admit a constant scalar curvature K\"ahler (cscK) metric. A natural question is whether or not the other obstructions are linearly dependent on the obstruction to the existence of a cscK metric. The purpose of this paper is to see that this is not the case by exhibiting toric Fano threefolds in which these obstructions span at least two dimension. To see this we show that on toric Fano manifolds these obstructions are obtained as derivatives of the Hilbert series. This last observation should be regarded as an extension of the volume minimization of Martelli, Sparks and Yau.

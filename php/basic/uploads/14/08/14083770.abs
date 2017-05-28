@@ -1,0 +1,4 @@
+Paper: 14083770
+Title: Simulating QCD at nonzero baryon density to all orders in the hopping  parameter expansion
+Authors: Gert Aarts and Erhard Seiler and Denes Sexty and Ion-Olimpiu Stamatescu
+Abstract: Progress in simulating QCD at nonzero baryon density requires, amongst others, substantial numerical effort. Here we propose two different expansions to all orders in the hopping parameter, preserving the full Yang-Mills action, which are much cheaper to simulate. We carry out simulations using complex Langevin dynamics, both in the hopping expansions and in the full theory, for two flavours of Wilson fermions, and agreement is seen at sufficiently high order in the expansion. These results provide support for the use of complex Langevin dynamics to study QCD at nonzero density, both in the full and the expanded theory, and for the convergence of the latter.

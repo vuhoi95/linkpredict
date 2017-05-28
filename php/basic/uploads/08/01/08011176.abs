@@ -1,0 +1,4 @@
+Paper: 08011176
+Title: Hidden Grassmann Structure in the XXZ Model II: Creation Operators
+Authors: H. Boos and M. Jimbo and T. Miwa and F. Smirnov and Y. Takeyama
+Abstract: In this article we unveil a new structure in the space of operators of the XXZ chain. We consider the space of all quasi-local operators, which are products of the disorder field with arbitrary local operators. In analogy with CFT the disorder operator itself is considered as primary field. In our previous paper, we have introduced the annhilation operators which mutually anti-commute and kill the primary field. Here we construct the creation counterpart and prove the canonical anti-commutation relations with the annihilation operators. We show that the ground state averages of quasi-local operators created by the creation operators from the primary field are given by determinants.

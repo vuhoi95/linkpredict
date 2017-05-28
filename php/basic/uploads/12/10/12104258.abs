@@ -1,0 +1,4 @@
+Paper: 12104258
+Title: The Bootstrap Program for Boundary CFT_d
+Authors: Pedro Liendo and Leonardo Rastelli and Balt C. van Rees
+Abstract: We study the constraints of crossing symmetry and unitarity for conformal field theories in the presence of a boundary, with a focus on the Ising model in various dimensions. We show that an analytic approach to the bootstrap is feasible for free-field theory and at one loop in the epsilon expansion, but more generally one has to resort to numerical methods. Using the recently developed linear programming techniques we find several interesting bounds for operator dimensions and OPE coefficients and comment on their physical relevance. We also show that the "boundary bootstrap" can be easily applied to correlation functions of tensorial operators and study the stress tensor as an example. In the appendices we present conformal block decompositions of a variety of physically interesting correlation functions.

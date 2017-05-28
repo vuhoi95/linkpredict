@@ -1,0 +1,4 @@
+Paper: 10044199
+Title: The number of master integrals is finite
+Authors: A. V. Smirnov and A. V. Petukhov
+Abstract: For a fixed Feynman graph one can consider Feynman integrals with all possible powers of propagators and try to reduce them, by linear relations, to a finite subset of integrals, the so-called master integrals. Up to now, there are numerous examples of reduction procedures resulting in a finite number of master integrals for various families of Feynman integrals. However, up to now it was just an empirical fact that the reduction procedure results in a finite number of irreducible integrals. It this paper we prove that the number of master integrals is always finite.

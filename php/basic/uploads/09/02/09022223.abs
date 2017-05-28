@@ -1,0 +1,4 @@
+Paper: 09022223
+Title: Universal shocks in random matrix theory
+Authors: Jean-Paul Blaizot and Maciej A. Nowak
+Abstract: We link the appearance of universal kernels in random matrix ensembles to the phenomenon of shock formation in some fluid dynamical equations. Such equations are derived from Dyson's random walks after a proper rescaling of the time. In the case of the Gaussian Unitary Ensemble, on which we focus in this letter, we show that the orthogonal polynomials, and their Cauchy transforms, evolve according to a viscid Burgers equation with an effective "spectral viscosity" $\nu_s=1/2N$, where $N$ is the size of the matrices. We relate the edge of the spectrum of eigenvalues to the shock that naturally appears in the Burgers equation for appropriate initial conditions, thereby obtaining a new perspective on universality.

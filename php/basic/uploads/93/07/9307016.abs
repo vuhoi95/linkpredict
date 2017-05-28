@@ -1,0 +1,4 @@
+Paper: 9307016
+Title: On Spin and Matrix Models in the Complex Plane
+Authors: Poul H. Damgaard and Urs M. Heller
+Abstract: We describe various aspects of statistical mechanics defined in the complex temperature or coupling-constant plane. Using exactly solvable models, we analyse such aspects as renormalization group flows in the complex plane, the distribution of partition function zeros, and the question of new coupling-constant symmetries of complex-plane spin models. The double-scaling form of matrix models is shown to be exactly equivalent to finite-size scaling of 2-dimensional spin systems. This is used to show that the string susceptibility exponents derived from matrix models can be obtained numerically with very high accuracy from the scaling of finite-$N$ partition function zeros in the complex plane.

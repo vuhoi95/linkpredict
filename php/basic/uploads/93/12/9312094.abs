@@ -1,0 +1,4 @@
+Paper: 9312094
+Title: Linearized Form of the Generic Affine-Virasoro Action
+Authors: J. de Boer and K. Clubok and M. B. Halpern
+Abstract: Halpern and Yamron have given a Lorentz, conformal, and Diff S$_2$-invariant world-sheet action for the generic irrational conformal field theory, but the action is highly non-linear. In this paper, we introduce auxiliary fields to find an equivalent linearized form of the action, which shows in a very clear way that the generic affine-Virasoro action is a Diff S$_2$-gauged WZW model. In particular, the auxiliary fields transform under Diff S$_2$ as local Lie $g$ $\times$ Lie $g$ connections, so that the linearized affine-Virasoro action bears an intriguing resemblance to the usual (Lie algebra) gauged WZW model.

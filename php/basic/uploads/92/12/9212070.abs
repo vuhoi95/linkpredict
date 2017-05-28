@@ -1,0 +1,4 @@
+Paper: 9212070
+Title: Multi-matrix models without continuum limit
+Authors: L. Bonora and C. S. Xiong
+Abstract: We derive the discrete linear systems associated to multi--matrix models, the corresponding discrete hierarchies and the appropriate coupling conditions. We also obtain the $W_{1+\infty}$ constraints on the partition function. We then apply to multi--matrix models the technique, developed in previous papers, of extracting hierarchies of differential equations from lattice ones without passing through a continuum limit. In a q--matrix model we find 2q coupled differential systems. The corresponding differential hierarchies are particular versions of the KP hierarchy. We show that the multi--matrix partition function is a $\tau$--function of these hierarchies. We discuss a few examples in the dispersionless limit.

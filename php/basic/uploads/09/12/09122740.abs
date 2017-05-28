@@ -1,0 +1,4 @@
+Paper: 09122740
+Title: Black hole quasinormal modes using the asymptotic iteration method
+Authors: H. T. Cho and A. S. Cornell and Jason Doukas and Wade Naylor
+Abstract: In this article we show that the asymptotic iteration method (AIM) allows one to numerically find the quasinormal modes of Schwarzschild and Schwarzschild de Sitter (SdS) black holes. An added benefit of the method is that it can also be used to calculate the Schwarzschild anti-de Sitter (SAdS) quasinormal modes for the case of spin zero perturbations. We also discuss an improved version of the AIM, more suitable for numerical implementation.

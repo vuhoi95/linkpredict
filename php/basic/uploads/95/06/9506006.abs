@@ -1,0 +1,4 @@
+Paper: 9506006
+Title: Fredholm determinants and the mKdV/sinh-Gordon hierarchies
+Authors: Craig A. Tracy and Harold Widom
+Abstract: For a particular class of integral operators $K$ we show that the quantity \[\ph:=\log \det (I+K)-\log \det (I-K)\] satisfies both the integrated mKdV hierarchy and the sinh-Gordon hierarchy. This proves a conjecture of Zamolodchikov.

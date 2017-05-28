@@ -1,0 +1,4 @@
+Paper: 10022459
+Title: Y-system for Scattering Amplitudes
+Authors: Luis F. Alday and Juan Maldacena and Amit Sever and Pedro Vieira
+Abstract: We compute N=4 Super Yang Mills planar amplitudes at strong coupling by considering minimal surfaces in AdS_5 space. The surfaces end on a null polygonal contour at the boundary of AdS. We show how to compute the area of the surfaces as a function of the conformal cross ratios characterizing the polygon at the boundary. We reduce the problem to a simple set of functional equations for the cross ratios as functions of the spectral parameter. These equations have the form of Thermodynamic Bethe Ansatz equations. The area is the free energy of the TBA system. We consider any number of gluons and in any kinematic configuration.

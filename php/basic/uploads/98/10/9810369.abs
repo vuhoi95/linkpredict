@@ -1,0 +1,4 @@
+Paper: 9810369
+Title: Complex periodic potentials with real band spectra
+Authors: Carl M. Bender and Gerald V. Dunne and Peter N. Meisinger
+Abstract: This paper demonstrates that complex PT-symmetric periodic potentials possess real band spectra. However, there are significant qualitative differences in the band structure for these potentials when compared with conventional real periodic potentials. For example, while the potentials V(x)=i\sin^{2N+1}(x), (N=0, 1, 2, ...), have infinitely many gaps, at the band edges there are periodic wave functions but no antiperiodic wave functions. Numerical analysis and higher-order WKB techniques are used to establish these results.

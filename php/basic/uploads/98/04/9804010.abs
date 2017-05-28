@@ -1,0 +1,4 @@
+Paper: 9804010
+Title: Simulation of Supersymmetric Models with a Local Nicolai Map
+Authors: Matteo Beccaria and Giuseppe Curci and Erika D'Ambrosio
+Abstract: We study the numerical simulation of supersymmetric models having a local Nicolai map. The mapping can be regarded as a stochastic equation and its numerical integration provides an algorithm for the simulation of the original model. In this paper, the method is discussed in details and applied to examples in 0+1 and 1+1 dimensions.

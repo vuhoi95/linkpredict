@@ -1,0 +1,4 @@
+Paper: 161103642
+Title: Gluon and Ghost Dynamics from Lattice QCD
+Authors: O. Oliveira and A. G. Duarte and D. Dudal and P. J. Silva
+Abstract: The two point gluon and ghost correlation functions and the three gluon vertex are investigated, in the Landau gauge, using lattice simulations. For the two point functions, we discuss the approach to the continuum limit looking at the dependence on the lattice spacing and volume. The analytical structure of the propagators is also investigated by computing the corresponding spectral functions using an implementation of the Tikhonov regularisation to solve the integral equation. For the three point function we report results when the momentum of one of the gluon lines is set to zero and discuss its implications.

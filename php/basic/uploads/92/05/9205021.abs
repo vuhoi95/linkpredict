@@ -1,0 +1,4 @@
+Paper: 9205021
+Title: 3d quantum gravity coupled to matter
+Authors: J. Ambjorn and Z. Burda and J. Jurkiewicz and C. F. Kristjansen
+Abstract: We investigate the phase structure of three-dimensional quantum gravity coupled to an Ising spin system by means of numerical simulations. The quantum gravity part is modelled by the summation over random simplicial manifolds, and the Ising spins are located in the center of the tetrahedra, which constitute the building blocks of the piecewise linear manifold. We find that the coupling between spin and geometry is weak away from the critical point of the Ising model. At the critical point there is clear coupling, which however does not seem to change the first order transition between the ``hot'' and ``cold'' phase of three dimensional simplicial quantum gravity observed earlier.

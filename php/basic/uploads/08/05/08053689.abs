@@ -1,0 +1,4 @@
+Paper: 08053689
+Title: Eigenvalues and Eigenfunctions of the Scalar Laplace Operator on  Calabi-Yau Manifolds
+Authors: Volker Braun and Tamaz Brelidze and Michael R. Douglas and Burt A. Ovrut
+Abstract: A numerical algorithm for explicitly computing the spectrum of the Laplace-Beltrami operator on Calabi-Yau threefolds is presented. The requisite Ricci-flat metrics are calculated using a method introduced in previous papers. To illustrate our algorithm, the eigenvalues and eigenfunctions of the Laplacian are computed numerically on two different quintic hypersurfaces, some Z_5 x Z_5 quotients of quintics, and the Calabi-Yau threefold with Z_3 x Z_3 fundamental group of the heterotic standard model. The multiplicities of the eigenvalues are explained in detail in terms of the irreducible representations of the finite isometry groups of the threefolds.

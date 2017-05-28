@@ -1,0 +1,4 @@
+Paper: 12024270
+Title: Quantum Wire Network with Magnetic Flux
+Authors: Vincent Caudrelier and Mihail Mintchev and Eric Ragoucy
+Abstract: The charge transport and the noise of a quantum wire network, made of three semi-infinite external leads attached to a ring crossed by a magnetic flux, are investigated. The system is driven away from equilibrium by connecting the external leads to heat reservoirs with different temperatures and/or chemical potentials. The properties of the exact scattering matrix of this configuration as a function of the momentum, the magnetic flux and the transmission along the ring are explored. We derive the conductance and the noise, describing in detail the role of the magnetic flux. In the case of weak coupling between the ring and the reservoirs, a resonant tunneling effect is observed. We also discover that a non-zero magnetic flux has a strong impact on the usual Johnson-Nyquist law for the pure thermal noise at small temperatures.

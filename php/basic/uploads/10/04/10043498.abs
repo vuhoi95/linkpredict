@@ -1,0 +1,4 @@
+Paper: 10043498
+Title: Amplitudes at Weak Coupling as Polytopes in AdS_5
+Authors: Lionel Mason and David Skinner
+Abstract: We show that one-loop scalar box functions can be interpreted as volumes of geodesic tetrahedra embedded in a copy of AdS_5 that has dual conformal space-time as boundary. When the tetrahedron is space-like, it lies in a totally geodesic hyperbolic three-space inside AdS_5, with its four vertices on the boundary. It is a classical result that the volume of such a tetrahedron is given by the Bloch-Wigner dilogarithm and this agrees with the standard physics formulae for such box functions. The combinations of box functions that arise in the n-particle one-loop MHV amplitude in N=4 super Yang-Mills correspond to the volume of a three-dimensional polytope without boundary, all of whose vertices are attached to a null polygon (which in other formulations is interpreted as a Wilson loop) at infinity.

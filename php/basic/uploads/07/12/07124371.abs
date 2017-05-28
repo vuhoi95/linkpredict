@@ -1,0 +1,4 @@
+Paper: 07124371
+Title: The Partition Function of a Multi-Component Coulomb Gas on a Circle
+Authors: Niko Jokela and Matti Jarvinen and Esko Keski-Vakkuri
+Abstract: We study a two-dimensional Coulomb gas consisting of a mixture of particles carrying various positive multiple integer charges, confined on a unit circle. We consider the system in the canonical and grand canonical ensembles, and attempt to calculate the partition functions analytically, using Toeplitz and confluent Vandermonde determinants. Just like in the simple one-component system (Dyson gas), the partition functions simplify at special temperature $\beta=2$, allowing us to find compact expressions for them.

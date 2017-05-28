@@ -1,0 +1,4 @@
+Paper: 11125406
+Title: Kontsevich integral for knots and Vassiliev invariants
+Authors: Petr Dunin-Barkowski and Alexey Sleptsov and Andrey Smirnov
+Abstract: We review quantum field theory approach to the knot theory. Using holomorphic gauge we obtain the Kontsevich integral. It is explained how to calculate Vassiliev invariants and coefficients in Kontsevich integral in a combinatorial way which can be programmed on a computer. We discuss experimental results and temporal gauge considerations which lead to representation of Vassiliev invariants in terms of arrow diagrams. Explicit examples and computational results are presented.

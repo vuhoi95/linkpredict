@@ -1,0 +1,4 @@
+Paper: 160501446
+Title: Elliptic scattering equations
+Authors: Carlos Cardona and Humberto Gomez
+Abstract: Recently the CHY approach has been extended to one loop level using elliptic functions and modular forms over a Jacobian variety. Due to the difficulty in manipulating these kind of functions, we propose an alternative prescription that is totally algebraic. This new proposal is based on an elliptic algebraic curve embedded in a $\mathbb{C}P^2$ space. We show that for the simplest integrand, namely the ${\rm n-gon}$, our proposal indeed reproduces the expected result. By using the recently formulated $\Lambda-$algorithm, we found a novel recurrence relation expansion in terms of tree level off-shell amplitudes. Our results connect nicely with recent results on the one-loop formulation of the scattering equations. In addition, this new proposal can be easily stretched out to hyperelliptic curves in order to compute higher genus.

@@ -1,0 +1,4 @@
+Paper: 13084773
+Title: An integrable 3D lattice model with positive Boltzmann weights
+Authors: Vladimir V. Mangazeev and Vladimir V. Bazhanov and Sergey M. Sergeev
+Abstract: In this paper we construct a three-dimensional (3D) solvable lattice model with non-negative Boltzmann weights. The spin variables in the model are assigned to edges of the 3D cubic lattice and run over an infinite number of discrete states. The Boltzmann weights satisfy the tetrahedron equation, which is a 3D generalisation of the Yang-Baxter equation. The weights depend on a free parameter 0<q<1 and three continuous field variables. The layer-to-layer transfer matrices of the model form a two-parameter commutative family. This is the first example of a solvable 3D lattice model with non-negative Boltzmann weights.

@@ -1,0 +1,4 @@
+Paper: 150907475
+Title: Cauchy conformal fields in dimensions d>2
+Authors: Daniel Friedan and Christoph A. Keller
+Abstract: Holomorphic fields play an important role in 2d conformal field theory. We generalize them to d>2 by introducing the notion of Cauchy conformal fields, which satisfy a first order differential equation such that they are determined everywhere once we know their value on a codimension 1 surface. We classify all the unitary Cauchy fields. By analyzing the mode expansion on the unit sphere, we show that all unitary Cauchy fields are free in the sense that their correlation functions factorize on the 2-point function. We also discuss the possibility of non-unitary Cauchy fields and classify them in d=3 and 4.

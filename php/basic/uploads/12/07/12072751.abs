@@ -1,0 +1,4 @@
+Paper: 12072751
+Title: A Rigorous Path Integral for N=1 Supersymmetic Quantum Mechanics on a  Riemannian Manifold
+Authors: Dana Fine and Stephen Sawin
+Abstract: Following Feynman's prescription for constructing a path integral representation of the propagator of a quantum theory, a short-time approximation to the propagator for imaginary time, N=1 supersymmetric quantum mechanics on a compact, even-dimensional Riemannian manifold is constructed. The path integral is interpreted as the limit of products, determined by a partition of a finite time interval, of this approximate propagator. The limit under refinements of the partition is shown to converge uniformly to the heat kernel for the Laplace-Beltrami operator on forms. A version of the steepest descent approximation to the path integral is obtained, and shown to give the expected short-time behavior of the supertrace of the heat kernel.

@@ -1,0 +1,4 @@
+Paper: 11025565
+Title: Calculating the partition function of N=2 Gauge theories on $S^3$ and  AdS/CFT correspondence
+Authors: Sangmo Cheon and Hyojoong Kim and Nakwoo Kim
+Abstract: We test the AdS/CFT correspondence by computing the partition function of some $\cN=2$ quiver Chern-Simons-matter theories on three-sphere. The M-theory backgrounds are of the Freund-Rubin type with the seven-dimensional internal space given as Sasaki-Einstein manifolds $Q^{1,1,1}$ or $V^{5,2}$. Localization technique reduces the exact path integral to a matrix model, and we study the large-N behavior of the partition function. For simplicity we consider only non-chiral models which have a real-valued partition function. The result is in full agreement with the prediction of the gravity duals, i.e. the free energy is proportional to $N^{3/2}$ and the coefficient matches correctly the volume of $Q^{1,1,1}$ and $V^{5,2}$.

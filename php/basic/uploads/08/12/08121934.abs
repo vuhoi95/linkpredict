@@ -1,0 +1,4 @@
+Paper: 08121934
+Title: Nonequilibrium Dynamics of Scalar Fields in a Thermal Bath
+Authors: A. Anisimov and W. Buchmueller and M. Drewes and S. Mendizabal
+Abstract: We study the approach to equilibrium for a scalar field which is coupled to a large thermal bath. Our analysis of the initial value problem is based on Kadanoff-Baym equations which are shown to be equivalent to a stochastic Langevin equation. The interaction with the thermal bath generates a temperature-dependent spectral density, either through decay and inverse decay processes or via Landau damping. In equilibrium, energy density and pressure are determined by the Bose-Einstein distribution function evaluated at a complex quasi-particle pole. The time evolution of the statistical propagator is compared with solutions of the Boltzmann equations for particles as well as quasi-particles. The dependence on initial conditions and the range of validity of the Boltzmann approximation are determined.

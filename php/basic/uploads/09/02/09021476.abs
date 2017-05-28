@@ -1,0 +1,4 @@
+Paper: 09021476
+Title: Dynamics of a Dirac oscillator coupled to an external field: A new class  of solvable problems
+Authors: Emerson Sadurni and Juan Mauricio Torres and Thomas H. Seligman
+Abstract: The Dirac oscillator coupled to an external two-component field can retain its solvability, if couplings are appropriately chosen. This provides a new class of integrable systems. A simplified way of solution is given, by recasting the known solution of the Dirac oscillator into matrix form; there one notices, that a block-diagonal form arises in a Hamiltonian formulation. The blocks are two-dimensional. Choosing couplings that do not affect the block structure, these just blow up the $2 \times 2$ matrices to $4 \times 4 $ matrices, thus conserving solvability. The result can be cast again in covariant form. By way of example we apply this exact solution to calculate the evolution of entanglement.

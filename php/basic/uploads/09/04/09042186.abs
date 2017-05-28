@@ -1,0 +1,4 @@
+Paper: 09042186
+Title: Yukawa Couplings in Heterotic Compactification
+Authors: Lara B. Anderson and James Gray and Dan Grayson and Yang-Hui He and Andre Lukas
+Abstract: We present a practical, algebraic method for efficiently calculating the Yukawa couplings of a large class of heterotic compactifications on Calabi-Yau three-folds with non-standard embeddings. Our methodology covers all of, though is not restricted to, the recently classified positive monads over favourable complete intersection Calabi-Yau three-folds. Since the algorithm is based on manipulating polynomials it can be easily implemented on a computer. This makes the automated investigation of Yukawa couplings for large classes of smooth heterotic compactifications a viable possibility.

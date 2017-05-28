@@ -1,0 +1,4 @@
+Paper: 10054730
+Title: Duality and replicas for a unitary matrix model
+Authors: E. Brezin and S. Hikami
+Abstract: In a generalized Airy matrix model, a power $p$ replaces the cubic term of the Airy model introduced by Kontsevich. The parameter $p$ corresponds to Witten's spin index in the theory of intersection numbers of moduli space of curves. A continuation in $p$ down to $p= -2$ yields a well studied unitary matrix model, which exhibits two different phases in the weak and strong coupling regions, with a third order critical point in-between. The application of duality and replica to the $p$-th Airy model allows one to recover both the weak and strong phases of the unitary model, and to establish some new results for these expansions. Therefore the unitary model is also indirectly a generating function for intersection numbers.

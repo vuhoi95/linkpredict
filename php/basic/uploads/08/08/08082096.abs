@@ -1,0 +1,4 @@
+Paper: 08082096
+Title: Fast Scramblers
+Authors: Yasuhiro Sekino and Leonard Susskind
+Abstract: We consider the problem of how fast a quantum system can scramble (thermalize) information, given that the interactions are between bounded clusters of degrees of freedom; pairwise interactions would be an example. Based on previous work, we conjecture: 1) The most rapid scramblers take a time logarithmic in the number of degrees of freedom. 2) Matrix quantum mechanics (systems whose degrees of freedom are n by n matrices) saturate the bound. 3) Black holes are the fastest scramblers in nature. The conjectures are based on two sources, one from quantum information theory, and the other from the study of black holes in String Theory.

@@ -1,0 +1,4 @@
+Paper: 08122835
+Title: The GL(1|1)-symplectic fermion correspondence
+Authors: Thomas Creutzig and Peter B. Ronne
+Abstract: In this note we prove a correspondence between the Wess-Zumino-Novikov-Witten model of the Lie supergroup GL(1|1) and a free model consisting of two scalars and a pair of symplectic fermions. This model was discussed earlier by LeClair. Vertex operators for the symplectic fermions include twist fields, and correlation functions of GL(1|1) agree with the known results for the scalars and symplectic fermions. We perform a detailed study of boundary states for symplectic fermions and apply them to branes in GL(1|1). This allows us to compute new amplitudes of strings stretching between branes of different types and confirming Cardy's condition.

@@ -1,0 +1,4 @@
+Paper: 09030995
+Title: Finite dimensional AKSZ-BV theories
+Authors: Francesco Bonechi and Pavel Mnev and Maxim Zabzine
+Abstract: We describe a canonical reduction of AKSZ-BV theories to the cohomology of the source manifold. We get a finite dimensional BV theory that describes the contribution of the zero modes to the full QFT. Integration can be defined and correlators can be computed. As an illustration of the general construction we consider two dimensional Poisson sigma model and three dimensional Courant sigma model. When the source manifold is compact, the reduced theory is a generalization of the AKSZ construction where we take as source the cohomology ring. We present the possible generalizations of the AKSZ theory.

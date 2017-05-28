@@ -1,0 +1,4 @@
+Paper: 12106038
+Title: Numerical Analyses on Moduli Space of Vacua
+Authors: Jonathan Hauenstein and Yang-Hui He and Dhagash Mehta
+Abstract: We propose a new computational method to understand the vacuum moduli space of (supersymmetric) field theories. By combining numerical algebraic geometry (NAG) and elimination theory, we develop a powerful, efficient, and parallelizable algorithm to extract important information such as the dimension, branch structure, Hilbert series and subsequent operator counting, as well as variation according to coupling constants and mass parameters. We illustrate this method on a host of examples from gauge theory, string theory, and algebraic geometry.

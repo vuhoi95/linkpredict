@@ -1,0 +1,4 @@
+Paper: 12121981
+Title: Quenches and lattice simulators for particle creation
+Authors: Francesco Caravelli and Fotini Markopoulou and Arnau Riera and Lorenzo Sindoni
+Abstract: In this paper we propose a framework for simulating thermal particle production in condensed matter systems. The procedure we describe can be realized by means of a quantum quench of a parameter in the model. In order to support this claim, we study quadratic fermionic systems in one and two dimensions by means of analytical and numerical techniques. In particular, we are able to show that a class of observables associated to Unruh--de Witt detectors are very relevant for this type of setup and that exhibit approximate thermalization.

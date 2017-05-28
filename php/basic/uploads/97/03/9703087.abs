@@ -1,0 +1,4 @@
+Paper: 9703087
+Title: Non-Hermitean Random Matrix Theory: method of hermitization
+Authors: J. Feinberg and A. Zee
+Abstract: We consider random non-hermitean matrices in the large $N$ limit. The power of analytic function theory cannot be brought to bear directly to analyze non-hermitean random matrices, in contrast to hermitean random matrices. To overcome this difficulty, we show that associated to each ensemble of non-hermitean matrices there is an auxiliary ensemble of random hermitean matrices which can be analyzed by the usual methods. We then extract the Green's function and the density of eigenvalues of the non-hermitean ensemble from those of the auxiliary ensemble. We apply this "method of hermitization" to several examples, and discuss a number of related issues.

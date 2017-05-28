@@ -1,0 +1,4 @@
+Paper: 13123871
+Title: Manifest causality in quantum field theory with sources and detectors
+Authors: Robert Dickinson and Jeff Forshaw and Peter Millington and Brian Cox
+Abstract: We introduce a way to compute scattering amplitudes in quantum field theory including the effects of particle production and detection. Our amplitudes are manifestly causal, by which we mean that the source and detector are always linked by a connected chain of retarded propagators. We show how these amplitudes can be derived from a path integral, using the Schwinger-Keldysh "in-in" formalism. Focussing on phi-cubed theory, we confirm that our approach agrees with the standard S-matrix approach in the case of positive energy plane-wave scattering.

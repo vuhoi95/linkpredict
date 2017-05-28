@@ -1,0 +1,4 @@
+Paper: 10123468
+Title: Toward a Universal Formulation of the Halo Mass Function
+Authors: P. S. Corasaniti and I. Achitouv
+Abstract: We compute the dark matter halo mass function using the excursion set formalism for a diffusive barrier with linearly drifting average which captures the main features of the ellipsoidal collapse model. We evaluate the non-Markovian corrections due to the sharp filtering of the linear density field in real space with a path-integral method. We find an unprecedented agreement with N-body simulation data with deviations within ~5% level over the range of masses probed by the simulations. This indicates that the Excursion Set in combination with a realistic modelling of the collapse threshold can provide a robust estimation of the halo mass function.

@@ -1,0 +1,4 @@
+Paper: 11100210
+Title: The Epsilon Expansion of Feynman Diagrams via Hypergeometric Functions  and Differential Reduction
+Authors: S. A. Yost and V. V. Bytev and M. Yu. Kalmykov and B. A. Kniehl and B. F. L. Ward
+Abstract: Higher-order diagrams required for radiative corrections to mixed electroweak and QCD processes at the LHC and anticipated future colliders will require numerically stable representations of the associated Feynman diagrams. The hypergeometric representation supplies an analytic framework that is useful for deriving such stable representations. We discuss the reduction of Feynman diagrams to master integrals, and compare integration-by-parts methods to differential reduction of hypergeometric functions. We describe the problem of constructing higher-order terms in the epsilon expansion, and characterize the functions generated in such expansions.

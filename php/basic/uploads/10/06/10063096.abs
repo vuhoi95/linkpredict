@@ -1,0 +1,4 @@
+Paper: 10063096
+Title: Non-Hermitean Wishart random matrices (I)
+Authors: Eugene Kanzieper and Navinder Singh
+Abstract: A non-Hermitean extension of paradigmatic Wishart random matrices is introduced to set up a theoretical framework for statistical analysis of (real, complex and real quaternion) stochastic time series representing two "remote" complex systems. The first paper in a series provides a detailed spectral theory of non-Hermitean Wishart random matrices composed of complex valued entries. The great emphasis is placed on an asymptotic analysis of the mean eigenvalue density for which we derive, among other results, a complex-plane analogue of the Marchenko-Pastur law. A surprising connection with a class of matrix models previously invented in the context of quantum chromodynamics is pointed out.

@@ -1,0 +1,4 @@
+Paper: 13021622
+Title: Thirring model at finite density in 0+1 dimensions with stochastic  quantization: Crosscheck with an exact solution
+Authors: Jan M. Pawlowski and Christian Zielinski
+Abstract: We consider a generalized Thirring model in 0+1 dimensions at finite density. In order to deal with the resulting sign problem we employ stochastic quantization, i.e., a complex Langevin evolution. We investigate the convergence properties of this approach and check in which parameter regions complex Langevin evolutions are applicable in this setting. To this end we derive numerous analytical results and compare directly with numerical results. In addition we employ indirect indicators to check for correctness. Finally we interpret and discuss our findings.

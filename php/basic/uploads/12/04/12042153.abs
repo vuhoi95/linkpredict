@@ -1,0 +1,4 @@
+Paper: 12042153
+Title: A double coset ansatz for integrability in AdS/CFT
+Authors: Robert de Mello Koch and Sanjaye Ramgoolam
+Abstract: We give a proof that the expected counting of strings attached to giant graviton branes in AdS_5 x S^5, as constrained by the Gauss Law, matches the dimension spanned by the expected dual operators in the gauge theory. The counting of string-brane configurations is formulated as a graph counting problem, which can be expressed as the number of points on a double coset involving permutation groups. Fourier transformation on the double coset suggests an ansatz for the diagonalization of the one-loop dilatation operator in this sector of strings attached to giant graviton branes. The ansatz agrees with and extends recent results which have found the dynamics of open string excitations of giants to be given by harmonic oscillators. We prove that it provides the conjectured diagonalization leading to harmonic oscillators.

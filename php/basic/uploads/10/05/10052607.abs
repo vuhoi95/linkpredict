@@ -1,0 +1,4 @@
+Paper: 10052607
+Title: Disk one-point function for non-rational conformal theories
+Authors: Juan Pablo Babaro and Gaston Giribet
+Abstract: We consider an infinite family of non-rational conformal field theories in the presence of a conformal boundary. These theories, which have been recently proposed in arXiv:0803.2099, are parameterized by two real numbers (b,m) in such a way that the corresponding central charges c_{b,m} are given by c_{b,m}=3+6(b+b^{-1}(1-m))^{2}. For the disk geometry, we explicitly compute the expectation value of a bulk vertex operator in the case m \in Z, such that the result reduces to the Liouville one-point function when m=0. We perform the calculation of the disk one-point function in two different ways, obtaining results in perfect agreement, and giving the details of both the path integral and the free field derivations.

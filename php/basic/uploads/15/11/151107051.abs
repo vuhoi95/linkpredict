@@ -1,0 +1,4 @@
+Paper: 151107051
+Title: Firewalls, black-hole thermodynamics, and singular solutions of the  Tolman-Oppenheimer-Volkoff equation
+Authors: Wojciech H. Zurek and Don N. Page
+Abstract: We investigate thermodynamic equilibrium of a self-gravitating perfect fluid in a spherically symmetric system containing a black hole of mass M by means of the Tolman-Oppenheimer-Volkoff (TOV) equation. At r >> 2M its solutions describe a black-body radiation atmosphere with the Hawking temperature T_BH~1/(8 \pi M) that is increasingly blueshifted as r approaches 2M. However, there is no horizon at the Schwarzschild radius. Instead, the fluid becomes increasingly hot and dense there, piling up into a "firewall" with the peak temperatures and densities reaching Planck values somewhat below r = 2M. This firewall surrounds a negative point mass residing at r=0, the only singularity of the solution. The entropy of the firewall is comparable to the Bekenstein-Hawking entropy.

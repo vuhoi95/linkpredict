@@ -1,0 +1,4 @@
+Paper: 14040747
+Title: New Dirac Delta function based methods with applications to perturbative  expansions in quantum field theory
+Authors: Achim Kempf and David M. Jackson and Alejandro H. Morales
+Abstract: We derive new all-purpose methods that involve the Dirac Delta distribution. Some of the new methods use derivatives in the argument of the Dirac Delta. We highlight potential avenues for applications to quantum field theory and we also exhibit a connection to the problem of blurring/deblurring in signal processing. We find that blurring, which can be thought of as a result of multi-path evolution, is, in Euclidean quantum field theory without spontaneous symmetry breaking, the strong coupling dual of the usual small coupling expansion in terms of the sum over Feynman graphs.

@@ -1,0 +1,4 @@
+Paper: 08023318
+Title: Viscosity Bound and Causality Violation
+Authors: Mauro Brigante and Hong Liu and Robert C. Myers and Stephen Shenker and Sho Yaida
+Abstract: In recent work we showed that, for a class of conformal field theories (CFT) with Gauss-Bonnet gravity dual, the shear viscosity to entropy density ratio, $\eta/s$, could violate the conjectured Kovtun-Starinets-Son viscosity bound, $\eta/s\geq1/4\pi$. In this paper we argue, in the context of the same model, that tuning $\eta/s$ below $(16/25)(1/4\pi)$ induces microcausality violation in the CFT, rendering the theory inconsistent. This is a concrete example in which inconsistency of a theory and a lower bound on viscosity are correlated, supporting the idea of a possible universal lower bound on $\eta/s$ for all consistent theories.

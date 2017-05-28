@@ -1,0 +1,4 @@
+Paper: 14027000
+Title: On the B-twisted topological sigma model and Calabi-Yau geometry
+Authors: Qin Li and Si Li
+Abstract: We provide a rigorous perturbative quantization of the B-twisted topological sigma model via a first order quantum field theory on derived mapping space in the formal neighborhood of constant maps. We prove that the first Chern class of the target manifold is the obstruction to the quantization via Batalin-Vilkovisky formalism. When the first Chern class vanishes, i.e. on Calabi-Yau manifolds, the factorization algebra of observables gives rise to the expected topological correlation functions in the B-model. We explain a twisting procedure to generalize to the Landau-Ginzburg case, and show that the resulting topological correlations coincide with Vafa's residue formula.

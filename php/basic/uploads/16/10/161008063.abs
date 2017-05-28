@@ -1,0 +1,4 @@
+Paper: 161008063
+Title: Complexity of Formation in Holography
+Authors: Shira Chapman and Hugo Marrochio and Robert C. Myers
+Abstract: It was recently conjectured that the quantum complexity of a holographic boundary state can be computed by evaluating the gravitational action on a bulk region known as the Wheeler-DeWitt patch. We apply this complexity=action duality to evaluate the `complexity of formation' (arXiv:1509.07876, arXiv:1512.04993), i.e., the additional complexity arising in preparing the entangled thermofield double state with two copies of the boundary CFT compared to preparing the individual vacuum states of the two copies. We find that for boundary dimensions $d>2$, the difference in the complexities grows linearly with the thermal entropy at high temperatures. For the special case $d=2$, the complexity of formation is a fixed constant, independent of the temperature. We compare these results to those found using the complexity=volume duality.

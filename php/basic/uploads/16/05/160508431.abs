@@ -1,0 +1,4 @@
+Paper: 160508431
+Title: The Polynomial Form of the Scattering Equations is an H-Basis
+Authors: Jorrit Bosma and Mads Sogaard and Yang Zhang
+Abstract: We prove that the polynomial form of the scattering equations is a Macaulay H-basis. We demonstrate that this H-basis facilitates integrand reduction and global residue computations in a way very similar to using a Gr\"obner basis, but circumvents the heavy computation of the latter. As an example, we apply the H-basis to prove the conjecture that the dual basis of the polynomial scattering equations must contain one constant term.

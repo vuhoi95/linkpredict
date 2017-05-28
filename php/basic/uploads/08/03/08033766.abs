@@ -1,0 +1,4 @@
+Paper: 08033766
+Title: The Quantum McKay Correspondence for polyhedral singularities
+Authors: Jim Bryan and Amin Gholampour
+Abstract: Let G be a polyhedral group, namely a finite subgroup of SO(3). Nakamura's G-Hilbert scheme provides a preferred Calabi-Yau resolution Y of the polyhedral singularity C^3/G. The classical McKay correspondence describes the classical geometry of Y in terms of the representation theory of G. In this paper we describe the quantum geometry of Y in terms of R, an ADE root system associated to G. Namely, we give an explicit formula for the Gromov-Witten partition function of Y as a product over the positive roots of R. In terms of counts of BPS states (Gopakumar-Vafa invariants), our result can be stated as a correspondence: each positive root of R corresponds to one half of a genus zero BPS state. As an application, we use the crepant resolution conjecture to provide a full prediction for the orbifold Gromov-Witten invariants of [C^3/G].

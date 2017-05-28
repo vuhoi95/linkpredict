@@ -1,0 +1,4 @@
+Paper: 09071022
+Title: Non-Fermi liquid behavior due to U(1) gauge field in two dimensions
+Authors: Jing-Rong Wang and Guo-Zhu Liu
+Abstract: We study the damping rate of massless Dirac fermions due to the U(1) gauge field in (2+1)-dimensional quantum electrodynamics. In the absence of a Maxwell term for the gauge field, the fermion damping rate $\mathrm{Im}\Sigma(\omega,T)$ is found to diverge in both perturbative and self-consistent results. In the presence of a Maxwell term, there is still divergence in the perturbative results for $\mathrm{Im}\Sigma(\omega,T)$. Once the Maxwell term is included into the self-consistent equations for fermion self-energy and vacuum polarization functions, the fermion damping rate is free of divergence and exhibits non-Fermi liquid behavior: $\mathrm{Im}\Sigma(\omega,T) \propto \mathrm{max}(\sqrt{\omega},\sqrt{T})$.

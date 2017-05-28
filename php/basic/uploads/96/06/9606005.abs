@@ -1,0 +1,4 @@
+Paper: 9606005
+Title: Homology of pseudodifferential operators I. Manifolds with boundary
+Authors: Richard B. Melrose and Victor Nistor
+Abstract: The Hochschild and cyclic homology groups are computed for the algebra of `cusp' pseudodifferential operators on any compact manifold with boundary. The index functional for this algebra is interpreted as a Hochschild 1-cocycle and evaluated in terms of extensions of the trace functionals on the two natural ideals, corresponding to the two filtrations by interior order and vanishing degree at the boundary, together with the exterior derivations of the algebra. This leads to an index formula which is a pseudodifferential extension of that of Atiyah, Patodi and Singer for Dirac operators; together with a symbolic term it involves the `eta' invariant on the suspended algebra over the boundary previously introduced by the first author.

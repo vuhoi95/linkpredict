@@ -1,0 +1,4 @@
+Paper: 9304015
+Title: The XY Model on a Dynamical Random Lattice
+Authors: S. Catterall and J. Kogut and R. Renken
+Abstract: We study the XY model on a lattice with fluctuating connectivity. The expectation is that at an appropriate critical point such a system corresponds to a compactified boson coupled to 2d quantum gravity. Our simulations focus, in particular, on the important topological features of the system. The results lend strong support to the two phase structure predicted on the basis of analytical calculations. A careful finite size scaling analysis yields estimates for the critical exponents in the low temperature phase.

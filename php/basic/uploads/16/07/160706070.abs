@@ -1,0 +1,4 @@
+Paper: 160706070
+Title: Heat trace for Laplacian type operators with non-scalar symbols
+Authors: Bruno Iochum and Thierry Masson
+Abstract: For an elliptic selfadjoint operator $P =-[u^{\mu\nu}\partial_\mu \partial_\nu +v^\nu \partial_\nu +w]$ acting on a fiber bundle over a Riemannian manifold, where $u,v^\mu,w$ are $N\times N$-matrices, we develop a method to compute the heat-trace coefficients $a_r$ which allows to get them by a pure computational machinery. It is exemplified in dimension 4 by the value of $a_1$ written both in terms of $u,v^\mu,w$ or diffeomorphic and gauge invariants. We also answer to the question: when is it possible to get explicit formulae for $a_r$?

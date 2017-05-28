@@ -1,0 +1,4 @@
+Paper: 10064322
+Title: On the Homology of Certain Smooth Covers of Moduli Spaces of Algebraic  Curves
+Authors: Petr Dunin-Barkowski and Alexander Popolitov and George Shabat and Alexei Sleptsov
+Abstract: We suggest a general method of computation of the homology of certain smooth covers $\hat{\mathcal{M}}_{g,1}(\mathbb{C})$ of moduli spaces $\mathcal{M}_{g,1}\br{\mathbb{C}}$ of pointed curves of genus $g$. Namely, we consider moduli spaces of algebraic curves with level $m$ structures. The method is based on the lifting of the Strebel-Penner stratification $\mathcal{M}_{g,1}\br{\mathbb{C}}$. We apply this method for $g\leq 2$ and obtain Betti numbers; these results are consistent with Penner and Harer-Zagier results on Euler characteristics.

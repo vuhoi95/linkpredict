@@ -1,0 +1,4 @@
+Paper: 14031226
+Title: Localization in Nets of Standard Spaces
+Authors: Gandalf Lechner and Roberto Longo
+Abstract: Starting from a real standard subspace of a Hilbert space and a representation of the translation group with natural properties, we construct and analyze for each endomorphism of this pair a local, translationally covariant net of standard subspaces, on the lightray and on two-dimensional Minkowski space. These nets share many features with low-dimensional quantum field theory, described by corresponding nets of von Neumann algebras. Generalizing a result of Longo and Witten to two dimensions and massive multiplicity free representations, we characterize these endomorphisms in terms of specific analytic functions. Such a characterization then allows us to analyze the corresponding nets of standard spaces, and in particular compute their minimal localization length. The analogies and differences to the von Neumann algebraic situation are discussed.

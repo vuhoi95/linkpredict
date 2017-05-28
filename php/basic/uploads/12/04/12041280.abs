@@ -1,0 +1,4 @@
+Paper: 12041280
+Title: The large N limit of M2-branes on Lens spaces
+Authors: Luis F. Alday and Martin Fluder and James Sparks
+Abstract: We study the matrix model for N M2-branes wrapping a Lens space L(p,1) = S^3/Z_p. This arises from localization of the partition function of the ABJM theory, and has some novel features compared with the case of a three-sphere, including a sum over flat connections and a potential that depends non-trivially on p. We study the matrix model both numerically and analytically in the large N limit, finding that a certain family of p flat connections give an equal dominant contribution. At large N we find the same eigenvalue distribution for all p, and show that the free energy is simply 1/p times the free energy on a three-sphere, in agreement with gravity dual expectations.

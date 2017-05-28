@@ -1,0 +1,4 @@
+Paper: 161109750
+Title: Numerical determination of the CFT central charge in the site-diluted  Ising model
+Authors: P. A. Belov and A. A. Nazarov and A. O. Sorokin
+Abstract: We propose a new numerical method to determine the central charge of the conformal field theory models corresponding to the 2D lattice models. In this method, the free energy of the lattice model on the torus is calculated by the Wang-Landau algorithm and then the central charge is obtained from a free energy scaling with respect to the torus radii. The method is applied for determination of the central charge in the site-diluted Ising model.

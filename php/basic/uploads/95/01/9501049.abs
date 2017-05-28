@@ -1,0 +1,4 @@
+Paper: 9501049
+Title: Scaling in quantum gravity
+Authors: J. Ambjorn and Y. Watabiki
+Abstract: The 2-point function is the natural object in quantum gravity for extracting critical behavior: The exponential fall off of the 2-point function with geodesic distance determines the fractal dimension $d_H$ of space-time. The integral of the 2-point function determines the entropy exponent $\gamma$, i.e. the fractal structure related to baby universes, while the short distance behavior of the 2-point function connects $\gamma$ and $d_H$ by a quantum gravity version of Fisher's scaling relation. We verify this behavior in the case of 2d gravity by explicit calculation.

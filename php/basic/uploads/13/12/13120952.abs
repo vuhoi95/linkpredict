@@ -1,0 +1,4 @@
+Paper: 13120952
+Title: Tensor networks for frustrated systems: emergence of order from simplex  entanglement
+Authors: Daniel Alsina and José Ignacio Latorre
+Abstract: We consider a frustrated anti-ferromagnetic triangular lattice Hamiltonian and show that the properties of the manifold of its degenerated ground state are represented by a novel type of tensor networks. These tensor networks are not based on ancillary maximally entangled pairs, but rather on triangular W-like simplices. Anti-ferromagnetic triangular frustration is then related to ancillary W-states in contrast to ferromagnetic order which emerges from the contraction of GHZ-like triangular simplices. We further discuss the outwards entangling power of various simplices. This analysis suggests the emergence of distinct macroscopic types of order from the classification of entanglement residing on the simplices that define a tensor network.

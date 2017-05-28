@@ -1,0 +1,4 @@
+Paper: 14098442
+Title: Lattice gauge theory without link variables
+Authors: Helvio Vairinhos and Philippe de Forcrand
+Abstract: We obtain a sequence of alternative representations for the partition function of pure SU(N) or U(N) lattice gauge theory with the Wilson plaquette action, using the method of Hubbard-Stratonovich transformations. In particular, we are able to integrate out all the link variables exactly, and recast the partition function of lattice gauge theory as a Gaussian integral over auxiliary fields.

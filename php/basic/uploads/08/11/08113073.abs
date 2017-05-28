@@ -1,0 +1,4 @@
+Paper: 08113073
+Title: Counting operator analysis of the discrete spectrum of some model  Hamiltonians
+Authors: Jan Naudts and Tobias Verhulst and Ben Anthonis
+Abstract: The first step in the counting operator analysis of the spectrum of any model Hamiltonian H is the choice of a Hermitean operator M in such a way that the third commutator with H is proportional to the first commutator. Next one calculates operators R and R^\dagger which share some of the properties of creation and annihilation operators, and such that $M$ becomes a counting operator. The spectrum of H is then decomposed into multiplets, not determined by the symmetries of H, but by those of a reference Hamiltonian H_ref, which is defined by H_ref=H-R-R^\dagger, and which commutes with M. Finally, we introduce the notion of stable eigenstates. It is shown that under rather weak conditions one stable eigenstate can be used to construct another one.

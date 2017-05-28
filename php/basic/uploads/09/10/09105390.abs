@@ -1,0 +1,4 @@
+Paper: 09105390
+Title: On the scheme dependence of gravitational beta functions
+Authors: Gaurav Narain and Roberto Percacci
+Abstract: We discuss the arbitrariness in the choice of cutoff scheme in calculations of beta functions. We define a class of "pure" cutoff schemes, in which the cutoff is completely independent of the parameters that appear in the action. In a sense they are at the opposite extreme of the "spectrally adjusted" cutoffs, which depend on all the parameters that appear in the action. We compare the results for the beta functions of Newton's constant and of the cosmological constant obtained with a typical cutoff and with a pure cutoff, keeping all else fixed. We find that the dependence of the fixed point on an arbitrary parameter in the pure cutoff is rather mild. We then show in general that if a spectrally adjusted cutoff produces a fixed point, there is a corresponding pure cutoff that will give a fixed point in the same position.

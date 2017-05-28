@@ -1,0 +1,4 @@
+Paper: 151008872
+Title: Supersymmetric Renyi Entropy in $CFT_2$ and $AdS_3$
+Authors: Amit Giveon and David Kutasov
+Abstract: We show that in any two dimensional conformal field theory with (2, 2) supersymmetry one can define a supersymmetric analog of the usual Renyi entropy of a spatial region A. It differs from the Renyi entropy by a universal function (which we compute) of the central charge, Renyi parameter n and the geometric parameters of A. In the limit $n \to1$ it coincides with the entanglement entropy. Thus, it contains the same information as the Renyi entropy but its computation only involves correlation functions of chiral and anti-chiral operators. We also show that this quantity appears naturally in string theory on $AdS_3$.

@@ -1,0 +1,4 @@
+Paper: 12076321
+Title: Renormalization and Mellin transforms
+Authors: Dirk Kreimer and Erik Panzer
+Abstract: We study renormalization in a kinetic scheme using the Hopf algebraic framework, first summarizing and recovering known results in this setting. Then we give a direct combinatorial description of renormalized amplitudes in terms of Mellin transform coefficients, featuring the universal property of rooted trees H_R. In particular, a special class of automorphisms of H_R emerges from the action of changing Mellin transforms on the Hochschild cohomology of perturbation series. Furthermore, we show how the Hopf algebra of polynomials carries a refined renormalization group property, implying its coarser form on the level of correlation functions. Application to scalar quantum field theory reveals the scaling behaviour of individual Feynman graphs.

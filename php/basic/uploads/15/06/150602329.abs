@@ -1,0 +1,4 @@
+Paper: 150602329
+Title: Nonassociative Weyl star products
+Authors: V. G. Kupriyanov and D. V. Vassilevich
+Abstract: Deformation quantization is a formal deformation of the algebra of smooth functions on some manifold. In the classical setting, the Poisson bracket serves as an initial conditions, while the associativity allows to proceed to higher orders. Some applications to string theory require deformation in the direction of a quasi-Poisson bracket (that does not satisfy the Jacobi identity). This initial condition is incompatible with associativity, it is quite unclear which restrictions can be imposed on the deformation. We show that for any quasi-Poisson bracket the deformation quantization exists and is essentially unique if one requires (weak) hermiticity and the Weyl condition. We also propose an iterative procedure that allows to compute the star product up to any desired order.

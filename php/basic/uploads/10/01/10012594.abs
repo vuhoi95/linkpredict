@@ -1,0 +1,4 @@
+Paper: 10012594
+Title: Scale free property and edge state of Wilson's numerical renormalization  group
+Authors: Kouichi Okunishi and Tomotoshi Nishino
+Abstract: We discuss the scale-free property of Wilson's numerical renormalization group(NRG) for the Kondo impurity problem. The single-particle state of the effective Hamiltonian with a cutoff $\Lambda$ is described by the wavepacket basis having the scale free property; The energy scale of the system can be controlled by the lattice translation of the wavepacket basis with no reference of rescaling of the lattice space. We also analyze the role of the Kondo interaction in the context of wavepacket basis and then discuss the scaling and renormalization of the Kondo coupling. In addition, we clarify the role of the edge state in the lowest energy scale of Wilson NRG.

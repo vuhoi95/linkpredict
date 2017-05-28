@@ -1,0 +1,4 @@
+Paper: 11024919
+Title: Novel black hole bound states and entropy
+Authors: T. R. Govindarajan and Rakesh Tibrewala
+Abstract: We solve for the spectrum of the Laplacian as a Hamiltonian on $\mathbb{R}^{2}-\mathbb{D}$ and in $\mathbb{R}^{3}-\mathbb{B}$. A self-adjointness analysis with $\partial\mathbb{D}$ and $\partial\mathbb{B}$ as the boundary for the two cases shows that a general class of boundary conditions for which the Hamiltonian operator is essentially self-adjoint are of the mixed (Robin) type. With this class of boundary conditions we obtain "bound state" solutions for the Schroedinger equation. Interestingly, these solutions are all localized near the boundary. We further show that the number of bound states is finite and is in fact proportional to the perimeter or area of the removed \emph{disc} or \emph{ball}. We then argue that similar considerations should hold for static black hole backgrounds with the horizon treated as the boundary.

@@ -1,0 +1,4 @@
+Paper: 11053565
+Title: HYPERDIRE: HYPERgeometric functions DIfferential REduction: MATHEMATICA  based packages for differential reduction of generalized hypergeometric  functions pFq, F1,F2,F3,F4
+Authors: Vladimir V. Bytev and Mikhail Yu. Kalmykov and Bernd A. Kniehl
+Abstract: HYPERDIRE is a project devoted to the creation of a set of Mathematica based programs for the differential reduction of hypergeometric functions. The current version includes two parts: one, pfq, is relevant for manipulations of hypergeometric functions_{p+1}F_p, and the second one, AppellF1F4, for manipulations with Appell hypergeometric functions F_1,F_2,F_3,F_4 of two variables.

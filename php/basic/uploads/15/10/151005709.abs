@@ -1,0 +1,4 @@
+Paper: 151005709
+Title: The ordered phase of $O(N)$ model within the Non-Perturbative  Renormalization Group
+Authors: Marcela Peláez and Nicolás Wschebor
+Abstract: In the present article we analyze Non-Perturbative Renormalization Group flow equations in the order phase of $\mathbb{Z}_2$ and $O(N)$ invariant scalar models in the derivative expansion approximation scheme. We first address the behavior of the leading order approximation (LPA), discussing for which regulators the flow is smooth and gives a convex free energy and when it becomes singular. We improve the exact known solutions in the "internal" region of the potential and exploit this solution in order to implement a numerical algorithm that is much more stable that previous ones for $N>1$. After that, we study the flow equations at second order of the Derivative Expansion and analyze how and when LPA results change. We also discuss the evolution of field renormalization factors.

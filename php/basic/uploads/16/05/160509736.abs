@@ -1,0 +1,4 @@
+Paper: 160509736
+Title: Trigonometric and elliptic Ruijsenaars-Schneider systems on the complex  projective space
+Authors: L. Feher and T. F. Gorbe
+Abstract: We present a direct construction of compact real forms of the trigonometric and elliptic $n$-particle Ruijsenaars-Schneider systems whose completed center-of-mass phase space is the complex projective space $\mathbb{CP}^{n-1}$ with the Fubini-Study symplectic structure. These systems are labelled by an integer $p\in\{1,\dots,n-1\}$ relative prime to $n$ and a coupling parameter $y$ varying in a certain punctured interval around $p\pi/n$. Our work extends Ruijsenaars's pioneering study of compactifications that imposed the restriction $0<y<\pi/n$, and also builds on an earlier derivation of more general compact trigonometric systems by Hamiltonian reduction.

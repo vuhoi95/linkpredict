@@ -1,0 +1,4 @@
+Paper: 14110896
+Title: Notes on the proof of the KKV conjecture
+Authors: R. Pandharipande and R. P. Thomas
+Abstract: The Katz-Klemm-Vafa conjecture expresses the Gromov-Witten theory of K3 surfaces (and K3-fibred 3-folds in fibre classes) in terms of modular forms. Its recent proof gives the first non-toric geometry in dimension greater than 1 where Gromov-Witten theory is exactly solved in all genera. We survey the various steps in the proof. The MNOP correspondence and a new Pairs/Noether-Lefschetz correspondence for K3-fibred 3-folds transform the Gromov-Witten problem into a calculation of the full stable pairs theory of a local K3-fibred 3-fold. The stable pairs calculation is then carried out via degeneration, localisation, vanishing results, and new multiple cover formulae.

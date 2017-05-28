@@ -1,0 +1,4 @@
+Paper: 10123081
+Title: The Universal RG Machine
+Authors: Dario Benedetti and Kai Groh and Pedro F. Machado and Frank Saueressig
+Abstract: Functional Renormalization Group Equations constitute a powerful tool to encode the perturbative and non-perturbative properties of a physical system. We present an algorithm to systematically compute the expansion of such flow equations in a given background quantity specified by the approximation scheme. The method is based on off-diagonal heat-kernel techniques and can be implemented on a computer algebra system, opening access to complex computations in, e.g., Gravity or Yang-Mills theory. In a first illustrative example, we re-derive the gravitational $\beta$-functions of the Einstein-Hilbert truncation, demonstrating their background-independence. As an additional result, the heat-kernel coefficients for transverse vectors and transverse-traceless symmetric matrices are computed to second order in the curvature.

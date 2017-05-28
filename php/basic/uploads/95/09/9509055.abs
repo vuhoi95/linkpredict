@@ -1,0 +1,4 @@
+Paper: 9509055
+Title: The Role of Boundary Conditions in the Real-Space Renormalization Group
+Authors: Miguel A. Martin-Delgado and German Sierra
+Abstract: We show that the failure of the real-space RG method in the 1D tight-binding model is not intrinsic to the method as considered so far but depends on the choice of boundary conditions. For fixed BC's the failure does happen. For free BC's we present a new analytical block RG-method which gives the exact ground state of the model and the correct $1/N^2$-law for the energy of the first excited state in the large $N$(size)-limit. We also give a reconstruction method for the wave-functions of the excited states.

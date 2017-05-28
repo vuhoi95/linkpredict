@@ -1,0 +1,4 @@
+Paper: 13045913
+Title: How to Resum Feynman Graphs
+Authors: Vincent Rivasseau and Zhituo Wang
+Abstract: In this paper we reformulate in a simpler way the combinatoric core of constructive quantum field theory We define universal rational combinatoric weights for pairs made of a graph and one of its spanning trees. These weights are nothing but the percentage of Hepp's sectors in which the tree is leading the ultraviolet analysis. We explain how they allow to reshuffle the divergent series formulated in terms of Feynman graphs into convergent series indexed by the trees that these graphs contain. The Feynman graphs to be used are not the ordinary ones but those of the intermediate field representation, and the result of the reshuffling is called the Loop Vertex Expansion.

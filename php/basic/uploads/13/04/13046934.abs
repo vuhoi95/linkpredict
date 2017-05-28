@@ -1,0 +1,4 @@
+Paper: 13046934
+Title: Towards a double-scaling limit for tensor models: probing sub-dominant  orders
+Authors: Wojciech Kaminski and Daniele Oriti and James P. Ryan
+Abstract: The definition of a double-scaling limit represents an important goal in the development of tensor models. We take the first steps towards this goal by extracting and analysing the next-to-leading order contributions, in the 1/N expansion, for the IID tensor models. We show that the radius of convergence of the NLO series coincides with that of the leading order melonic sector. Meanwhile, the value of the susceptibility exponent at NLO is 3/2, signaling a departure from the leading order behaviour. Both pieces of information provide clues for a non-trivial double-scaling limit, for which we put forward some precise conjecture.

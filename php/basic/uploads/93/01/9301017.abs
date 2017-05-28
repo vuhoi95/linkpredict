@@ -1,0 +1,4 @@
+Paper: 9301017
+Title: Low Temperature Expansions for Potts Models
+Authors: G. Bhanot and M. Creutz and U. Glassner and I. Horvath and J. Lacki and K. Schilling and J. Weckel
+Abstract: On simple cubic lattices, we compute low temperature series expansions for the energy, magnetization and susceptibility of the three-state Potts model in D=2 and D=3 to 45 and 39 excited bonds respectively, and the eight-state Potts model in D=2 to 25 excited bonds. We use a recursive procedure which enumerates states explicitly. We analyze the series using Dlog Pade analysis and inhomogeneous differential approximants.

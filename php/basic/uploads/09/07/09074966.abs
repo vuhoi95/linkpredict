@@ -1,0 +1,4 @@
+Paper: 09074966
+Title: Lattice study of two-dimensional N=(2,2) super Yang-Mills at large-N
+Authors: Masanori Hanada and Issaku Kanamori
+Abstract: We study two-dimensional N=(2,2) SU(N) super Yang-Mills theory on Euclidean two-torus using Sugino's lattice regularization. We perform the Monte-Carlo simulation for N=2,3,4,5 and then extrapolate the result to N = infinity. With the periodic boundary conditions for the fermions along both circles, we establish the existence of a bound state in which scalar fields clump around the origin, in spite of the existence of a classical flat direction. In this phase the global (Z_N)^2 symmetry turns out to be broken. We provide a simple explanation for this fact and discuss its physical implications.

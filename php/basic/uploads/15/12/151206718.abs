@@ -1,0 +1,4 @@
+Paper: 151206718
+Title: $O(N)$ Random Tensor Models
+Authors: Sylvain Carrozza and Adrian Tanasa
+Abstract: We define in this paper a class of three indices tensor models, endowed with $O(N)^{\otimes 3}$ invariance ($N$ being the size of the tensor). This allows to generate, via the usual QFT perturbative expansion, a class of Feynman tensor graphs which is strictly larger than the class of Feynman graphs of both the multi-orientable model (and hence of the colored model) and the $U(N)$ invariant models. We first exhibit the existence of a large $N$ expansion for such a model with general interactions. We then focus on the quartic model and we identify the leading and next-to-leading order (NLO) graphs of the large $N$ expansion. Finally, we prove the existence of a critical regime and we compute the critical exponents, both at leading order and at NLO. This is achieved through the use of various analytic combinatorics techniques.

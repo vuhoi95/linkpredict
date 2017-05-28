@@ -1,0 +1,4 @@
+Paper: 150604538
+Title: Electromagnetic fields with vanishing scalar invariants
+Authors: Marcello Ortaggio and Vojtěch Pravda
+Abstract: We determine the class of $p$-forms $F$ which possess vanishing scalar invariants (VSI) at arbitrary order in a $n$-dimensional spacetime. Namely, we prove that $F$ is VSI if and only if it is of type N, its multiple null direction $l$ is "degenerate Kundt", and $\nabla_{l}F=0$. The result is theory-independent. Next, we discuss the special case of Maxwell fields, both at the level of test fields and of the full Einstein-Maxwell equations. These describe electromagnetic non-expanding waves propagating in various Kundt spacetimes. We further point out that a subset of these solutions possesses a universal property, i.e., they also solve (virtually) any generalized (non-linear and with higher derivatives) electrodynamics, possibly also coupled to Einstein's gravity.

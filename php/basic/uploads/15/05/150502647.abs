@@ -1,0 +1,4 @@
+Paper: 150502647
+Title: Entanglement entropy through conformal interfaces in the 2D Ising model
+Authors: Enrico M. Brehm and Ilka Brunner
+Abstract: We consider the entanglement entropy for the 2D Ising model at the conformal fixed point in the presence of interfaces. More precisely, we investigate the situation where the two subsystems are separated by a defect line that preserves conformal invariance. Using the replica trick, we compute the entanglement entropy between the two subsystems. We observe that the entropy, just like in the case without defects, shows a logarithmic scaling behavior with respect to the size of the system. Here, the prefactor of the logarithm depends on the strength of the defect encoded in the transmission coefficient. We also comment on the supersymmetric case.

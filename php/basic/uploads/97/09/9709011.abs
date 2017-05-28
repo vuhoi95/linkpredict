@@ -1,0 +1,4 @@
+Paper: 9709011
+Title: Asymptotics of Jack polynomials as the number of variables goes to  infinity
+Authors: Andrei Okounkov and Grigori Olshanski
+Abstract: In this paper we study the asymptotic behavior of the Jack rational functions as the number of variables grows to infinity. Our results generalize the results of A. Vershik and S. Kerov obtained in the Schur function case (theta=1). For theta=1/2,2 our results describe approximation of the spherical functions of the infinite-dimensional symmetric spaces $U(\infty)/O(\infty)$ and $U(2\infty)/Sp(\infty)$ by the spherical functions of the corresponding finite-dimensional symmetric spaces.

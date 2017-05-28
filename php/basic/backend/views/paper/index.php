@@ -6,7 +6,6 @@ use yii\grid\GridView;
 /* @var $this yii\web\View */
 /* @var $searchModel backend\models\PaperSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
-var_dump($dataProvider);
 $this->title = 'Papers';
 $this->params['breadcrumbs'][] = $this->title;
 ?>

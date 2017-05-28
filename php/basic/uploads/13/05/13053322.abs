@@ -1,0 +1,4 @@
+Paper: 13053322
+Title: A Hierarchical Finite Element Method for Quantum Field Theory
+Authors: Arnab Kar and Fred Moolekamp and S. G. Rajeev
+Abstract: We study a model of scalar quantum field theory in which space-time is a discrete set of points obtained by repeatedly subdividing a triangle into three triangles at the centroid. By integrating out the field variable at the centroid we get a renormalized action on the original triangle. The exact renormalization map between the angles of the triangles is obtained as well. A fixed point of this map happens to be the cotangent formula of Finite Element Method which approximates the Laplacian in two dimensions.
